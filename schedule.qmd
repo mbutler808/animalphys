@@ -1,0 +1,88 @@
+---
+title: "Schedule"
+description: |
+ Schedule and course materials for Animal Physiology (Zool 430/430L Fall 2023).
+tbl-colwidths: [9,3, 20, 20,30]
+---
+```{r}
+#| echo: false
+```
+
+## Assignment Schedule _SUBJECT TO CHANGE_
+
+
+::: column-page
+|   |   | Class Topic | Assignment Due  | Lab | Paper |
+|----|----|----|----|----|----|
+|Week 1||||||
+| 8/21  | M | Intro to Course |   |   |   |
+| | W | Megalodon Discussion  | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis  |   |
+|   | F | Library Day - Meet at Hamilton  |   |   |   |
+|Week 2||||||
+| 8/28  | M | Size and Scaling  |   |   |   |
+| | W | Activity Metabolism |   | Lab2: PC2-G-Honolulu Zoo  |   |
+|   | F | Heat Exchange | PS1: Metabolism |   |   |
+|Week 3||||||
+| 9/4 | M | Labor Day Holiday | Choose your Fossil  |   |   |
+| | W | Heterothermy/Iterative Method |   | Lab3:PC3-IWS-Peripheral Circ/Dive Resp  |   |
+|   | F | Design Project/Temperature Reg  | PS2: Temperature  |   |   |
+|Week 4||||||
+| 9/11  | M | Cardiac Regulation  |   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
+| | W | Circulatory Systems | Working on Design 1 | Lab4: PC3-G-ECG/Cardiac Function  |   |
+|   | F | Sustained Metabolic Scope Paper |   |   |   |
+|Week 5||||||
+| 9/18  | M | Feeding | Design 1 Report Due |   |   |
+| | W | Digestion | Peer Critique 1 | Design Presentations/ Critique Session  |   |
+|   | F | Specialized Digestive Systems |   |   |   |
+|Week 6||||||
+| 9/25  | M | Max Size Herbivores Paper | Design 1 Rewrite Due  |   | Maximal size attainable by herbivores Clauss 2003 |
+| | W | Neurons |   | Lab5: PC1-IWS-Toad Heart  |   |
+|   | F | Synapses  | PS3: Feeding & Digestion  |   |   |
+|Week 7||||||
+| 10/2  | M | Signal Propagation  |   |   |   |
+|| W | Sensory Receptors | PS4: Neurons  | Lab 10:PC1-G-Vertebrate Action Potential  |   |
+|   | F | Vision/Orals  |   |   |   |
+|Week 8||||||
+| 10/9  | M | Chemoreception  |   |   |   |
+| | W | Muscles | Design 2 Feeding & Digestion  | Lab6: PC2-IWS-Lobster Heart |   |
+|   | F | Muscles II  | Peer Critique 2 |   |   |
+|Week 9||||||
+| 10/16 | M | Motor Control |   |   |   |
+| | W | Biomechanics  |   | Lab7: PC2-G-Human Muscle  |   |
+|   | F | Biomechanics  | Rewrite Design 2 Due  |   |   |
+|Week 10||||||
+| 10/23 | M | Locomotion on Land  | PS5: Muscles & Biomech  |   |   |
+|   | W | Locomotion in Fluids  |   | Lab8: PC3-G-Toad Muscle |   |
+|   | F | Blood |   |   |   |
+|Week 11||||||
+| 10/30 | M | Ventilation   |   |   | Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |
+|   | W | Aquatic Respiration |   | Lab9:PC1-I-Toad Muscle Independent  |   |
+|   | F | Aerial Respiration  |   |   |   |
+|Week 12||||||
+| 11/6  | M | Symmorphosis - Paper  |  PS6: Respiration |   |   |
+|  | W | Osmoregulation  |   | Lab 10: PC1-G-Human EEG |   |
+|   | F | Veterans Day Holiday  |   |   |   |
+|Week 13||||||
+| 11/13 | M | Excretion | Design 3 Resipration  |   |   |
+|   | W | Excretion | Peer Critique 3 | Lab 11: PC2-G-Human Renal |   |
+|   | F | Hormonal Control  |   |   |   |
+|Week 14||||||
+| 11/20 | M | Reproduction  | PS7: Osmoregulation |   |   |
+|   | W | Thanksgiving Holiday  | Design 3 Rewrite  | No Labs |   |
+|   | F | Thanksgiving Holiday  |   |   |   |
+|Week 15||||||
+| 11/27 | M | Immune System |   |   |   |
+|   | W | Immune System | Design 4: Osmoreg/Own | Lab 12: PC3-G-Crayfish Sensory  |   |
+|   | F | Student Presentations |   |   |   |
+|Week 16||||||
+| 12/4  | M | Student Presentations |   |   |   |
+|  | W | Student Presentations |   | Turn in Lab 12  |   |
+|||||||
+| 12/11 | M | Finals Week | Design Term Paper Due |   |   |
+|||||||
+:::
+
+
+
+
+

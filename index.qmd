@@ -1,0 +1,44 @@
+---
+title: "Welcome to Animal Physiology"
+image: images/Liophryne_aff._dentata.1_DSCN0563.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mbutler808
+    - icon: github
+      text: Github
+      href: https://github.com/mbutler808
+---
+
+Zool430/430L at the University of Hawaiʻi!
+
+## What is this course?
+
+This is an upper level class for people interested in learning comparative physiology  via original research projects.  We will learn physiology and apply our skills to reconstructing the physiological systems of an extinct animal. 
+The lab allows students to see physiology in action in live-animal experiments illustrating heart regulation, muscle contraction, nerve conduction, and kidney function.
+
+Throughout the course we will develop:  
+-  _Individual skills_ in finding and close reading of scientific literature, synthesis of information, presentation in oral and written forms.  
+-  _Collaboration skills_ in discussion, brainstorming, project organization and management, and collaborative writing.   
+-  _Practical skills_ in dissection, specimen preparation, troubleshooting instrumentation, data analysis, figure design.
+
+We will cover metabolism and scaling, heat balance, the circulatory system, feeding and digetsion, neurons and signal propagation, sensory biology, muscles and motor control, biomechanics and locomotion, blood, ventilation and respiration, osmoregulation and excretion, hormonal control, reproduction, and the immune system. 
+
+
+## Getting started
+
+Please look over the [Syllabus](syllabus.qmd) and [Schedule](schedule.qmd) under **General Information**. Lectures are provided under the course materials tab. Projects and labs... 
+
+## Acknowledgements
+
+This course was developed and is maintained by [Marguerite Butler](https://butlerlab.org).
+
+Projects and homeworks have been adapted from courses developed by [Adam Summers](https://www.adamsummers.org) and [Beth Brainerd](http://elizabeth-brainerd.squarespace.com).
+
+Thank you to [Stephanie Hicks](https://www.stephaniehicks.com) for generously sharing the beautifully designed quarto template for this course.
+
+The course materials are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it.
+
+## Useful (Free) Resources

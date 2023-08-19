@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Animal Physiology",
+    "section": "",
+    "text": "Zool430/430L at the University of Hawaiʻi!"
+  },
+  {
+    "objectID": "index.html#what-is-this-course",
+    "href": "index.html#what-is-this-course",
+    "title": "Welcome to Animal Physiology",
+    "section": "What is this course?",
+    "text": "What is this course?\nThis is an upper level class for people interested in learning comparative physiology via original research projects. We will learn physiology and apply our skills to reconstructing the physiological systems of an extinct animal. The lab allows students to see physiology in action in live-animal experiments illustrating heart regulation, muscle contraction, nerve conduction, and kidney function.\nThroughout the course we will develop:\n- Individual skills in finding and close reading of scientific literature, synthesis of information, presentation in oral and written forms.\n- Collaboration skills in discussion, brainstorming, project organization and management, and collaborative writing.\n- Practical skills in dissection, specimen preparation, troubleshooting instrumentation, data analysis, figure design.\nWe will cover metabolism and scaling, heat balance, the circulatory system, feeding and digetsion, neurons and signal propagation, sensory biology, muscles and motor control, biomechanics and locomotion, blood, ventilation and respiration, osmoregulation and excretion, hormonal control, reproduction, and the immune system."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Welcome to Animal Physiology",
+    "section": "Getting started",
+    "text": "Getting started\nPlease look over the Syllabus and Schedule under General Information. Lectures are provided under the course materials tab. Projects and labs…"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Welcome to Animal Physiology",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis course was developed and is maintained by Marguerite Butler.\nProjects and homeworks have been adapted from courses developed by Adam Summers and Beth Brainerd.\nThank you to Stephanie Hicks for generously sharing the beautifully designed quarto template for this course.\nThe course materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+  },
+  {
+    "objectID": "index.html#useful-free-resources",
+    "href": "index.html#useful-free-resources",
+    "title": "Welcome to Animal Physiology",
+    "section": "Useful (Free) Resources",
+    "text": "Useful (Free) Resources"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "",
+    "text": "Delivery: In person\nCourse time: Tuesdays and Thursdays from 10:30-11:45am\nCourse location: BIL 319A\nAssignments: Weekly small quizzes, four projects\n\n\n\n\nTo add the course: Let me know so I can give you an override\nRegister for ZOOL710 CRN 85424 3 credits.\nAttendance is highly recommended for group work. Lectures will be recorded on request.\nPlease contact course instructor if interested in auditing.\nUndergraduates are welcome to join with approval.\n\n\n\n\n\nMarguerite A. Butler (https://butlerlab.org)\n\nOffice Location: Edmondson 318\nEmail: mbutler808 at gmail.com\nOffice Hours: After class and by appointment\n\n\n\n\n\nIn order of preference, here is a preferred list of ways to get help:\n\nI strongly encourage you to use the course SLACK channel, before joining office hours. You can get your answers faster, and other students in the class (who likely have similar questions) can also benefit from the questions and answers given. Everyone is encouraged to participate.\nYou are welcome to join office hours to get more group interactive feedback.\nIf you are not able to make the office hours, appointments can be made by email."
+  },
+  {
+    "objectID": "syllabus.html#course-information",
+    "href": "syllabus.html#course-information",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "",
+    "text": "Delivery: In person\nCourse time: Tuesdays and Thursdays from 10:30-11:45am\nCourse location: BIL 319A\nAssignments: Weekly small quizzes, four projects\n\n\n\n\nTo add the course: Let me know so I can give you an override\nRegister for ZOOL710 CRN 85424 3 credits.\nAttendance is highly recommended for group work. Lectures will be recorded on request.\nPlease contact course instructor if interested in auditing.\nUndergraduates are welcome to join with approval.\n\n\n\n\n\nMarguerite A. Butler (https://butlerlab.org)\n\nOffice Location: Edmondson 318\nEmail: mbutler808 at gmail.com\nOffice Hours: After class and by appointment\n\n\n\n\n\nIn order of preference, here is a preferred list of ways to get help:\n\nI strongly encourage you to use the course SLACK channel, before joining office hours. You can get your answers faster, and other students in the class (who likely have similar questions) can also benefit from the questions and answers given. Everyone is encouraged to participate.\nYou are welcome to join office hours to get more group interactive feedback.\nIf you are not able to make the office hours, appointments can be made by email."
+  },
+  {
+    "objectID": "syllabus.html#important-links",
+    "href": "syllabus.html#important-links",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Important Links",
+    "text": "Important Links\n\nCourse website: coming soon.\nGitHub repository with all course material: coming soon."
+  },
+  {
+    "objectID": "syllabus.html#learning-objectives",
+    "href": "syllabus.html#learning-objectives",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Learning Objectives:",
+    "text": "Learning Objectives:\nUpon successfully completing this course, students will be able to:\n\nInstall and configure software necessary for a statistical programming environment\nDiscuss generic programming language concepts as they are implemented in a high-level statistical language\nWrite and debug code in base R and the tidyverse\nBuild basic data visualizations using R and the tidyverse\nDiscuss best practices for coding and reproducible research, basics of data ethics and management, basics of working with special data types, and basics of storing data"
+  },
+  {
+    "objectID": "syllabus.html#lectures",
+    "href": "syllabus.html#lectures",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Lectures",
+    "text": "Lectures\nIn Fall 2023, we will have in person lectures. If requested, I will attempt to record them and post to the website."
+  },
+  {
+    "objectID": "syllabus.html#textbook-and-other-course-material",
+    "href": "syllabus.html#textbook-and-other-course-material",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Textbook and Other Course Material",
+    "text": "Textbook and Other Course Material\nThere is no required textbook. We will make use of several freely available textbooks and other materials. All course materials will be provided. We will use the R software for data analysis, and git for version control and data sharing, all of which is freely available for download."
+  },
+  {
+    "objectID": "syllabus.html#software",
+    "href": "syllabus.html#software",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Software",
+    "text": "Software\nPlease install R onto your laptop. You can obtain R from the Comprehensive R Archive Network. There are versions available for Mac, Windows, and Unix/Linux. This software is required for this course.\nIt is important that you have the latest version of R installed. For this course we will be using R version 4.2.1 or higher. You can determine what version of R you have by starting up R and typing into the console R.version.string and hitting the return/enter key. If you do not have the proper version of R installed, go to CRAN and download and install the latest version.\nSome students like to use the Rstudio interface, but this is optional. The RStudio interactive development environment (IDE) requires that R be installed, and so is an “add-on” to R. You can obtain the RStudio Desktop for free from the RStudio web site. You can determine the version of RStudio by looking at menu item Help &gt; About RStudio. You should be using RStudio version 1.4.1106 or higher."
+  },
+  {
+    "objectID": "syllabus.html#quizzes",
+    "href": "syllabus.html#quizzes",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Quizzes",
+    "text": "Quizzes\nThere will be weekly (short) quizzes on Laulima. These are intended to be low-stakes to assist you in checking your understanding."
+  },
+  {
+    "objectID": "syllabus.html#projects",
+    "href": "syllabus.html#projects",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Projects",
+    "text": "Projects\nThere will be one optional assignment and 4 graded assignments, due every 2–3 weeks. Projects will be submitted electronically via GitHub (more on this later).\nThe project assignments will be due on\n\nProject 0: February 3, 11:59pm (optional and not graded but hopefully useful and fun)\nProject 1: February 17, 11:59pm\nProject 2: March 10, 11:59pm\nProject 3: April 7, 11:59pm\nProject 4: May 5, 11:59pm\n\n\nProject collaboration\nPlease feel free to study together and talk to one another about project assignments. The mutual instruction that students give each other is among the most valuable that can be achieved.\nHowever, it is expected that project assignments will be implemented and written up independently unless otherwise specified. Specifically, please do not share analytic code or output. Please do not collaborate on write-up and interpretation. Please do not access or use solutions from any source before your project assignment is submitted for grading."
+  },
+  {
+    "objectID": "syllabus.html#discussion-forum",
+    "href": "syllabus.html#discussion-forum",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Discussion Forum",
+    "text": "Discussion Forum\nThe course will make use of SLACK to ask and answer questions and discuss any of the course materials. Please engage and provide answers as well as questions. The Instructor will monitor SLACK and answer questions when appropriate."
+  },
+  {
+    "objectID": "syllabus.html#exams",
+    "href": "syllabus.html#exams",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Exams",
+    "text": "Exams\nThere are no exams in this course."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Grading",
+    "text": "Grading\nGrades in the course will be based on weekly quizzes (20%), participation (10%) and projects (70%). Each of Projects 1–3 counts approximately equally in the final grade. Grades will be posted on Laulima."
+  },
+  {
+    "objectID": "syllabus.html#policy-for-submitted-projects-late",
+    "href": "syllabus.html#policy-for-submitted-projects-late",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Policy for submitted projects late",
+    "text": "Policy for submitted projects late\nThe policy for late submissions is as follows:\n\nEach student will be given two free “late days” for the rest of the course.\nA late day extends the individual project deadline by 24 hours without penalty.\nThe late days can be applied to just one project (e.g. two late days for Project 2), or they can be split across the two projects (one late day for Project 2 and one late day for Project 3). This is entirely left up to the discretion of the student.\nLate days are intended to give you flexibility: you can use them for any reason no questions asked.\nYou do not get any bonus points for not using your late days, and they are not transferrable.\n\nFor students who exceed their free late days:\n\nI will be deducting 5% for each extra late day. For example, if you have already used all of your late days for the term, we will deduct 5% for the assignment that is &lt;24 hours late, 10% points for the assignment that is 24-48 hours late, and 15% points for the assignment that is 48-72 hours late, etc.\nI will not grade assignments that are more than 3 days past the original due date.\n\n\nRegrading Policy\nIt is very important to me that all assignments are properly graded. If you believe there is an error in your assignment grading, please send an email within 7 days of receiving the grade explaining the issue. No re-grade requests will be accepted orally, and no regrade requests will be accepted more than 7 days after you receive the grade for the assignment."
+  },
+  {
+    "objectID": "syllabus.html#academic-ethics-and-student-conduct-code",
+    "href": "syllabus.html#academic-ethics-and-student-conduct-code",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Academic Ethics and Student Conduct Code",
+    "text": "Academic Ethics and Student Conduct Code\nThe faculty, staff, and students participating in courses of the School of Life Sciences assume a responsibility to uphold the Universityʻs missions of academic excellence and social responsibility as appropriate for an institute of higher education. Violations of the UH Systemwide Student Conduct Code includes but is not limited to: cheating; plagiarism; providing copies of your work to other students which is submitted as their own; obtaining copies of said work by others; using copies of said work or representing any portion of another person’s work as your own (i.e., plagiarism); misconduct. While we encourage you to discuss strategies for problem solving, and even collaborate by working through the problems/strategies together, giving someone all the answers is cheating. If you are unsure please ask.\nPlagiarism is when you use information or present ideas, whether by paraphrase or direct quote, from a source (be it published or a classmate) without giving proper credit to that source. Cheating in any way will be reported to the attention of UH Office of Judicial Affairs, and result in an F in this course. Students should be familiar with the policies and procedures specified under the Systemwide Student Conduct Code portal."
+  },
+  {
+    "objectID": "syllabus.html#disability-support-service",
+    "href": "syllabus.html#disability-support-service",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Disability Support Service",
+    "text": "Disability Support Service\nStudents requiring accommodations for disabilities should register with the Kokua program at Student Disability Services. It is the responsibility of the student to register for accommodations. The Kokua office will send me a notification once you are registered, however, they often do not share information regarding the specifics. If the accommodations are not sufficient to ensure your success, please contact me as soon as possible so that we may work together on providing for an effective learning environment."
+  },
+  {
+    "objectID": "syllabus.html#prerequisites",
+    "href": "syllabus.html#prerequisites",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThis is an applied quantitative course. I will not discuss the mathematical details of specific data analysis approaches, however some statistical background and being comfortable with quantitative thinking is useful. Previous experience with writing computer programs in general and R in particular is also helpful, but not necessary. If you have no programming experience, expect to spend extra time getting yourself familiar with R. As long as you are willing to invest the time to learn the programming and you do not mind thinking quantitatively, you should be able to take the course, independent of your background.\n\nGetting set up\nYou must install R and RStudio on your computer in order to complete this course. These are two different applications that must be installed separately before they can be used together:\n\nR is the core underlying programming language and computing engine that we will be learning in this course\nRStudio is an interface into R that makes many aspects of using and programming R simpler\n\nBoth R and RStudio are available for Windows, macOS, and most flavors of Unix and Linux. Please download the version that is suitable for your computing setup.\nThroughout the course, we will make use of numerous R add-on packages that must be installed over the Internet. Packages can be installed using the install.packages() function in R. For example, to install the tidyverse package, you can run\n\ninstall.packages(\"tidyverse\")\n\nin the R console.\n\nHow to Download R for Windows\nGo to https://cran.r-project.org and\n\nClick the link to “Download R for Windows”\nClick on “base”\nClick on “Download R 4.2.1 for Windows”\n\n\n\n\n\n\n\nWarning\n\n\n\nFor all software, please download the latest version.\n\n\n\n\nHow to Download R for the Mac\nGoto https://cran.r-project.org and\n\nClick the link to “Download R for (Mac) OS X”.\nClick on “R-4.2.1.pkg” (or the latest version)\n\n\n\nHow to Download RStudio\nGoto https://rstudio.com and\n\nClick on “Products” in the top menu\nThen click on “RStudio” in the drop down menu\nClick on “RStudio Desktop”\nClick the button that says “DOWNLOAD RSTUDIO DESKTOP”\nClick the button under “RStudio Desktop” Free\nUnder the section “All Installers” choose the file that is appropriate for your operating system."
+  },
+  {
+    "objectID": "syllabus.html#general-disclaimers",
+    "href": "syllabus.html#general-disclaimers",
+    "title": "Zool710: Data Science in R for Biologists Syllabus",
+    "section": "General Disclaimers",
+    "text": "General Disclaimers\n\nThis syllabus is a general plan, deviations announced to the class by the instructor may be necessary."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Learning R\n\nBig Book of R: https://www.bigbookofr.com\nList of resources to learn R (but also Python, SQL, Javascript): https://github.com/delabj/datacamp_alternatives/blob/master/index.md\nlearnr4free. Resources (books, videos, interactive websites, papers) to learn R. Some of the resources are beginner-friendly and start with the installation process: https://www.learnr4free.com/en\nData Science with R by Danielle Navarro: https://robust-tools.djnavarro.net"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Class Topic\nAssignment Due\nLab\nPaper\n\n\n\n\nWeek 1\n\n\n\n\n\n\n\n8/21\nM\nIntro to Course\n\n\n\n\n\n\nW\nMegalodon Discussion\n(Reading Assessment)\nLab1: PC1-G-HR/Data analysis\n\n\n\n\nF\nLibrary Day - Meet at Hamilton\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n8/28\nM\nSize and Scaling\n\n\n\n\n\n\nW\nActivity Metabolism\n\nLab2: PC2-G-Honolulu Zoo\n\n\n\n\nF\nHeat Exchange\nPS1: Metabolism\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n9/4\nM\nLabor Day Holiday\nChoose your Fossil\n\n\n\n\n\nW\nHeterothermy/Iterative Method\n\nLab3:PC3-IWS-Peripheral Circ/Dive Resp\n\n\n\n\nF\nDesign Project/Temperature Reg\nPS2: Temperature\n\n\n\n\nWeek 4\n\n\n\n\n\n\n\n9/11\nM\nCardiac Regulation\n\n\nSustained Metabolic Scope: Hammond and Diamond 1997, Peterson, Nagy, and Diamond 1990\n\n\n\nW\nCirculatory Systems\nWorking on Design 1\nLab4: PC3-G-ECG/Cardiac Function\n\n\n\n\nF\nSustained Metabolic Scope Paper\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\n\n9/18\nM\nFeeding\nDesign 1 Report Due\n\n\n\n\n\nW\nDigestion\nPeer Critique 1\nDesign Presentations/ Critique Session\n\n\n\n\nF\nSpecialized Digestive Systems\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\n\n9/25\nM\nMax Size Herbivores Paper\nDesign 1 Rewrite Due\n\nMaximal size attainable by herbivores Clauss 2003\n\n\n\nW\nNeurons\n\nLab5: PC1-IWS-Toad Heart\n\n\n\n\nF\nSynapses\nPS3: Feeding & Digestion\n\n\n\n\nWeek 7\n\n\n\n\n\n\n\n10/2\nM\nSignal Propagation\n\n\n\n\n\n\nW\nSensory Receptors\nPS4: Neurons\nLab 10:PC1-G-Vertebrate Action Potential\n\n\n\n\nF\nVision/Orals\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\n\n10/9\nM\nChemoreception\n\n\n\n\n\n\nW\nMuscles\nDesign 2 Feeding & Digestion\nLab6: PC2-IWS-Lobster Heart\n\n\n\n\nF\nMuscles II\nPeer Critique 2\n\n\n\n\nWeek 9\n\n\n\n\n\n\n\n10/16\nM\nMotor Control\n\n\n\n\n\n\nW\nBiomechanics\n\nLab7: PC2-G-Human Muscle\n\n\n\n\nF\nBiomechanics\nRewrite Design 2 Due\n\n\n\n\nWeek 10\n\n\n\n\n\n\n\n10/23\nM\nLocomotion on Land\nPS5: Muscles & Biomech\n\n\n\n\n\nW\nLocomotion in Fluids\n\nLab8: PC3-G-Toad Muscle\n\n\n\n\nF\nBlood\n\n\n\n\n\nWeek 11\n\n\n\n\n\n\n\n10/30\nM\nVentilation\n\n\nWeibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61\n\n\n\nW\nAquatic Respiration\n\nLab9:PC1-I-Toad Muscle Independent\n\n\n\n\nF\nAerial Respiration\n\n\n\n\n\nWeek 12\n\n\n\n\n\n\n\n11/6\nM\nSymmorphosis - Paper\nPS6: Respiration\n\n\n\n\n\nW\nOsmoregulation\n\nLab 10: PC1-G-Human EEG\n\n\n\n\nF\nVeterans Day Holiday\n\n\n\n\n\nWeek 13\n\n\n\n\n\n\n\n11/13\nM\nExcretion\nDesign 3 Resipration\n\n\n\n\n\nW\nExcretion\nPeer Critique 3\nLab 11: PC2-G-Human Renal\n\n\n\n\nF\nHormonal Control\n\n\n\n\n\nWeek 14\n\n\n\n\n\n\n\n11/20\nM\nReproduction\nPS7: Osmoregulation\n\n\n\n\n\nW\nThanksgiving Holiday\nDesign 3 Rewrite\nNo Labs\n\n\n\n\nF\nThanksgiving Holiday\n\n\n\n\n\nWeek 15\n\n\n\n\n\n\n\n11/27\nM\nImmune System\n\n\n\n\n\n\nW\nImmune System\nDesign 4: Osmoreg/Own\nLab 12: PC3-G-Crayfish Sensory\n\n\n\n\nF\nStudent Presentations\n\n\n\n\n\nWeek 16\n\n\n\n\n\n\n\n12/4\nM\nStudent Presentations\n\n\n\n\n\n\nW\nStudent Presentations\n\nTurn in Lab 12\n\n\n\n\n\n\n\n\n\n\n\n12/11\nM\nFinals Week\nDesign Term Paper Due"
+  },
+  {
+    "objectID": "schedule.html#assignment-schedule-subject-to-change",
+    "href": "schedule.html#assignment-schedule-subject-to-change",
+    "title": "Schedule",
+    "section": "",
+    "text": "Class Topic\nAssignment Due\nLab\nPaper\n\n\n\n\nWeek 1\n\n\n\n\n\n\n\n8/21\nM\nIntro to Course\n\n\n\n\n\n\nW\nMegalodon Discussion\n(Reading Assessment)\nLab1: PC1-G-HR/Data analysis\n\n\n\n\nF\nLibrary Day - Meet at Hamilton\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n8/28\nM\nSize and Scaling\n\n\n\n\n\n\nW\nActivity Metabolism\n\nLab2: PC2-G-Honolulu Zoo\n\n\n\n\nF\nHeat Exchange\nPS1: Metabolism\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n9/4\nM\nLabor Day Holiday\nChoose your Fossil\n\n\n\n\n\nW\nHeterothermy/Iterative Method\n\nLab3:PC3-IWS-Peripheral Circ/Dive Resp\n\n\n\n\nF\nDesign Project/Temperature Reg\nPS2: Temperature\n\n\n\n\nWeek 4\n\n\n\n\n\n\n\n9/11\nM\nCardiac Regulation\n\n\nSustained Metabolic Scope: Hammond and Diamond 1997, Peterson, Nagy, and Diamond 1990\n\n\n\nW\nCirculatory Systems\nWorking on Design 1\nLab4: PC3-G-ECG/Cardiac Function\n\n\n\n\nF\nSustained Metabolic Scope Paper\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\n\n9/18\nM\nFeeding\nDesign 1 Report Due\n\n\n\n\n\nW\nDigestion\nPeer Critique 1\nDesign Presentations/ Critique Session\n\n\n\n\nF\nSpecialized Digestive Systems\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\n\n9/25\nM\nMax Size Herbivores Paper\nDesign 1 Rewrite Due\n\nMaximal size attainable by herbivores Clauss 2003\n\n\n\nW\nNeurons\n\nLab5: PC1-IWS-Toad Heart\n\n\n\n\nF\nSynapses\nPS3: Feeding & Digestion\n\n\n\n\nWeek 7\n\n\n\n\n\n\n\n10/2\nM\nSignal Propagation\n\n\n\n\n\n\nW\nSensory Receptors\nPS4: Neurons\nLab 10:PC1-G-Vertebrate Action Potential\n\n\n\n\nF\nVision/Orals\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\n\n10/9\nM\nChemoreception\n\n\n\n\n\n\nW\nMuscles\nDesign 2 Feeding & Digestion\nLab6: PC2-IWS-Lobster Heart\n\n\n\n\nF\nMuscles II\nPeer Critique 2\n\n\n\n\nWeek 9\n\n\n\n\n\n\n\n10/16\nM\nMotor Control\n\n\n\n\n\n\nW\nBiomechanics\n\nLab7: PC2-G-Human Muscle\n\n\n\n\nF\nBiomechanics\nRewrite Design 2 Due\n\n\n\n\nWeek 10\n\n\n\n\n\n\n\n10/23\nM\nLocomotion on Land\nPS5: Muscles & Biomech\n\n\n\n\n\nW\nLocomotion in Fluids\n\nLab8: PC3-G-Toad Muscle\n\n\n\n\nF\nBlood\n\n\n\n\n\nWeek 11\n\n\n\n\n\n\n\n10/30\nM\nVentilation\n\n\nWeibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61\n\n\n\nW\nAquatic Respiration\n\nLab9:PC1-I-Toad Muscle Independent\n\n\n\n\nF\nAerial Respiration\n\n\n\n\n\nWeek 12\n\n\n\n\n\n\n\n11/6\nM\nSymmorphosis - Paper\nPS6: Respiration\n\n\n\n\n\nW\nOsmoregulation\n\nLab 10: PC1-G-Human EEG\n\n\n\n\nF\nVeterans Day Holiday\n\n\n\n\n\nWeek 13\n\n\n\n\n\n\n\n11/13\nM\nExcretion\nDesign 3 Resipration\n\n\n\n\n\nW\nExcretion\nPeer Critique 3\nLab 11: PC2-G-Human Renal\n\n\n\n\nF\nHormonal Control\n\n\n\n\n\nWeek 14\n\n\n\n\n\n\n\n11/20\nM\nReproduction\nPS7: Osmoregulation\n\n\n\n\n\nW\nThanksgiving Holiday\nDesign 3 Rewrite\nNo Labs\n\n\n\n\nF\nThanksgiving Holiday\n\n\n\n\n\nWeek 15\n\n\n\n\n\n\n\n11/27\nM\nImmune System\n\n\n\n\n\n\nW\nImmune System\nDesign 4: Osmoreg/Own\nLab 12: PC3-G-Crayfish Sensory\n\n\n\n\nF\nStudent Presentations\n\n\n\n\n\nWeek 16\n\n\n\n\n\n\n\n12/4\nM\nStudent Presentations\n\n\n\n\n\n\nW\nStudent Presentations\n\nTurn in Lab 12\n\n\n\n\n\n\n\n\n\n\n\n12/11\nM\nFinals Week\nDesign Term Paper Due"
+  }
+]
