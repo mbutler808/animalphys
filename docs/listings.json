@@ -5,6 +5,8 @@
   },
   {
     "listing": "/lectures.html",
-    "items": []
+    "items": [
+      "/posts/2023-08-21-the-big-picture/index.html"
+    ]
   }
 ]

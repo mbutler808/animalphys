@@ -1,0 +1,130 @@
+---
+title: "Introduction and The Big Idea"
+author:
+  - name: Marguerite Butler and Diana Gao (TA)  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "The big idea"
+date: 2023-08-21
+# image: "../../images/happygitwithr.png"
+format: 
+  revealjs:
+    chalkboard: true 
+    multiplex: true
+    touch: true 
+    controls: true 
+    slide-number: true 
+categories: [module 1, week 1, introduction]
+---
+
+## Animal Physiology is the science of life and how it works {.smaller}
+
+::: {.incremental}
+- [_Mechanistic_]{style="color: blue"} as well as [_evolutionary_]{style="color: blue"} explanations
+- [_Internal_]{style="color: blue"} to the organism as well as [_environmental_]{style="color: blue"} context  
+:::
+
+::: {.fragment}
+![](../../images/AerobicRespiration.jpg){.absolute height="400"}
+:::
+
+
+
+## Animal Physiology is the science of life and how it works {.smaller}
+
+::: {.columns}
+::: {.column width="40%"}
+![](../../images/MouseElephantCurve.jpg){.absolute left=0 height="500"}
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%"}
+
+### “Mouse to Elephant Curve”
+[Metabolic Rate]{style="color: blue"} is a Power Function of [Body Mass]{style="color: blue"}
+
+[$$MR = a*Mass^b$$]{style="color: blue"}
+:::
+:::
+
+::: footer
+Environmental context: [_Migration in Motion Visualization_](http://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/)
+:::
+
+## Learning by doing —- Project Based {.scrollable}
+
+::: {.incremental}
+- __Readings__ at home
+- In-Class __Discussion__ to flesh out ideas and push
+- __Homeworks__ challenge us to use the information
+  + _Calculations prepare us for the Design Projects_
+- Building on the shoulders of giants 
+  + _Gathering background for best assumptions_
+- __Short reports__ allow us to create new knowledge
+  + _Oral Presentations test “work in progress”_
+- Peer and Instructor __Reviews__ to hone work
+- __Final Draft__ - Voila! 
+:::
+[Not Busywork!!]{style="color: blue"}
+
+## Design Project {.scrollable  .smaller}
+Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
+::: {.incremental}
+- Background Research: 
+  + Create a strong foundation for modeling your animalʻs biology and physiology
+- Model (short reports):  
+  + Activity budget, metabolism and heat balance. 
+  + Diet and digestion
+  + Respiration
+  + Osmoregulation and excretion
+- Term paper on your most interesting design project
+:::
+
+
+## Goals
+
+- Creativity
+- Accuracy
+- Authority
+- Repeatability
+- Communication
+  + Ease of dissemination to other researchers
+  + [_Show me, don't tell me_]{style="color: blue"}
+
+## Useful Mindsets {.smaller}
+
+::: {.incremental}
+- Demand Excellence
+- Criticism helps us to improve
+- Developing a thick skin makes it easier!
+- Learning is a developmental process - [_UNCOMFORTABLE_]{style="color: red"}
+- Science is collaborative - [Respect]{style="color: red"}
+- Thinking is improved through _reflection and revision_
+- __Effort and Attitude Counts — a LOT !!!__
+- Science is creative
+- Mastery will prepare you for life  
+:::  
+
+#### _Learning is a Process_
+
+
+## Handouts 
+
+::: {.columns}  
+
+::: {.column width="60%"}  
+- Syllabus
+- Course Website: <http://animalphys.butlerlab.org> (grades on Laulima)
+- Discussion week 1 (read Megalodon paper)
+- Lab 1 & 1A — check website. Do before coming to lab.
+- Get your BOOK from SoLS Office StJohn 101 - $20 cash to rent  
+:::  
+
+::: {.column width=40%}  
+![](../../images/book.jpg){.absolute height="600"}
+_Comparative Animal Physiology_ by Phillip C. Withers, 1992.
+:::  
+
+:::
+
