@@ -237,7 +237,7 @@ Please __do collaborate__ on write-up and interpretation with your actual design
 
 ## Discussion Forum
 
-The course will make use of DISCORD to ask and answer questions and discuss any of the course materials. Please engage and provide answers as well as questions. The Instructor will monitor DISCORD and answer questions when appropriate.
+The course will make use of a [DISCORD server](https://discord.gg/Bqu7tKsd5) to ask and answer questions and discuss any of the course materials. Please engage and provide answers as well as questions. The Instructor will monitor DISCORD and answer questions when appropriate.
 
 # Animal Design Project
 
@@ -256,7 +256,7 @@ ___Both authors are expected to contribute to the research and analysis presente
 - __Partner evaluation__. Each partner evaluates and grades the other’s contributions to the project.
 - __Peer-reviews__/Grading.  Your review of a colleague’s design project paper. You will be assigned one paper to read at each due date. Turn in three copies of your written summary (the peer-review) and score that you feel the paper should receive (one copy to me, one to each of the authors). You will be graded on the quality of your peer-review and grading.
 
-## Grading Criteria
+## Design Project Grading Criteria
 The following are criteria for an “A” paper. Papers of lesser quality will be graded accordingly.
 
 :::{.callout-tip}  
