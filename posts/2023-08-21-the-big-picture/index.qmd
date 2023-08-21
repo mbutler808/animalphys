@@ -5,7 +5,7 @@ author:
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: "The big idea"
+description: "Day one and nice to meet you"
 date: 2023-08-21
 # image: "../../images/happygitwithr.png"
 format: 
@@ -17,6 +17,29 @@ format:
     slide-number: true 
 categories: [module 1, week 1, introduction]
 ---
+
+## Animal Physiology is the science of life and how it works {.scrollable  .smaller}
+
+### Design Project 
+Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
+
+::: {.columns}
+::: {.column width="60%" .incremental}
+
+- Background Research: 
+  + Create a strong foundation for modeling your animalʻs biology and physiology
+- Design Projects:  
+  + Activity budget, metabolism and heat balance. 
+  + Diet and digestion
+  + Respiration
+  + Osmoregulation and excretion
+- How could your animal have met its environmental and physiological challenges? ___How did it live?___ 
+:::
+
+::: {.column width="40%"}
+![](../../images/Edaphosaurus_boanerges.jpg)
+:::
+:::
 
 ## Animal Physiology is the science of life and how it works {.smaller}
 
@@ -68,19 +91,6 @@ Environmental context: [_Migration in Motion Visualization_](http://blog.nature.
 :::
 [Not Busywork!!]{style="color: blue"}
 
-## Design Project {.scrollable  .smaller}
-Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
-::: {.incremental}
-- Background Research: 
-  + Create a strong foundation for modeling your animalʻs biology and physiology
-- Model (short reports):  
-  + Activity budget, metabolism and heat balance. 
-  + Diet and digestion
-  + Respiration
-  + Osmoregulation and excretion
-- Term paper on your most interesting design project
-:::
-
 
 ## Goals
 
@@ -117,7 +127,7 @@ Together with your partner, you will choose an [extinct vertebrate]{style="color
 - Syllabus
 - Course Website: <http://animalphys.butlerlab.org> (grades on Laulima)
 - Discussion week 1 (read Megalodon paper)
-- Lab 1 & 1A — check website. Do before coming to lab.
+- Lab 1 & 1A — check website. Read before coming to lab - no prelab or quiz this week. 
 - Get your BOOK from SoLS Office StJohn 101 - $20 cash to rent  
 :::  
 

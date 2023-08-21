@@ -2,9 +2,12 @@
 title: "Resources"
 ---
 
-# Learning R 
+# Important Links
 
-- Big Book of R: https://www.bigbookofr.com
-- List of resources to learn R (but also Python, SQL, Javascript): https://github.com/delabj/datacamp_alternatives/blob/master/index.md
-- learnr4free. Resources (books, videos, interactive websites, papers) to learn R. Some of the resources are beginner-friendly and start with the installation process: https://www.learnr4free.com/en
-- Data Science with R by Danielle Navarro: https://robust-tools.djnavarro.net
+-   __Course website:__ <https://mbutler808.github.io/animalphys/> Information central for both the lecture and laboratory. Posted here are all assignments, including reading assignments, problem sets, laboratory exercises and reports.  
+-  __GitHub repository__ with course material: <https://github.com/mbutler808/animalphys>.
+-  __Google Drive__ Where we will post additional resources. I will add you to the drive using your UH ID.  If you want to use an alternative email LMK: [email](mailto:mbutler808@gmail.com).   
+-  [__Laulima__](https://laulima.hawaii.edu/) For grades and lab quizzes.   
+-  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>
+
+## More coming soon

@@ -1,0 +1,63 @@
+---
+title: "Lab 1: Heart Rate and Data Analysis"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Lab for first week of class 8/22/23"
+date: 2023-08-22
+toc: true
+format: 
+  html: default
+  pdf: default
+categories: [week 1, labs, PowerLab, LabChart, finger pulse transducer, LabChart Quick Reference Guide]
+---
+
+___We will begin labs on the first week of class.___
+
+## Lab Information 
+
+Throughout the semester, __Lab information__ can be found on the [Labs](../../labs.qmd) page. Find it on the dropdown under "Course Materials". Listed there are:
+
+- __Lab manuals__ which are the experimental protocols for each week, named "Lab1-..."  
+- __Standard Protocols__ for setting up, recording, and saving from the instrumentation. These are on the "Protocols" page.
+- __LabChart Quick Reference Guide__ for more details on and troubleshooting the LabChart software also on the Protodocs page.
+
+
+## Before Lab:
+
+- Watch Instrumentation Podcast.
+- Read [Lab 1](Lab1-data-aquistion-finger-pulse.pdf) and [Protocol 1](../Protocols/p1-intro-finger-pulse.pdf)
+- Read the [Hlimoneko Paper](Lab1-Hlimonenko_et_al_2003.pdf).
+- Do Lab 1 PreLab Quiz in Laulima under Tests and Quizzes before lab (based on Hlimoneko). You get 2 tries. _Posted 24 hours before lab._ 
+- Please bring a bound notebook to lab for your lab notebook. (e.g., a $1 composition book, used is OK)
+
+{{< video https://youtu.be/pujrG6zhTJE >}}
+
+## In Lab: 
+
+- Perform [Lab 1 Data Aquistion and Finger Pulse](Lab1-data-aquistion-finger-pulse.pdf). _Practical in week 3 on this material_
+- Discuss [Hlimoneko 2003 Paper](../../labs-misc/Lab1-discussion.qmd). [downloadable pdf](ZOOL430L-Lab1-Discussion_FA21.pdf)
+
+
+## After Lab: Assignment Week 1:
+
+- Write the Methods and Text of the Results for [select figures](Wilkinson_et_al_2000_figures.pdf) in Wilkinson et al 2000 ([assignment instructions](https://docs.google.com/document/d/1xws5vA9Ea7rLIdbi-DPdS8KWevntsKiiqenWp7LZTYc/edit)). Donʻt forget to follow the [lab report guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf) 
+
+## Notes: 
+A rough guide to length for this mini-lab is 1-2 pages. Content is more important than length. You do not need to fill up the 2 pages (if you finish in 1.5 pages, that’s even better).
+
+The first lab will focus on data analysis to set you up well for the remaining labs in this class. Please try hard to understand the mechanisitic and conceptual connections between data and ideas/conclusions.
+
+As this is a group assignment, you will be turning in one assignment per group. Include the full names of each lab member and who is Project Coordinator at the top, as well as a __Respective Contributions__ section at the end.
+
+If you are confused about any of the instructions or have any questions about the assignments, please send let us know.
+
+## General Lab Course Info:
+
+- [Lab Report Guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf)
+- [Lab Expectations](../../labs-misc/Lab-Expectations.pdf)
+- [Notebook Instructions](../../labs-misc/notebookinstructionsMB.pdf)
+- [Lab Team Timeline Agreement](../../labs-misc/Agreement-for-Group-Lab-Report-Timeline.pdf)
+
