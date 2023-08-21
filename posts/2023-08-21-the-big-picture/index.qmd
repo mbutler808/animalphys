@@ -41,6 +41,33 @@ Together with your partner, you will choose an [extinct vertebrate]{style="color
 :::
 :::
 
+## How?? 
+
+### Learning is more fun when it is real
+
+{{< video https://youtu.be/rDJP6XoN8pU?t=4 >}}
+
+### Design Project 
+Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
+
+::: {.columns}
+::: {.column width="60%" .incremental}
+
+- Background Research: 
+  + Create a strong foundation for modeling your animalʻs biology and physiology
+- Design Projects:  
+  + Activity budget, metabolism and heat balance. 
+  + Diet and digestion
+  + Respiration
+  + Osmoregulation and excretion
+- How could your animal have met its environmental and physiological challenges? ___How did it live?___ 
+:::
+
+::: {.column width="40%"}
+![](../../images/Edaphosaurus_boanerges.jpg)
+:::
+:::
+
 ## Animal Physiology is the science of life and how it works {.smaller}
 
 ::: {.incremental}

@@ -38,7 +38,7 @@ Throughout the semester, __Lab information__ can be found on the [Labs](../../la
 ## In Lab: 
 
 - Perform [Lab 1 Data Aquistion and Finger Pulse](Lab1-data-aquistion-finger-pulse.pdf). _Practical in week 3 on this material_
-- Discuss [Hlimoneko 2003 Paper](../../labs-misc/Lab1-discussion.qmd). [downloadable pdf](ZOOL430L-Lab1-Discussion_FA21.pdf)
+- Discuss Hlimoneko 2003 Paper \[[html](../../labs-misc/Lab1-discussion.qmd)\]\[[pdf](ZOOL430L-Lab1-Discussion_FA21.pdf)\]
 
 
 ## After Lab: Assignment Week 1:
@@ -56,8 +56,8 @@ If you are confused about any of the instructions or have any questions about th
 
 ## General Lab Course Info:
 
-- [Lab Report Guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf)
-- [Lab Expectations](../../labs-misc/Lab-Expectations.pdf)
-- [Notebook Instructions](../../labs-misc/notebookinstructionsMB.pdf)
-- [Lab Team Timeline Agreement](../../labs-misc/Agreement-for-Group-Lab-Report-Timeline.pdf)
+- [Lab Report Guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)
+- [Lab Expectations](../../labs-misc/handouts/Lab-Expectations.pdf)
+- [Notebook Instructions](../../labs-misc/handouts/notebookinstructionsMB.pdf)
+- [Lab Team Timeline Agreement](../../labs-misc/handouts/Agreement-for-Group-Lab-Report-Timeline.pdf)
 
