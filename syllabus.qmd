@@ -154,41 +154,8 @@ Problem sets (homework) are designed to help you _master_ the lecture material A
 - Cheating or abuse of the honor system will result in big changes in the course and reporting to the Office of Judicial Affairs.
 
 ## Animal Design Project
-The major project of this course. Work in a team of two to design four physiological systems of an extinct vertebrate animal: metabolism, digestion, respiration, and excretion (or your original design). 
+The major project of this course. Work in a team of two to design four physiological systems of an extinct vertebrate animal: metabolism, digestion, respiration, and excretion (or your original design). (see @sec-design for details)
 
-You will collect background information to inform your physiological model, and puzzle out how your animal could have solved its physiological challenges. Papers, peer and instructor reviews, and opportunity to revise. More details on last page of syllabus under “Animal Design Project.” Make 2 oral presentations.
-
-### Information Sources
--  Your instructors, textbooks, books on organismal biology and paleontology in Hamilton Library, and the Internet are good places to start.  
--  References cited in your paper should be from the PRIMARY SCIENTIFIC LITERATURE (i.e., __scientific books, review articles, and primary research articles from peer-reviewed professional scientific journals__). Books and journals for the general public are not acceptable. 
--  Use of websites are discouraged, only those maintained by research institutions (e.g., scientific museums) may be used. 
--  Caution!: DO NOT CITE CREATIONIST or POPULAR websites. Careful -- creationists create "institutes" too. 
--  Good websites for exploring potential fossils: 
-    +  Tree of Life Project: <http://www.tolweb.org/tree/>
-    +  Recent issues of [Nature](https://uhawaii-manoa.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9951085563805682&context=L&vid=01UHAWAII_MANOA:MANOA&lang=en&search_scope=DN_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,nature) (especially) or [Science](https://www.science.org). [Be sure to login through the UH Library for free access]{style="color: blue"} 
-    +  [Dinosaurs and Pterosaurs article](https://www.nature.com/articles/s41586-023-06359-z) 
-    +  [Fire and Rancho La Brea Megafauna article](https://www.science.org/doi/10.1126/science.abo3594)
-
-
-:::{.column-margin}
-  
-![](images/Nature7974.png)
-![](images/science.2023.381.issue-6659.largecover.jpg)
-
-:::
-
-<!---  --->
-
-:::{.callout-tip}
-# Use the online UH library databases specifically designed to search for scientific articles
--  UH Library science databases and E-journals:    <http://www.hawaii.edu/sciref/>.  
-    +  Check out "Science & Technology Databases" tab. 
--  Good databases: __Web of science__, __google scholar__, or __zoological record__
--  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>  
-    +  Check out the tabs along the top
-    +  The "In Class Exercises" is very helpful for developing database searching skills
--  [Jonathan Young](https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259) is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.
-:::
 
 
 ## Oral Presentations
@@ -240,11 +207,47 @@ Please __do collaborate__ on write-up and interpretation with your actual design
 
 The course will make use of a [DISCORD server](https://discord.gg/Bqu7tKsd5) to ask and answer questions and discuss any of the course materials. Please engage and provide answers as well as questions. The Instructor will monitor DISCORD and answer questions when appropriate.
 
-# Animal Design Project
+# Animal Design Project {#sec-design}
 
-Each pair of students will model four physiological systems and write a scientific paper describing the design for one of the physiological systems of an extinct vertebrate. See the [schedule](schedule.qmd) for due dates. One partner will have primary responsibility for reports 1 and 3, and the other partner for reports 2 and 4. 
+Each pair of students will model four physiological systems and write a scientific paper describing the design for one of the physiological systems of an extinct vertebrate. See the [schedule](schedule.qmd) for due dates. Papers are written in drafts with opportunity to revise after receiving peer and instructor reviews. You will make 2 oral presentations.  One partner will be first author (have primary responsibility) for reports 1 and 3, and the other partner for reports 2 and 4. 
 
 ___Both authors are expected to contribute to the research and analysis presented as well as the writing___, but the primary author is responsible for coordinating the tasks, setting the schedule, submitting the initial draft, the final editing and submission of the final draft.
+
+## Background Information
+
+You will collect background information to inform your physiological model, and puzzle out how your animal could have solved its physiological challenges. 
+
+### Information Sources
+-  Your instructors, textbooks, books on organismal biology and paleontology in Hamilton Library, and the Internet are good places to start.  
+-  References cited in your paper should be from the PRIMARY SCIENTIFIC LITERATURE (i.e., __scientific books, review articles, and primary research articles from peer-reviewed professional scientific journals__). Books and journals for the general public are not acceptable. 
+-  Use of websites are discouraged, only those maintained by research institutions (e.g., scientific museums) may be used. 
+-  Caution!: DO NOT CITE CREATIONIST or POPULAR websites. Careful -- creationists create "institutes" too. 
+-  Good websites for exploring potential fossils: 
+    +  Tree of Life Project: <http://www.tolweb.org/tree/>
+    +  Recent issues of [Nature](https://uhawaii-manoa.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9951085563805682&context=L&vid=01UHAWAII_MANOA:MANOA&lang=en&search_scope=DN_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,nature) (especially) or [Science](https://www.science.org). [Be sure to login through the UH Library for free access]{style="color: blue"} 
+    +  [Dinosaurs and Pterosaurs article](https://www.nature.com/articles/s41586-023-06359-z) 
+    +  [Fire and Rancho La Brea Megafauna article](https://www.science.org/doi/10.1126/science.abo3594)
+
+
+:::{.column-margin}
+  
+![](images/Nature7974.png)
+![](images/science.2023.381.issue-6659.largecover.jpg)
+
+:::
+
+<!---  --->
+
+:::{.callout-tip}
+# Use the online UH library databases specifically designed to search for scientific articles
+-  UH Library science databases and E-journals:    <http://www.hawaii.edu/sciref/>.  
+    +  Check out "Science & Technology Databases" tab. 
+-  Good databases: __Web of science__, __google scholar__, or __zoological record__
+-  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>  
+    +  Check out the tabs along the top
+    +  The "In Class Exercises" is very helpful for developing database searching skills
+-  [Jonathan Young](https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259) is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.
+:::
 
 ## Format
 - Papers must include a __Title__, an __Abstract__, __Introduction__, __Methods__, __Results__ (written in paragraph form and where you present your findings), __Discussion__ (discuss the implications of your results, what they mean and future directions), __Author Contributions__ (a brief paragraph describing what each person contributed to the paper), and __References__ (c.f. Kultz, 2003; min 10 primary literature sources). 
@@ -326,6 +329,7 @@ There will be a total of 12 laboratory reports:
 - 3 individual worksheets (IWS), and 
 - 1 individual report (I) 
 - These are designated G, IWS, or I on the [schedule](schedule.qmd)).
+- _Lab reports are always due the following week at the start of your designated lab time_. 
 
 Lab reports should be 3-5 pages in length; focus on the main ideas and get straight to the point. You can go longer if you can’t be more concise (donʻt just stop). Scientific content matters much more than style. 
 
