@@ -1,0 +1,26 @@
+---
+format: 
+  html: default
+  pdf: default
+---
+# Lab 1 In-Class Discussion Questions:
+
+## Hlimonenko et al., 2003: 
+### Methods:
+1. Who were the subjects of the experiment? Why would there be different subjects?
+2. What was the purpose of using their specific equipment?
+3. Why was it important for the authors to establish landmarks in the pulse waveform? What is the purpose of each of the landmarks?
+
+### Results:
+1. How did the authors analyze the data to answer their main question?
+What made their analysis effective?
+2. How do the figures show their important findings? Explain. What general trends can you see in their data? What conclusions can you make from the trends?
+
+## Wilkinson et al., 2000: 
+### Methods:
+1. What was the control treatment? Why is it important to have a control treatment?
+
+### Results:
+1. Why is heart rate on the x-axis, while the other variables are on the y-axis?
+How would your conclusions change if you were to switch the axis? Would this be effective at communicating anything?
+2. In Figure 3 (Wilkinson et al., 2000), why do you think the authors have two distinct sets of data points? Would you have averaged the two sets of data points or kept them as they are? Why or why not?

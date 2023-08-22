@@ -5,7 +5,7 @@ author:
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: "The big idea"
+description: "Day one and nice to meet you"
 date: 2023-08-21
 # image: "../../images/happygitwithr.png"
 format: 
@@ -17,6 +17,35 @@ format:
     slide-number: true 
 categories: [module 1, week 1, introduction]
 ---
+
+## Animal Physiology is the science of life and how it works {.scrollable  .smaller}
+
+### Design Project 
+Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
+
+::: {.columns}
+::: {.column width="60%" .incremental}
+
+- Background Research: 
+  + Create a strong foundation for modeling your animalʻs biology and physiology
+- Design Projects:  
+  + Activity budget, metabolism and heat balance. 
+  + Diet and digestion
+  + Respiration
+  + Osmoregulation and excretion
+- How could your animal have met its environmental and physiological challenges? ___How did it live?___ 
+:::
+
+::: {.column width="40%"}
+![](../../images/Edaphosaurus_boanerges.jpg)
+:::
+:::
+
+## How?? {.scrollable  .smaller}
+{{< video https://youtu.be/rDJP6XoN8pU width="80%" height="80%">}}  
+
+___Learning is more fun when it is real. It is your job, as scientists, to start from what we know, and figure out the rest.___ 
+
 
 ## Animal Physiology is the science of life and how it works {.smaller}
 
@@ -61,25 +90,12 @@ Environmental context: [_Migration in Motion Visualization_](http://blog.nature.
   + _Calculations prepare us for the Design Projects_
 - Building on the shoulders of giants 
   + _Gathering background for best assumptions_
-- __Short reports__ allow us to create new knowledge
+- __Short papers__ allow us to create new knowledge
   + _Oral Presentations test “work in progress”_
 - Peer and Instructor __Reviews__ to hone work
 - __Final Draft__ - Voila! 
 :::
 [Not Busywork!!]{style="color: blue"}
-
-## Design Project {.scrollable  .smaller}
-Together with your partner, you will choose an [extinct vertebrate]{style="color: blue"} to study.  
-::: {.incremental}
-- Background Research: 
-  + Create a strong foundation for modeling your animalʻs biology and physiology
-- Model (short reports):  
-  + Activity budget, metabolism and heat balance. 
-  + Diet and digestion
-  + Respiration
-  + Osmoregulation and excretion
-- Term paper on your most interesting design project
-:::
 
 
 ## Goals
@@ -108,20 +124,27 @@ Together with your partner, you will choose an [extinct vertebrate]{style="color
 
 #### _Learning is a Process_
 
+## Letʻs Review
 
-## Handouts 
+[Syllabus](../../syllabus.qmd)
+
+
+## For Next Time {.smaller}
 
 ::: {.columns}  
 
 ::: {.column width="60%"}  
-- Syllabus
-- Course Website: <http://animalphys.butlerlab.org> (grades on Laulima)
-- Discussion week 1 (read Megalodon paper)
-- Lab 1 & 1A — check website. Do before coming to lab.
+- Important!! Please complete the [class survey](https://docs.google.com/forms/d/e/1FAIpQLSfV2qLBC02d-CBzvRiqPtSXAYSBTLucMo8cfS8V0qEu2wTgLQ/viewform) 
+- Course Website: <https://mbutler808.github.io/animalphys/> (grades on Laulima)
+- Discussion week 1. For next class, please read [Bianucci, et al (2023)](https://www.nature.com/articles/s41586-023-06381-1) \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join
+- Lab 1 — check website. Read before coming to lab - no prelab this week. Quiz will be posted to Laulima 24 hrs prior to lab. 
 - Get your BOOK from SoLS Office StJohn 101 - $20 cash to rent  
 :::  
 
-::: {.column width=40%}  
+::: {.column width=5%}  
+:::
+
+::: {.column width=25%}  
 ![](../../images/book.jpg){.absolute height="600"}
 _Comparative Animal Physiology_ by Phillip C. Withers, 1992.
 :::  

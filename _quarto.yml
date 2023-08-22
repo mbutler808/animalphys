@@ -20,6 +20,8 @@ website:
         menu:
         - text: "Lectures"
           href: lectures.qmd
+        - text: "Labs"
+          href: labs.qmd
         - text: "Projects"
           href: projects.qmd
         - text: "Resources"

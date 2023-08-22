@@ -74,19 +74,13 @@ Upon successfully completing this course, students will be able to:
 5.  Understand that science is advanced by the creative application of past knowledge to new situations to generate new knowledge, and the importance of collaboration in a diverse scientific community.
 
 ## Course Objectives:
-1.  Teach basic principles of animal physiology, 
+1.  Teach basic principles of animal physiology through project-based learning, 
 2.  Practice the scientific method and strengthen critical thinking skills and active, self-directed learning by putting into practice the scientific method, 
 3.  Engender good laboratory skills and approaches to physiological experimentation, 
 4.  Develop scientific writing and speaking skills, 
 5.  Promote proficiency in reading primary scientific literature and improve ability to find that literature, 
 6.  Promote skills necessary to engage in productive intellectual interactions and successful collaboration.
 
-## Course Methods:
-We will learn science by practicing science.  
-
-Students will learn through assigned __readings__, will come to class prepared for productive __discussion__, practice scientific problem-solving by completing __homeworks__, and engage in __project-based learning__. Labs will reinforce learning through __experimentation__ and writing __lab reports__. 
-
-As this is a writing and oral intensive course, we will learn by reviewing, editing, and rewriting your work as well as develop of effective scientific arguments through oral presentation.  Attendance is mandatory. 
 
 ## Textbook 
 
@@ -109,12 +103,19 @@ Lab Manual will be posted on website.
 
 -   __Course website:__ <https://mbutler808.github.io/animalphys/> Information central for both the lecture and laboratory. Posted here are all assignments, including reading assignments, problem sets, laboratory exercises and reports.  
 -  __GitHub repository__ with course material: <https://github.com/mbutler808/animalphys>.
--  __Google Drive__ Where we will post additional resources. I will add you to the drive using your UH ID.  If you want to use an alternative email LMK: [email](mailto:mbutler808@gmail.com).   
+-  [__Google Shared Drive__](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk) Where we will post additional resources. I will add you to the drive using your UH ID.  If you want to use an alternative email LMK: [email](mailto:mbutler808@gmail.com).   
 -  [__Laulima__](https://laulima.hawaii.edu/) For grades and lab quizzes.     
 -  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>
 
 
 # Course Mechanics
+
+## Course Methods:
+We will learn science by practicing science.  
+
+Students will learn physiology through assigned __readings__, will come to class prepared for productive __discussion__, practice scientific problem-solving by completing __homeworks__, and engage in __project-based learning__. Labs will reinforce learning through __experimentation__ and writing __lab reports__. 
+
+As this is a writing and oral intensive course, we will learn by reviewing, editing, and rewriting your work as well as develop of effective scientific arguments through oral presentation.  Attendance is mandatory. 
 
 ## Scaffolding
 
@@ -276,8 +277,8 @@ The following are criteria for an “A” paper. Papers of lesser quality will b
     + A varied range of sentence structure. 
 - ___Style and grammar (10%)___: The paper should read smoothly and clearly, indicating the student’s ability to synthesize material from a number of sources into a coherent whole. There are no, or very few, typing errors. There are no significant errors in grammar, spelling or punctuation. 
 - ___Cited references (10%)___ are of sufficient quantity and quality for the topic covered, and are appropriately cited and referenced. You may use any standard scientific format. [see for example](http://writing.wisc.edu/Handbook/DocCSE_NameYear.html)
-- 
-_PLEASE NOTE: Rubrics don’t convey the message that a poorly written paper will get lower marks on all categories_. The writing has to make sense before it can be graded!
+
+_PLEASE NOTE: Your paper must be cohesive and interesting. Rubrics don’t convey the message that a poorly written paper will get lower marks on all categories_. 
 :::
 
 

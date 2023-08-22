@@ -16,7 +16,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |----|----|----|----|----|----|
 |Week 1||||||
 | 8/21  | M | Intro to Course |   |   |   |
-| | W | Megalodon Discussion  | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis  |   |
+| | W | Heavyweight Whale Discussion \[[paper](https://www.nature.com/articles/s41586-023-06381-1)\]  | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis \[[overview](labs/Lab1-heart-rate-and-data-analysis/index.qmd)\] \[[lab manual](labs/Lab1-heart-rate-and-data-analysis/Lab1-data-aquistion-finger-pulse.pdf)\] \[[protocol](labs/Protocols/p1-intro-finger-pulse.pdf)\] |   |
 |   | F | Library Day - Meet at Hamilton  |   |   |   |
 |Week 2||||||
 | 8/28  | M | Size and Scaling  |   |   |   |

@@ -1,52 +1,206 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html",
+    "title": "Lab 1: Heart Rate and Data Analysis",
     "section": "",
-    "text": "Class Topic\nAssignment Due\nLab\nPaper\n\n\n\n\nWeek 1\n\n\n\n\n\n\n\n8/21\nM\nIntro to Course\n\n\n\n\n\n\nW\nMegalodon Discussion\n(Reading Assessment)\nLab1: PC1-G-HR/Data analysis\n\n\n\n\nF\nLibrary Day - Meet at Hamilton\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n8/28\nM\nSize and Scaling\n\n\n\n\n\n\nW\nActivity Metabolism\n\nLab2: PC2-G-Honolulu Zoo\n\n\n\n\nF\nHeat Exchange\nPS1: Metabolism\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n9/4\nM\nLabor Day Holiday\nChoose your Fossil\n\n\n\n\n\nW\nHeterothermy/Iterative Method\n\nLab3:PC3-IWS-Peripheral Circ/Dive Resp\n\n\n\n\nF\nDesign Project/Temperature Reg\nPS2: Temperature\n\n\n\n\nWeek 4\n\n\n\n\n\n\n\n9/11\nM\nCardiac Regulation\n\n\nSustained Metabolic Scope: Hammond and Diamond 1997, Peterson, Nagy, and Diamond 1990\n\n\n\nW\nCirculatory Systems\nWorking on Design 1\nLab4: PC3-G-ECG/Cardiac Function\n\n\n\n\nF\nSustained Metabolic Scope Paper\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\n\n9/18\nM\nFeeding\nDesign 1 Report Due\n\n\n\n\n\nW\nDigestion\nPeer Critique 1\nDesign Presentations/ Critique Session\n\n\n\n\nF\nSpecialized Digestive Systems\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\n\n9/25\nM\nMax Size Herbivores Paper\nDesign 1 Rewrite Due\n\nMaximal size attainable by herbivores Clauss 2003\n\n\n\nW\nNeurons\n\nLab5: PC1-IWS-Toad Heart\n\n\n\n\nF\nSynapses\nPS3: Feeding & Digestion\n\n\n\n\nWeek 7\n\n\n\n\n\n\n\n10/2\nM\nSignal Propagation\n\n\n\n\n\n\nW\nSensory Receptors\nPS4: Neurons\nLab 10:PC1-G-Vertebrate Action Potential\n\n\n\n\nF\nVision/Orals\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\n\n10/9\nM\nChemoreception\n\n\n\n\n\n\nW\nMuscles\nDesign 2 Feeding & Digestion\nLab6: PC2-IWS-Lobster Heart\n\n\n\n\nF\nMuscles II\nPeer Critique 2\n\n\n\n\nWeek 9\n\n\n\n\n\n\n\n10/16\nM\nMotor Control\n\n\n\n\n\n\nW\nBiomechanics\n\nLab7: PC2-G-Human Muscle\n\n\n\n\nF\nBiomechanics\nRewrite Design 2 Due\n\n\n\n\nWeek 10\n\n\n\n\n\n\n\n10/23\nM\nLocomotion on Land\nPS5: Muscles & Biomech\n\n\n\n\n\nW\nLocomotion in Fluids\n\nLab8: PC3-G-Toad Muscle\n\n\n\n\nF\nBlood\n\n\n\n\n\nWeek 11\n\n\n\n\n\n\n\n10/30\nM\nVentilation\n\n\nWeibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61\n\n\n\nW\nAquatic Respiration\n\nLab9:PC1-I-Toad Muscle Independent\n\n\n\n\nF\nAerial Respiration\n\n\n\n\n\nWeek 12\n\n\n\n\n\n\n\n11/6\nM\nSymmorphosis - Paper\nPS6: Respiration\n\n\n\n\n\nW\nOsmoregulation\n\nLab 10: PC1-G-Human EEG\n\n\n\n\nF\nVeterans Day Holiday\n\n\n\n\n\nWeek 13\n\n\n\n\n\n\n\n11/13\nM\nExcretion\nDesign 3 Resipration\n\n\n\n\n\nW\nExcretion\nPeer Critique 3\nLab 11: PC2-G-Human Renal\n\n\n\n\nF\nHormonal Control\n\n\n\n\n\nWeek 14\n\n\n\n\n\n\n\n11/20\nM\nReproduction\nPS7: Osmoregulation\n\n\n\n\n\nW\nThanksgiving Holiday\nDesign 3 Rewrite\nNo Labs\n\n\n\n\nF\nThanksgiving Holiday\n\n\n\n\n\nWeek 15\n\n\n\n\n\n\n\n11/27\nM\nImmune System\n\n\n\n\n\n\nW\nImmune System\nDesign 4: Osmoreg/Own\nLab 12: PC3-G-Crayfish Sensory\n\n\n\n\nF\nStudent Presentations\n\n\n\n\n\nWeek 16\n\n\n\n\n\n\n\n12/4\nM\nStudent Presentations\n\n\n\n\n\n\nW\nStudent Presentations\n\nTurn in Lab 12\n\n\n\n\n\n\n\n\n\n\n\n12/11\nM\nFinals Week\nDesign Term Paper Due"
+    "text": "We will begin labs on the first week of class."
   },
   {
-    "objectID": "schedule.html#assignment-schedule-subject-to-change",
-    "href": "schedule.html#assignment-schedule-subject-to-change",
-    "title": "Schedule",
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#lab-information",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#lab-information",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "Lab Information",
+    "text": "Lab Information\nThroughout the semester, Lab information can be found on the Labs page. Find it on the dropdown under “Course Materials”. Listed there are:\n\nLab manuals which are the experimental protocols for each week, named “Lab1-…”\n\nStandard Protocols for setting up, recording, and saving from the instrumentation. These are on the “Protocols” page.\nLabChart Quick Reference Guide for more details on and troubleshooting the LabChart software also on the Protodocs page."
+  },
+  {
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#before-lab",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#before-lab",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "Before Lab:",
+    "text": "Before Lab:\n\nWatch Instrumentation Podcast.\nRead Lab 1 and Protocol 1\nRead the Hlimoneko Paper.\nDo Lab 1 PreLab Quiz in Laulima under Tests and Quizzes before lab (based on Hlimoneko). You get 2 tries. Posted 24 hours before lab.\nPlease bring a bound notebook to lab for your lab notebook. (e.g., a $1 composition book, used is OK)"
+  },
+  {
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#in-lab",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#in-lab",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "In Lab:",
+    "text": "In Lab:\n\nPerform Lab 1 Data Aquistion and Finger Pulse. Practical in week 3 on this material\nDiscuss Hlimoneko 2003 Paper [html][pdf]\n\n\n\n\n\n\n\nAfter today, you should know how to:\n\n\n\n\nSet up PowerLab\nStart LabChart with proper settings.\nSet up the proper transducer (pulse)\nBe mindful of cord hygiene\nDistinguish signal from noise\nGet a clean baseline\nBe able to modify the scales (amplitude or time) to better display the signal\nAdd and edit comments\nCalculate HR\nGet a good recording with all events commented, save, and share data"
+  },
+  {
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#after-lab-assignment-week-1",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#after-lab-assignment-week-1",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "After Lab: Assignment Week 1:",
+    "text": "After Lab: Assignment Week 1:\n\nWrite the Methods and Text of the Results for select figures in Wilkinson et al 2000 (assignment instructions). Donʻt forget to follow the lab report guidelines"
+  },
+  {
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#notes",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#notes",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "Notes:",
+    "text": "Notes:\nA rough guide to length for this mini-lab is 1-2 pages. Content is more important than length. You do not need to fill up the 2 pages (if you finish in 1.5 pages, that’s even better).\nThe first lab will focus on data analysis to set you up well for the remaining labs in this class. Please try hard to understand the mechanisitic and conceptual connections between data and ideas/conclusions.\nAs this is a group assignment, you will be turning in one assignment per group. Include the full names of each lab member and who is Project Coordinator at the top, as well as a Respective Contributions section at the end.\nIf you are confused about any of the instructions or have any questions about the assignments, please send let us know."
+  },
+  {
+    "objectID": "labs/Lab1-heart-rate-and-data-analysis/index.html#general-lab-course-info",
+    "href": "labs/Lab1-heart-rate-and-data-analysis/index.html#general-lab-course-info",
+    "title": "Lab 1: Heart Rate and Data Analysis",
+    "section": "General Lab Course Info:",
+    "text": "General Lab Course Info:\n\nLab Report Guidelines\nLab Expectations\nNotebook Instructions\nLab Team Timeline Agreement"
+  },
+  {
+    "objectID": "labs/Protocols/index.html",
+    "href": "labs/Protocols/index.html",
+    "title": "Standard Protocols",
     "section": "",
-    "text": "Class Topic\nAssignment Due\nLab\nPaper\n\n\n\n\nWeek 1\n\n\n\n\n\n\n\n8/21\nM\nIntro to Course\n\n\n\n\n\n\nW\nMegalodon Discussion\n(Reading Assessment)\nLab1: PC1-G-HR/Data analysis\n\n\n\n\nF\nLibrary Day - Meet at Hamilton\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n8/28\nM\nSize and Scaling\n\n\n\n\n\n\nW\nActivity Metabolism\n\nLab2: PC2-G-Honolulu Zoo\n\n\n\n\nF\nHeat Exchange\nPS1: Metabolism\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n9/4\nM\nLabor Day Holiday\nChoose your Fossil\n\n\n\n\n\nW\nHeterothermy/Iterative Method\n\nLab3:PC3-IWS-Peripheral Circ/Dive Resp\n\n\n\n\nF\nDesign Project/Temperature Reg\nPS2: Temperature\n\n\n\n\nWeek 4\n\n\n\n\n\n\n\n9/11\nM\nCardiac Regulation\n\n\nSustained Metabolic Scope: Hammond and Diamond 1997, Peterson, Nagy, and Diamond 1990\n\n\n\nW\nCirculatory Systems\nWorking on Design 1\nLab4: PC3-G-ECG/Cardiac Function\n\n\n\n\nF\nSustained Metabolic Scope Paper\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\n\n9/18\nM\nFeeding\nDesign 1 Report Due\n\n\n\n\n\nW\nDigestion\nPeer Critique 1\nDesign Presentations/ Critique Session\n\n\n\n\nF\nSpecialized Digestive Systems\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\n\n9/25\nM\nMax Size Herbivores Paper\nDesign 1 Rewrite Due\n\nMaximal size attainable by herbivores Clauss 2003\n\n\n\nW\nNeurons\n\nLab5: PC1-IWS-Toad Heart\n\n\n\n\nF\nSynapses\nPS3: Feeding & Digestion\n\n\n\n\nWeek 7\n\n\n\n\n\n\n\n10/2\nM\nSignal Propagation\n\n\n\n\n\n\nW\nSensory Receptors\nPS4: Neurons\nLab 10:PC1-G-Vertebrate Action Potential\n\n\n\n\nF\nVision/Orals\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\n\n10/9\nM\nChemoreception\n\n\n\n\n\n\nW\nMuscles\nDesign 2 Feeding & Digestion\nLab6: PC2-IWS-Lobster Heart\n\n\n\n\nF\nMuscles II\nPeer Critique 2\n\n\n\n\nWeek 9\n\n\n\n\n\n\n\n10/16\nM\nMotor Control\n\n\n\n\n\n\nW\nBiomechanics\n\nLab7: PC2-G-Human Muscle\n\n\n\n\nF\nBiomechanics\nRewrite Design 2 Due\n\n\n\n\nWeek 10\n\n\n\n\n\n\n\n10/23\nM\nLocomotion on Land\nPS5: Muscles & Biomech\n\n\n\n\n\nW\nLocomotion in Fluids\n\nLab8: PC3-G-Toad Muscle\n\n\n\n\nF\nBlood\n\n\n\n\n\nWeek 11\n\n\n\n\n\n\n\n10/30\nM\nVentilation\n\n\nWeibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61\n\n\n\nW\nAquatic Respiration\n\nLab9:PC1-I-Toad Muscle Independent\n\n\n\n\nF\nAerial Respiration\n\n\n\n\n\nWeek 12\n\n\n\n\n\n\n\n11/6\nM\nSymmorphosis - Paper\nPS6: Respiration\n\n\n\n\n\nW\nOsmoregulation\n\nLab 10: PC1-G-Human EEG\n\n\n\n\nF\nVeterans Day Holiday\n\n\n\n\n\nWeek 13\n\n\n\n\n\n\n\n11/13\nM\nExcretion\nDesign 3 Resipration\n\n\n\n\n\nW\nExcretion\nPeer Critique 3\nLab 11: PC2-G-Human Renal\n\n\n\n\nF\nHormonal Control\n\n\n\n\n\nWeek 14\n\n\n\n\n\n\n\n11/20\nM\nReproduction\nPS7: Osmoregulation\n\n\n\n\n\nW\nThanksgiving Holiday\nDesign 3 Rewrite\nNo Labs\n\n\n\n\nF\nThanksgiving Holiday\n\n\n\n\n\nWeek 15\n\n\n\n\n\n\n\n11/27\nM\nImmune System\n\n\n\n\n\n\nW\nImmune System\nDesign 4: Osmoreg/Own\nLab 12: PC3-G-Crayfish Sensory\n\n\n\n\nF\nStudent Presentations\n\n\n\n\n\nWeek 16\n\n\n\n\n\n\n\n12/4\nM\nStudent Presentations\n\n\n\n\n\n\nW\nStudent Presentations\n\nTurn in Lab 12\n\n\n\n\n\n\n\n\n\n\n\n12/11\nM\nFinals Week\nDesign Term Paper Due"
+    "text": "Protocol 1 Introduction to the Data Acquisition System, use of the Finger Pulse Transducer, and Saving Data.\nProtocol 2 Setup for measuring Blood Pressure in humans.\nProtocol 3 Setup for measuring Electro Cardiograms (ECG or EKG) in humans.\nLabChart Quick Reference Guide Very useful for troubleshooting or more details in using the LabChart software."
+  },
+  {
+    "objectID": "labs/Protocols/index.html#general-lab-course-info",
+    "href": "labs/Protocols/index.html#general-lab-course-info",
+    "title": "Standard Protocols",
+    "section": "General Lab Course Info:",
+    "text": "General Lab Course Info:\n\nLab Report Guidelines\nLab Expectations\nNotebook Instructions\nLab Team Timeline Agreement"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works",
+    "href": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works",
+    "title": "Introduction and The Big Idea",
+    "section": "Animal Physiology is the science of life and how it works",
+    "text": "Animal Physiology is the science of life and how it works\nDesign Project\nTogether with your partner, you will choose an extinct vertebrate to study.\n\n\n\nBackground Research:\n\nCreate a strong foundation for modeling your animalʻs biology and physiology\n\nDesign Projects:\n\nActivity budget, metabolism and heat balance.\nDiet and digestion\nRespiration\nOsmoregulation and excretion\n\nHow could your animal have met its environmental and physiological challenges? How did it live?"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#how",
+    "href": "posts/2023-08-21-the-big-picture/index.html#how",
+    "title": "Introduction and The Big Idea",
+    "section": "How??",
+    "text": "How??\n\nLearning is more fun when it is real. It is your job, as scientists, to start from what we know, and figure out the rest."
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-1",
+    "href": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-1",
+    "title": "Introduction and The Big Idea",
+    "section": "Animal Physiology is the science of life and how it works",
+    "text": "Animal Physiology is the science of life and how it works\n\n\nMechanistic as well as evolutionary explanations\nInternal to the organism as well as environmental context"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-2",
+    "href": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-2",
+    "title": "Introduction and The Big Idea",
+    "section": "Animal Physiology is the science of life and how it works",
+    "text": "Animal Physiology is the science of life and how it works\n\n\n\n\n\n\n“Mouse to Elephant Curve”\nMetabolic Rate is a Power Function of Body Mass\n\\[MR = a*Mass^b\\]\n\n\n\nEnvironmental context: Migration in Motion Visualization"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#learning-by-doing---project-based",
+    "href": "posts/2023-08-21-the-big-picture/index.html#learning-by-doing---project-based",
+    "title": "Introduction and The Big Idea",
+    "section": "Learning by doing —- Project Based",
+    "text": "Learning by doing —- Project Based\n\n\nReadings at home\nIn-Class Discussion to flesh out ideas and push\nHomeworks challenge us to use the information\n\nCalculations prepare us for the Design Projects\n\nBuilding on the shoulders of giants\n\nGathering background for best assumptions\n\nShort papers allow us to create new knowledge\n\nOral Presentations test “work in progress”\n\nPeer and Instructor Reviews to hone work\nFinal Draft - Voila!\n\n\nNot Busywork!!"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#goals",
+    "href": "posts/2023-08-21-the-big-picture/index.html#goals",
+    "title": "Introduction and The Big Idea",
+    "section": "Goals",
+    "text": "Goals\n\nCreativity\nAccuracy\nAuthority\nRepeatability\nCommunication\n\nEase of dissemination to other researchers\nShow me, don’t tell me"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#useful-mindsets",
+    "href": "posts/2023-08-21-the-big-picture/index.html#useful-mindsets",
+    "title": "Introduction and The Big Idea",
+    "section": "Useful Mindsets",
+    "text": "Useful Mindsets\n\n\nDemand Excellence\nCriticism helps us to improve\nDeveloping a thick skin makes it easier!\nLearning is a developmental process - UNCOMFORTABLE\nScience is collaborative - Respect\nThinking is improved through reflection and revision\nEffort and Attitude Counts — a LOT !!!\nScience is creative\nMastery will prepare you for life\n\n\n\nLearning is a Process"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#letʻs-review",
+    "href": "posts/2023-08-21-the-big-picture/index.html#letʻs-review",
+    "title": "Introduction and The Big Idea",
+    "section": "Letʻs Review",
+    "text": "Letʻs Review\nSyllabus"
+  },
+  {
+    "objectID": "posts/2023-08-21-the-big-picture/index.html#for-next-time",
+    "href": "posts/2023-08-21-the-big-picture/index.html#for-next-time",
+    "title": "Introduction and The Big Idea",
+    "section": "For Next Time",
+    "text": "For Next Time\n\n\n\nImportant!! Please complete the class survey\nCourse Website: https://mbutler808.github.io/animalphys/ (grades on Laulima)\nDiscussion week 1. For next class, please read Bianucci, et al (2023) [Google Drive copy] - please accept invitation to join\nLab 1 — check website. Read before coming to lab - no prelab this week. Quiz will be posted to Laulima 24 hrs prior to lab.\nGet your BOOK from SoLS Office StJohn 101 - $20 cash to rent\n\n\n\n\n\n Comparative Animal Physiology by Phillip C. Withers, 1992."
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Lab 1: Heart Rate and Data Analysis\n\n\n\n\n\n\n\nweek 1\n\n\nlabs\n\n\nPowerLab\n\n\nLabChart\n\n\nfinger pulse transducer\n\n\nLabChart Quick Reference Guide\n\n\n\n\nLab for first week of class 8/22/23\n\n\n\n\n\n\nAug 22, 2023\n\n\nMarguerite Butler\n\n\n\n\n\n\n\n\nStandard Protocols\n\n\n\n\n\n\n\nweek 1\n\n\nweek3\n\n\nweek4\n\n\nlabs\n\n\nprotocols\n\n\nPowerLab\n\n\nLabChart\n\n\nfinger pulse transducer\n\n\nBlood Pressure\n\n\nHuman ECG\n\n\nLabChart Quick Reference Guide\n\n\n\n\nStandard protocols for setting up Powerlab, LabChart software to collect physiological data.\n\n\n\n\n\n\nAug 19, 2023\n\n\nMarguerite Butler\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Animal Physiology",
+    "section": "",
+    "text": "Zool430/430L at the University of Hawaiʻi!"
+  },
+  {
+    "objectID": "index.html#what-is-this-course",
+    "href": "index.html#what-is-this-course",
+    "title": "Welcome to Animal Physiology",
+    "section": "What is this course?",
+    "text": "What is this course?\nThis is an upper level class for people interested in learning comparative physiology via original research projects. We will learn physiology and apply our skills to reconstructing the physiological systems of an extinct animal. The lab allows students to see physiology in action in live-animal experiments illustrating heart regulation, muscle contraction, nerve conduction, and kidney function.\nThroughout the course we will develop:\n- Individual skills in finding and close reading of scientific literature, synthesis of information, presentation in oral and written forms.\n- Collaboration skills in discussion, brainstorming, project organization and management, and collaborative writing.\n- Practical skills in dissection, specimen preparation, troubleshooting instrumentation, data analysis, figure design.\nWe will cover metabolism and scaling, heat balance, the circulatory system, feeding and digetsion, neurons and signal propagation, sensory biology, muscles and motor control, biomechanics and locomotion, blood, ventilation and respiration, osmoregulation and excretion, hormonal control, reproduction, and the immune system."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Welcome to Animal Physiology",
+    "section": "Getting started",
+    "text": "Getting started\nPlease look over the Syllabus and Schedule under General Information. Lectures and Lab materials are provided under the Course Materials tab. Projects will be updated soon."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Welcome to Animal Physiology",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis course was developed and is maintained by Marguerite Butler.\nProjects and homeworks have been adapted from courses developed by Adam Summers and Beth Brainerd.\nThank you to Stephanie Hicks for generously sharing the beautifully designed quarto template for this course.\nThe course materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+  },
+  {
+    "objectID": "index.html#useful-free-resources",
+    "href": "index.html#useful-free-resources",
+    "title": "Welcome to Animal Physiology",
+    "section": "Useful (Free) Resources",
+    "text": "Useful (Free) Resources"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Introduction and The Big Idea\n\n\n\n\n\n\n\nmodule 1\n\n\nweek 1\n\n\nintroduction\n\n\n\n\nDay one and nice to meet you\n\n\n\n\n\n\nAug 21, 2023\n\n\nMarguerite Butler and Diana Gao (TA)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
     "section": "",
-    "text": "Delivery: In person, WEB 114\nLecture time: Monday, Wednesday and Friday 11:30am-12:20pm\nAssignments: readings, discussions, homeworks, peer reviews, four projects\n\n\n\n\nDelivery: In person, EDM 101\nSection 1: Tuesday 1:30-5:30pm\nSection 2: Wednesday 2:30-6:30pm\nAssignments: individual work sheets, group labs, individual lab, prelabs and prelab quizzes, partner reviews\n\n\n\n\n\nRegister for ZOOL430 CRN 78365 3 credits and either ZOOL430L CRN 78366 or CRN 78367\nBIOL275 is the prerequisite.\nThe lab is a critical component of physiology education, and a corequisite. The lecture and lab are designed together – you must register for both.\nPlease contact me with any questions, issues, or registration problems maybe I can help.\nLearning is a developmental process, attendance is mandatory and engagement is necessary to improve.\n\n\n\n\nPhysiology is the science of how life works. The prerequisite is BIOL275.\nYou should also have completed Physics, as we will be discussing forces, pressures, gravity, mechanics, etc. as well as general chemistry. Also very helpful (but not a prerequisite) is biochemistry, which will help with metabolism and cellular physiology.\n\n\n\n\nMarguerite A. Butler (https://butlerlab.org)\n\nOffice Location: Edmondson 316\nEmail: mbutler808 at gmail.com (mbutler808 at gmail dot com)\nOffice Hours: After class and by appointment\n\nDiana Gao (TA)\n\nOffice Location: Edmondson 316\nEmail: dianagao at hawaii.edu (dianagao at hawaii dot edu)\nOffice Hours: After class and by appointment\n\n\n\n\n\n\nPlease check your email, but as people join I will start moving to mainly to using DISCORD to send class announcements and information.\n\nPlease join the class DISCORD server for communication.\n\nBe sure to turn on your notifications for the DISCORD server (whether you use the phone or desktop version). Here is a helpful link.\n\n\nCool Animal posts. Share cool info with your peers and earn one point per week extra credit for any type of post related to Animals (biology, not pets) and/or Physiology. Post to #cool-animals on DISCORD or to the class FaceBook https://www.facebook.com/groups/AnimalPhysiologyUH/\n\n\n\n\nIn order of preference, here is how to get help:\n\nI strongly encourage you to use the course DISCORD server by posting to #general or one of the question channels. You can get your answers faster, and other students in the class (who likely have similar questions) can also benefit from the questions and answers given. Everyone is encouraged to participate.\nMake an appointment https://calendly.com/mbutler808/office-hours. If this is regarding any group work, please be sure to include your partner(s) in the meeting.\nFor lab help, make an appointment with Diana Gao by email\n\n\n\n\nUpon successfully completing this course, students will be able to:\n\nUnderstand the basic principles of animal physiology, and discuss issues such as how animals remain in homeostasis in the face of changing internal or external environments, the role of fluxes and the expenditures of energy against them, and the various solutions that vertebrate lineages have evolved to meet life’s challenges.\nBe able to apply these principles to novel situations.\nBe able to write a well-researched and reasoned scientific paper.\nBe able to design and perform basic laboratory experiments in comparative physiology.\nUnderstand that science is advanced by the creative application of past knowledge to new situations to generate new knowledge, and the importance of collaboration in a diverse scientific community.\n\n\n\n\n\nTeach basic principles of animal physiology,\nPractice the scientific method and strengthen critical thinking skills and active, self-directed learning by putting into practice the scientific method,\nEngender good laboratory skills and approaches to physiological experimentation,\nDevelop scientific writing and speaking skills,\nPromote proficiency in reading primary scientific literature and improve ability to find that literature,\nPromote skills necessary to engage in productive intellectual interactions and successful collaboration.\n\n\n\n\nWe will learn science by practicing science.\nStudents will learn through assigned readings, will come to class prepared for productive discussion, practice scientific problem-solving by completing homeworks, and engage in project-based learning. Labs will reinforce learning through experimentation and writing lab reports.\nAs this is a writing and oral intensive course, we will learn by reviewing, editing, and rewriting your work as well as develop of effective scientific arguments through oral presentation. Attendance is mandatory.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nREQUIRED TEXT: Comparative Animal Physiology by Phillip C. Withers, 1992.\n- Rent your copy from the Biology Office St. John 101 ($20 deposit, refundable when book is returned) . - If you want to purchase your own copy, order online and use EXPEDITED SHIPPING or your book may take 4-6 weeks to arrive! + Google “Comparative Animal Physiology Withers” or Amazon.com or alibris.com etc. (or try google books “see all sellers” ).\n\n\n\n\n\nOPTIONAL: Animal Physiology by Hill, Wyse, and Anderson. Looseleaf or ebook is also available. - Get a used book or older edition if you’d like to save money (via Expedited Shipping!) or any upper-level comparative or human physiology book. Lab Manual will be posted on website."
-  },
-  {
-    "objectID": "syllabus.html#learning-objectives",
-    "href": "syllabus.html#learning-objectives",
-    "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
-    "section": "",
-    "text": "Upon successfully completing this course, students will be able to:\n\nUnderstand the basic principles of animal physiology, and discuss issues such as how animals remain in homeostasis in the face of changing internal or external environments, the role of fluxes and the expenditures of energy against them, and the various solutions that vertebrate lineages have evolved to meet life’s challenges.\nBe able to apply these principles to novel situations.\nBe able to write a well-researched and reasoned scientific paper.\nBe able to design and perform basic laboratory experiments in comparative physiology.\nUnderstand that science is advanced by the creative application of past knowledge to new situations to generate new knowledge, and the importance of collaboration in a diverse scientific community."
-  },
-  {
-    "objectID": "syllabus.html#course-objectives",
-    "href": "syllabus.html#course-objectives",
-    "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
-    "section": "",
-    "text": "Teach basic principles of animal physiology,\nPractice the scientific method and strengthen critical thinking skills and active, self-directed learning by putting into practice the scientific method,\nEngender good laboratory skills and approaches to physiological experimentation,\nDevelop scientific writing and speaking skills,\nPromote proficiency in reading primary scientific literature and improve ability to find that literature,\nPromote skills necessary to engage in productive intellectual interactions and successful collaboration."
+    "text": "Delivery: In person, WEB 114\nLecture time: Monday, Wednesday and Friday 11:30am-12:20pm\nAssignments: readings, discussions, homeworks, peer reviews, four projects\n\n\n\n\nDelivery: In person, EDM 101\nSection 1: Tuesday 1:30-5:30pm\nSection 2: Wednesday 2:30-6:30pm\nAssignments: individual work sheets, group labs, individual lab, prelabs and prelab quizzes, partner reviews\n\n\n\n\n\nRegister for ZOOL430 CRN 78365 3 credits and either ZOOL430L CRN 78366 or CRN 78367\nBIOL275 is the prerequisite.\nThe lab is a critical component of physiology education, and a corequisite. The lecture and lab are designed together – you must register for both.\nPlease contact me with any questions, issues, or registration problems maybe I can help.\nLearning is a developmental process, attendance is mandatory and engagement is necessary to improve.\n\n\n\n\nPhysiology is the science of how life works. The prerequisite is BIOL275.\nYou should also have completed Physics, as we will be discussing forces, pressures, gravity, mechanics, etc. as well as general chemistry. Also very helpful (but not a prerequisite) is biochemistry, which will help with metabolism and cellular physiology.\n\n\n\n\nMarguerite A. Butler (https://butlerlab.org)\n\nOffice Location: Edmondson 316\nEmail: mbutler808 at gmail.com (mbutler808 at gmail dot com)\nOffice Hours: After class and by appointment\n\nDiana Gao (TA)\n\nOffice Location: Edmondson 316\nEmail: dianagao at hawaii.edu (dianagao at hawaii dot edu)\nOffice Hours: After class and by appointment\n\n\n\n\n\n\nPlease check your email, but as people join I will start moving to mainly to using DISCORD to send class announcements and information.\n\nPlease join the class DISCORD server for communication.\n\nBe sure to turn on your notifications for the DISCORD server (whether you use the phone or desktop version). Here is a helpful link.\n\n\nCool Animal posts. Share cool info with your peers and earn one point per week extra credit for any type of post related to Animals (biology, not pets) and/or Physiology. Post to #cool-animals on DISCORD or to the class FaceBook https://www.facebook.com/groups/AnimalPhysiologyUH/\n\n\n\n\nIn order of preference, here is how to get help:\n\nI strongly encourage you to use the course DISCORD server by posting to #general or one of the question channels. You can get your answers faster, and other students in the class (who likely have similar questions) can also benefit from the questions and answers given. Everyone is encouraged to participate.\nMake an appointment https://calendly.com/mbutler808/office-hours. If this is regarding any group work, please be sure to include your partner(s) in the meeting.\nFor lab help, make an appointment with Diana Gao by email\n\n\n\n\nUpon successfully completing this course, students will be able to:\n\nUnderstand the basic principles of animal physiology, and discuss issues such as how animals remain in homeostasis in the face of changing internal or external environments, the role of fluxes and the expenditures of energy against them, and the various solutions that vertebrate lineages have evolved to meet life’s challenges.\nBe able to apply these principles to novel situations.\nBe able to write a well-researched and reasoned scientific paper.\nBe able to design and perform basic laboratory experiments in comparative physiology.\nUnderstand that science is advanced by the creative application of past knowledge to new situations to generate new knowledge, and the importance of collaboration in a diverse scientific community.\n\n\n\n\n\nTeach basic principles of animal physiology through project-based learning,\nPractice the scientific method and strengthen critical thinking skills and active, self-directed learning by putting into practice the scientific method,\nEngender good laboratory skills and approaches to physiological experimentation,\nDevelop scientific writing and speaking skills,\nPromote proficiency in reading primary scientific literature and improve ability to find that literature,\nPromote skills necessary to engage in productive intellectual interactions and successful collaboration.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nREQUIRED TEXT: Comparative Animal Physiology by Phillip C. Withers, 1992.\n- Rent your copy from the Biology Office St. John 101 ($20 deposit, refundable when book is returned) . - If you want to purchase your own copy, order online and use EXPEDITED SHIPPING or your book may take 4-6 weeks to arrive! + Google “Comparative Animal Physiology Withers” or Amazon.com or alibris.com etc. (or try google books “see all sellers” ).\n\n\n\n\n\nOPTIONAL: Animal Physiology by Hill, Wyse, and Anderson. Looseleaf or ebook is also available. - Get a used book or older edition if you’d like to save money (via Expedited Shipping!) or any upper-level comparative or human physiology book. Lab Manual will be posted on website."
   },
   {
     "objectID": "syllabus.html#course-methods",
     "href": "syllabus.html#course-methods",
     "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
-    "section": "",
-    "text": "We will learn science by practicing science.\nStudents will learn through assigned readings, will come to class prepared for productive discussion, practice scientific problem-solving by completing homeworks, and engage in project-based learning. Labs will reinforce learning through experimentation and writing lab reports.\nAs this is a writing and oral intensive course, we will learn by reviewing, editing, and rewriting your work as well as develop of effective scientific arguments through oral presentation. Attendance is mandatory."
-  },
-  {
-    "objectID": "syllabus.html#textbook",
-    "href": "syllabus.html#textbook",
-    "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
-    "section": "",
-    "text": "Note\n\n\n\nREQUIRED TEXT: Comparative Animal Physiology by Phillip C. Withers, 1992.\n- Rent your copy from the Biology Office St. John 101 ($20 deposit, refundable when book is returned) . - If you want to purchase your own copy, order online and use EXPEDITED SHIPPING or your book may take 4-6 weeks to arrive! + Google “Comparative Animal Physiology Withers” or Amazon.com or alibris.com etc. (or try google books “see all sellers” ).\n\n\n\n\n\nOPTIONAL: Animal Physiology by Hill, Wyse, and Anderson. Looseleaf or ebook is also available. - Get a used book or older edition if you’d like to save money (via Expedited Shipping!) or any upper-level comparative or human physiology book. Lab Manual will be posted on website."
+    "section": "Course Methods:",
+    "text": "Course Methods:\nWe will learn science by practicing science.\nStudents will learn physiology through assigned readings, will come to class prepared for productive discussion, practice scientific problem-solving by completing homeworks, and engage in project-based learning. Labs will reinforce learning through experimentation and writing lab reports.\nAs this is a writing and oral intensive course, we will learn by reviewing, editing, and rewriting your work as well as develop of effective scientific arguments through oral presentation. Attendance is mandatory."
   },
   {
     "objectID": "syllabus.html#scaffolding",
@@ -130,7 +284,7 @@
     "href": "syllabus.html#design-project-grading-criteria",
     "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
     "section": "Design Project Grading Criteria",
-    "text": "Design Project Grading Criteria\nThe following are criteria for an “A” paper. Papers of lesser quality will be graded accordingly.\n\n\n\n\n\n\nThe quality of the content is most important\n\n\n\n\nThe content (60%) is judged on mastery of the material and will demonstrate the following:\n\nMaterial presented is accurate and convincing (this means that your writing will give the reader will a high degree of confidence that you are correct and we can trust everything including your calculations);\nDeals completely and creatively with the physiological system in the assignment;\nMajor concepts are well integrated demonstrating a thorough understanding on the part of the students;\nThe paper reflects university-level mastery of the material.\nAn “A” paper will provide a physiological insight into the problem\n\nThe organization (20%) is judged on the structure of the paper and will include:\n\nA clear and fully developed argument,\nSupport for every claim/scientific statement via calculations and/or suitable references,\nA logical and concise overall organization,\nParagraphs that are constructed to assist concise and orderly flow of ideas,\nAbsence of repetition, and\nA varied range of sentence structure.\n\nStyle and grammar (10%): The paper should read smoothly and clearly, indicating the student’s ability to synthesize material from a number of sources into a coherent whole. There are no, or very few, typing errors. There are no significant errors in grammar, spelling or punctuation.\nCited references (10%) are of sufficient quantity and quality for the topic covered, and are appropriately cited and referenced. You may use any standard scientific format. see for example\nPLEASE NOTE: Rubrics don’t convey the message that a poorly written paper will get lower marks on all categories. The writing has to make sense before it can be graded!"
+    "text": "Design Project Grading Criteria\nThe following are criteria for an “A” paper. Papers of lesser quality will be graded accordingly.\n\n\n\n\n\n\nThe quality of the content is most important\n\n\n\n\nThe content (60%) is judged on mastery of the material and will demonstrate the following:\n\nMaterial presented is accurate and convincing (this means that your writing will give the reader will a high degree of confidence that you are correct and we can trust everything including your calculations);\nDeals completely and creatively with the physiological system in the assignment;\nMajor concepts are well integrated demonstrating a thorough understanding on the part of the students;\nThe paper reflects university-level mastery of the material.\nAn “A” paper will provide a physiological insight into the problem\n\nThe organization (20%) is judged on the structure of the paper and will include:\n\nA clear and fully developed argument,\nSupport for every claim/scientific statement via calculations and/or suitable references,\nA logical and concise overall organization,\nParagraphs that are constructed to assist concise and orderly flow of ideas,\nAbsence of repetition, and\nA varied range of sentence structure.\n\nStyle and grammar (10%): The paper should read smoothly and clearly, indicating the student’s ability to synthesize material from a number of sources into a coherent whole. There are no, or very few, typing errors. There are no significant errors in grammar, spelling or punctuation.\nCited references (10%) are of sufficient quantity and quality for the topic covered, and are appropriately cited and referenced. You may use any standard scientific format. see for example\n\nPLEASE NOTE: Your paper must be cohesive and interesting. Rubrics don’t convey the message that a poorly written paper will get lower marks on all categories."
   },
   {
     "objectID": "syllabus.html#laboratory-sessions",
@@ -186,7 +340,7 @@
     "href": "syllabus.html#late-work",
     "title": "ZOOL430/430L: Animal Physiology and Laboratory Fall 2023",
     "section": "Late work",
-    "text": "Late work\n\nFor both lab and lecture, we will be deducting 5% for each extra late day. We will deduct 5% for the assignment that is &lt;24 hours late, 10% points for the assignment that is 24-48 hours late, and 15% points for the assignment that is 48-72 hours late, etc.\nTurn in ALL of your work, even if it is really late. It shows effort."
+    "text": "Late work\n\nFor both lab and lecture, we will be deducting 5% for each extra late day. We will deduct 5% for the assignment that is <24 hours late, 10% points for the assignment that is 24-48 hours late, and 15% points for the assignment that is 48-72 hours late, etc.\nTurn in ALL of your work, even if it is really late. It shows effort."
   },
   {
     "objectID": "syllabus.html#tech-related-course-policies-and-expectations",
@@ -217,115 +371,24 @@
     "text": "General Disclaimers\n\nThis syllabus is a general plan, deviations announced to the class by the instructor may be necessary."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "labs-misc/Lab1-discussion.html",
+    "href": "labs-misc/Lab1-discussion.html",
+    "title": "ZOOL430/430L Animal Physiology and Laboratory",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works",
-    "href": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works",
-    "title": "Introduction and The Big Idea",
-    "section": "Animal Physiology is the science of life and how it works",
-    "text": "Animal Physiology is the science of life and how it works\n\n\nMechanistic as well as evolutionary explanations\nInternal to the organism as well as environmental context"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-1",
-    "href": "posts/2023-08-21-the-big-picture/index.html#animal-physiology-is-the-science-of-life-and-how-it-works-1",
-    "title": "Introduction and The Big Idea",
-    "section": "Animal Physiology is the science of life and how it works",
-    "text": "Animal Physiology is the science of life and how it works\n\n\n\n\n\n\n“Mouse to Elephant Curve”\nMetabolic Rate is a Power Function of Body Mass\n\\[MR = a*Mass^b\\]\n\n\n\nEnvironmental context: Migration in Motion Visualization"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#learning-by-doing---project-based",
-    "href": "posts/2023-08-21-the-big-picture/index.html#learning-by-doing---project-based",
-    "title": "Introduction and The Big Idea",
-    "section": "Learning by doing —- Project Based",
-    "text": "Learning by doing —- Project Based\n\n\nReadings at home\nIn-Class Discussion to flesh out ideas and push\nHomeworks challenge us to use the information\n\nCalculations prepare us for the Design Projects\n\nBuilding on the shoulders of giants\n\nGathering background for best assumptions\n\nShort reports allow us to create new knowledge\n\nOral Presentations test “work in progress”\n\nPeer and Instructor Reviews to hone work\nFinal Draft - Voila!\n\n\nNot Busywork!!"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#design-project",
-    "href": "posts/2023-08-21-the-big-picture/index.html#design-project",
-    "title": "Introduction and The Big Idea",
-    "section": "Design Project",
-    "text": "Design Project\nTogether with your partner, you will choose an extinct vertebrate to study.\n::: {.incremental} - Background Research: + Create a strong foundation for modeling your animalʻs biology and physiology - Model (short reports):\n+ Activity budget, metabolism and heat balance. + Diet and digestion + Respiration + Osmoregulation and excretion - Term paper on your most interesting design project :::"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#goals",
-    "href": "posts/2023-08-21-the-big-picture/index.html#goals",
-    "title": "Introduction and The Big Idea",
-    "section": "Goals",
-    "text": "Goals\n\nCreativity\nAccuracy\nAuthority\nRepeatability\nCommunication\n\nEase of dissemination to other researchers\nShow me, don’t tell me"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#useful-mindsets",
-    "href": "posts/2023-08-21-the-big-picture/index.html#useful-mindsets",
-    "title": "Introduction and The Big Idea",
-    "section": "Useful Mindsets",
-    "text": "Useful Mindsets\n\n\nDemand Excellence\nCriticism helps us to improve\nDeveloping a thick skin makes it easier!\nLearning is a developmental process - UNCOMFORTABLE\nScience is collaborative - Respect\nThinking is improved through reflection and revision\nEffort and Attitude Counts — a LOT !!!\nScience is creative\nMastery will prepare you for life\n\n\n\nLearning is a Process"
-  },
-  {
-    "objectID": "posts/2023-08-21-the-big-picture/index.html#handouts",
-    "href": "posts/2023-08-21-the-big-picture/index.html#handouts",
-    "title": "Introduction and The Big Idea",
-    "section": "Handouts",
-    "text": "Handouts\n\n\n\nSyllabus\nCourse Website: http://animalphys.butlerlab.org (grades on Laulima)\nDiscussion week 1 (read Megalodon paper)\nLab 1 & 1A — check website. Do before coming to lab.\nGet your BOOK from SoLS Office StJohn 101 - $20 cash to rent\n\n\n\n Comparative Animal Physiology by Phillip C. Withers, 1992."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Animal Physiology",
-    "section": "",
-    "text": "Zool430/430L at the University of Hawaiʻi!"
-  },
-  {
-    "objectID": "index.html#what-is-this-course",
-    "href": "index.html#what-is-this-course",
-    "title": "Welcome to Animal Physiology",
-    "section": "What is this course?",
-    "text": "What is this course?\nThis is an upper level class for people interested in learning comparative physiology via original research projects. We will learn physiology and apply our skills to reconstructing the physiological systems of an extinct animal. The lab allows students to see physiology in action in live-animal experiments illustrating heart regulation, muscle contraction, nerve conduction, and kidney function.\nThroughout the course we will develop:\n- Individual skills in finding and close reading of scientific literature, synthesis of information, presentation in oral and written forms.\n- Collaboration skills in discussion, brainstorming, project organization and management, and collaborative writing.\n- Practical skills in dissection, specimen preparation, troubleshooting instrumentation, data analysis, figure design.\nWe will cover metabolism and scaling, heat balance, the circulatory system, feeding and digetsion, neurons and signal propagation, sensory biology, muscles and motor control, biomechanics and locomotion, blood, ventilation and respiration, osmoregulation and excretion, hormonal control, reproduction, and the immune system."
-  },
-  {
-    "objectID": "index.html#getting-started",
-    "href": "index.html#getting-started",
-    "title": "Welcome to Animal Physiology",
-    "section": "Getting started",
-    "text": "Getting started\nPlease look over the Syllabus and Schedule under General Information. Lectures are provided under the course materials tab. Projects and labs…"
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Welcome to Animal Physiology",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis course was developed and is maintained by Marguerite Butler.\nProjects and homeworks have been adapted from courses developed by Adam Summers and Beth Brainerd.\nThank you to Stephanie Hicks for generously sharing the beautifully designed quarto template for this course.\nThe course materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
-  },
-  {
-    "objectID": "index.html#useful-free-resources",
-    "href": "index.html#useful-free-resources",
-    "title": "Welcome to Animal Physiology",
-    "section": "Useful (Free) Resources",
-    "text": "Useful (Free) Resources"
-  },
-  {
-    "objectID": "lectures.html",
-    "href": "lectures.html",
-    "title": "Lectures",
-    "section": "",
-    "text": "Introduction and The Big Idea\n\n\n\n\n\n\n\nmodule 1\n\n\nweek 1\n\n\nintroduction\n\n\n\n\nThe big idea\n\n\n\n\n\n\nAug 21, 2023\n\n\nMarguerite Butler and Diana Gao (TA)\n\n\n\n\n\n\nNo matching items"
+    "text": "Who were the subjects of the experiment? Why would there be different subjects?\nWhat was the purpose of using their specific equipment?\nWhy was it important for the authors to establish landmarks in the pulse waveform? What is the purpose of each of the landmarks?\n\n\n\n\n\nHow did the authors analyze the data to answer their main question? What made their analysis effective?\nHow do the figures show their important findings? Explain. What general trends can you see in their data? What conclusions can you make from the trends?\n\n\n\n\n\n\n\n\nWhat was the control treatment? Why is it important to have a control treatment?\n\n\n\n\n\nWhy is heart rate on the x-axis, while the other variables are on the y-axis? How would your conclusions change if you were to switch the axis? Would this be effective at communicating anything?\nIn Figure 3 (Wilkinson et al., 2000), why do you think the authors have two distinct sets of data points? Would you have averaged the two sets of data points or kept them as they are? Why or why not?"
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Learning R\n\nBig Book of R: https://www.bigbookofr.com\nList of resources to learn R (but also Python, SQL, Javascript): https://github.com/delabj/datacamp_alternatives/blob/master/index.md\nlearnr4free. Resources (books, videos, interactive websites, papers) to learn R. Some of the resources are beginner-friendly and start with the installation process: https://www.learnr4free.com/en\nData Science with R by Danielle Navarro: https://robust-tools.djnavarro.net"
+    "text": "Course website: https://mbutler808.github.io/animalphys/ Information central for both the lecture and laboratory. Posted here are all assignments, including reading assignments, problem sets, laboratory exercises and reports.\n\nGitHub repository with course material: https://github.com/mbutler808/animalphys.\nGoogle Drive Where we will post additional resources. I will add you to the drive using your UH ID. If you want to use an alternative email LMK: email.\n\nLaulima For grades and lab quizzes.\n\nZOOL430 library study guide: https://guides.library.manoa.hawaii.edu/zoology430"
+  },
+  {
+    "objectID": "schedule.html#assignment-schedule-subject-to-change",
+    "href": "schedule.html#assignment-schedule-subject-to-change",
+    "title": "Schedule",
+    "section": "Assignment Schedule SUBJECT TO CHANGE",
+    "text": "Assignment Schedule SUBJECT TO CHANGE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClass Topic\nAssignment Due\nLab\nPaper\n\n\n\n\nWeek 1\n\n\n\n\n\n\n\n8/21\nM\nIntro to Course\n\n\n\n\n\n\nW\nHeavyweight Whale Discussion [paper]\n(Reading Assessment)\nLab1: PC1-G-HR/Data analysis [overview] [lab manual] [protocol]\n\n\n\n\nF\nLibrary Day - Meet at Hamilton\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n8/28\nM\nSize and Scaling\n\n\n\n\n\n\nW\nActivity Metabolism\n\nLab2: PC2-G-Honolulu Zoo\n\n\n\n\nF\nHeat Exchange\nPS1: Metabolism\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n9/4\nM\nLabor Day Holiday\nChoose your Fossil\n\n\n\n\n\nW\nHeterothermy/Iterative Method\n\nLab3:PC3-IWS-Peripheral Circ/Dive Resp\n\n\n\n\nF\nDesign Project/Temperature Reg\nPS2: Temperature\n\n\n\n\nWeek 4\n\n\n\n\n\n\n\n9/11\nM\nCardiac Regulation\n\n\nSustained Metabolic Scope: Hammond and Diamond 1997, Peterson, Nagy, and Diamond 1990\n\n\n\nW\nCirculatory Systems\nWorking on Design 1\nLab4: PC3-G-ECG/Cardiac Function\n\n\n\n\nF\nSustained Metabolic Scope Paper\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\n\n9/18\nM\nFeeding\nDesign 1 Report Due\n\n\n\n\n\nW\nDigestion\nPeer Critique 1\nDesign Presentations/ Critique Session\n\n\n\n\nF\nSpecialized Digestive Systems\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\n\n9/25\nM\nMax Size Herbivores Paper\nDesign 1 Rewrite Due\n\nMaximal size attainable by herbivores Clauss 2003\n\n\n\nW\nNeurons\n\nLab5: PC1-IWS-Toad Heart\n\n\n\n\nF\nSynapses\nPS3: Feeding & Digestion\n\n\n\n\nWeek 7\n\n\n\n\n\n\n\n10/2\nM\nSignal Propagation\n\n\n\n\n\n\nW\nSensory Receptors\nPS4: Neurons\nLab 10:PC1-G-Vertebrate Action Potential\n\n\n\n\nF\nVision/Orals\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\n\n10/9\nM\nChemoreception\n\n\n\n\n\n\nW\nMuscles\nDesign 2 Feeding & Digestion\nLab6: PC2-IWS-Lobster Heart\n\n\n\n\nF\nMuscles II\nPeer Critique 2\n\n\n\n\nWeek 9\n\n\n\n\n\n\n\n10/16\nM\nMotor Control\n\n\n\n\n\n\nW\nBiomechanics\n\nLab7: PC2-G-Human Muscle\n\n\n\n\nF\nBiomechanics\nRewrite Design 2 Due\n\n\n\n\nWeek 10\n\n\n\n\n\n\n\n10/23\nM\nLocomotion on Land\nPS5: Muscles & Biomech\n\n\n\n\n\nW\nLocomotion in Fluids\n\nLab8: PC3-G-Toad Muscle\n\n\n\n\nF\nBlood\n\n\n\n\n\nWeek 11\n\n\n\n\n\n\n\n10/30\nM\nVentilation\n\n\nWeibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61\n\n\n\nW\nAquatic Respiration\n\nLab9:PC1-I-Toad Muscle Independent\n\n\n\n\nF\nAerial Respiration\n\n\n\n\n\nWeek 12\n\n\n\n\n\n\n\n11/6\nM\nSymmorphosis - Paper\nPS6: Respiration\n\n\n\n\n\nW\nOsmoregulation\n\nLab 10: PC1-G-Human EEG\n\n\n\n\nF\nVeterans Day Holiday\n\n\n\n\n\nWeek 13\n\n\n\n\n\n\n\n11/13\nM\nExcretion\nDesign 3 Resipration\n\n\n\n\n\nW\nExcretion\nPeer Critique 3\nLab 11: PC2-G-Human Renal\n\n\n\n\nF\nHormonal Control\n\n\n\n\n\nWeek 14\n\n\n\n\n\n\n\n11/20\nM\nReproduction\nPS7: Osmoregulation\n\n\n\n\n\nW\nThanksgiving Holiday\nDesign 3 Rewrite\nNo Labs\n\n\n\n\nF\nThanksgiving Holiday\n\n\n\n\n\nWeek 15\n\n\n\n\n\n\n\n11/27\nM\nImmune System\n\n\n\n\n\n\nW\nImmune System\nDesign 4: Osmoreg/Own\nLab 12: PC3-G-Crayfish Sensory\n\n\n\n\nF\nStudent Presentations\n\n\n\n\n\nWeek 16\n\n\n\n\n\n\n\n12/4\nM\nStudent Presentations\n\n\n\n\n\n\nW\nStudent Presentations\n\nTurn in Lab 12\n\n\n\n\n\n\n\n\n\n\n\n12/11\nM\nFinals Week\nDesign Term Paper Due"
   }
 ]

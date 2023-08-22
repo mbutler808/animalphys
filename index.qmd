@@ -29,7 +29,7 @@ We will cover metabolism and scaling, heat balance, the circulatory system, feed
 
 ## Getting started
 
-Please look over the [Syllabus](syllabus.qmd) and [Schedule](schedule.qmd) under **General Information**. Lectures are provided under the course materials tab. Projects and labs... 
+Please look over the [Syllabus](syllabus.qmd) and [Schedule](schedule.qmd) under **General Information**. Lectures and Lab materials are provided under the __Course Materials__ tab. Projects will be updated soon.  
 
 ## Acknowledgements
 

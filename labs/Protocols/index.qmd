@@ -1,0 +1,31 @@
+---
+title: "Standard Protocols"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Standard protocols for setting up Powerlab, LabChart software to collect physiological data."
+date: 2023-08-19
+toc: true
+format: 
+  html: default
+  pdf: default
+categories: [week 1, week3, week4, labs, protocols, PowerLab, LabChart, finger pulse transducer, Blood Pressure, Human ECG, LabChart Quick Reference Guide]
+---
+
+[Protocol 1](p1-intro-finger-pulse.pdf) Introduction to the __Data Acquisition System__, use of the __Finger Pulse Transducer__, and __Saving Data__. 
+
+[Protocol 2](p2-measuring-blood-pressure.pdf) Setup for measuring __Blood Pressure__ in humans. 
+
+[Protocol 3](p3-human-ecg.pdf) Setup for measuring __Electro Cardiograms (ECG or EKG)__ in humans. 
+
+[LabChart Quick Reference Guide](LabChart7_1_QRG.pdf) Very useful for troubleshooting or more details in using the LabChart software. 
+
+## General Lab Course Info:
+
+- [Lab Report Guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf)
+- [Lab Expectations](../../labs-misc/Lab-Expectations.pdf)
+- [Notebook Instructions](../../labs-misc/notebookinstructionsMB.pdf)
+- [Lab Team Timeline Agreement](../../labs-misc/Agreement-for-Group-Lab-Report-Timeline.pdf)
+

@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/labs.html",
+    "items": [
+      "/labs/Lab1-heart-rate-and-data-analysis/index.html",
+      "/labs/Protocols/index.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": []
   },

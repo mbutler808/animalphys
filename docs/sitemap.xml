@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mbutler808.github.io/schedule.html</loc>
-    <lastmod>2023-08-20T22:39:55.849Z</lastmod>
+    <loc>https://mbutler808.github.io/labs/Lab1-heart-rate-and-data-analysis/index.html</loc>
+    <lastmod>2023-08-22T21:58:01.719Z</lastmod>
   </url>
   <url>
-    <loc>https://mbutler808.github.io/syllabus.html</loc>
-    <lastmod>2023-08-20T22:39:54.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/about.html</loc>
-    <lastmod>2023-08-20T22:39:39.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/projects.html</loc>
-    <lastmod>2023-08-20T22:39:38.759Z</lastmod>
+    <loc>https://mbutler808.github.io/labs/Protocols/index.html</loc>
+    <lastmod>2023-08-22T21:58:11.150Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</loc>
-    <lastmod>2023-08-20T22:39:38.354Z</lastmod>
+    <lastmod>2023-08-22T21:58:17.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/labs.html</loc>
+    <lastmod>2023-08-22T21:58:18.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/projects.html</loc>
+    <lastmod>2023-08-22T21:58:18.731Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/index.html</loc>
-    <lastmod>2023-08-20T22:39:39.141Z</lastmod>
+    <lastmod>2023-08-22T21:58:19.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/about.html</loc>
+    <lastmod>2023-08-22T21:58:19.635Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/lectures.html</loc>
-    <lastmod>2023-08-20T22:39:39.953Z</lastmod>
+    <lastmod>2023-08-22T21:58:20.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/syllabus.html</loc>
+    <lastmod>2023-08-22T21:58:21.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/labs-misc/Lab1-discussion.html</loc>
+    <lastmod>2023-08-22T21:58:38.562Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/resources.html</loc>
-    <lastmod>2023-08-20T22:39:55.250Z</lastmod>
+    <lastmod>2023-08-22T21:58:44.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/schedule.html</loc>
+    <lastmod>2023-08-22T21:58:45.737Z</lastmod>
   </url>
 </urlset>
