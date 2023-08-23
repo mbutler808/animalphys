@@ -6,8 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Close reading of papers together are a fun way to improve comprehension and do better with writing and speaking"
-date: 2023-08-21
-# image: "../../images/happygitwithr.png"
+date: 2023-08-23
 format: 
   html: default 
 categories: [module 1, week 1, reading assessment, close reading, gigantism, size, morphology]
@@ -22,6 +21,13 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 
 1.  [Bianucci, et al (2023)](https://www.nature.com/articles/s41586-023-06381-1) \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join
 :::
+
+### Reminders
+
+- Get the Book $20 from SoLS Office St. John 101. 
+- Friday class at Hamilton Library
+- Great Lab Discussion yesterday. Hlimoneko was just an example. Please focus on __content__, not style. 
+- Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus
 
 
 # Todays Discussion
@@ -50,6 +56,8 @@ categories: [module 1, week 1, reading assessment, close reading, gigantism, siz
 - Are interactive, evaluate strengths and soft-spots
 
 ## The Colossal Whale
+
+![Artistic reconstruction of _Perucetus colossus_ from Bianucci, et al (2023) <https://doi.org/10.1038/s41586-023-06381-1>](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg)
 
 ### Discussion Agenda
 

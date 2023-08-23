@@ -10,19 +10,7 @@
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
 <generator>quarto-1.2.313</generator>
-<lastBuildDate>Mon, 21 Aug 2023 10:00:00 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <dc:creator>Marguerite Butler and Diana Gao (TA)</dc:creator>
-  <link>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>module 1</category>
-  <category>week 1</category>
-  <category>introduction</category>
-  <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
-  <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/Edaphosaurus_boanerges.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Wed, 23 Aug 2023 10:00:00 GMT</lastBuildDate>
 <item>
   <title>Colossal Whale Discussion</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -49,6 +37,15 @@ Read ahead
 </ol>
 </div>
 </div>
+<section id="reminders" class="level3">
+<h3 class="anchored" data-anchor-id="reminders">Reminders</h3>
+<ul>
+<li>Get the Book $20 from SoLS Office St.&nbsp;John 101.</li>
+<li>Friday class at Hamilton Library</li>
+<li>Great Lab Discussion yesterday. Hlimoneko was just an example. Please focus on <strong>content</strong>, not style.</li>
+<li>Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus</li>
+</ul>
+</section>
 </section>
 <section id="todays-discussion" class="level1">
 <h1>Todays Discussion</h1>
@@ -137,6 +134,12 @@ Read ahead
 </section>
 <section id="the-colossal-whale" class="level2">
 <h2 class="anchored" data-anchor-id="the-colossal-whale">The Colossal Whale</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/https:/media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption><p></p>
+</figure>
+</div>
 <section id="discussion-agenda" class="level3">
 <h3 class="anchored" data-anchor-id="discussion-agenda">Discussion Agenda</h3>
 <ol type="1">
@@ -238,8 +241,20 @@ All the best online sources
   <category>size</category>
   <category>morphology</category>
   <guid>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</guid>
+  <pubDate>Wed, 23 Aug 2023 10:00:00 GMT</pubDate>
+  <media:content url="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Marguerite Butler and Diana Gao (TA)</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>module 1</category>
+  <category>week 1</category>
+  <category>introduction</category>
+  <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
   <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/BoneStructure.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://mbutler808.github.io/images/Edaphosaurus_boanerges.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
