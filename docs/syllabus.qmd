@@ -289,7 +289,7 @@ _PLEASE NOTE: Your paper must be cohesive and interesting. Rubrics don’t conve
 # Laboratory
 
 ## Laboratory Sessions
-Labs meet once per week starting immediately. There will be [12 sessions](schedule.qmd) when experiments will be performed, one session for discussion of critiques of your animal design projects, and one session mid-semester when each team will deliver a 10-minute oral report on your animal design project.
+Labs meet once per week starting immediately. There will be [13 sessions](schedule.qmd) when experiments will be performed, one session for discussion of critiques of your animal design projects, and one session mid-semester when each team will deliver a 10-minute oral report on your animal design project.
 
 ## Laboratory Attendance
 [__Attendance is mandatory and there are no make-up labs.__]{style="color: blue"} Failure to attend a lab will result in a grade of “zero” for that laboratory report unless you were absent due to health problems and have documentation from a doctor, clinic, or coroner stating why you were unable to attend class.  
@@ -323,7 +323,7 @@ The __project coordinator__ ensures that everyone knows their roles, works toget
 _Each PC earns a “project coordinator score” based on the average score of the group lab reports for which he/she was project coordinator._
 
 ## Laboratory Reports
-There will be a total of 12 laboratory reports: 
+There will be a total of 13 laboratory reports: 
 
 - 9 group reports (G), 
 - 3 individual worksheets (IWS), and 
