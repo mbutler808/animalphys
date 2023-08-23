@@ -37,6 +37,7 @@ Throughout the semester, __Lab information__ can be found on the [Labs](../../la
 
 ## In Lab: 
 
+- Review Lab Policies 
 - Perform [Lab 1 Data Aquistion and Finger Pulse](Lab1-data-aquistion-finger-pulse.pdf). _Practical in week 3 on this material_
 - Discuss Hlimoneko 2003 Paper \[[html](../../labs-misc/Lab1-discussion.qmd)\]\[[pdf](ZOOL430L-Lab1-Discussion_FA21.pdf)\]
 
@@ -58,6 +59,7 @@ Throughout the semester, __Lab information__ can be found on the [Labs](../../la
 ## After Lab: Assignment Week 1:
 
 - Write the Methods and Text of the Results for [select figures](Wilkinson_et_al_2000_figures.pdf) in Wilkinson et al 2000 ([assignment instructions](https://docs.google.com/document/d/1xws5vA9Ea7rLIdbi-DPdS8KWevntsKiiqenWp7LZTYc/edit)). Donʻt forget to follow the [lab report guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf) 
+- Turn in one copy (hardcopy) at the start of your next lab session. _Always one week after the lab_
 
 ## Notes: 
 A rough guide to length for this mini-lab is 1-2 pages. Content is more important than length. You do not need to fill up the 2 pages (if you finish in 1.5 pages, that’s even better).
