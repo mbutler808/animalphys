@@ -57,7 +57,7 @@ Throughout the semester, __Lab information__ can be found on the [Labs](../../la
 
 ## After Lab: Assignment Week 1:
 
-- Write the Methods and Text of the Results for [select figures](Wilkinson_et_al_2000_figures.pdf) in Wilkinson et al 2000 ([assignment instructions](https://docs.google.com/document/d/1xws5vA9Ea7rLIdbi-DPdS8KWevntsKiiqenWp7LZTYc/edit)). Donʻt forget to follow the [lab report guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf) 
+- Write the Methods and Text of the Results for [select figures](Wilkinson_et_al_2000_figures.pdf) in Wilkinson et al 2000 ([assignment instructions](https://docs.google.com/document/d/1xws5vA9Ea7rLIdbi-DPdS8KWevntsKiiqenWp7LZTYc/edit)). Donʻt forget to follow the [lab report guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf) 
 
 ## Notes: 
 A rough guide to length for this mini-lab is 1-2 pages. Content is more important than length. You do not need to fill up the 2 pages (if you finish in 1.5 pages, that’s even better).

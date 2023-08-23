@@ -1,0 +1,113 @@
+---
+title: "Colossal Whale Discussion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Close reading of papers together are a fun way to improve comprehension and do better with writing and speaking"
+date: 2023-08-21
+# image: "../../images/happygitwithr.png"
+format: 
+  html: default 
+categories: [module 1, week 1, reading assessment, close reading, gigantism, size, morphology]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1.  [Bianucci, et al (2023)](https://www.nature.com/articles/s41586-023-06381-1) \[[Google Drive copy](https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\] - please accept invitation to join
+:::
+
+
+# Todays Discussion
+
+### Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 | Kirsten |  Morgan | |
+| 2 |  Adry  |    Matthew | |
+| 3 | Maisie  |  Christina | |
+| 4 | Justin  |  Sasha | |
+| 5 | Mayuka  |  Logan | |
+| 6 | Alvin   |  Richard | |
+| 7 | Anna    |  Kylie | |
+| 8 | Krystal | Logan B | Garrett |
+
+
+## Successful Discussions
+
+- __Dig deeper__ into a subject
+- Bring out __everyone's ideas__
+- Explore and evaluate __arguments__
+- Provide a forum for __pitching ideas__ and __practicing vocabulary__
+- Encourage equal participation
+- Are interactive, evaluate strengths and soft-spots
+
+## The Colossal Whale
+
+### Discussion Agenda
+
+1. [Reading Assessment](ReadingAssessment-Bianucci23-whale.pdf) 
+2. Warm up
+  - Funny format of Science, Nature, PNAS -  Abstract, Intro, Results/Discussion, followed by Methods. 
+  - Shall we define any new vocabulary?
+3. Small Group Discussion
+
+### Compact and Cancellous Bone
+
+Bone structure is fascinating. As organisms get larger, bones provide structural support. But bones also grow and remodel, as well as provide bone marrow for the development of blood cells.  
+
+The structural part is generally in the __compact bone__. The __cancellous__ bone is the spongy interior and in the joints.
+
+![](../../images/BoneStructure.png)
+
+![The head of a human femur](../../images/femur_head.png)
+
+# Explore Library Resources 
+
+### Where do we find information?
+
+
+___General Background___ is best found in __BOOKS__.
+Academic books are the best source for things that are well-known or have been known for a long time. Here you will find general information about the habitat at the time (paleontology books), the general biology of that kind of animal (e.g. herpetology, mammology, or mammalian paleontology, etc. ). [Get all the books you can in Hamilton for a strong foundation.]{style="color: blue"} 
+
+__Compilations__ can be found in __REVIEW ARTICLES__  
+Academic authors will sometimes write a summary of the last 10 years or so of reasearch in a review article. These are often found in Annual Reviews as well as other places. If one exists for your group, get it. 
+
+__Newest Information__ can be found in __JOURNAL ARTICLES__. 
+Scientific articles report the latest findings at that moment in time. 
+
+### Search Strategies 
+
+Start with the Zool430 study guide to get familiar with what kinds of books are available 
+
+:::{.callout-tip}
+# ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>  
+- Check out the tabs along the top
+- The "In Class Exercises" is very helpful for developing database 
+:::
+
+
+:::{.callout-tip}
+# All the best online sources
+- _Be sure to enter through the __UH library website__ and login for free access._  
+-  __UH Library science databases and E-journals:__    <http://www.hawaii.edu/sciref/>.  
+    +  Check out "Science & Technology Databases" tab.
+    +  Good databases: __Web of science__, __google scholar__, or __zoological record__
+-  [Jonathan Young](https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259) is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.
+:::
+
+
+# For Next Time
+
+- Library Day! On Friday Meet at Hamilton Lobby, first floor just inside the door at 11:30pm
+- __Bring your UHID to check out books__ 
+- Start exploring potential fossils with your partner online
+- Browse the book collection online, to get some ideas for Friday 
+
