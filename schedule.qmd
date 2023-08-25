@@ -16,10 +16,10 @@ tbl-colwidths: [9,3, 20, 20,30]
 |----|----|----|----|----|----|
 |Week 1||||||
 | 8/21  | M | Intro to Course |   |   |   |
-| | W | Heavyweight Whale Discussion \[[paper](https://www.nature.com/articles/s41586-023-06381-1)\]  | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis \[[overview](labs/Lab1-heart-rate-and-data-analysis/index.qmd)\] \[[lab manual](labs/Lab1-heart-rate-and-data-analysis/Lab1-data-aquistion-finger-pulse.pdf)\] \[[protocol](labs/Protocols/p1-intro-finger-pulse.pdf)\] |   |
-|   | F | Library Day - Meet at Hamilton  |   |   |   |
+| | W | Heavyweight Whale Discussion \[[html](posts/2023-08-23-the-colossal-whale/index.qmd)\] \[[paper](https://www.nature.com/articles/s41586-023-06381-1)\]  | (Reading Assessment)  | Lab1: PC1-G-HR/Data analysis \[[overview](labs/Lab1-heart-rate-and-data-analysis/index.qmd)\] \[[lab manual](labs/Lab1-heart-rate-and-data-analysis/Lab1-data-aquistion-finger-pulse.pdf)\] \[[protocol](labs/Protocols/p1-intro-finger-pulse.pdf)\] |   |
+|   | F | Library Day - Meet at Hamilton \[[html](posts/2023-08-25-Library-day/index.qmd)\] |   |   |   |
 |Week 2||||||
-| 8/28  | M | Size and Scaling  |   |   |   |
+| 8/28  | M | Size and Scaling \[[reading assignment and questions](discussions/Discussion_Week_2.pdf)\] \[[HWA readings](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\] |   |   |   |
 | | W | Activity Metabolism |   | Lab2: PC2-G-Honolulu Zoo  |   |
 |   | F | Heat Exchange | PS1: Metabolism |   |   |
 |Week 3||||||
