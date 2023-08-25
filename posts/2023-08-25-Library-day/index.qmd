@@ -26,6 +26,7 @@ categories: [module 1, week 1, library day, information sources, design backgrou
 2.  Search for books that will help with the [*Animal Design Project Background*](../../projects/0.BackgroundDesign.pdf)
 3.  Check out at least 5 books that may be helpful. Itʻs free!
 4.  Select a fossil or at least get some ideas about type of animal youʻd like to work on. 
+5.  Today is just an introduction, you will need to accumulate more information. 
 :::
 
 
@@ -62,6 +63,12 @@ Start with the Zool430 study guide to get familiar with what kinds of books are 
     +  Good databases: __Web of science__, __google scholar__, or __zoological record__
 -  [Jonathan Young](https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259) is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.
 :::
+
+### We are going to Hamilton Addition 3rd Floor
+
+![](https://manoa.hawaii.edu/library/wp-content/uploads/floorplans/Hamilton-3rd-Floor.png)
+
+[Library Floor Plans](https://manoa.hawaii.edu/library/about/visiting-the-library/library-floor-plans/)
 
 ## Before you leave
 
