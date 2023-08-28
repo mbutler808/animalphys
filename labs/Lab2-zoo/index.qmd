@@ -19,7 +19,8 @@ categories: [week 2, labs, mass, activity, energy budget, time budget, scaling, 
 
 - Your lab notebook
 - A timing device (e.g. your phone)
-- Sun screen, hat, and sunglasses. It will - Read the [Hlimoneko Paper](Lab1-Hlimonenko_et_al_2003.pdf).
+- Sun screen, hat, and sunglasses. It will be hot and sunny! 
+- Water
 
 Your task this week is to construct an energy budget for an animal of your choice, very similar to modeling the metabolism of your fossil. Each group will choose a different zoo animal (Letʻs try to spread the groups across the large /small, herbivore/predator combinations).
 
