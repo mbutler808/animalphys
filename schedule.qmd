@@ -20,7 +20,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Library Day - Meet at Hamilton \[[html](posts/2023-08-25-Library-day/index.qmd)\] |   |   |   |
 |Week 2||||||
 | 8/28  | M | Size and Scaling \[[reading assignment and questions](discussions/Discussion_Week_2.pdf)\] \[[HWA readings](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\] |   |   |   |
-| | W | Activity Metabolism |   | Lab2: PC2-G-Honolulu Zoo  |   |
+| | W | Activity Metabolism |   | Lab2: PC2-G-Honolulu Zoo \[[lab manual](labs/Lab2-zoo/index.qmd)\] |   |
 |   | F | Heat Exchange | PS1: Metabolism |   |   |
 |Week 3||||||
 | 9/4 | M | Labor Day Holiday | Choose your Fossil  |   |   |

@@ -9,7 +9,7 @@
 <link>https://mbutler808.github.io/lectures.html</link>
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
-<generator>quarto-1.2.313</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 25 Aug 2023 10:00:00 GMT</lastBuildDate>
 <item>
   <title>Library Day</title>
@@ -28,12 +28,12 @@
 </section>
 <section id="goals-for-today" class="level1">
 <h1>Goals for today</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Get a strong foundation for your design project
 </div>
 </div>
@@ -42,7 +42,7 @@ Get a strong foundation for your design project
 <li>With your partner, explore background on potential animals</li>
 <li>Search for books that will help with the <a href="../../projects/0.BackgroundDesign.pdf"><em>Animal Design Project Background</em></a></li>
 <li>Check out at least 5 books that may be helpful. Itʻs free!</li>
-<li>Select a fossil or at least get some ideas about type of animal youʻd like to work on.</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0">Select a fossil</a> or at least get some ideas about type of animal youʻd like to work on.</li>
 <li>Today is just an introduction, you will need to accumulate more information.</li>
 </ol>
 </div>
@@ -60,12 +60,12 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
 <section id="search-strategies" class="level3">
 <h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
 <p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
 </div>
 </div>
@@ -76,12 +76,12 @@ ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zo
 </ul>
 </div>
 </div>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 All the best online sources
 </div>
 </div>
@@ -132,7 +132,6 @@ All the best online sources
   <category>design background</category>
   <guid>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</guid>
   <pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://manoa.hawaii.edu/library/wp-content/uploads/floorplans/Hamilton-3rd-Floor.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Colossal Whale Discussion</title>
@@ -144,12 +143,12 @@ All the best online sources
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -260,7 +259,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/https:/media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption><p></p>
+<figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption>
 </figure>
 </div>
 <section id="discussion-agenda" class="level3">
@@ -285,7 +284,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/femur_head.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The head of a human femur</figcaption><p></p>
+<figcaption class="figure-caption">The head of a human femur</figcaption>
 </figure>
 </div>
 </section>
@@ -303,12 +302,12 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
 <section id="search-strategies" class="level3">
 <h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
 <p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
 </div>
 </div>
@@ -319,12 +318,12 @@ ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zo
 </ul>
 </div>
 </div>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 All the best online sources
 </div>
 </div>
@@ -365,7 +364,6 @@ All the best online sources
   <category>morphology</category>
   <guid>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</guid>
   <pubDate>Wed, 23 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title></title>
@@ -377,7 +375,6 @@ All the best online sources
   <category>introduction</category>
   <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
   <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/Edaphosaurus_boanerges.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
