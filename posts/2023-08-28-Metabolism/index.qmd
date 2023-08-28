@@ -28,6 +28,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 - HW1 is [posted](../../homework/HW1metabolism.pdf)
 - You should have your book. $20 from SoLS Office St. John 101. 
 - Turn in your Library Day worksheet in class.
+- Please fried me on Discord
 - Labs this Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/index.qmd). Bring:
   - Your lab notebook
   - A timing device (e.g. your phone)
@@ -40,8 +41,8 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 | Kirsten |  Adry | Maisie |
-| 2 |  Justin  |  Matthew | Alvin |
+| 1 | Adry  |  Kirsten | Maisie |
+| 2 |  Justin  |  Mayuka | Alvin |
 | 3 | Anna  |  Krystal | Morgan|
 | 4 | Matthew  |  Christina | Sasha |
 | 5 | Logan M  |  Richard | Logan B |
@@ -51,6 +52,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 ## Successful Discussions
 
 - [__Encourage equal participation__]{style="color: blue"}
+  - [Take turns going first]{style="color: blue"}
 - __Dig deeper__ into a subject
 - Bring out __everyone's ideas__
 - Explore and evaluate __arguments__
