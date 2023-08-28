@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The different types of metabolic rates and what influences them"
-date: 2023-08-23
+date: 2023-08-28
 format: 
   html: default 
   pdf: default
