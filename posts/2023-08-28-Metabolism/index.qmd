@@ -28,7 +28,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 - HW1 is [posted](../../homework/HW1metabolism.pdf)
 - You should have your book. $20 from SoLS Office St. John 101. 
 - Turn in your Library Day worksheet in class.
-- Please fried me on Discord
+- Please friend me on Discord/ __Always tag your partners on anything group-related__
 - Labs this Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/index.qmd). Bring:
   - Your lab notebook
   - A timing device (e.g. your phone)
