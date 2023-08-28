@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mbutler808.github.io/schedule.html</loc>
-    <lastmod>2023-08-28T11:14:20.444Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/labs-misc/Lab1-discussion.html</loc>
-    <lastmod>2023-08-28T11:14:18.492Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/lectures.html</loc>
-    <lastmod>2023-08-28T11:13:45.023Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/index.html</loc>
-    <lastmod>2023-08-28T11:13:43.287Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/labs.html</loc>
-    <lastmod>2023-08-28T11:13:41.549Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</loc>
-    <lastmod>2023-08-28T11:13:38.858Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mbutler808.github.io/labs/Protocols/index.html</loc>
-    <lastmod>2023-08-28T11:13:36.973Z</lastmod>
-  </url>
-  <url>
     <loc>https://mbutler808.github.io/labs/Lab2-zoo/index.html</loc>
-    <lastmod>2023-08-28T11:13:15.238Z</lastmod>
+    <lastmod>2023-08-28T20:02:26.624Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/labs/Lab1-heart-rate-and-data-analysis/index.html</loc>
-    <lastmod>2023-08-28T11:13:28.136Z</lastmod>
+    <lastmod>2023-08-28T20:02:42.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/labs/Protocols/index.html</loc>
+    <lastmod>2023-08-28T20:02:52.969Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</loc>
-    <lastmod>2023-08-28T11:13:37.926Z</lastmod>
+    <lastmod>2023-08-28T20:03:00.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</loc>
+    <lastmod>2023-08-28T20:03:01.088Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</loc>
-    <lastmod>2023-08-28T11:13:39.874Z</lastmod>
+    <lastmod>2023-08-28T20:03:01.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/posts/2023-08-28-Metabolism/index.html</loc>
+    <lastmod>2023-08-28T20:03:02.240Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/labs.html</loc>
+    <lastmod>2023-08-28T20:03:24.790Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/projects.html</loc>
-    <lastmod>2023-08-28T11:13:42.248Z</lastmod>
+    <lastmod>2023-08-28T20:03:25.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/index.html</loc>
+    <lastmod>2023-08-28T20:03:25.735Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/about.html</loc>
-    <lastmod>2023-08-28T11:13:43.963Z</lastmod>
+    <lastmod>2023-08-28T20:03:26.149Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/lectures.html</loc>
+    <lastmod>2023-08-28T20:03:27.152Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/syllabus.html</loc>
-    <lastmod>2023-08-28T11:14:10.031Z</lastmod>
+    <lastmod>2023-08-28T20:03:28.349Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/labs-misc/Lab1-discussion.html</loc>
+    <lastmod>2023-08-28T20:03:46.487Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/resources.html</loc>
-    <lastmod>2023-08-28T11:14:19.122Z</lastmod>
+    <lastmod>2023-08-28T20:03:53.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/schedule.html</loc>
+    <lastmod>2023-08-28T20:03:54.413Z</lastmod>
   </url>
 </urlset>
