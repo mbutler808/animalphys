@@ -1,5 +1,5 @@
 ---
-title: "2. Metabolic Rates"
+title: "2.a Metabolic Rates"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
@@ -10,7 +10,7 @@ date: 2023-08-28
 format: 
   html: default 
   pdf: default
-categories: [module 1, week 2, BMR, SMR, RMR, AMR, DMR ]
+categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 ---
 
 # Pre-class materials 
