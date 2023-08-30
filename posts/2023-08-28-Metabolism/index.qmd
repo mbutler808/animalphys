@@ -1,5 +1,5 @@
 ---
-title: "2.a Metabolic Rates"
+title: "2. Metabolic Rates"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
@@ -20,7 +20,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Prepare for our discussion on metabolic rates and size and scaling [reading assignment and questions](../../discussions/Discussion_Week_2.pdf) Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson [(HWA). These are on the shared google drive](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV). 
+1. \[[Discussion Questions and reading assignment](../../discussions/Discussion_Week_2.pdf)\] Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson \[[(HWA)](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\]. (These are on the shared google drive). 
 :::
 
 ### Announcements/Reminders
@@ -59,7 +59,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 - Provide a forum for __pitching ideas__ and __practicing vocabulary__
 - Are interactive, evaluate strengths and soft-spots
 
-# Metabolism and how do we measure the cost of being alive?
+# 2a. Metabolism and how do we measure the cost of being alive?
 
 {{< video https://youtu.be/NRrgZQrEiWc?si=1jk4xxtXYrrzjq5N&t=90 >}}
 
@@ -99,3 +99,30 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 - Continue the discussion! NOTE: We will discuss Anaerobic metabolism last (Friday)
 - HW1 due Friday 
 
+# 2b. Size and Scaling 
+
+::: callout-note
+## Reminders and materials
+
+1. \[[Scaling Example](../../2.ScalingExample.pdf)\] 
+2. \[[Discussion Questions](../../discussions/Discussion_Week_2.pdf)\] Jump to Q6
+3. \[[Slide Deck](../../powerpoints/2.Metabolism.pdf)\]
+4. An exciting addition to our teaching team: Allison Fisher
+5. Friday Class will be held on \[[Zoom](https://hawaii.zoom.us/j/95180706058)\]  Please join using your UHID 
+6. \[[HW1](../../homework/HW1metabolism.pdf)\] Due Friday at midnight, written by hand. Submit in person or on Laulima
+7. After Friday class, please fill out _Discussion Evaluations_ - look for email from __TEAMMATES__
+:::
+
+
+## Scaling Podcast
+
+{{< video https://youtu.be/_NDNa_3Bon8 >}}
+
+## If you would like some more review (optional)
+
+### A walk through of BMR scaling equations 
+{{< video https://youtu.be/uqGEBgspTI0 >}}
+
+### Refresher on log_10, lines, and how much to feed your elephant
+
+{{< video https://youtu.be/sO9fLmkaVB8 >}}

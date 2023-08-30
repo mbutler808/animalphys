@@ -47,6 +47,11 @@ You should also have completed Physics, as we will be discussing forces, pressur
     -   Email: [dianagao at hawaii.edu](mailto:dianagao@hawaii.edu)
     -   Office Hours: After class and by appointment
 
+-   Allison Fisher (TA)
+    -   Office Location: Edmondson 316
+    -   Email: [arfisher at hawaii.edu](mailto:arfisher@hawaii.edu)
+    -   Office Hours: After class and by appointment
+
 ### How to stay informed
 
 1. Please check your __email__, but as people join I will start moving to mainly to using __DISCORD__ to send class announcements and information.  
@@ -340,6 +345,12 @@ Lab reports should be 3-5 pages in length; focus on the main ideas and get strai
 - Each group report submission will be followed by a __"Lab Partner Evaluation"__ which you will be invited to complete by an email from TEAMMATES. These are used to calculate your participation grade. 
 - Please be honest and accountable, this is the path to improvement and success. 
 
+## Laulima shared course space
+
+This course space is being shared by students in the following CRNs 
+[78366, 78367] and if you do not wish to be in a shared course space, 
+please drop this section and register for another section or alternate 
+course.
 
 # Grading
 
