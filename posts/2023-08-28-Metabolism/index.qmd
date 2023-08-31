@@ -46,7 +46,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 | 3 | Anna  |  Krystal | Morgan|
 | 4 | Matthew  |  Christina | Sasha |
 | 5 | Logan M  |  Richard | Logan B |
-| 6 | Kylie   |  Garrett | |
+| 6 | Kylie   |  Garrett | Jessica |
 
 
 ## Successful Discussions
@@ -104,7 +104,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 ::: callout-note
 ## Reminders and materials
 
-1. \[[Scaling Example](../../2.ScalingExample.pdf)\] 
+1. \[[Scaling Example](../../discussions/2.ScalingExample.pdf)\] 
 2. \[[Discussion Questions](../../discussions/Discussion_Week_2.pdf)\] Jump to Q6
 3. \[[Slide Deck](../../powerpoints/2.Metabolism.pdf)\]
 4. An exciting addition to our teaching team: Allison Fisher

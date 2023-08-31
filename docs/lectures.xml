@@ -10,7 +10,146 @@
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
 <generator>quarto-1.2.313</generator>
-<lastBuildDate>Mon, 28 Aug 2023 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 Sep 2023 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>3. Temperature</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-09-06-Temperature/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Withers chapter 5. Look over the homework, handout, and discussion questions and skim the chapter, reading anything that you need to know.<br>
+</li>
+<li>[<a href="../../discussions/Discussion_Week_3_temperature.pdf">Discussion Questions</a>]</li>
+<li>[<a href="../../powerpoints/3.Temperature.pdf">Slide Deck</a>] - for your reference as we go through the material</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Monday is Labor Day. No class</li>
+</ul>
+</section>
+<section id="week-3-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-3-discussion-groups">Week 3 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Justin</td>
+<td>Morgan</td>
+<td>Richard</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Matthew</td>
+<td>Logan B</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Mayuka</td>
+<td>Krystal</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Anna</td>
+<td>Garrett</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Kirsten</td>
+<td>Christina</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Maisie</td>
+<td>Alvin</td>
+<td>Jessica</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="temperature" class="level1">
+<h1>3. Temperature</h1>
+<section id="modes-of-heat-transfer" class="level2">
+<h2 class="anchored" data-anchor-id="modes-of-heat-transfer">Modes of Heat Transfer</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/BHchDrboqEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="q10" class="level2">
+<h2 class="anchored" data-anchor-id="q10">Q10</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/T5O9UvSZ_-g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="iterative-method" class="level2">
+<h2 class="anchored" data-anchor-id="iterative-method">Iterative Method</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/pEzcZCTYPyE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 3</category>
+  <category>week 3</category>
+  <category>BMR</category>
+  <category>SMR</category>
+  <category>RMR</category>
+  <category>AMR</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/posts/2023-09-06-Temperature/index.html</guid>
+  <pubDate>Wed, 06 Sep 2023 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>2. Metabolic Rates</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -106,7 +245,7 @@ Read ahead
 <td>6</td>
 <td>Kylie</td>
 <td>Garrett</td>
-<td></td>
+<td>Jessica</td>
 <td></td>
 </tr>
 </tbody>
@@ -188,7 +327,7 @@ Reminders and materials
 </div>
 <div class="callout-body-container callout-body">
 <ol type="1">
-<li>[<a href="../../2.ScalingExample.pdf">Scaling Example</a>]</li>
+<li>[<a href="../../discussions/2.ScalingExample.pdf">Scaling Example</a>]</li>
 <li>[<a href="../../discussions/Discussion_Week_2.pdf">Discussion Questions</a>] Jump to Q6</li>
 <li>[<a href="../../powerpoints/2.Metabolism.pdf">Slide Deck</a>]</li>
 <li>An exciting addition to our teaching team: Allison Fisher</li>
