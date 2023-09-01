@@ -28,18 +28,18 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Heterothermy/Iterative Method  | PS2: Temperature  |   |   |
 |Week 4||||||
 | 9/11  | M | Cardiac Regulation  |   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
-| | W | Circulatory Systems | Working on Design 1 | Lab4: PC3-G-ECG/Cardiac Function  |   |
+| | W | Circulatory Systems | Background Design 1 | Lab Practical / Lab4: PC3-G-ECG/Cardiac Function  |   |
 |   | F | Sustained Metabolic Scope Paper |   |   |   |
 |Week 5||||||
-| 9/18  | M | Feeding | Design 1 Report Due |   |   |
-| | W | Digestion | Peer Critique 1 | Design Presentations/ Critique Session  |   |
-|   | F | Specialized Digestive Systems |   |   |   |
+| 9/18  | M | Feeding |  |   |   |
+| | W | Digestion |  | Lab5: PC1-IWS-Toad Heart |   |
+|   | F | Specialized Digestive Systems |  Design 1 Report Due |   |   |
 |Week 6||||||
-| 9/25  | M | Max Size Herbivores Paper | Design 1 Rewrite Due  |   | Maximal size attainable by herbivores Clauss 2003 |
-| | W | Neurons |   | Lab5: PC1-IWS-Toad Heart  |   |
+| 9/25  | M | Max Size Herbivores Paper | |   | Maximal size attainable by herbivores Clauss 2003 |
+| | W | Neurons |  Peer Critique 1 | Design Presentations/ Critique Session   |   |
 |   | F | Synapses  | PS3: Feeding & Digestion  |   |   |
 |Week 7||||||
-| 10/2  | M | Signal Propagation  |   |   |   |
+| 10/2  | M | Signal Propagation  | Design 1 Rewrite Due    |   |   |
 || W | Sensory Receptors | PS4: Neurons  | Lab 10:PC1-G-Vertebrate Action Potential  |   |
 |   | F | Vision/Orals  |   |   |   |
 |Week 8||||||

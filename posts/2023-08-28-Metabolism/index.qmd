@@ -126,3 +126,12 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 ### Refresher on log_10, lines, and how much to feed your elephant
 
 {{< video https://youtu.be/sO9fLmkaVB8 >}}
+
+# For Next Week
+
+- Holiday on Monday
+- Labs will be back in EDM101
+- Look ahead to the lecture post for 3. Temperature. Watch podcasts, etc. 
+- Add your fossil [here](https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0) 
+- HW1 due Friday Sept 1 at midnight
+- Due in two weeks \[[Background Bullet Points](../../projects/2023-09-06-design-background)\]

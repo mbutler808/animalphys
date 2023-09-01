@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="background">background <span class="quarto-category-count">(1)</span></div><div class="category" data-category="design project">design project <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -207,7 +207,41 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-projects">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="design project,background" data-listing-date-sort="1693994400000" data-listing-file-modified-sort="1693602242566" data-listing-reading-time-sort="1.48">
+<div class="body">
+<a href="./projects/2023-09-06-design-background/index.html">
+<h3 class="no-anchor listing-title">
+Background Bullet Points
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('design project'); return false;">
+design project
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('background'); return false;">
+background
+</div>
+</div>
+<a href="./projects/2023-09-06-design-background/index.html">
+<div class="listing-description">
+<p>A strong foundation for your design project starts with great background</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./projects/2023-09-06-design-background/index.html">
+<div class="listing-date">
+Sep 6, 2023
+</div>
+<div class="listing-author">
+Marguerite Butler
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

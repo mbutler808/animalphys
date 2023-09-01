@@ -1,0 +1,41 @@
+---
+title: "Background Bullet Points"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "A strong foundation for your design project starts with great background"
+date: 2023-09-06
+format: 
+  html: default 
+  pdf: default
+categories: [design project, background ]
+---
+
+# Design Project Background Bullet Points. Due Sept. 13. 
+
+## Assemble your background info to begin your analysis (below). 
+
+Use the library and the Web to find general information about your animal.  Get help from us and/or the librarians.  Look through the Design 1 assignment (posted later today) and gather all necessary information to start your analysis. This report will be about your animalʻs metabolism and heat balance, which you will present in a talk and write up a short paper. 
+
+Instead of an introduction, I want you to bullet-point the key background elements and end with a statement of purpose. You will want to cover relevant questions such as: 
+
+-  What kind of animal was it? What did it look like? (Please draw the figures yourself, it is part of the learning process).  
+-  Include any info that you find particularly interesting about the animal. 
+-  Where did it live?  General environment? (think metabolism and heat balance, so climate, humidity, temperature. 
+-  What was the range of ambient temperatures in which it lived, etc.)  
+-  Did it seek cover for shade or hiding places (think how it might impact heat balance and activity)? 
+-  Was it an active animal? How did it obtain food?  
+-  What other sorts of animals and plants lived at the same time?  
+
+
+For the sake of completeness, please organize your info into categories such as
+
+- __general morphology and physical description__, 
+-  __phylogeny and closest living relatives__, 
+-  __time period and range__, 
+-  __habitat, climate, and thermal biology__, 
+-  __lifestyle and behavior__ (such as foraging mode, locomotor strategy, social behavior, etc.)
+
+Start with your Library Books, but continue the search using journal articles, online reviews, and books borrowed through interlibrary loan. \[[Library Day](../../posts/2023-08-25-Library-day)\]
