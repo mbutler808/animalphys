@@ -1,0 +1,63 @@
+---
+title: "Lab 3 Worksheet: Peripheral Circulation and The Dive Response"
+author:
+  - name: Marguerite Butler
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Worksheet for Lab 3: Peripheral Circulation and The Dive Response"
+date: 2023-09-01
+toc: true
+format: 
+  html: default  
+  docx: default  
+  pdf: default  
+categories: [week 3, labs, circulation, peripheral circulation, blood pressure, dive response, worksheet]
+---
+
+::: {.callout-tip}  
+# Notes
+- Please pay attention to the __intellectual content__ contained in each section of this __worksheet__. 
+- Our goal here is the practice logically laying out our __ideas__ focusing on ___physiological mechanisms___. 
+-  Sections \(1\) and (2) together are designed to guide you to building strong hypotheses, and (3) and (4) are mini-results and mini-discussion sections, respectively. 
+:::
+
+## __(1) Statements of Purpose__
+
+__Use these statements of purpose to frame your thinking about this lab, complete them as needed:__
+
+_Distance from heart_ -- "We demonstrate the predicted drop in blood pressure with distance from the central pump. We explore whether there is a greater drop in systolic or diastolic pressure with distance" (in a full lab report you would set up your ideas for why it might go either way). 
+
+_Effect of gravity_ -- "We demonstrate the action of gravity on blood pressure. As vertebrates possess a closed circulatory system, vertical height should contribute to blood pressure in predictable ways."
+
+_Dive response_ -- "When diving, peripheral circulation should be reorganized to reduce cardiac output and increase peripheral vasoconstriction, called the dive response. We aim to observe the dive response by measuring ________________________."
+
+_Stimulus for dive response_ -- "We will test potential triggers for the dive response including ____________________________.""  
+
+## __(2) Expectations demonstrate your mastery of the mechanisms__
+
+::: {.callout-tip}  
+# Notes
+_After identifying the mechanisms, communicate (at least hint at) what you expect to see in the data if the hypothesized mechanisms are occurring. That shows deeper understanding._  
+:::
+
+If these mechanisms are occurring in your data, what would you expect to see? Be specific and relate back to observable parameters: (explain how you controlled for confounding parameters, if appropriate). _In a full lab report this would be written in paragraph form, in a narrative style._ 
+
+-  Distance from heart
+
+-  Effect of gravity 
+
+-  Dive response
+
+-  Stimulus for dive response
+
+
+## (3) Mini Results
+
+_Display your results by including either __a figure or a table__ for each important result_ (you may work together with your group to produce the figures or tables). ___Write one sentence__ pointing out what your data actually shows for each display item._ 
+
+## (4) Mini Discussion: 
+
+__Wrap-up:__ In paragraph form, briefly __Discuss__ the __main take-aways__ that you learned from these experiments on peripheral circulation and the dive response. Use specific results that back up your statements or speculate on the significance of the results. Organize by hypotheses above.
+
+__Individual assignment.__ Text must be your own, but you may work together with your group to produce figures/tables. You may edit this sheet. Submit by hard copy next week.
