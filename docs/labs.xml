@@ -9,7 +9,7 @@
 <link>https://mbutler808.github.io/labs.html</link>
 <atom:link href="https://mbutler808.github.io/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
-<generator>quarto-1.2.313</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 01 Sep 2023 10:00:00 GMT</lastBuildDate>
 <item>
   <title>Lab 3: Peripheral Circulation and The Dive Response</title>
@@ -23,15 +23,15 @@
 <h2 class="anchored" data-anchor-id="before-lab">Before Lab:</h2>
 <ul>
 <li>Watch Peripheral Circulation Podcast below.</li>
-<li>Read [<a href="Lab3-human-peripheral-circulation-dive-response">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]</li>
+<li>Read [<a href="Lab3-human-peripheral-circulation-dive-response.pdf">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]</li>
 <li><em>Practical next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
 </ul>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/h47oQH-w6F8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/h47oQH-w6F8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="in-lab" class="level2">
 <h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
 <ul>
-<li>Perform [<a href="Lab3-human-peripheral-circulation-dive-response">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]
+<li>Perform [<a href="Lab3-human-peripheral-circulation-dive-response.pdf">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]
 <ul>
 <li>Peripheral circulation experiment</li>
 <li>Dive response experiment</li>
@@ -65,12 +65,12 @@
 
 
 
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Notes
 </div>
 </div>
@@ -92,12 +92,12 @@ Notes
 </section>
 <section id="expectations-demonstrate-your-mastery-of-the-mechanisms" class="level2">
 <h2 class="anchored" data-anchor-id="expectations-demonstrate-your-mastery-of-the-mechanisms"><strong>(2) Expectations demonstrate your mastery of the mechanisms</strong></h2>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Notes
 </div>
 </div>
@@ -156,7 +156,7 @@ Notes
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/Zoo-Map.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Map of the Honolulu Zoo</figcaption><p></p>
+<figcaption class="figure-caption">Map of the Honolulu Zoo</figcaption>
 </figure>
 </div>
 </section>
@@ -445,7 +445,7 @@ Notes
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/Table4-10.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Table 4-10 from Withers 1991</figcaption><p></p>
+<figcaption class="figure-caption">Table 4-10 from Withers 1991</figcaption>
 </figure>
 </div>
 </section>
@@ -504,7 +504,6 @@ Notes
   <category>DMR</category>
   <guid>https://mbutler808.github.io/labs/Lab2-zoo/index.html</guid>
   <pubDate>Tue, 29 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/Zoo-Map.png" medium="image" type="image/png" height="237" width="144"/>
 </item>
 <item>
   <title>Lab 1: Heart Rate and Data Analysis</title>
@@ -534,7 +533,7 @@ Notes
 <li>Do Lab 1 PreLab Quiz in Laulima under Tests and Quizzes before lab (based on Hlimoneko). You get 2 tries. <em>Posted 24 hours before lab.</em></li>
 <li>Please bring a bound notebook to lab for your lab notebook. (e.g., a $1 composition book, used is OK)</li>
 </ul>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/pujrG6zhTJE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/pujrG6zhTJE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="in-lab" class="level2">
 <h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
@@ -543,12 +542,12 @@ Notes
 <li>Perform <a href="Lab1-data-aquistion-finger-pulse.pdf">Lab 1 Data Aquistion and Finger Pulse</a>. <em>Practical in week 3 on this material</em></li>
 <li>Discuss Hlimoneko 2003 Paper [<a href="../../labs-misc/Lab1-discussion.html">html</a>][<a href="ZOOL430L-Lab1-Discussion_FA21.pdf">pdf</a>]</li>
 </ul>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 After today, you should know how to:
 </div>
 </div>

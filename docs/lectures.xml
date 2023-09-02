@@ -9,7 +9,7 @@
 <link>https://mbutler808.github.io/lectures.html</link>
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
-<generator>quarto-1.2.313</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Wed, 06 Sep 2023 10:00:00 GMT</lastBuildDate>
 <item>
   <title>3. Temperature</title>
@@ -21,12 +21,12 @@
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -109,25 +109,25 @@ Read ahead
 <h1>3. Temperature</h1>
 <section id="modes-of-heat-transfer" class="level2">
 <h2 class="anchored" data-anchor-id="modes-of-heat-transfer">Modes of Heat Transfer</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/BHchDrboqEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/BHchDrboqEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="q10" class="level2">
 <h2 class="anchored" data-anchor-id="q10">Q10</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/T5O9UvSZ_-g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/T5O9UvSZ_-g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="iterative-method" class="level2">
 <h2 class="anchored" data-anchor-id="iterative-method">Iterative Method</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/pEzcZCTYPyE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/pEzcZCTYPyE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 </section>
 <section id="for-next-time" class="level1">
 <h1>For Next Time</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Reminders and materials
 </div>
 </div>
@@ -160,12 +160,12 @@ Reminders and materials
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -268,12 +268,12 @@ Read ahead
 </section>
 <section id="a.-metabolism-and-how-do-we-measure-the-cost-of-being-alive" class="level1">
 <h1>2a. Metabolism and how do we measure the cost of being alive?</h1>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/NRrgZQrEiWc?si=1jk4xxtXYrrzjq5N&amp;t=90" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NRrgZQrEiWc?si=1jk4xxtXYrrzjq5N&amp;t=90" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p><img src="https://mbutler808.github.io/images/LiveFastDieYoung.png" class="img-fluid"></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/AerobicRespiration.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Where metabolism comes from</figcaption><p></p>
+<figcaption class="figure-caption">Where metabolism comes from</figcaption>
 </figure>
 </div>
 <section id="discussion-questions" class="level2">
@@ -285,7 +285,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/MetabolicScope.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">An example of Metabolic Scope</figcaption><p></p>
+<figcaption class="figure-caption">An example of Metabolic Scope</figcaption>
 </figure>
 </div>
 <ol start="3" type="1">
@@ -294,7 +294,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/Table4-10notes.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Table 4-10 from Withers 1992</figcaption><p></p>
+<figcaption class="figure-caption">Table 4-10 from Withers 1992</figcaption>
 </figure>
 </div>
 <ol start="4" type="1">
@@ -316,12 +316,12 @@ Read ahead
 </section>
 <section id="b.-size-and-scaling" class="level1">
 <h1>2b. Size and Scaling</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Reminders and materials
 </div>
 </div>
@@ -339,17 +339,17 @@ Reminders and materials
 </div>
 <section id="scaling-podcast" class="level2">
 <h2 class="anchored" data-anchor-id="scaling-podcast">Scaling Podcast</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/_NDNa_3Bon8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_NDNa_3Bon8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="if-you-would-like-some-more-review-optional" class="level2">
 <h2 class="anchored" data-anchor-id="if-you-would-like-some-more-review-optional">If you would like some more review (optional)</h2>
 <section id="a-walk-through-of-bmr-scaling-equations" class="level3">
 <h3 class="anchored" data-anchor-id="a-walk-through-of-bmr-scaling-equations">A walk through of BMR scaling equations</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/uqGEBgspTI0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/uqGEBgspTI0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="refresher-on-log_10-lines-and-how-much-to-feed-your-elephant" class="level3">
 <h3 class="anchored" data-anchor-id="refresher-on-log_10-lines-and-how-much-to-feed-your-elephant">Refresher on log_10, lines, and how much to feed your elephant</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/sO9fLmkaVB8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/sO9fLmkaVB8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 </section>
 </section>
@@ -377,7 +377,6 @@ Reminders and materials
   <category>DMR</category>
   <guid>https://mbutler808.github.io/posts/2023-08-28-Metabolism/index.html</guid>
   <pubDate>Mon, 28 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/LiveFastDieYoung.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
   <title>Library Day</title>
@@ -396,12 +395,12 @@ Reminders and materials
 </section>
 <section id="goals-for-today" class="level1">
 <h1>Goals for today</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Get a strong foundation for your design project
 </div>
 </div>
@@ -428,12 +427,12 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
 <section id="search-strategies" class="level3">
 <h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
 <p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
 </div>
 </div>
@@ -444,12 +443,12 @@ ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zo
 </ul>
 </div>
 </div>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 All the best online sources
 </div>
 </div>
@@ -500,7 +499,6 @@ All the best online sources
   <category>design background</category>
   <guid>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</guid>
   <pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://manoa.hawaii.edu/library/wp-content/uploads/floorplans/Hamilton-3rd-Floor.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Colossal Whale Discussion</title>
@@ -512,12 +510,12 @@ All the best online sources
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -628,7 +626,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/https:/media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption><p></p>
+<figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption>
 </figure>
 </div>
 <section id="discussion-agenda" class="level3">
@@ -653,7 +651,7 @@ Read ahead
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/femur_head.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">The head of a human femur</figcaption><p></p>
+<figcaption class="figure-caption">The head of a human femur</figcaption>
 </figure>
 </div>
 </section>
@@ -671,12 +669,12 @@ Academic authors will sometimes write a summary of the last 10 years or so of re
 <section id="search-strategies" class="level3">
 <h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
 <p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
 </div>
 </div>
@@ -687,12 +685,12 @@ ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zo
 </ul>
 </div>
 </div>
-<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 All the best online sources
 </div>
 </div>
@@ -733,7 +731,6 @@ All the best online sources
   <category>morphology</category>
   <guid>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</guid>
   <pubDate>Wed, 23 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title></title>
@@ -745,7 +742,6 @@ All the best online sources
   <category>introduction</category>
   <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
   <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/Edaphosaurus_boanerges.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

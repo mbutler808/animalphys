@@ -18,14 +18,14 @@ categories: [week 3, labs, circulation, peripheral circulation, blood pressure, 
 ## Before Lab:
 
 - Watch Peripheral Circulation Podcast below.
-- Read \[[Lab 3](Lab3-human-peripheral-circulation-dive-response)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
+- Read \[[Lab 3](Lab3-human-peripheral-circulation-dive-response.pdf)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
 - _Practical next week (week 4) on Lab 1 material_.  Let us know if you want to come in to practice. 
 
 {{< video https://youtu.be/h47oQH-w6F8 >}}
 
 ## In Lab: 
 
-- Perform \[[Lab 3](Lab3-human-peripheral-circulation-dive-response)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
+- Perform \[[Lab 3](Lab3-human-peripheral-circulation-dive-response.pdf)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
   - Peripheral circulation experiment
   - Dive response experiment 
 
