@@ -24,8 +24,8 @@ categories: [week 1, week3, week4, labs, protocols, PowerLab, LabChart, finger p
 
 ## General Lab Course Info:
 
-- [Lab Report Guidelines](../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf)
-- [Lab Expectations](../../labs-misc/Lab-Expectations.pdf)
-- [Notebook Instructions](../../labs-misc/notebookinstructionsMB.pdf)
-- [Lab Team Timeline Agreement](../../labs-misc/Agreement-for-Group-Lab-Report-Timeline.pdf)
+- [Lab Report Guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)
+- [Lab Expectations](../../labs-misc/handouts/Lab-Expectations.pdf)
+- [Notebook Instructions](../../labs-misc/lab-notebook.qmd)
+- [Lab Team Timeline Agreement](../../labs-misc/handouts/Agreement-for-Group-Lab-Report-Timeline.pdf)
 

@@ -17,19 +17,24 @@ categories: [week 3, labs, circulation, peripheral circulation, blood pressure, 
 
 ## Before Lab:
 
-- Watch Peripheral Circulation Podcast below.
-- Read \[[Lab 3](Lab3-blood-pressure-peripheral-circulation-dive-response.pdf)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
-- _Practical next week (week 4) on Lab 1 material_.  Let us know if you want to come in to practice. 
+- Watch Peripheral Circulation Podcast.
+- Read \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
+- Read \[[Lab 3](Lab3-blood-pressure-peripheral-circulation-dive-response.pdf)\] 
+- Do \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\]
+- Do Quiz on Laulima
 
 {{< video https://youtu.be/h47oQH-w6F8 >}}
 
 ## In Lab: 
 
-- Perform \[[Lab 3](Lab3-blood-pressure-peripheral-circulation-dive-response.pdf)\] and \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\]
-  - Peripheral circulation experiment
-  - Dive response experiment 
+- Peripheral circulation experiment
+  + Develop a simple experiment to demonstrate a principle of peripheral circulation of choice.
+- Dive response experiment 
+  + Develop a hypothesis for a potential trigger for the dive response.
+
 
 ## After Lab: Assignment Week 3:
 
 - Individual WorkSheet \[[html](Lab3ws.qmd)\]
+- Reminder: _Practical next week (week 4) on Lab 1 material_.  Let us know if you want to come in to practice. 
 

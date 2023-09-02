@@ -22,19 +22,24 @@
 <section id="before-lab" class="level2">
 <h2 class="anchored" data-anchor-id="before-lab">Before Lab:</h2>
 <ul>
-<li>Watch Peripheral Circulation Podcast below.</li>
-<li>Read [<a href="Lab3-blood-pressure-peripheral-circulation-dive-response.pdf">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]</li>
-<li><em>Practical next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
+<li>Watch Peripheral Circulation Podcast.</li>
+<li>Read [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]</li>
+<li>Read [<a href="Lab3-blood-pressure-peripheral-circulation-dive-response.pdf">Lab 3</a>]</li>
+<li>Do [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>]</li>
+<li>Do Quiz on Laulima</li>
 </ul>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/h47oQH-w6F8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="in-lab" class="level2">
 <h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
 <ul>
-<li>Perform [<a href="Lab3-blood-pressure-peripheral-circulation-dive-response.pdf">Lab 3</a>] and [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]
+<li>Peripheral circulation experiment
 <ul>
-<li>Peripheral circulation experiment</li>
-<li>Dive response experiment</li>
+<li>Develop a simple experiment to demonstrate a principle of peripheral circulation of choice.</li>
+</ul></li>
+<li>Dive response experiment
+<ul>
+<li>Develop a hypothesis for a potential trigger for the dive response.</li>
 </ul></li>
 </ul>
 </section>
@@ -42,6 +47,7 @@
 <h2 class="anchored" data-anchor-id="after-lab-assignment-week-3">After Lab: Assignment Week 3:</h2>
 <ul>
 <li>Individual WorkSheet [<a href="../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html">html</a>]</li>
+<li>Reminder: <em>Practical next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
 </ul>
 
 
@@ -618,10 +624,10 @@ After today, you should know how to:
 <section id="general-lab-course-info" class="level2">
 <h2 class="anchored" data-anchor-id="general-lab-course-info">General Lab Course Info:</h2>
 <ul>
-<li><a href="../../labs-misc/Revised_Zool430L_lab_report_guidelines.pdf">Lab Report Guidelines</a></li>
-<li><a href="../../labs-misc/Lab-Expectations.pdf">Lab Expectations</a></li>
-<li><a href="../../labs-misc/notebookinstructionsMB.pdf">Notebook Instructions</a></li>
-<li><a href="../../labs-misc/Agreement-for-Group-Lab-Report-Timeline.pdf">Lab Team Timeline Agreement</a></li>
+<li><a href="../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf">Lab Report Guidelines</a></li>
+<li><a href="../../labs-misc/handouts/Lab-Expectations.pdf">Lab Expectations</a></li>
+<li><a href="../../labs-misc/lab-notebook.html">Notebook Instructions</a></li>
+<li><a href="../../labs-misc/handouts/Agreement-for-Group-Lab-Report-Timeline.pdf">Lab Team Timeline Agreement</a></li>
 </ul>
 
 
