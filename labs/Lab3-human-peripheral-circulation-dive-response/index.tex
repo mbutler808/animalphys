@@ -1,0 +1,948 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod,
+  oneside]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[left=1in,marginparwidth=2.0666666666667in,textwidth=4.1333333333333in,marginparsep=0.3in]{geometry}
+\usepackage{svg}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{sidenotes}{}{\usepackage{sidenotes}}
+\@ifpackageloaded{marginnote}{}{\usepackage{marginnote}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Lab 3: Peripheral Circulation and The Dive Response},
+  pdfauthor={Marguerite Butler},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Lab 3: Peripheral Circulation and The Dive Response}
+\author{Marguerite Butler}
+\date{2023-09-01}
+
+\begin{document}
+\maketitle
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, borderline west={3pt}{0pt}{shadecolor}, boxrule=0pt, sharp corners, interior hidden, frame hidden, breakable]}{\end{tcolorbox}}\fi
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{before-lab}{%
+\section{Before Lab}\label{before-lab}}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-note-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Prepare for lab by:}, bottomtitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Watch Peripheral Circulation Podcast.
+\item
+  Read {[}\href{../Protocols/p2-measuring-blood-pressure.pdf}{Protocol
+  2}{]} on measuring blood pressure.
+\item
+  Read the lab manual below.\\
+\item
+  Write the
+  {[}\href{../../labs-misc/lab-notebook.qmd\#sec-prelab}{Prelab}{]} in
+  your lab notebook.
+\item
+  Do Quiz on Laulima (open 24 hrs before lab).
+\end{itemize}
+
+\url{https://youtu.be/h47oQH-w6F8}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-note-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Exercises}, bottomtitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Measuring blood pressure
+\item
+  Peripheral circulation experiment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Develop a simple experiment to demonstrate a principle of peripheral
+    circulation of choice.
+  \end{itemize}
+\item
+  Dive response experiment
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Develop a hypothesis for a potential trigger for the dive response.
+  \end{itemize}
+\end{itemize}
+
+\end{tcolorbox}
+
+\hypertarget{background-blood-pressure-and-peripheral-circulation}{%
+\section{Background: Blood pressure and peripheral
+circulation}\label{background-blood-pressure-and-peripheral-circulation}}
+
+Vertebrates have a \textbf{closed circulatory system} where the blood is
+always enclosed within blood vessels or the heart. Blood is pumped from
+the \textbf{heart} (the central pump) to the \textbf{vasculature}: the
+\textbf{arteries}, \textbf{capillary beds} (sites of delivery to
+tissues), \textbf{the veins}, and back to heart. There are several
+important consequences of this design: (1) blood pressure varies across
+species according to oxygen demand and morphology (especially animal
+height), (2) \textbf{blood pressure varies along the circuit}, (3)
+\textbf{blood pressure can be regulated at points along the circuit},
+and (4) \textbf{blood pressure can be modified situationally} depending
+the state of the animal.
+
+\hypertarget{blood-pressure-varies-across-species}{%
+\subsubsection{Blood pressure varies across
+species}\label{blood-pressure-varies-across-species}}
+
+For \textbf{very active} animals (e.g., mammals and birds) or
+\textbf{very large animals} (especially very tall animals that have more
+gravity to resist), the ability to regulate blood pressure is critical
+--- active animals will \emph{need more oxygen delivered at a faster
+rate}, especially to the most metabolically active tissues, and
+\emph{larger animals will require much more pressure} to reach all of
+their tissues.
+
+\hypertarget{blood-pressure-varies-during-the-cardiac-cycle.}{%
+\subsubsection{Blood pressure varies during the cardiac
+cycle.}\label{blood-pressure-varies-during-the-cardiac-cycle.}}
+
+The \textbf{cardiac cycle} is a complete cycle of the heart beat,
+comprised of \textbf{systole} (Figure~\ref{fig-systole}; the phase
+involving contraction and ejection) and \textbf{diastole}
+(Figure~\ref{fig-diastole}; relaxation and filling) of the atria and
+ventricles. We will learn more about the cardiac cycle in the EKG lab.
+In this lab we are focusing on the blood pressure changes. The largest
+muscles of the heart are in the \textbf{ventricles}. Blood pressure is
+at its highest immediately after the ventricles contract to push blood
+into the arterial system (Figure~\ref{fig-wiggers}; \textbf{systolic
+pressure}) and declines as the ventricles relax to fill with blood
+before pumping again. Just before the ventricles contract, blood
+pressure is at its lowest (\textbf{diastolic pressure}).
+
+\begin{marginfigure}
+
+{\centering \includesvg{index_files/mediabag/Heart_systole.svg}
+
+}
+
+\caption{\label{fig-systole}The human heart during the ventricular
+\textbf{systole} phase of the \textbf{cardiac cycle}. Image by
+\href{href=\%22https://en.wikipedia.org/wiki/User:Wapcaplet}{Wapcaplet},
+\href{https://commons.wikimedia.org/wiki/User:Reytan}{Reytan},
+\href{https://commons.wikimedia.org/wiki/User:Mtcv}{Mtcv} /
+\href{https://commons.wikimedia.org/wiki/File:Heart_systole.svg}{Heart
+systole}/\href{https://creativecommons.org/licenses/by-sa/3.0/}{CC BY-SA
+3.0}}
+
+\end{marginfigure}
+
+\begin{figure}
+
+{\centering \includesvg{index_files/mediabag/Heart_diasystole.svg}
+
+}
+
+\caption{\label{fig-diastole}The heart relaxes and the ventricles fill
+during the \textbf{diastole} phase of the \textbf{cardiac cycle}. Image
+by
+\href{href=\%22https://en.wikipedia.org/wiki/User:Wapcaplet}{Wapcaplet},
+\href{https://commons.wikimedia.org/wiki/User:Reytan}{Reytan},
+Vector:\href{https://commons.wikimedia.org/wiki/User:Sjef}{Sjef} /
+\href{https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg}{Heart
+diastole}/ \href{https://creativecommons.org/licenses/by-sa/3.0/}{CC
+BY-SA 3.0}}
+
+\end{figure}
+
+\begin{figure}
+
+{\centering \includesvg{index_files/mediabag/Wiggers_Diagram_2.svg}
+
+}
+
+\caption{\label{fig-wiggers}Volume and pressure changes during the
+\textbf{cardiac cycle}, as shown in a Wiggers diagram. Note that aortic
+and ventricular pressures are both lowest and the end of diastole, just
+before the beginning of systole. adh30 revised work by DanielChangMD who
+revised original work of DestinyQx; Redrawn as SVG by xavax,
+\href{https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg}{Wiggers
+Diagram 2},
+\href{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{CC BY-SA
+4.0}}
+
+\end{figure}
+
+\hypertarget{blood-pressure-varies-along-the-vascular-circuit.}{%
+\subsubsection{Blood pressure varies along the vascular
+circuit.}\label{blood-pressure-varies-along-the-vascular-circuit.}}
+
+Blood in the arteries leaving the heart is always at very high pressure
+as compared to the low pressure in the veins in the legs or the even
+lower pressure in capillary beds at the tissues. Blood pressure drops as
+the blood vessels branch again and again, increasing the cross-sectional
+area of the circuit, until it reaches the capillaries where the tissues
+experience relatively constant, low pressure to facilitate
+\textbf{diffusion}.
+
+The slow blood flow at the capillaries facilitates diffusion of oxygen,
+nutrients, and carbon dioxide and other wastes between the blood and the
+tissues that are bathed by the capillaries. Therefore, \textbf{pressure
+varies} depending on \textbf{distance from the heart}, the
+\textbf{cross-sectional area of the blood vessels}, as well as
+\textbf{gravity}. However, at any given point along the circuit, blood
+pressure remains fairly constant.
+
+\hypertarget{circulation-can-be-adjusted-situationally.}{%
+\subsubsection{Circulation can be adjusted
+situationally.}\label{circulation-can-be-adjusted-situationally.}}
+
+At most times, blood pressure is regulated to \textbf{maintain a
+relatively constant pressure}, however, there are times when
+\textbf{circulation needs to be adjusted}. A well-known example is the
+\textbf{Fight-or-Flight response}, which occurs, for example, when an
+animal sees a predator or anticipates a fight. The \textbf{sympathetic
+nervous system} dominates and causes a ramp-up of circulation to deliver
+more energy to the skeletal muscles: increased \textbf{cardiac output}
+(= \textbf{heart rate} x \textbf{stroke volume}) and \textbf{blood
+pressure}, and increased blood flow to the lungs and skeletal muscles.
+In contrast, the \textbf{rest-and-digest} response occurs after an
+animal has had a large meal. The \textbf{parasympathetic nervous system}
+dominates, lowering heart rate, concentrates blood flow to the gut, and
+promotes a resting state.
+
+Adjustments to blood flow are not simply an adjustment of heart
+function, but also \textbf{constriction or relaxation of the
+vasculature} (blood vessels: arteries, veins, capillaries).
+\textbf{Constricting blood vessels} will reduce their
+\textbf{cross-sectional area} and \textbf{increase blood pressure and
+flow}.
+
+Local changes in circulation are under \textbf{nervous} and
+\textbf{hormonal} control. Regulation of blood flow in the vertebrate
+circulatory system occurs by three primary mechanisms: 1) \textbf{local
+receptors} (\emph{nervous system}) to detect levels of metabolic
+activity (e.g., carbon dioxide receptors), 2) \textbf{sympathetic} and
+\textbf{parasympathetic} (\emph{autonomic nervous system}) control of
+the vasculature including capillary beds at the tissues, and 3)
+\textbf{endocrine} (\emph{hormonal}) control of the vasculature.
+
+In this lab, we will measure blood pressure of volunteers using a finger
+pulse transducer, a stethoscope, a blood pressure cuff
+(sphygnomanometer), and changes in peripheral circulation by measuring
+the volume of the extremities using a belt with a force transducer. We
+will do a series of learning exercises and then conduct an experiment on
+factors affecting peripheral circulation and as well as during simulated
+dives (the dive response).
+
+\hypertarget{equiptment}{%
+\subsection{Equiptment}\label{equiptment}}
+
+\begin{itemize}
+\tightlist
+\item
+  PowerLab data acquisition system
+\item
+  Finger pulse transducer
+\item
+  Stethoscope
+\item
+  Blood pressure cuff
+\item
+  Blood pressure gauge (sphygnomanometer) with pod or BNC port
+\item
+  Respiratory belt transducer
+\item
+  LabChart software, note Blood Pressure settings
+\end{itemize}
+
+\hypertarget{exercise-1-measuring-blood-pressure}{%
+\section{Exercise 1: Measuring Blood
+Pressure}\label{exercise-1-measuring-blood-pressure}}
+
+Traditionally, systemic arterial blood pressure is measured using a
+\textbf{stethoscope} and a \textbf{blood pressure cuff} connected to a
+blood pressure gauge called a \textbf{sphygnomanometer}
+(\emph{sss-fig-no-ma-nom-eter}). The sphygnomanometer is calibrated in
+pressure units of mmHg (millimeters of mercury). Modern instruments use
+compressed air as a hydraulic fluid to transmit the force of your
+pulsing blood.
+
+Refer to {[}\href{../Protocols/p2-measuring-blood-pressure.pdf}{Protocol
+2.1 and 2.2}{]} for how to measure blood pressure.
+
+\hypertarget{setup}{%
+\subsection{Setup}\label{setup}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Use ``Blood Pressure'' settings to start Chart software.
+\item
+  Setup Finger Pulse transducer on Input 1.
+\item
+  Attach sphygmomanometer transducer to Input 2 (pod input).
+\end{enumerate}
+
+\hypertarget{data-collection}{%
+\subsection{Data Collection}\label{data-collection}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Measure blood pressure on a human volunteer using
+  \textbf{auscultation} (listening through a stethoscope) and a
+  \textbf{sphygnamonometer} .
+\item
+  Measure blood pressure using the PowerLab system and LabChart. Check
+  that the \textbf{channel settings} are correctly set for each channel.
+\item
+  Repeat (1) and (2) on each group member, making sure to comment your
+  data trace.
+\end{enumerate}
+
+\hypertarget{questions-for-thought}{%
+\subsubsection{Questions for
+thought\ldots{}}\label{questions-for-thought}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Does the time of the first \textbf{Korotkoff sound} (systolic pressure
+  heard through the stethoscope), correspond with the first appearance
+  of blood flow (as measured by the finger pulse)? Why or why not?
+\item
+  Would slowing the rate of pressure release from the cuff make your
+  readings of the first appearance of blood flow more accurate? What
+  problems might be caused by slowing pressure release?
+\item
+  Does the time that diastolic pressure is heard through the stethoscope
+  correspond with anything particular in the blood flow signal? Can you,
+  therefore, use pulse measurement to replace the stethoscope?
+\item
+  How much variation in measurement of diastolic and systolic pressures
+  was observed within and between individuals? What are potential
+  sources of variation in these estimates?
+\end{enumerate}
+
+\hypertarget{exercise-2-exploring-peripheral-circulation}{%
+\section{Exercise 2: Exploring Peripheral
+Circulation}\label{exercise-2-exploring-peripheral-circulation}}
+
+\hypertarget{objectives}{%
+\subsection{Objectives}\label{objectives}}
+
+To demonstrate basic principles of peripheral circulation using blood
+pressure data from the extremities. What you would expect based on
+relative distance from the heart and gravity (and whether the location
+is above or below the heart)?
+
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \emph{Brainstorm with your lab group to develop some simple
+  experiments to demonstrate principles of peripheral circulation.} What
+  are some good hypotheses for peripheral blood pressure?
+\item
+  What are some good locations to measure (or other simple
+  manipulations) for comparison? Make sure you place the stethoscope on
+  a major artery or vein such as the radial artery on the forearm, or
+  the small saphenous vein on the calf. Ask for help if you don't know
+  where they are. Be specific when you write up your methods or we will
+  not understand what you did.
+\item
+  For each experiment, \textbf{determine both systolic and diastolic
+  blood pressure}.
+\end{enumerate}
+
+\hypertarget{notes}{%
+\subsubsection{Notes}\label{notes}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  You may need to recalibrate the blood pressure force transducer after
+  each time you move the cuff.
+\item
+  Place the instruments directly on the skin (not through clothes).\\
+\item
+  When measuring from foot, please wash toe before attaching pulse
+  transducer to prevent any fungal contamination.
+\item
+  \textbf{Always Release the cuff pressure \emph{completely} as soon as
+  you are done taking data}
+\end{enumerate}
+
+\hypertarget{analysis}{%
+\subsubsection{Analysis}\label{analysis}}
+
+Compare systolic and diastolic pressure for each of your treatments
+versus an appropriate control. Think carefully about appropriate
+controls for your ideas to achieve the best test of your hypotheses.
+
+\hypertarget{questions-for-thought-1}{%
+\subsubsection{Questions for
+thought\ldots{}}\label{questions-for-thought-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  How much does blood pressure change for each treatment? What could
+  explain it? Does it seam reasonable?
+\item
+  How much variation is there among members of your group? What are
+  sources of variation in these estimates?
+\end{enumerate}
+
+\hypertarget{exercise-3-the-dive-response}{%
+\section{Exercise 3: The Dive
+Response}\label{exercise-3-the-dive-response}}
+
+When an air-breathing animal dives, it voluntarily holds its breath
+while the tissues continue to use oxygen. The \textbf{dive response} is
+a reflexive response that reorganizes circulation to maintain blood flow
+to the most essential organs -- the brain, eyes, and myocardium (heart
+muscle), while reducing blood flow to the peripheral tissues including
+musculature of the limbs and thorax, lungs, and renal system.
+Remarkably, all vertebrates have a dive response. The responses vary
+greatly between taxa, with some of the most pronounced being in whales
+and diving seals.
+
+A primary feature of the dive response is a \textbf{diving bradycardia}
+(slowing of the heart rate), which results in a dramatic drop in
+\textbf{cardiac output} (\textbf{cardiac output} = \textbf{heart rate x
+stroke volume}). You might think that this would result in a dramatic
+drop in blood pressure as well, but in addition to reduced cardiac
+output, another component of the dive response is \textbf{peripheral
+vasoconstriction}, where the blood vessels of the peripheral tissues are
+constricted or even closed. As a whole, the dive response preserves
+circulation around the vital organs while reducing circulation to the
+peripheral tissues. Oxygen becomes depleted and carbon dioxide and
+lactate build up in the tissues during a dive. When the animal
+resurfaces, there is a recovery period characterized by more rapid heart
+rate and ventilation to absorb more oxygen and flush out lactate and
+carbon dioxide.
+
+\hypertarget{objectives-1}{%
+\subsection{Objectives}\label{objectives-1}}
+
+You will investigate the effects of the diving response on heart rate
+and peripheral circulation in humans during simulated dives. First, you
+will examine the effect of holding your breath, then you will examine
+the effects of simulated dives. Finally, you will do a series of
+experiments to determine which stimuli contribute to triggering the dive
+response. One person will serve as the experimental subject. If time
+permits, each person in the group should take turns being the
+experimental subject to have more replication.
+
+\hypertarget{additional-required-equipment}{%
+\subsection{Additional Required
+Equipment}\label{additional-required-equipment}}
+
+\begin{itemize}
+\tightlist
+\item
+  Respiratory Belt Transducer
+\item
+  Wash basin, Ice, Thermometer
+\item
+  Duct tape
+\item
+  Use the Dive settings file
+\end{itemize}
+
+\hypertarget{sec-divesetup}{%
+\subsection{A. Set up}\label{sec-divesetup}}
+
+\begin{marginfigure}
+
+{\centering \includegraphics{../../images/calf_belt.jpg}
+
+}
+
+\caption{\label{fig-calf}Attachment of the respiratory belt transducer
+to the calf for leg volume measurement.}
+
+\end{marginfigure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Use the Exercise 1 setup with the addition of the Respiratory Belt
+  Transducer to input 3 (or 2) to measure leg volume. Check the channel
+  settings to make sure they match the inputs. Ask your TA for the
+  proper settings.
+\item
+  Attach the respiratory belt snugly to the calf
+  (Figure~\ref{fig-calf}). \emph{It should feel tight and the sensor
+  fabric should be slightly stretched.}
+\item
+  Place the sphygnomanometer cuff around the subject's thigh, and
+  \emph{duct tape it securely so that it can be pressurized to restrict
+  blood flow}. Be sure to apply tape to \emph{secure both the top and
+  the bottom} of the cuff.
+\item
+  Record for 10 seconds and stop. Scale the Pulse channel and the Leg
+  Volume channel to fully display the data.
+\item
+  Record again and test by flexing and relaxing your calf. \emph{You
+  should be able to see a clear deflection on the leg volume channel.}
+  If it is very small, try tightening the respiratory belt a little.
+  Check with your TA before moving on.
+\item
+  Use a timer to time the treatments (a cell phone or a web browser will
+  do).
+\end{enumerate}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-note-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{The idea behind measuring peripheral circulation using leg volume
+changes}, bottomtitle=1mm]
+
+We can quantify the volume in your peripheral circulation (specifically
+your lower leg) by assessing \textbf{venous pooling} for a standard time
+interval. By constricting blood flow to the lower limb, we will prevent
+venous return of the blood. Because the veins do not have much smooth
+muscle, it is relatively easy to stop venous return.
+
+You will use the sphygnomanometer cuff to cut off circulation in the leg
+for 30 sec.~at the upper thigh. The respiratory belt transducer senses
+stretch and can be used to measure \textbf{calf volume}
+(Figure~\ref{fig-calf}) \textbf{before} inflating the cuff,
+\textbf{after 30 sec of inflation}, and \textbf{after deflating} the
+cuff.
+
+\textbf{The resulting \emph{leg volume} difference} (maximum-minimum
+volume at T1 vs.~T2; Figure~\ref{fig-legvol}) is a measure of pooling
+and therefore peripheral circulation. For each experiment, we will
+compare the \textbf{degree of pooling} at \textbf{rest}, during the
+\textbf{experimental treatment}, and during the \textbf{recovery}
+periods.
+
+\end{tcolorbox}
+
+\begin{marginfigure}
+
+{\centering \includegraphics{../../images/legvol.jpg}
+
+}
+
+\caption{\label{fig-legvol}Zoom window view of measuring the leg volume
+change resulting from a simulated dive using a marker at T1 (30sec of
+cuff inflation) and the waveform cursor at T2 (maximum leg volume drop
+after releasing the pressure).}
+
+\end{marginfigure}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-tip-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Measuring leg volume from the volume trace:}, bottomtitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Set the Marker to a region just prior to cuff deflation in the leg
+  volume channel (Figure~\ref{fig-legvol}).
+\item
+  Use the Waveform Cursor to determine the relative change in leg volume
+  for the data trace when the cuff was deflated.
+\end{itemize}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-tip-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Protocol: Leg volume measurement}, bottomtitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Record the subject's resting pulse for 15 seconds.
+\item
+  \textbf{Inflate} the cuff to \textbf{80 mmHg} (or whatever pressure
+  feels tight enough to restrict blood flow for the subject),
+\item
+  \textbf{Hold pressure} for \textbf{exactly 30 seconds} (\emph{NOTE:
+  You may have to gently squeeze the bulb to keep pressure at 80 mmHg.})
+\item
+  \textbf{Quickly and COMPLETELY release} the pressure
+  (Figure~\ref{fig-legvol}).
+\item
+  Record until the volume returns to baseline.
+\end{itemize}
+
+{NOTES: Comment at \textbf{start}, at \textbf{start to inflate}, at
+\textbf{pressure}, and at \textbf{deflate}.}\\
+When doing repeated measurements, ensure you have \textbf{baseline data}
+for \emph{at least 15 sec} before inflating the cuff again. The leg
+volume measurement will take a little over a minute total.
+
+\end{tcolorbox}
+
+\hypertarget{b.-breath-holding-experiment}{%
+\subsection{B. Breath holding
+experiment}\label{b.-breath-holding-experiment}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Use the \href{@sec-divesetup}{Section A setup} with the respiratory
+  belt on the calf (Figure~\ref{fig-calf}) and the sphygnomanometer cuff
+  on the upper thigh.
+\item
+  Measure \textbf{leg volume at rest} {[}\href{@prot-legvol}{Protocol:
+  Leg volume measurement}{]}.\\
+\item
+  \textbf{Breath hold treatment} (will require breath hold of
+  \textasciitilde1min):
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    Have the subject take one or two deep breaths, exhale partially, and
+    then hold their breath while they place their head down on the lab
+    bench.\\
+  \item
+    Start a timer with the start of breath hold (cell phone or find a
+    timer online). \emph{The experimenter should tap on the subjectʻs
+    shoulder every 10 sec to help them track time.}
+  \item
+    Measure \textbf{leg volume 30 seconds into the breath-hold}.\\
+  \end{enumerate}
+\item
+  Measure \textbf{leg volume during recovery}: at 30 sec into the
+  recovery.
+\end{enumerate}
+
+{Make sure to \textbf{comment at each step} and \textbf{DEFLATE CUFF
+COMPLETELY} each time.}
+
+\hypertarget{c.-dive-response-experiment}{%
+\subsection{C. Dive response
+experiment}\label{c.-dive-response-experiment}}
+
+Fill your bucket with icewater deep enough to submerge your face up to
+your temples. Use a thermometer to monitor temperature. \emph{Note: The
+receptors that trigger the dive response are in the temples, so it is
+critical that the temples be submerged in order to see the dive
+response.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{@sec-divesetup}{Section A setup}.
+\item
+  Before beginning, allow the subject to find a comforable chair height
+  and leg posture to allow them to remain as motionless as possible
+  throughout the experiment. Most people sit, but standing is OK if
+  preferred.
+\item
+  \textbf{Resting:}
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    Have the subject position their face just above the water's surface,
+    and remain motionless.
+  \item
+    Perform a \textbf{leg volume measurement}. (reminder: record the
+    baseline, while restricting blood flow, and recovery.)
+  \end{enumerate}
+\item
+  \textbf{Simulated Dive:}
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    If you feel the need to, practice a simulated dive and recovery with
+    a dry run (without submerging face) before conducting the
+    experiment.)
+  \item
+    While recording, have the subject take a deep breath, exhale
+    partially, and then hold their breath while immersing their face up
+    to their temples in the pan of water for 30 sec.~
+  \item
+    Perform a \textbf{leg volume measurement} 30 sec into the simulated
+    dive.
+  \item
+    At the end of the simulated dive, signal to the subject to
+    resurface.
+  \end{enumerate}
+\item
+  \textbf{Recovery:} Perform a \textbf{leg volume measurement} 30 sec
+  into recovery.\\
+\item
+  Continue to record for another 15 seconds.
+\end{enumerate}
+
+\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, leftrule=.75mm, coltitle=black, left=2mm, rightrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, opacitybacktitle=0.6, breakable, titlerule=0mm, colback=white, bottomrule=.15mm, toprule=.15mm, opacityback=0, colframe=quarto-callout-note-color-frame, toptitle=1mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{NOTES:}, bottomtitle=1mm]
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Make sure everything is very clear before beginning} to avoid
+  repeating this experiment.
+\item
+  One member of the group should tap the subject on the back at
+  10-second intervals while immersed to help them keep track of the time
+  and prevent anxiety.
+\item
+  Work out in advance what your signals will be for timing
+  vs.~resurfacing.
+\item
+  Make \textbf{good comments} and \textbf{minimize movement} in the
+  Finger Pulse Transducer.
+\item
+  \emph{Do not force the subject to remain submerged}.\\
+\end{itemize}
+
+\end{tcolorbox}
+
+\hypertarget{d.-additional-experiment}{%
+\subsection{D. Additional Experiment}\label{d.-additional-experiment}}
+
+The experiments above provide a basic demonstration of the dive
+response. However, the experiment involved multiple stimuli
+simultaneously. \textbf{Brainstorm} how you might \emph{identify the
+components which are actually ``triggering'' the dive response by
+isolating stimuli.} Are these components all necessary? Are they
+additive?
+
+Each group should \textbf{design an experiment to isolate one potential
+stimulus} responsible for triggering the dive response and perform it.
+Get your idea approved by your TA. Share your results with the other
+groups. \emph{Make sure you explain your methods carefully (including
+your logic) in your lab report.}
+
+\hypertarget{analysis-1}{%
+\subsection{Analysis}\label{analysis-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Compare the heart rate, pulse volume, and leg volumes before, during
+  and after a breath-hold.
+\item
+  Do the same for your simulated dive as well as for your additional
+  experiment.
+\end{enumerate}
+
+\hypertarget{questions-for-thought-.-.-.}{%
+\subsection{Questions for thought . .
+.}\label{questions-for-thought-.-.-.}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Compare your results of heart rate during breath holding with those
+  from simulated dives. Are they the same?
+\item
+  What factors could explain differences between breath holding and a
+  ``dive''? Have you eliminated any hypotheses with your experiments?
+\item
+  Compare the percent change in heart rate during dives among the
+  members of your group. Is the relative bradycardia similar? Or is the
+  absolute difference similar? What comparisons can you make between
+  different treatments to dig deeper into your numbers?
+\item
+  Do your results for leg volume suggest that peripheral circulation
+  changes during a breath-hold? What specific result points to this?
+\item
+  Did your peripheral circulation increase or decrease during a
+  ``dive''?
+\item
+  Why do you think the diving response is considered advantageous?
+\end{enumerate}
+
+\hypertarget{after-lab-assignment-week-3}{%
+\section{After Lab: Assignment Week
+3:}\label{after-lab-assignment-week-3}}
+
+\begin{itemize}
+\tightlist
+\item
+  You will work with your lab group to analyze data, and you may share
+  figures if you wish. However, each person will submit an
+  \textbf{Individual WorkSheet} {[}\href{Lab3ws.qmd}{html}{]}
+\item
+  Reminder: \emph{Practical has been moved to next week (week 4) on Lab
+  1 material}. Let us know if you want to come in to practice.
+\end{itemize}
+
+
+
+\end{document}

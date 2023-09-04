@@ -15,7 +15,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 
 # Pre-class materials 
 
-::: callout-note
+::: {.callout-note}
 ## Read ahead
 
 **Before class, you can prepare by reading the following materials:**

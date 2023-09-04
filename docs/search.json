@@ -396,28 +396,98 @@
     "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html",
     "title": "Lab 3: Peripheral Circulation and The Dive Response",
     "section": "",
-    "text": "Watch Peripheral Circulation Podcast.\nRead [Protocol 2]\nRead [Lab 3]\nDo [Prelab]\nDo Quiz on Laulima"
+    "text": "Prepare for lab by:\n\n\n\n\nWatch Peripheral Circulation Podcast.\nRead [Protocol 2] on measuring blood pressure.\nRead the lab manual below.\n\nWrite the [Prelab] in your lab notebook.\nDo Quiz on Laulima (open 24 hrs before lab).\n\n\n\n\n\n\n\n\n\n\nExercises\n\n\n\n\nMeasuring blood pressure\nPeripheral circulation experiment\n\nDevelop a simple experiment to demonstrate a principle of peripheral circulation of choice.\n\nDive response experiment\n\nDevelop a hypothesis for a potential trigger for the dive response."
   },
   {
-    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#before-lab",
-    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#before-lab",
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#equiptment",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#equiptment",
     "title": "Lab 3: Peripheral Circulation and The Dive Response",
-    "section": "",
-    "text": "Watch Peripheral Circulation Podcast.\nRead [Protocol 2]\nRead [Lab 3]\nDo [Prelab]\nDo Quiz on Laulima"
+    "section": "Equiptment",
+    "text": "Equiptment\n\nPowerLab data acquisition system\nFinger pulse transducer\nStethoscope\nBlood pressure cuff\nBlood pressure gauge (sphygnomanometer) with pod or BNC port\nRespiratory belt transducer\nLabChart software, note Blood Pressure settings"
   },
   {
-    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#in-lab",
-    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#in-lab",
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#setup",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#setup",
     "title": "Lab 3: Peripheral Circulation and The Dive Response",
-    "section": "In Lab:",
-    "text": "In Lab:\n\nPeripheral circulation experiment\n\nDevelop a simple experiment to demonstrate a principle of peripheral circulation of choice.\n\nDive response experiment\n\nDevelop a hypothesis for a potential trigger for the dive response."
+    "section": "Setup",
+    "text": "Setup\n\nUse “Blood Pressure” settings to start Chart software.\nSetup Finger Pulse transducer on Input 1.\nAttach sphygmomanometer transducer to Input 2 (pod input)."
   },
   {
-    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#after-lab-assignment-week-3",
-    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#after-lab-assignment-week-3",
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#data-collection",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#data-collection",
     "title": "Lab 3: Peripheral Circulation and The Dive Response",
-    "section": "After Lab: Assignment Week 3:",
-    "text": "After Lab: Assignment Week 3:\n\nIndividual WorkSheet [html]\nReminder: Practical next week (week 4) on Lab 1 material. Let us know if you want to come in to practice."
+    "section": "Data Collection",
+    "text": "Data Collection\n\nMeasure blood pressure on a human volunteer using auscultation (listening through a stethoscope) and a sphygnamonometer .\nMeasure blood pressure using the PowerLab system and LabChart. Check that the channel settings are correctly set for each channel.\nRepeat (1) and (2) on each group member, making sure to comment your data trace.\n\n\nQuestions for thought…\n\nDoes the time of the first Korotkoff sound (systolic pressure heard through the stethoscope), correspond with the first appearance of blood flow (as measured by the finger pulse)? Why or why not?\nWould slowing the rate of pressure release from the cuff make your readings of the first appearance of blood flow more accurate? What problems might be caused by slowing pressure release?\nDoes the time that diastolic pressure is heard through the stethoscope correspond with anything particular in the blood flow signal? Can you, therefore, use pulse measurement to replace the stethoscope?\nHow much variation in measurement of diastolic and systolic pressures was observed within and between individuals? What are potential sources of variation in these estimates?"
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#objectives",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#objectives",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Objectives",
+    "text": "Objectives\nTo demonstrate basic principles of peripheral circulation using blood pressure data from the extremities. What you would expect based on relative distance from the heart and gravity (and whether the location is above or below the heart)?"
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#procedure",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#procedure",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Procedure",
+    "text": "Procedure\n\nBrainstorm with your lab group to develop some simple experiments to demonstrate principles of peripheral circulation. What are some good hypotheses for peripheral blood pressure?\nWhat are some good locations to measure (or other simple manipulations) for comparison? Make sure you place the stethoscope on a major artery or vein such as the radial artery on the forearm, or the small saphenous vein on the calf. Ask for help if you don’t know where they are. Be specific when you write up your methods or we will not understand what you did.\nFor each experiment, determine both systolic and diastolic blood pressure.\n\n\nNotes\n\nYou may need to recalibrate the blood pressure force transducer after each time you move the cuff.\nPlace the instruments directly on the skin (not through clothes).\n\nWhen measuring from foot, please wash toe before attaching pulse transducer to prevent any fungal contamination.\nAlways Release the cuff pressure completely as soon as you are done taking data\n\n\n\nAnalysis\nCompare systolic and diastolic pressure for each of your treatments versus an appropriate control. Think carefully about appropriate controls for your ideas to achieve the best test of your hypotheses.\n\n\nQuestions for thought…\n\nHow much does blood pressure change for each treatment? What could explain it? Does it seam reasonable?\nHow much variation is there among members of your group? What are sources of variation in these estimates?"
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#objectives-1",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#objectives-1",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Objectives",
+    "text": "Objectives\nYou will investigate the effects of the diving response on heart rate and peripheral circulation in humans during simulated dives. First, you will examine the effect of holding your breath, then you will examine the effects of simulated dives. Finally, you will do a series of experiments to determine which stimuli contribute to triggering the dive response. One person will serve as the experimental subject. If time permits, each person in the group should take turns being the experimental subject to have more replication."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#additional-required-equipment",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#additional-required-equipment",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Additional Required Equipment",
+    "text": "Additional Required Equipment\n\nRespiratory Belt Transducer\nWash basin, Ice, Thermometer\nDuct tape\nUse the Dive settings file"
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#sec-divesetup",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#sec-divesetup",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "A. Set up",
+    "text": "A. Set up\n\n\n\n\n\nFigure 4: Attachment of the respiratory belt transducer to the calf for leg volume measurement.\n\n\n\nUse the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.\nAttach the respiratory belt snugly to the calf (Figure 4). It should feel tight and the sensor fabric should be slightly stretched.\nPlace the sphygnomanometer cuff around the subject’s thigh, and duct tape it securely so that it can be pressurized to restrict blood flow. Be sure to apply tape to secure both the top and the bottom of the cuff.\nRecord for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel to fully display the data.\nRecord again and test by flexing and relaxing your calf. You should be able to see a clear deflection on the leg volume channel. If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.\nUse a timer to time the treatments (a cell phone or a web browser will do).\n\n\n\n\n\n\n\nThe idea behind measuring peripheral circulation using leg volume changes\n\n\n\nWe can quantify the volume in your peripheral circulation (specifically your lower leg) by assessing venous pooling for a standard time interval. By constricting blood flow to the lower limb, we will prevent venous return of the blood. Because the veins do not have much smooth muscle, it is relatively easy to stop venous return.\nYou will use the sphygnomanometer cuff to cut off circulation in the leg for 30 sec. at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure calf volume (Figure 4) before inflating the cuff, after 30 sec of inflation, and after deflating the cuff.\nThe resulting leg volume difference (maximum-minimum volume at T1 vs. T2; Figure 5) is a measure of pooling and therefore peripheral circulation. For each experiment, we will compare the degree of pooling at rest, during the experimental treatment, and during the recovery periods.\n\n\n\n\n\n\n\nFigure 5: Zoom window view of measuring the leg volume change resulting from a simulated dive using a marker at T1 (30sec of cuff inflation) and the waveform cursor at T2 (maximum leg volume drop after releasing the pressure).\n\n\n\n\n\n\n\n\nMeasuring leg volume from the volume trace:\n\n\n\n\nSet the Marker to a region just prior to cuff deflation in the leg volume channel (Figure 5).\nUse the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.\n\n\n\n\n\n\n\n\n\nProtocol: Leg volume measurement\n\n\n\n\nRecord the subject’s resting pulse for 15 seconds.\nInflate the cuff to 80 mmHg (or whatever pressure feels tight enough to restrict blood flow for the subject),\nHold pressure for exactly 30 seconds (NOTE: You may have to gently squeeze the bulb to keep pressure at 80 mmHg.)\nQuickly and COMPLETELY release the pressure (Figure 5).\nRecord until the volume returns to baseline.\n\nNOTES: Comment at start, at start to inflate, at pressure, and at deflate.\nWhen doing repeated measurements, ensure you have baseline data for at least 15 sec before inflating the cuff again. The leg volume measurement will take a little over a minute total."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#b.-breath-holding-experiment",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#b.-breath-holding-experiment",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "B. Breath holding experiment",
+    "text": "B. Breath holding experiment\n\nUse the Section A setup with the respiratory belt on the calf (Figure 4) and the sphygnomanometer cuff on the upper thigh.\nMeasure leg volume at rest [Protocol: Leg volume measurement].\n\nBreath hold treatment (will require breath hold of ~1min):\n\nHave the subject take one or two deep breaths, exhale partially, and then hold their breath while they place their head down on the lab bench.\n\nStart a timer with the start of breath hold (cell phone or find a timer online). The experimenter should tap on the subjectʻs shoulder every 10 sec to help them track time.\nMeasure leg volume 30 seconds into the breath-hold.\n\n\nMeasure leg volume during recovery: at 30 sec into the recovery.\n\nMake sure to comment at each step and DEFLATE CUFF COMPLETELY each time."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#c.-dive-response-experiment",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#c.-dive-response-experiment",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "C. Dive response experiment",
+    "text": "C. Dive response experiment\nFill your bucket with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature. Note: The receptors that trigger the dive response are in the temples, so it is critical that the temples be submerged in order to see the dive response.\n\nSection A setup.\nBefore beginning, allow the subject to find a comforable chair height and leg posture to allow them to remain as motionless as possible throughout the experiment. Most people sit, but standing is OK if preferred.\nResting:\n\nHave the subject position their face just above the water’s surface, and remain motionless.\nPerform a leg volume measurement. (reminder: record the baseline, while restricting blood flow, and recovery.)\n\nSimulated Dive:\n\nIf you feel the need to, practice a simulated dive and recovery with a dry run (without submerging face) before conducting the experiment.)\nWhile recording, have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water for 30 sec. \nPerform a leg volume measurement 30 sec into the simulated dive.\nAt the end of the simulated dive, signal to the subject to resurface.\n\nRecovery: Perform a leg volume measurement 30 sec into recovery.\n\nContinue to record for another 15 seconds.\n\n\n\n\n\n\n\nNOTES:\n\n\n\n\nMake sure everything is very clear before beginning to avoid repeating this experiment.\nOne member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety.\nWork out in advance what your signals will be for timing vs. resurfacing.\nMake good comments and minimize movement in the Finger Pulse Transducer.\nDo not force the subject to remain submerged."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#d.-additional-experiment",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#d.-additional-experiment",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "D. Additional Experiment",
+    "text": "D. Additional Experiment\nThe experiments above provide a basic demonstration of the dive response. However, the experiment involved multiple stimuli simultaneously. Brainstorm how you might identify the components which are actually “triggering” the dive response by isolating stimuli. Are these components all necessary? Are they additive?\nEach group should design an experiment to isolate one potential stimulus responsible for triggering the dive response and perform it. Get your idea approved by your TA. Share your results with the other groups. Make sure you explain your methods carefully (including your logic) in your lab report."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#analysis-1",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#analysis-1",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Analysis",
+    "text": "Analysis\n\nCompare the heart rate, pulse volume, and leg volumes before, during and after a breath-hold.\nDo the same for your simulated dive as well as for your additional experiment."
+  },
+  {
+    "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#questions-for-thought-.-.-.",
+    "href": "labs/Lab3-human-peripheral-circulation-dive-response/index.html#questions-for-thought-.-.-.",
+    "title": "Lab 3: Peripheral Circulation and The Dive Response",
+    "section": "Questions for thought . . .",
+    "text": "Questions for thought . . .\n\nCompare your results of heart rate during breath holding with those from simulated dives. Are they the same?\nWhat factors could explain differences between breath holding and a “dive”? Have you eliminated any hypotheses with your experiments?\nCompare the percent change in heart rate during dives among the members of your group. Is the relative bradycardia similar? Or is the absolute difference similar? What comparisons can you make between different treatments to dig deeper into your numbers?\nDo your results for leg volume suggest that peripheral circulation changes during a breath-hold? What specific result points to this?\nDid your peripheral circulation increase or decrease during a “dive”?\nWhy do you think the diving response is considered advantageous?"
   },
   {
     "objectID": "labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
@@ -683,14 +753,14 @@
     "href": "labs-misc/lab-notebook.html#results",
     "title": "Lab Notebooks",
     "section": "Results",
-    "text": "Results\nInclude raw data, calculations, equations, and physiological parameters obtained in your notebook.\n\nWrite all raw results in your notebook obtained from measuring peaks or landmarks, etc.\nIf your lab manual has any tables, you can fill them in and paste them into your notebook.\nData from the Chart software can be saved as .adicht (Windows chart data), which is a text format. This can be further analyzed at home with LabChart reader 8.0 software.\nIt is important to record things that go wrong as well as things that go right.\n\nDuring lab, there should be time to collect the physiological parameters from your raw data, and to play with making figures or tables for your lab report."
+    "text": "Results\nInclude raw data, calculations, equations, and physiological parameters obtained in your notebook.\n\nWrite all raw results in your notebook obtained from measuring peaks or landmarks, etc.\nIf your lab manual has any tables, you can fill them in and paste them into your notebook.\nData from the Chart software can be saved as .adicht (Windows chart data), which is a text format. This can be further analyzed at home with LabChart reader 8.0 software.\nIt is important to record things that go wrong as well as things that go right.\nWe will have in-lab discussions about how to analyze data and brainstorm what effective figures might look like. It is a great idea to sketch these ideas in your notebook.\n\nDuring lab, there should be time to collect the physiological parameters from your raw data, and to play with making figures or tables for your lab report."
   },
   {
     "objectID": "labs-misc/lab-notebook.html#discussion",
     "href": "labs-misc/lab-notebook.html#discussion",
     "title": "Lab Notebooks",
     "section": "Discussion",
-    "text": "Discussion\nSummarize your conclusions from the experiment. Discuss what your results mean and interpret in light of the purpose of the lab. Think about what it implications your results might have more broadly.\n\nLook through your results and at least bullet-point some potential discussion topics.\n\nFocus on interpretation of your direct results\nWhat do your results mean? Dig into the details of the results.\nNote any connections between your results and known physiological mechanisms. What have we learned or demonstrated?\nCould your results apply to anything else? End by broadening out."
+    "text": "Discussion\nSummarize your conclusions from the experiment. Discuss what your results mean and interpret in light of the purpose of the lab. Think about what it implications your results might have more broadly.\n\nLook through your results and at least bullet-point some potential discussion topics.\n\nFocus on interpretation of your direct results\nWhat do your results mean? Dig into the details of the results.\nNote any connections between your results and known physiological mechanisms. What have we learned or demonstrated?\nCould your results apply to anything else? End by broadening out.\nInclude any good ideas that come up during the lab session."
   },
   {
     "objectID": "resources.html",

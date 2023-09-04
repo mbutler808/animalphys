@@ -22,7 +22,7 @@ For this class, it is bound notebook used exclusively for recording information 
 
 # Prelab {#sec-prelab}
 
-At home, read through the complete lab exercise. Your lab may also have standard protocols to read. In your notebook, write (or bullet-point) the introduction and methods sections below. This is your pre-lab assignment (5pts), and will be checked by your TA at the start of lab. 
+__At home__, read through the complete lab exercise. Your lab may also have standard protocols to read. In your notebook, write (or bullet-point) the introduction and methods sections below. This is your pre-lab assignment (5pts), and will be checked by your TA at the start of lab. 
 
 ## Introduction
 
@@ -69,6 +69,7 @@ Include raw data, calculations, equations, and physiological parameters obtained
 -  If your lab manual has any tables, you can fill them in and paste them into your notebook. 
 -  Data from the Chart software can be saved as .adicht (Windows chart data), which is a text format. This can be further analyzed at home with LabChart reader 8.0 software. 
 -  It is important to record things that go wrong as well as things that go right. 
+-  We will have in-lab discussions about how to analyze data and brainstorm what effective figures might look like. It is a great idea to sketch these ideas in your notebook. 
 
 _During lab, there should be time to collect the physiological parameters from your raw data, and to play with making figures or tables for your lab report._ 
 
@@ -81,6 +82,7 @@ Summarize your conclusions from the experiment.  Discuss what your results mean 
 -  What do your results mean? Dig into the details of the results. 
 -  Note any connections between your results and known physiological mechanisms. What have we learned or demonstrated?
 -  Could your results apply to anything else? End by broadening out. 
+-  Include any good ideas that come up during the lab session. 
 
 # Checkout
 

@@ -19,20 +19,41 @@
 
 
 
-<section id="before-lab" class="level2">
-<h2 class="anchored" data-anchor-id="before-lab">Before Lab:</h2>
+<section id="before-lab" class="level1">
+<h1>Before Lab</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
 <li>Watch Peripheral Circulation Podcast.</li>
-<li>Read [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>]</li>
-<li>Read [<a href="Lab3-blood-pressure-peripheral-circulation-dive-response.pdf">Lab 3</a>]</li>
-<li>Do [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>]</li>
-<li>Do Quiz on Laulima</li>
+<li>Read [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2</a>] on measuring blood pressure.</li>
+<li>Read the lab manual below.<br>
+</li>
+<li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook.</li>
+<li>Do Quiz on Laulima (open 24 hrs before lab).</li>
 </ul>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/h47oQH-w6F8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="in-lab" class="level2">
-<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Exercises
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
+<li>Measuring blood pressure</li>
 <li>Peripheral circulation experiment
 <ul>
 <li>Develop a simple experiment to demonstrate a principle of peripheral circulation of choice.</li>
@@ -42,12 +63,317 @@
 <li>Develop a hypothesis for a potential trigger for the dive response.</li>
 </ul></li>
 </ul>
+</div>
+</div>
 </section>
-<section id="after-lab-assignment-week-3" class="level2">
-<h2 class="anchored" data-anchor-id="after-lab-assignment-week-3">After Lab: Assignment Week 3:</h2>
+<section id="background-blood-pressure-and-peripheral-circulation" class="level1 page-columns page-full">
+<h1>Background: Blood pressure and peripheral circulation</h1>
+<p>Vertebrates have a <strong>closed circulatory system</strong> where the blood is always enclosed within blood vessels or the heart. Blood is pumped from the <strong>heart</strong> (the central pump) to the <strong>vasculature</strong>: the <strong>arteries</strong>, <strong>capillary beds</strong> (sites of delivery to tissues), <strong>the veins</strong>, and back to heart. There are several important consequences of this design: (1) blood pressure varies across species according to oxygen demand and morphology (especially animal height), (2) <strong>blood pressure varies along the circuit</strong>, (3) <strong>blood pressure can be regulated at points along the circuit</strong>, and (4) <strong>blood pressure can be modified situationally</strong> depending the state of the animal.</p>
+<section id="blood-pressure-varies-across-species" class="level3">
+<h3 class="anchored" data-anchor-id="blood-pressure-varies-across-species">Blood pressure varies across species</h3>
+<p>For <strong>very active</strong> animals (e.g., mammals and birds) or <strong>very large animals</strong> (especially very tall animals that have more gravity to resist), the ability to regulate blood pressure is critical — active animals will <em>need more oxygen delivered at a faster rate</em>, especially to the most metabolically active tissues, and <em>larger animals will require much more pressure</em> to reach all of their tissues.</p>
+</section>
+<section id="blood-pressure-varies-during-the-cardiac-cycle." class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="blood-pressure-varies-during-the-cardiac-cycle.">Blood pressure varies during the cardiac cycle.</h3>
+<p>The <strong>cardiac cycle</strong> is a complete cycle of the heart beat, comprised of <strong>systole</strong> (Figure&nbsp;1; the phase involving contraction and ejection) and <strong>diastole</strong> (Figure&nbsp;2; relaxation and filling) of the atria and ventricles. We will learn more about the cardiac cycle in the EKG lab. In this lab we are focusing on the blood pressure changes. The largest muscles of the heart are in the <strong>ventricles</strong>. Blood pressure is at its highest immediately after the ventricles contract to push blood into the arterial system (Figure&nbsp;3; <strong>systolic pressure</strong>) and declines as the ventricles relax to fill with blood before pumping again. Just before the ventricles contract, blood pressure is at its lowest (<strong>diastolic pressure</strong>).</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-systole" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/labs/Lab3-human-peripheral-circulation-dive-response/https:/upload.wikimedia.org/wikipedia/commons/3/34/Heart_systole.svg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: The human heart during the ventricular <strong>systole</strong> phase of the <strong>cardiac cycle</strong>. Image by <a href="href=&quot;https://en.wikipedia.org/wiki/User:Wapcaplet">Wapcaplet</a>, <a href="https://commons.wikimedia.org/wiki/User:Reytan">Reytan</a>, <a href="https://commons.wikimedia.org/wiki/User:Mtcv">Mtcv</a> / <a href="https://commons.wikimedia.org/wiki/File:Heart_systole.svg">Heart systole</a>/<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></figcaption>
+</figure>
+</div>
+<div id="fig-diastole" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/labs/Lab3-human-peripheral-circulation-dive-response/https:/upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: The heart relaxes and the ventricles fill during the <strong>diastole</strong> phase of the <strong>cardiac cycle</strong>. Image by <a href="href=&quot;https://en.wikipedia.org/wiki/User:Wapcaplet">Wapcaplet</a>, <a href="https://commons.wikimedia.org/wiki/User:Reytan">Reytan</a>, Vector:<a href="https://commons.wikimedia.org/wiki/User:Sjef">Sjef</a> / <a href="https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg">Heart diastole</a>/ <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></figcaption>
+</figure>
+</div>
+</div></div><div id="fig-wiggers" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/labs/Lab3-human-peripheral-circulation-dive-response/https:/upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Volume and pressure changes during the <strong>cardiac cycle</strong>, as shown in a Wiggers diagram. Note that aortic and ventricular pressures are both lowest and the end of diastole, just before the beginning of systole. adh30 revised work by DanielChangMD who revised original work of DestinyQx; Redrawn as SVG by xavax, <a href="https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg">Wiggers Diagram 2</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="blood-pressure-varies-along-the-vascular-circuit." class="level3">
+<h3 class="anchored" data-anchor-id="blood-pressure-varies-along-the-vascular-circuit.">Blood pressure varies along the vascular circuit.</h3>
+<p>Blood in the arteries leaving the heart is always at very high pressure as compared to the low pressure in the veins in the legs or the even lower pressure in capillary beds at the tissues. Blood pressure drops as the blood vessels branch again and again, increasing the cross-sectional area of the circuit, until it reaches the capillaries where the tissues experience relatively constant, low pressure to facilitate <strong>diffusion</strong>.</p>
+<p>The slow blood flow at the capillaries facilitates diffusion of oxygen, nutrients, and carbon dioxide and other wastes between the blood and the tissues that are bathed by the capillaries. Therefore, <strong>pressure varies</strong> depending on <strong>distance from the heart</strong>, the <strong>cross-sectional area of the blood vessels</strong>, as well as <strong>gravity</strong>. However, at any given point along the circuit, blood pressure remains fairly constant.</p>
+</section>
+<section id="circulation-can-be-adjusted-situationally." class="level3">
+<h3 class="anchored" data-anchor-id="circulation-can-be-adjusted-situationally.">Circulation can be adjusted situationally.</h3>
+<p>At most times, blood pressure is regulated to <strong>maintain a relatively constant pressure</strong>, however, there are times when <strong>circulation needs to be adjusted</strong>. A well-known example is the <strong>Fight-or-Flight response</strong>, which occurs, for example, when an animal sees a predator or anticipates a fight. The <strong>sympathetic nervous system</strong> dominates and causes a ramp-up of circulation to deliver more energy to the skeletal muscles: increased <strong>cardiac output</strong> (= <strong>heart rate</strong> x <strong>stroke volume</strong>) and <strong>blood pressure</strong>, and increased blood flow to the lungs and skeletal muscles. In contrast, the <strong>rest-and-digest</strong> response occurs after an animal has had a large meal. The <strong>parasympathetic nervous system</strong> dominates, lowering heart rate, concentrates blood flow to the gut, and promotes a resting state.</p>
+<p>Adjustments to blood flow are not simply an adjustment of heart function, but also <strong>constriction or relaxation of the vasculature</strong> (blood vessels: arteries, veins, capillaries). <strong>Constricting blood vessels</strong> will reduce their <strong>cross-sectional area</strong> and <strong>increase blood pressure and flow</strong>.</p>
+<p>Local changes in circulation are under <strong>nervous</strong> and <strong>hormonal</strong> control. Regulation of blood flow in the vertebrate circulatory system occurs by three primary mechanisms: 1) <strong>local receptors</strong> (<em>nervous system</em>) to detect levels of metabolic activity (e.g., carbon dioxide receptors), 2) <strong>sympathetic</strong> and <strong>parasympathetic</strong> (<em>autonomic nervous system</em>) control of the vasculature including capillary beds at the tissues, and 3) <strong>endocrine</strong> (<em>hormonal</em>) control of the vasculature.</p>
+<p>In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a belt with a force transducer. We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response).</p>
+</section>
+<section id="equiptment" class="level2">
+<h2 class="anchored" data-anchor-id="equiptment">Equiptment</h2>
 <ul>
-<li>Individual WorkSheet [<a href="../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html">html</a>]</li>
-<li>Reminder: <em>Practical next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
+<li>PowerLab data acquisition system</li>
+<li>Finger pulse transducer</li>
+<li>Stethoscope</li>
+<li>Blood pressure cuff</li>
+<li>Blood pressure gauge (sphygnomanometer) with pod or BNC port</li>
+<li>Respiratory belt transducer</li>
+<li>LabChart software, note Blood Pressure settings</li>
+</ul>
+</section>
+</section>
+<section id="exercise-1-measuring-blood-pressure" class="level1">
+<h1>Exercise 1: Measuring Blood Pressure</h1>
+<p>Traditionally, systemic arterial blood pressure is measured using a <strong>stethoscope</strong> and a <strong>blood pressure cuff</strong> connected to a blood pressure gauge called a <strong>sphygnomanometer</strong> (<em>sss-fig-no-ma-nom-eter</em>). The sphygnomanometer is calibrated in pressure units of mmHg (millimeters of mercury). Modern instruments use compressed air as a hydraulic fluid to transmit the force of your pulsing blood.</p>
+<p>Refer to [<a href="../Protocols/p2-measuring-blood-pressure.pdf">Protocol 2.1 and 2.2</a>] for how to measure blood pressure.</p>
+<section id="setup" class="level2">
+<h2 class="anchored" data-anchor-id="setup">Setup</h2>
+<ol type="1">
+<li>Use “Blood Pressure” settings to start Chart software.</li>
+<li>Setup Finger Pulse transducer on Input 1.</li>
+<li>Attach sphygmomanometer transducer to Input 2 (pod input).</li>
+</ol>
+</section>
+<section id="data-collection" class="level2">
+<h2 class="anchored" data-anchor-id="data-collection">Data Collection</h2>
+<ol type="1">
+<li>Measure blood pressure on a human volunteer using <strong>auscultation</strong> (listening through a stethoscope) and a <strong>sphygnamonometer</strong> .</li>
+<li>Measure blood pressure using the PowerLab system and LabChart. Check that the <strong>channel settings</strong> are correctly set for each channel.</li>
+<li>Repeat (1) and (2) on each group member, making sure to comment your data trace.</li>
+</ol>
+<section id="questions-for-thought" class="level3">
+<h3 class="anchored" data-anchor-id="questions-for-thought">Questions for thought…</h3>
+<ol type="1">
+<li>Does the time of the first <strong>Korotkoff sound</strong> (systolic pressure heard through the stethoscope), correspond with the first appearance of blood flow (as measured by the finger pulse)? Why or why not?</li>
+<li>Would slowing the rate of pressure release from the cuff make your readings of the first appearance of blood flow more accurate? What problems might be caused by slowing pressure release?</li>
+<li>Does the time that diastolic pressure is heard through the stethoscope correspond with anything particular in the blood flow signal? Can you, therefore, use pulse measurement to replace the stethoscope?</li>
+<li>How much variation in measurement of diastolic and systolic pressures was observed within and between individuals? What are potential sources of variation in these estimates?</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="exercise-2-exploring-peripheral-circulation" class="level1">
+<h1>Exercise 2: Exploring Peripheral Circulation</h1>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
+<p>To demonstrate basic principles of peripheral circulation using blood pressure data from the extremities. What you would expect based on relative distance from the heart and gravity (and whether the location is above or below the heart)?</p>
+</section>
+<section id="procedure" class="level2">
+<h2 class="anchored" data-anchor-id="procedure">Procedure</h2>
+<ol type="1">
+<li><em>Brainstorm with your lab group to develop some simple experiments to demonstrate principles of peripheral circulation.</em> What are some good hypotheses for peripheral blood pressure?</li>
+<li>What are some good locations to measure (or other simple manipulations) for comparison? Make sure you place the stethoscope on a major artery or vein such as the radial artery on the forearm, or the small saphenous vein on the calf. Ask for help if you don’t know where they are. Be specific when you write up your methods or we will not understand what you did.</li>
+<li>For each experiment, <strong>determine both systolic and diastolic blood pressure</strong>.</li>
+</ol>
+<section id="notes" class="level3">
+<h3 class="anchored" data-anchor-id="notes">Notes</h3>
+<ol type="1">
+<li>You may need to recalibrate the blood pressure force transducer after each time you move the cuff.</li>
+<li>Place the instruments directly on the skin (not through clothes).<br>
+</li>
+<li>When measuring from foot, please wash toe before attaching pulse transducer to prevent any fungal contamination.</li>
+<li><strong>Always Release the cuff pressure <em>completely</em> as soon as you are done taking data</strong></li>
+</ol>
+</section>
+<section id="analysis" class="level3">
+<h3 class="anchored" data-anchor-id="analysis">Analysis</h3>
+<p>Compare systolic and diastolic pressure for each of your treatments versus an appropriate control. Think carefully about appropriate controls for your ideas to achieve the best test of your hypotheses.</p>
+</section>
+<section id="questions-for-thought-1" class="level3">
+<h3 class="anchored" data-anchor-id="questions-for-thought-1">Questions for thought…</h3>
+<ol type="1">
+<li>How much does blood pressure change for each treatment? What could explain it? Does it seam reasonable?</li>
+<li>How much variation is there among members of your group? What are sources of variation in these estimates?</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="exercise-3-the-dive-response" class="level1 page-columns page-full">
+<h1>Exercise 3: The Dive Response</h1>
+<p>When an air-breathing animal dives, it voluntarily holds its breath while the tissues continue to use oxygen. The <strong>dive response</strong> is a reflexive response that reorganizes circulation to maintain blood flow to the most essential organs – the brain, eyes, and myocardium (heart muscle), while reducing blood flow to the peripheral tissues including musculature of the limbs and thorax, lungs, and renal system. Remarkably, all vertebrates have a dive response. The responses vary greatly between taxa, with some of the most pronounced being in whales and diving seals.</p>
+<p>A primary feature of the dive response is a <strong>diving bradycardia</strong> (slowing of the heart rate), which results in a dramatic drop in <strong>cardiac output</strong> (<strong>cardiac output</strong> = <strong>heart rate x stroke volume</strong>). You might think that this would result in a dramatic drop in blood pressure as well, but in addition to reduced cardiac output, another component of the dive response is <strong>peripheral vasoconstriction</strong>, where the blood vessels of the peripheral tissues are constricted or even closed. As a whole, the dive response preserves circulation around the vital organs while reducing circulation to the peripheral tissues. Oxygen becomes depleted and carbon dioxide and lactate build up in the tissues during a dive. When the animal resurfaces, there is a recovery period characterized by more rapid heart rate and ventilation to absorb more oxygen and flush out lactate and carbon dioxide.</p>
+<section id="objectives-1" class="level2">
+<h2 class="anchored" data-anchor-id="objectives-1">Objectives</h2>
+<p>You will investigate the effects of the diving response on heart rate and peripheral circulation in humans during simulated dives. First, you will examine the effect of holding your breath, then you will examine the effects of simulated dives. Finally, you will do a series of experiments to determine which stimuli contribute to triggering the dive response. One person will serve as the experimental subject. If time permits, each person in the group should take turns being the experimental subject to have more replication.</p>
+</section>
+<section id="additional-required-equipment" class="level2">
+<h2 class="anchored" data-anchor-id="additional-required-equipment">Additional Required Equipment</h2>
+<ul>
+<li>Respiratory Belt Transducer</li>
+<li>Wash basin, Ice, Thermometer</li>
+<li>Duct tape</li>
+<li>Use the Dive settings file</li>
+</ul>
+</section>
+<section id="sec-divesetup" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="sec-divesetup">A. Set up</h2>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-calf" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/calf_belt.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Attachment of the respiratory belt transducer to the calf for leg volume measurement.</figcaption>
+</figure>
+</div>
+</div></div><ol type="1">
+<li>Use the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.</li>
+<li>Attach the respiratory belt snugly to the calf (Figure&nbsp;4). <em>It should feel tight and the sensor fabric should be slightly stretched.</em></li>
+<li>Place the sphygnomanometer cuff around the subject’s thigh, and <em>duct tape it securely so that it can be pressurized to restrict blood flow</em>. Be sure to apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
+<li>Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel to fully display the data.</li>
+<li>Record again and test by flexing and relaxing your calf. <em>You should be able to see a clear deflection on the leg volume channel.</em> If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.</li>
+<li>Use a timer to time the treatments (a cell phone or a web browser will do).</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+The idea behind measuring peripheral circulation using leg volume changes
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>We can quantify the volume in your peripheral circulation (specifically your lower leg) by assessing <strong>venous pooling</strong> for a standard time interval. By constricting blood flow to the lower limb, we will prevent venous return of the blood. Because the veins do not have much smooth muscle, it is relatively easy to stop venous return.</p>
+<p>You will use the sphygnomanometer cuff to cut off circulation in the leg for 30 sec.&nbsp;at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure <strong>calf volume</strong> (Figure&nbsp;4) <strong>before</strong> inflating the cuff, <strong>after 30 sec of inflation</strong>, and <strong>after deflating</strong> the cuff.</p>
+<p><strong>The resulting <em>leg volume</em> difference</strong> (maximum-minimum volume at T1 vs.&nbsp;T2; Figure&nbsp;5) is a measure of pooling and therefore peripheral circulation. For each experiment, we will compare the <strong>degree of pooling</strong> at <strong>rest</strong>, during the <strong>experimental treatment</strong>, and during the <strong>recovery</strong> periods.</p>
+</div>
+</div>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-legvol" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/legvol.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;5: Zoom window view of measuring the leg volume change resulting from a simulated dive using a marker at T1 (30sec of cuff inflation) and the waveform cursor at T2 (maximum leg volume drop after releasing the pressure).</figcaption>
+</figure>
+</div>
+</div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Measuring leg volume from the volume trace:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Set the Marker to a region just prior to cuff deflation in the leg volume channel (Figure&nbsp;5).</li>
+<li>Use the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.</li>
+</ul>
+</div>
+</div>
+<div id="prot-legvol" class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Protocol: Leg volume measurement
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Record the subject’s resting pulse for 15 seconds.</li>
+<li><strong>Inflate</strong> the cuff to <strong>80 mmHg</strong> (or whatever pressure feels tight enough to restrict blood flow for the subject),</li>
+<li><strong>Hold pressure</strong> for <strong>exactly 30 seconds</strong> (<em>NOTE: You may have to gently squeeze the bulb to keep pressure at 80 mmHg.</em>)</li>
+<li><strong>Quickly and COMPLETELY release</strong> the pressure (Figure&nbsp;5).</li>
+<li>Record until the volume returns to baseline.</li>
+</ul>
+<p><span style="color: blue">NOTES: Comment at <strong>start</strong>, at <strong>start to inflate</strong>, at <strong>pressure</strong>, and at <strong>deflate</strong>.</span><br>
+When doing repeated measurements, ensure you have <strong>baseline data</strong> for <em>at least 15 sec</em> before inflating the cuff again. The leg volume measurement will take a little over a minute total.</p>
+</div>
+</div>
+</section>
+<section id="b.-breath-holding-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="b.-breath-holding-experiment">B. Breath holding experiment</h2>
+<ol type="1">
+<li>Use the <a href="@sec-divesetup">Section A setup</a> with the respiratory belt on the calf (Figure&nbsp;4) and the sphygnomanometer cuff on the upper thigh.</li>
+<li>Measure <strong>leg volume at rest</strong> [<a href="@prot-legvol">Protocol: Leg volume measurement</a>].<br>
+</li>
+<li><strong>Breath hold treatment</strong> (will require breath hold of ~1min):
+<ol type="a">
+<li>Have the subject take one or two deep breaths, exhale partially, and then hold their breath while they place their head down on the lab bench.<br>
+</li>
+<li>Start a timer with the start of breath hold (cell phone or find a timer online). <em>The experimenter should tap on the subjectʻs shoulder every 10 sec to help them track time.</em></li>
+<li>Measure <strong>leg volume 30 seconds into the breath-hold</strong>.<br>
+</li>
+</ol></li>
+<li>Measure <strong>leg volume during recovery</strong>: at 30 sec into the recovery.</li>
+</ol>
+<p><span style="color: blue">Make sure to <strong>comment at each step</strong> and <strong>DEFLATE CUFF COMPLETELY</strong> each time.</span></p>
+</section>
+<section id="c.-dive-response-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="c.-dive-response-experiment">C. Dive response experiment</h2>
+<p>Fill your bucket with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature. <em>Note: The receptors that trigger the dive response are in the temples, so it is critical that the temples be submerged in order to see the dive response.</em></p>
+<ol type="1">
+<li><a href="@sec-divesetup">Section A setup</a>.</li>
+<li>Before beginning, allow the subject to find a comforable chair height and leg posture to allow them to remain as motionless as possible throughout the experiment. Most people sit, but standing is OK if preferred.</li>
+<li><strong>Resting:</strong>
+<ol type="a">
+<li>Have the subject position their face just above the water’s surface, and remain motionless.</li>
+<li>Perform a <strong>leg volume measurement</strong>. (reminder: record the baseline, while restricting blood flow, and recovery.)</li>
+</ol></li>
+<li><strong>Simulated Dive:</strong>
+<ol type="a">
+<li>If you feel the need to, practice a simulated dive and recovery with a dry run (without submerging face) before conducting the experiment.)</li>
+<li>While recording, have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water for 30 sec.&nbsp;</li>
+<li>Perform a <strong>leg volume measurement</strong> 30 sec into the simulated dive.</li>
+<li>At the end of the simulated dive, signal to the subject to resurface.</li>
+</ol></li>
+<li><strong>Recovery:</strong> Perform a <strong>leg volume measurement</strong> 30 sec into recovery.<br>
+</li>
+<li>Continue to record for another 15 seconds.</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+NOTES:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Make sure everything is very clear before beginning</strong> to avoid repeating this experiment.</li>
+<li>One member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety.</li>
+<li>Work out in advance what your signals will be for timing vs.&nbsp;resurfacing.</li>
+<li>Make <strong>good comments</strong> and <strong>minimize movement</strong> in the Finger Pulse Transducer.</li>
+<li><em>Do not force the subject to remain submerged</em>.<br>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="d.-additional-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="d.-additional-experiment">D. Additional Experiment</h2>
+<p>The experiments above provide a basic demonstration of the dive response. However, the experiment involved multiple stimuli simultaneously. <strong>Brainstorm</strong> how you might <em>identify the components which are actually “triggering” the dive response by isolating stimuli.</em> Are these components all necessary? Are they additive?</p>
+<p>Each group should <strong>design an experiment to isolate one potential stimulus</strong> responsible for triggering the dive response and perform it. Get your idea approved by your TA. Share your results with the other groups. <em>Make sure you explain your methods carefully (including your logic) in your lab report.</em></p>
+</section>
+<section id="analysis-1" class="level2">
+<h2 class="anchored" data-anchor-id="analysis-1">Analysis</h2>
+<ol type="1">
+<li>Compare the heart rate, pulse volume, and leg volumes before, during and after a breath-hold.</li>
+<li>Do the same for your simulated dive as well as for your additional experiment.</li>
+</ol>
+</section>
+<section id="questions-for-thought-.-.-." class="level2">
+<h2 class="anchored" data-anchor-id="questions-for-thought-.-.-.">Questions for thought . . .</h2>
+<ol type="1">
+<li>Compare your results of heart rate during breath holding with those from simulated dives. Are they the same?</li>
+<li>What factors could explain differences between breath holding and a “dive”? Have you eliminated any hypotheses with your experiments?</li>
+<li>Compare the percent change in heart rate during dives among the members of your group. Is the relative bradycardia similar? Or is the absolute difference similar? What comparisons can you make between different treatments to dig deeper into your numbers?</li>
+<li>Do your results for leg volume suggest that peripheral circulation changes during a breath-hold? What specific result points to this?</li>
+<li>Did your peripheral circulation increase or decrease during a “dive”?</li>
+<li>Why do you think the diving response is considered advantageous?</li>
+</ol>
+</section>
+</section>
+<section id="after-lab-assignment-week-3" class="level1">
+<h1>After Lab: Assignment Week 3:</h1>
+<ul>
+<li>You will work with your lab group to analyze data, and you may share figures if you wish. However, each person will submit an <strong>Individual WorkSheet</strong> [<a href="../../labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html">html</a>]</li>
+<li>Reminder: <em>Practical has been moved to next week (week 4) on Lab 1 material</em>. Let us know if you want to come in to practice.</li>
 </ul>
 
 

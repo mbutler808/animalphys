@@ -1,0 +1,62 @@
+::: {.column-margin}
+![The human heart during the ventricular __systole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), [Mtcv](https://commons.wikimedia.org/wiki/User:Mtcv) / [Heart systole](https://commons.wikimedia.org/wiki/File:Heart_systole.svg)/[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/3/34/Heart_systole.svg){#fig-systole}
+:::
+
+::: {.column-margin}
+![The heart relaxes and the ventricles fill during the __diastole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), Vector:[Sjef](https://commons.wikimedia.org/wiki/User:Sjef) / [Heart diastole](https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg)/ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg){#fig-diastole}
+:::
+
+::: {.columns}
+
+::: {.column width="75"}
+![Volume and pressure changes during the cardiac cycle, called a Wiggers diagram. Note that aortic and ventricular pressure are both lowest and the end of diastole, just before the beginning of systole. adh30 revised work by DanielChangMD who revised original work of DestinyQx; Redrawn as SVG by xavax, [Wiggers Diagram 2](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)](https://upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg){#fig-wiggers}
+:::
+
+:::
+
+
+
+## Full size first row, side by side second row
+
+::: {layout="[[1], [1,1]]"}
+
+![Volume and pressure changes during the cardiac cycle, called a Wiggers diagram. Note that aortic and ventricular pressure are both lowest and the end of diastole, just before the beginning of systole. adh30 revised work by DanielChangMD who revised original work of DestinyQx; Redrawn as SVG by xavax, [Wiggers Diagram 2](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)](https://upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg){#fig-wiggers}
+
+![The human heart during the ventricular __systole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), [Mtcv](https://commons.wikimedia.org/wiki/User:Mtcv) / [Heart systole](https://commons.wikimedia.org/wiki/File:Heart_systole.svg)/[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/3/34/Heart_systole.svg){#fig-systole}
+
+![The heart relaxes and the ventricles fill during the __diastole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), Vector:[Sjef](https://commons.wikimedia.org/wiki/User:Sjef) / [Heart diastole](https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg)/ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg){#fig-diastole}
+
+
+:::
+
+## One row, 50%, 25%, 25%
+
+::: {layout="[2,1,1]"}
+
+![Volume and pressure changes during the cardiac cycle, called a Wiggers diagram. Note that aortic and ventricular pressure are both lowest and the end of diastole, just before the beginning of systole. adh30 revised work by DanielChangMD who revised original work of DestinyQx; Redrawn as SVG by xavax, [Wiggers Diagram 2](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)](https://upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg){#fig-wiggers}
+
+![The human heart during the ventricular __systole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), [Mtcv](https://commons.wikimedia.org/wiki/User:Mtcv) / [Heart systole](https://commons.wikimedia.org/wiki/File:Heart_systole.svg)/[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/3/34/Heart_systole.svg){#fig-systole}
+
+![The heart relaxes and the ventricles fill during the __diastole__ phase of the __cardiac cycle__. Image by [Wapcaplet](href="https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), Vector:[Sjef](https://commons.wikimedia.org/wiki/User:Sjef) / [Heart diastole](https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg)/ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](https://upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg){#fig-diastole}
+
+
+:::
+
+
+# multiple columns
+
+::: {.columns}
+
+::: {.column width="35%"}
+![Attachment of the respiratory belt transducer to the calf for leg volume measurement.](../../images/calf_belt.jpg){#fig-calf}
+:::
+
+::: {.column width="65%"}
+1.  Use the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.
+2.  Attach the respiratory belt snugly to the calf (@fig-calf). It should feel tight and be slightly stretched. Place the sphygnomanometer cuff around the subject’s thigh, and duct tape it securely so that it can be pressurized to restrict blood flow. Be sure to apply tape to secure both the top and the bottom of the cuff. 
+3.  Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel  to fully display the data. Test by flexing and relaxing your calf. You should be able to see a clear deflection on the leg volume channel. If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.
+4.  Use a timer to time the treatments (a cell phone or a web browser will do).  
+:::
+
+::::
+
