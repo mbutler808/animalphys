@@ -246,23 +246,7 @@ The idea behind measuring peripheral circulation using leg volume changes
 <figcaption class="figure-caption">Figure&nbsp;5: Zoom window view of measuring the leg volume change resulting from a simulated dive using a marker at T1 (30sec of cuff inflation) and the waveform cursor at T2 (maximum leg volume drop after releasing the pressure).</figcaption>
 </figure>
 </div>
-</div></div><div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Measuring leg volume from the volume trace:
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Set the Marker to a region just prior to cuff deflation in the leg volume channel (Figure&nbsp;5).</li>
-<li>Use the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.</li>
-</ul>
-</div>
-</div>
-<div id="prot-legvol" class="callout callout-style-default callout-tip callout-titled">
+</div></div><div id="prot-legvol" class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -281,6 +265,22 @@ Protocol: Leg volume measurement
 </ul>
 <p><span style="color: blue">NOTES: Comment at <strong>start</strong>, at <strong>start to inflate</strong>, at <strong>pressure</strong>, and at <strong>deflate</strong>.</span><br>
 When doing repeated measurements, ensure you have <strong>baseline data</strong> for <em>at least 15 sec</em> before inflating the cuff again. The leg volume measurement will take a little over a minute total.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Collecting leg volume data from the volume trace:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Set the Marker to a region just prior to cuff deflation in the leg volume channel (Figure&nbsp;5).</li>
+<li>Use the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.</li>
+</ul>
 </div>
 </div>
 </section>

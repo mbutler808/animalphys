@@ -176,12 +176,6 @@ __The resulting _leg volume_ difference__ (maximum-minimum volume at T1 vs. T2; 
 
 :::
 
-::: {.callout-tip}
-# Measuring leg volume from the volume trace: 
--  Set the Marker to a region just prior to cuff deflation in the leg volume channel (@fig-legvol).
--  Use the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.
-:::
-
 ::: {#prot-legvol .callout-tip}
 # Protocol: Leg volume measurement  {#prot-legvol}
 -  Record the subject’s resting pulse for 15 seconds.
@@ -194,6 +188,13 @@ __The resulting _leg volume_ difference__ (maximum-minimum volume at T1 vs. T2; 
 When doing repeated measurements, ensure you have __baseline data__ for _at least 15 sec_ before inflating the cuff again. The leg volume measurement will take a little over a minute total.  
 
 :::
+
+::: {.callout-tip}
+# Collecting leg volume data from the volume trace: 
+-  Set the Marker to a region just prior to cuff deflation in the leg volume channel (@fig-legvol).
+-  Use the Waveform Cursor to determine the relative change in leg volume for the data trace when the cuff was deflated.
+:::
+
 
 
 ## B.  Breath holding experiment
