@@ -1,0 +1,382 @@
+---
+title: "Lab 3: Peripheral Circulation and The Dive Response"
+author:
+  - name: Marguerite Butler
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Peripheral circulation goes to tissues throughout your body and to the extremeties. One of the most interesting adjustments to peripheral circulation is the dive response."
+date: 2023-09-01
+toc: true
+format: 
+  html: default
+  docx: default
+  pdf: default
+categories: [week 3, labs, circulation, peripheral circulation, blood pressure, dive response]
+---
+
+# Before Lab
+
+:::{.callout-note}
+# Prepare for lab by:
+- Watch Peripheral Circulation Podcast.
+- Read \[[Protocol 2](../Protocols/p2-measuring-blood-pressure.pdf)\] on measuring blood pressure. 
+- Read the lab manual below.  
+- Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
+- Do Quiz on Laulima (open 24 hrs before lab). 
+
+{{< video https://youtu.be/h47oQH-w6F8 >}}
+:::
+
+:::{.callout-note}
+# Exercises
+- Measuring blood pressure
+- Peripheral circulation experiment
+  + Develop a simple experiment to demonstrate a principle of peripheral circulation of choice.
+- Dive response experiment 
+  + Develop a hypothesis for a potential trigger for the dive response.
+:::
+
+# Background: Blood pressure and peripheral circulation
+
+Vertebrates have a __closed circulatory system__ where the blood is always enclosed within blood vessels or the heart. Blood is pumped from the __heart__ (the central pump) to the __vasculature__: the __arteries__, __capillary beds__ (sites of delivery to tissues), __the veins__, and back to heart.  There are several important consequences of this design: (1) blood pressure varies across species according to oxygen demand and morphology (especially animal height), (2)  __blood pressure varies along the circuit__, (3) __blood pressure can be regulated at points along the circuit__, and (4) __blood pressure can be modified situationally__ depending the state of the animal. 
+
+### Blood pressure varies across species
+For __very active__ animals (e.g., mammals and birds) or __very large animals__ (especially very tall animals that have more gravity to resist), the ability to regulate blood pressure is critical — active animals will _need more oxygen delivered at a faster rate_, especially to the most metabolically active tissues, and _larger animals will require much more pressure_ to reach all of their tissues. 
+
+### Blood pressure varies during the cardiac cycle. 
+The __cardiac cycle__ is a complete cycle of the heart beat, comprised of __systole__ (@fig-systole; the phase involving contraction and ejection) and __diastole__ (@fig-diastole; relaxation and filling) of the atria and ventricles. We will learn more about the cardiac cycle in the EKG lab. In this lab we are focusing on the blood pressure changes. The largest muscles of the heart are in the __ventricles__. Blood pressure is at its highest immediately after the ventricles contract to push blood into the arterial system (@fig-wiggers; __systolic pressure__) and declines as the ventricles relax to fill with blood before pumping again. Just before the ventricles contract, blood pressure is at its lowest (__diastolic pressure__).
+
+```{r}
+#| label: "#fig-systole"
+#| fig-cap: "The human heart during the ventricular __systole__ phase of the __cardiac cycle__.  Image by [Wapcaplet](https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), [Mtcv](https://commons.wikimedia.org/wiki/User:Mtcv) / [Heart systole](https://commons.wikimedia.org/wiki/File:Heart_systole.svg)/[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)"
+#| warning: false
+#| column: margin
+#| echo: false
+#| url: https://commons.wikimedia.org/wiki/File:Heart_systole.svg
+
+options(tinytex.engine_args = '-shell-escape')
+knitr::include_graphics("../../images/Heart_systole.svg")
+```
+
+```{r}
+#| label: "#fig-diastole"
+#| fig-cap: The heart relaxes and the ventricles fill during the __diastole__ phase of the __cardiac cycle__. Image by [Wapcaplet](https://en.wikipedia.org/wiki/User:Wapcaplet), [Reytan](https://commons.wikimedia.org/wiki/User:Reytan), Vector:[Sjef](https://commons.wikimedia.org/wiki/User:Sjef) / [Heart diastole](https://commons.wikimedia.org/wiki/File:Heart_diasystole.svg)/ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+#| warning: false
+#| column: margin
+#| echo: false
+#| url: https://upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg
+options(tinytex.engine_args = '-shell-escape')
+
+url <- "https://upload.wikimedia.org/wikipedia/commons/0/0f/Heart_diasystole.svg"
+knitr::include_graphics("../../images/Heart_diasystole.svg")
+```
+
+```{r}
+#| label: "#fig-wiggers"
+#| fig-cap: Volume and pressure changes during the __cardiac cycle__, as shown in a Wiggers diagram. Note that aortic and ventricular pressures are both lowest and the end of diastole, just before the beginning of systole. adh30 revised work by DanielChangMD who revised original work of DestinyQx; Redrawn as SVG by xavax, [Wiggers Diagram 2](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram_2.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+#| warning: false
+#| echo: false
+#| url: https://upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg
+options(tinytex.engine_args = '-shell-escape')
+
+url <- "https://upload.wikimedia.org/wikipedia/commons/9/91/Wiggers_Diagram_2.svg"
+knitr::include_graphics("../../images/Wiggers_Diagram_2.svg")
+```
+
+### Blood pressure varies along the vascular circuit. 
+Blood in the arteries leaving the heart is always at very high pressure as compared to the low pressure in the veins in the legs or the even lower pressure in capillary beds at the tissues. Blood pressure drops as the blood vessels branch again and again, increasing the cross-sectional area of the circuit, until it reaches the capillaries where the tissues experience relatively constant, low pressure to facilitate __diffusion__. 
+
+The slow blood flow at the capillaries facilitates diffusion of oxygen, nutrients, and carbon dioxide and other wastes between the blood and the tissues that are bathed by the capillaries. Therefore, __pressure varies__ depending on __distance from the heart__, the __cross-sectional area of the blood vessels__, as well as __gravity__. However, at any given point along the circuit, blood pressure remains fairly constant.
+
+### Circulation can be adjusted situationally.
+At most times, blood pressure is regulated to __maintain a relatively constant pressure__, however, there are times when __circulation needs to be adjusted__. A well-known example is the __Fight-or-Flight response__, which occurs, for example, when an animal sees a predator or anticipates a fight. The __sympathetic nervous system__ dominates and causes a ramp-up of circulation to deliver more energy to the skeletal muscles: increased __cardiac output__ (= __heart rate__ x __stroke volume__) and __blood pressure__, and increased blood flow to the lungs and skeletal muscles. In contrast, the __rest-and-digest__ response occurs after an animal has had a large meal. The __parasympathetic nervous system__ dominates, lowering heart rate, concentrates blood flow to the gut, and promotes a resting state. 
+
+Adjustments to blood flow are not simply an adjustment of heart function, but also __constriction or relaxation of the vasculature__ (blood vessels: arteries, veins, capillaries). __Constricting blood vessels__ will reduce their __cross-sectional area__ and __increase blood pressure and flow__.  
+
+Local changes in circulation are under __nervous__ and __hormonal__ control. Regulation of blood flow in the vertebrate circulatory system occurs by three primary mechanisms: 1) __local receptors__ (_nervous system_) to detect levels of metabolic activity (e.g., carbon dioxide receptors), 2) __sympathetic__ and __parasympathetic__ (_autonomic nervous system_) control of the vasculature including capillary beds at the tissues, and 3) __endocrine__ (_hormonal_) control of the vasculature. 
+
+In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a belt with a force transducer.  We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response). 
+
+
+## Equiptment
+
+-  PowerLab data acquisition system
+-  Finger pulse transducer
+-  Stethoscope
+-  Blood pressure cuff
+-  Blood pressure gauge (sphygnomanometer) with pod or BNC port
+-  Respiratory belt transducer
+-  LabChart software, note Blood Pressure settings
+
+# Exercise 1:  Measuring Blood Pressure
+
+Traditionally, systemic arterial blood pressure is measured using a __stethoscope__ and a __blood pressure cuff__ connected to a blood pressure gauge called a __sphygnomanometer__ (_sss-fig-no-ma-nom-eter_).  The sphygnomanometer is calibrated in pressure units of mmHg (millimeters of mercury).  Modern instruments use compressed air as a hydraulic fluid to transmit the force of your pulsing blood.
+
+Refer to \[[Protocol 2.1 and 2.2](../Protocols/p2-measuring-blood-pressure.pdf)\] for how to measure blood pressure.  
+
+## Setup
+1. Use “Blood Pressure” settings to start Chart software.
+2. Setup Finger Pulse transducer on Input 1.
+3. Attach sphygmomanometer transducer to Input 2 (pod input).
+
+## Data Collection
+1.  Measure blood pressure on a human volunteer using __auscultation__ (listening through a stethoscope) and a __sphygnamonometer__ . 
+2.  Measure blood pressure using the PowerLab system and LabChart. Check that the __channel settings__ are correctly set for each channel.
+3.  Repeat (1) and (2) on each group member, making sure to comment your data trace. 
+
+### Questions for thought... 
+1.  Does the time of the first __Korotkoff sound__ (systolic pressure heard through the stethoscope), correspond with the first appearance of blood flow (as measured by the finger pulse)? Why or why not?
+2.  Would slowing the rate of pressure release from the cuff make your readings of the first appearance of blood flow more accurate? What problems might be caused by slowing pressure release?
+3.  Does the time that diastolic pressure is heard through the stethoscope correspond with anything particular in the blood flow signal? Can you, therefore, use pulse measurement to replace the stethoscope?
+4.  How much variation in measurement of diastolic and systolic pressures was observed within and between individuals?  What are potential sources of variation in these estimates?
+
+
+# Exercise 2: Exploring Peripheral Circulation
+
+## Objectives
+To demonstrate basic principles of peripheral circulation using blood pressure data from the extremities. What you would expect based on relative distance from the heart and gravity (and whether the location is above or below the heart)?
+
+## Procedure
+1.  _Brainstorm with your lab group to develop some simple experiments to demonstrate principles of peripheral circulation._ What are some good hypotheses for peripheral blood pressure?
+2.  What are some good locations to measure (or other simple manipulations) for comparison? Make sure you place the stethoscope on a major artery or vein such as the radial artery on the forearm, or the small saphenous vein on the calf. Ask for help if you don’t know where they are. Be specific when you write up your methods or we will not understand what you did.
+3.  For each experiment, __determine both systolic and diastolic blood pressure__.
+
+### Notes
+1.  You may need to recalibrate the blood pressure force transducer after each time you move the cuff.
+2.  Place the instruments directly on the skin (not through clothes).  
+3.  When measuring from foot, please wash toe before attaching pulse transducer to prevent any fungal contamination.
+4.  **Always Release the cuff pressure _completely_ as soon as you are done taking data** 
+
+### Analysis
+Compare systolic and diastolic pressure for each of your treatments versus an appropriate control. Think carefully about appropriate controls for your ideas to achieve the best test of your hypotheses. 
+
+### Questions for thought...
+1.  How much does blood pressure change for each treatment? What could explain it? Does it seam reasonable?
+2.  How much variation is there among members of your group?  What are sources of variation in these estimates?
+
+# Exercise 3: The Dive Response
+When an air-breathing animal dives, it voluntarily holds its breath while the tissues continue to use oxygen. The __dive response__ is a reflexive response that reorganizes circulation to maintain blood flow to the most essential organs -- the brain, eyes, and myocardium (heart muscle), while reducing blood flow to the peripheral tissues including musculature of the limbs and thorax, lungs, and renal system. Remarkably, all vertebrates have a dive response. The responses vary greatly between taxa, with some of the most pronounced being in whales and diving seals.
+
+Primary features of the human __dive response__ are the rapid onset of __bradycardia__ (slowing of the _heart rate_), which works together with __peripheral vasoconstriction__ to shunt blood toward the bodyʻs core.  This causes an increase in the volume of blood returning to the __heart__ and an increase in __stroke volume__. These in turn cause an increase in __arterial blood pressure__.  To counteract this increase in blood pressure and reduce overall blood flow, there is a _drop in heart rate_.
+
+As a whole, the dive response preserves circulation around the vital organs while reducing circulation to the peripheral tissues. Oxygen becomes depleted and carbon dioxide and lactate build up in the tissues during a dive. When the animal resurfaces, there is a recovery period characterized by more rapid heart rate and ventilation to absorb more oxygen and flush out lactate and carbon dioxide.
+
+The dive response is triggered by sudden submergence of the face in cold water, which stimulates the _trigeminal nerve receptors_ around the nose.  Stimulation is enhanced with colder temperature, which inhibits the cardiovascular center, as well as increasing parasympathetic output and reducing sympathetic output, both of which reduce heart rate. 
+
+## Objectives 
+You will investigate the effects of the diving response on heart rate and peripheral circulation in humans during simulated dives.  First, you will examine the effect of holding your breath, then you will examine the effects of simulated dives, and an experiment to determine which stimuli contribute to triggering the dive response. One person will serve as the experimental subject.  
+
+
+## Additional Required Equipment 
+-  Respiratory Belt Transducer
+-  Wash basin, Ice, Thermometer
+-  Duct tape
+-  Use the Dive settings file
+
+
+## A.  Set up and testing {#sec-divesetup}
+
+
+::: {.column-margin}
+![Attachment of the respiratory belt transducer to the calf for leg volume measurement.](../../images/calf_belt.jpg){#fig-calf}
+:::
+
+1.  Use the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.
+2.  Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples.  Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.
+3.  Attach the respiratory belt snugly to the calf (@fig-calf). _It should feel tight and the sensor fabric should be slightly stretched._ 
+4.  Place the sphygnomanometer cuff around the subject’s thigh, and _duct tape it securely so that it can be pressurized to restrict blood flow_. Be sure to apply tape to _secure both the top and the bottom_ of the cuff. 
+5.  Record for 10 seconds and stop. Scale the Pulse channel and the Leg Volume channel  to fully display the data. 
+6.  Record again and test by flexing and relaxing your calf. _You should be able to see a clear deflection on the leg volume channel._ If it is very small, try tightening the respiratory belt a little. Check with your TA before moving on.
+7.  For all experiments, _resting position for the subject is leaning over the basin with the face just aboe water._ 
+8.  Use a timer to time the treatments (a cell phone or a web browser will do).
+  
+
+
+:::{.callout-note}
+## The idea behind measuring peripheral circulation using leg volume changes
+We can quantify the volume in your peripheral circulation (specifically your lower leg) by assessing __venous pooling__ for a standard time interval. By constricting blood flow to the lower limb, we will prevent venous return of the blood. Because the veins have little smooth muscle, it is relatively easy to stop venous return. 
+
+You will use the sphygnomanometer cuff to cut off circulation in the leg for 30 sec. at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure __calf volume__ (@fig-calf) __before__ inflating the cuff, __during 30 sec of inflation__, and __after deflating__ the cuff.  
+::: 
+
+
+
+::: {#prot-legvol .callout-tip}
+# Protocol: Basic Leg volume measurement  {#prot-legvol}
+1.  Record the subject’s __resting__ recording for 10 seconds.
+2.  Rapidly __Inflate__ the cuff to __60 mmHg__ (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], should be same for all measurements), 
+3.  __Hold pressure__ for __exactly 20 seconds__   (_NOTE: You may have to gently squeeze the bulb to keep pressure at 80 mmHg._) 
+4.  __Quickly and COMPLETELY release__ the pressure (@fig-legvol). 
+5.  __Recovery:__ Record for 30 sec or until the leg volume returns to baseline.  
+
+#### NOTES:
+-  [Comments should be placed at the __start of rest__ and at the __start__ of each change in condition.]{style="color: blue"}
+-  _Be sure to have the comments pre-typed in the comment box and hit enter at the start of each event to accurately place comments in time._
+-  __Inflate__ and __deflate__ the cuff as fast as possible. 
+-  When doing _repeated measurements_, ensure you have __baseline data__ for _at least 15 sec_ before inflating the cuff again. 
+-  The subject will have to hold their breath for about 30 sec. 
+-  Make __good comments__ and __minimize movement__ in the Finger Pulse Transducer. 
+:::
+
+
+## B.  Control experiment
+
+1.  Use the [Section A setup](@sec-divesetup) with the respiratory belt on the calf (@fig-calf) and the sphygnomanometer cuff on the upper thigh. 
+2.  Subject leans over basin with face just above water.
+3.  Start recording and comment ["control, resting"]{style="color:blue"}, record for 10sec. 
+4.  Rapidly inflate the cuff to 60mmHg, comment ["control, cuff inflated"]{style="color:blue"}, and record for 20sec.  
+5.  Quickly release all cuff pressure, and comment ["deflated"]{style="color:blue"}. Record for 30 sec or until leg volume stabilizes. 
+
+[Make sure to __comment at each step__ and always __DEFLATE CUFF COMPLETELY__ each time.]{style="color: blue"} 
+
+## C. Dive response experiment
+
+_Note: It is critical that the temples be submerged in order to see the dive response._  
+
+:::{.callout-note}
+# NOTES: 
+-  __Make sure everything is very clear before beginning__ to avoid repeating this experiment.
+-  It is a good idea to practice a dry run of the simulated dive procedure (without submerging face).
+-  One member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety. 
+-  Work out in advance what your signals will be for timing vs. resurfacing.
+-  _Do not force the subject to remain submerged_.  
+:::
+
+1. Use the [Section A setup](@sec-divesetup).  The basin should be in front of the subject and at 10-15C. 
+2. Before beginning, allow the subject to find a comforable chair height and leg posture to allow them to _remain as motionless as possible with their face above the basin_. Most people sit, but standing is OK if preferred.
+3. __Rest:__ Start recording and comment ["dive experiment, resting"]{style="color:blue"}, record for 10sec. 
+4. __Simulated dive:__ 
+    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
+    b.  Have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water. Comment ["dive"]{style="color:blue"}, record for 20 sec. 
+    c. Rapidly release all cuff pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
+5.  __Recovery:__ Signal to the subject to resurface and breathe normally with face just above water. Comment ["recovery"]{style="color:blue"} and record for 10 sec or until until leg volume stabilizes. Perform a leg volume measurement:
+    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
+    b.  Record for 20 sec. 
+    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
+6.  Stop recording and allow subject to dry face. 
+
+## C. Breath holding exeriment
+
+1.  This experiment is very similar to the dive response, but without facial immersion. The subject will remain motionless with their face above the basin.
+2.  Record and comment ["breath hold experiment, resting"]{style="color:blue"}. Record for 10 sec. 
+3. __Breath hold:__ 
+    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
+    b.  Have the subject take a deep breath, exhale partially, and then hold their breath. Comment ["breath hold"]{style="color:blue"}, record for 20 sec. 
+    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
+4.  __Recovery:__ Signal to the subject to breathe normally with face just above water. Comment ["recovery"]{style="color:blue"} and record for 10 sec or until until leg volume stabilizes.  Perform a leg volume measurement. 
+    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
+    b.  Record for 20 sec. 
+    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30.  
+5.  Stop recording. 
+
+
+## D. Additional Experiment
+The simulated dive involves multiple stimuli simultaneously. __Brainstorm__ how you might _identify the components which are actually “triggering” the dive response by isolating stimuli._ Are these components all necessary? Are they additive?
+
+Each group should __design and perform an experiment to isolate one potential stimulus__ responsible for triggering the dive response.  Get your idea approved by your TA. Share your results with the other groups.  _Make sure you explain your methods carefully (including your logic) in your lab report._
+
+
+<!----
+## Experiment Summary
+
+
+| Experiment  | Subject position  | Comment | Cuff Pressure  | Record
+| ----  | ----  | ----  | ----  | ----
+| Control | over water  | "control, rest" |    | 10s
+|  | over water  | "control, cuff inflated"  | rapidly inflate to 60mmHg | 30s @60mmHg
+|  | over water  | "control, deflated" | rapidly deflate | 30s
+|   |   |   |    |  
+| Dive  | over water  | "dive, rest"  |    | 10s
+|  | over water  | "cuff inflated" | rapidly inflate | keep recording
+|  | face in water | "dive"  | hold @60mmHg | 20s 
+|  | face in water | "dive, deflate" | rapidly deflate | 10s
+|  | normal breathing  | "recovery"  |    | 10s
+|  | over water, normal breathing  | "cuff inflated" | rapidly inflate | keep recording
+|  | over water, normal breathing |   | hold @60mmHg | 20s 
+|  | over water, normal breathing | "deflate" | rapidly deflate | 10s
+|   |   |   |    |  
+| Breath Hold | over water, normal breathing  | "breath hold, rest" |    | 10s
+|  | over water, normal breathing  | "cuff inflated" | rapidly inflate | keep recording
+|  | breath hold above water | "breath hold" | hold @60mmHg | 20s 
+|  | breath hold above water | "breath hold, deflate"  | rapidly deflate | 10s
+|  | over water, normal breathing  | "recovery"  |   | 30s
+
+: A summary of the procedures for the control, dive response, and breath hold experiments. Do a fourth experiment of your own design.  {#tbl-dive}  
+---->
+
+
+## Analysis
+
+### Change in heart rate
+
+1.  First analyze the __Dive Response__ data. 
+2.  Open the data in the Chart View and __Autoscale__, if necessary.  Change the compression of the data trace so the entire exercise can be viewed at once. Identify the __rest__ section of the data and change the compression to find a representative cycle.  _You can change the compression and scale as often as required._
+2. Add a channel under the __Channel Settings__ menu and set it show the __heart rate__ in beats per minute (BPM) using the __cyclic measurement menu__.  
+3. Move the __Waveform Cursor__ to a representative cycle on the __pulse__ channel during __rest__.  Collect the values for __heart rate__ and __pulse amplitude__ at the pulse peak.
+4. Collect __heart rate__ and __pulse amplitude__ for:
+   a. rest
+   b. 15 sec into the dive
+   c. just before the end of the dive
+   d. 30 sec after the end of the dive (recovery)
+5. Conduct this analysis for the __Breath Hold__ experiment.
+
+### Change in Peripheral Circulation
+
+::: {.column-margin}
+
+![Zoom window view of measuring the leg volume change resulting from a simulated dive using a marker at T1 (30sec of cuff inflation) and the waveform cursor at T2 (maximum leg volume drop after releasing the pressure).](../../images/legvol.jpg){#fig-legvol}
+
+:::
+
+::: {.callout-tip}
+# Collecting leg volume change from the volume trace: 
+
+You will collect the relative signal amplitude change when the cuff pressure is released. 
+
+1.  Set the __Marker__ to the point of maximum leg voluime (a region just prior to cuff deflation in the leg volume channel; @fig-legvol).
+2.  Using the __Waveform Cursor__, obtain the __difference in leg volume__  between maximum and minimum leg volume ($\Delta LV$ (mV) $= LV1 - LV2$; @fig-legvol). Note the maximum and minimum should be just before and a little after the cuff is deflated. 
+3.  __Relative leg volume__ is the ratio between the experimental and control leg volume differences. $Rel LV = \Delta LV_{treatment} / \Delta LV_{control}$.   
+
+__The _leg volume_ difference__ is a measure of pooling and therefore peripheral circulation. __Relative leg volume__ quantifies __changes__ in _peripheral circulation_.
+:::
+
+
+1.  Collect the leg volume difference for the __control__, during the __dive__, and __recovery__ from the dive ($\Delta LV_{control}$, $\Delta LV_{treatment}$, and $\Delta LV_{recovery}$) . Tabulate as in Table @tbl-divedata.
+2.  Calculate the relative leg volumes for dive vs. control and recovery vs. control ($\Delta LV_{treatment}/ \Delta LV_{control}$, and $\Delta LV_{recovery}/ \Delta LV_{control}$ ). 
+3.  For the __breath hold experiment__, use the __recovery from the dive__ value as the __control__ for breath hold. 
+4.  Collect the leg volume data as before and tablulate as in @tbl-breathholddata
+5.  Do the same for your additional experiment.
+
+| Subject name   | $\Delta LV_{control}$ (mV)   | $\Delta LV_{dive}$ (mV) | $\Delta LV_{recovery}$ (mV)  | Dive/Control | Recovery/Control |
+| ----  | ----  | ----  | ----  | ---- | ---- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+: Effects of diving on peripheral circulation {#tbl-divedata}
+
+
+| Subject name   | $\Delta LV_{control}$ (mV)   | $\Delta LV_{breathhold}$ (mV) | $\Delta LV_{recovery}$ (mV)  | Breath Hold/Control | Recovery/Control |
+| ----  | ----  | ----  | ----  | ---- | ---- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+: Effects of breath hold on peripheral circulation. Use the recovery LV value from the dive experiment for the control.  {#tbl-breathholddata}
+
+## Questions for thought . . . 
+1.  Compare your results of heart rate during breath holding with those from simulated dives.  Are they the same?
+2.  What factors could explain differences between breath holding and a “dive”? Have you eliminated any hypotheses with your experiments?
+3.  Compare the percent change in heart rate during dives among different people.  Is the relative or absolute bradycardia similar?  
+4.  Do your results for leg volume suggest that peripheral circulation changes during a dive? during a breath-hold? 
+5.  Did your peripheral circulation increase or decrease during a “dive”? during a breath hold? 
+6.  What comparisons can you make to dive deeper into your data? Which numbers would you look at?
+7.  Why do you think the diving response is considered advantageous?
+
+
+# After Lab: Assignment Week 3:
+
+- You will work with your lab group to analyze data, and you may share figures if you wish. However, each person will submit an __Individual WorkSheet__ \[[html](Lab3ws.qmd)\]
+- Reminder: _Practical has been moved to next week (week 4) on Lab 1 material_.  Let us know if you want to come in to practice. 
+

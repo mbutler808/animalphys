@@ -1,0 +1,17 @@
+Experiment,Subject position,Comment,Cuff,Record
+,,,,
+Control,over water,"""control, rest""",---,10s
+,over water,"""control, cuff inflated""",rapidly inflate,30s @60mmHg
+,over water,"""control, deflated""",rapidly deflate,10s @0
+,,,,
+Dive,over water,"""dive, rest""",---,10s
+,over water,"""cuff inflated""",rapidly inflate,keep recording
+,face in water,"""dive""",@60mmHg,20s @60mmHg
+,face in water,"""dive, deflate""",rapidly deflate,10s
+,normal breathing,"""recovery""",---,10s
+,,,,
+Breath Hold,over water,"""breath hold, rest""",---,10s
+,over water,"""cuff inflated""",rapidly inflate,keep recording
+,breath hold above water,"""breath hold""",@60mmHg,20s @60mmHg
+,breath hold above water,"""breath hold, deflate""",rapidly deflate,10s
+,normal breathing,"""recovery""",---,10s

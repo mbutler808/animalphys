@@ -24,7 +24,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Adjustments to Metabolism | PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\]|   |   |
 |Week 3||||||
 | 9/4 | M | Labor Day Holiday | Choose your Fossil  |   |   |
-| | W | Temperature \[[html](posts/2023-09-06-Temperature/index.qmd)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |   | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/index.qmd)\]  |   |
+| | W | Temperature \[[html](posts/2023-09-06-Temperature/index.qmd)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |   | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   |
 |   | F | Heterothermy/Iterative Method  | PS2: Temperature  |   |   |
 |Week 4||||||
 | 9/11  | M | Cardiac Regulation  |   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
