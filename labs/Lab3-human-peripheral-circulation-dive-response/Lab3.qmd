@@ -182,7 +182,7 @@ You will investigate the effects of the diving response on heart rate and periph
 ![Attachment of the respiratory belt transducer to the calf for leg volume measurement.](../../images/calf_belt.jpg){#fig-calf}
 :::
 
-1.  Use the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.
+1.  Switch the PowerLab to the Dive Response settings. You should have the Finger Pulse transducer in channel 1 and the Respiratory Belt Transducer to input 2 to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings. In this experiment, the sphygnamanometer is used to pressurize the thigh and not plugged in to PowerLab. 
 2.  Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples.  Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.
 3.  Attach the respiratory belt snugly to the calf (@fig-calf). _It should feel tight and the sensor fabric should be slightly stretched._ 
 4.  Place the sphygnomanometer cuff around the subject’s thigh, and _duct tape it securely so that it can be pressurized to restrict blood flow_. Be sure to apply tape to _secure both the top and the bottom_ of the cuff. 
@@ -196,17 +196,17 @@ You will investigate the effects of the diving response on heart rate and periph
 :::{.callout-note}
 ## The idea behind measuring peripheral circulation using leg volume changes
 We can quantify the volume in your peripheral circulation (specifically your lower leg) by assessing __venous pooling__ for a standard time interval. By constricting blood flow to the lower limb, we will prevent venous return of the blood. Because the veins have little smooth muscle, it is relatively easy to stop venous return. 
-
-You will use the sphygnomanometer cuff to cut off circulation in the leg for 30 sec. at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure __calf volume__ (@fig-calf) __before__ inflating the cuff, __during 30 sec of inflation__, and __after deflating__ the cuff.  
 ::: 
 
 
 
 ::: {#prot-legvol .callout-tip}
 # Protocol: Basic Leg volume measurement  {#prot-legvol}
+You will use the sphygnomanometer cuff to cut off circulation in the leg for 20 sec. at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure __calf volume__ (@fig-calf) __before__, __during inflation__, and __after deflating__ the cuff (recovery).  
+
 1.  Record the subject’s __resting__ recording for 10 seconds.
-2.  Rapidly __Inflate__ the cuff to __60 mmHg__ (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], should be same for all measurements), 
-3.  __Hold pressure__ for __exactly 20 seconds__   (_NOTE: You may have to gently squeeze the bulb to keep pressure at 80 mmHg._) 
+2.  Rapidly __Inflate__ the cuff to __60 mmHg__ (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], the pressure should be same for all measurements), 
+3.  __Hold pressure__ for __exactly 20 seconds__   (_NOTE: You may have to gently squeeze the bulb to keep pressure constant._) 
 4.  __Quickly and COMPLETELY release__ the pressure (@fig-legvol). 
 5.  __Recovery:__ Record for 30 sec or until the leg volume returns to baseline.  
 
@@ -226,7 +226,7 @@ You will use the sphygnomanometer cuff to cut off circulation in the leg for 30 
 2.  Subject leans over basin with face just above water.
 3.  Start recording and comment ["control, resting"]{style="color:blue"}, record for 10sec. 
 4.  Rapidly inflate the cuff to 60mmHg, comment ["control, cuff inflated"]{style="color:blue"}, and record for 20sec.  
-5.  Quickly release all cuff pressure, and comment ["deflated"]{style="color:blue"}. Record for 30 sec or until leg volume stabilizes. 
+5.  Quickly release all cuff pressure, and comment ["deflated"]{style="color:blue"}. Record for 30 sec or until leg volume and HR stabilizes. 
 
 [Make sure to __comment at each step__ and always __DEFLATE CUFF COMPLETELY__ each time.]{style="color: blue"} 
 
@@ -239,7 +239,7 @@ _Note: It is critical that the temples be submerged in order to see the dive res
 -  __Make sure everything is very clear before beginning__ to avoid repeating this experiment.
 -  It is a good idea to practice a dry run of the simulated dive procedure (without submerging face).
 -  One member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety. 
--  Work out in advance what your signals will be for timing vs. resurfacing.
+-  Work out in advance what your signals will be for timing (10s mark) vs. resurfacing.
 -  _Do not force the subject to remain submerged_.  
 :::
 
@@ -247,14 +247,16 @@ _Note: It is critical that the temples be submerged in order to see the dive res
 2. Before beginning, allow the subject to find a comforable chair height and leg posture to allow them to _remain as motionless as possible with their face above the basin_. Most people sit, but standing is OK if preferred.
 3. __Rest:__ Start recording and comment ["dive experiment, resting"]{style="color:blue"}, record for 10sec. 
 4. __Simulated dive:__ 
-    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
+    a.  __Rapidly__ inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
     b.  Have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water. Comment ["dive"]{style="color:blue"}, record for 20 sec. 
-    c. Rapidly release all cuff pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
-5.  __Recovery:__ Signal to the subject to resurface and breathe normally with face just above water. Comment ["recovery"]{style="color:blue"} and record for 10 sec or until until leg volume stabilizes. Perform a leg volume measurement:
-    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
-    b.  Record for 20 sec. 
-    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
-6.  Stop recording and allow subject to dry face. 
+    c. __Rapidly__ release all cuff pressure. Comment ["deflated"]{style="color:blue"}, and record for 10 sec.  
+    d. Signal to the subject to __resurface__ and breathe normally with face just above water. Comment ["normal breathing"]{style="color:blue"} and record for 10 sec. 
+    e. Allow subject to gently dry face. 
+5.  __Post-dive:__ Perform a leg volume measurement post-dive.
+    a.  Comment ["post-dive"]{style="color:blue"} and record for 10 sec. 
+    b.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"} and record for 20 sec. 
+    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 10 sec.  
+
 
 ## C. Breath holding exeriment
 
@@ -263,13 +265,8 @@ _Note: It is critical that the temples be submerged in order to see the dive res
 3. __Breath hold:__ 
     a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
     b.  Have the subject take a deep breath, exhale partially, and then hold their breath. Comment ["breath hold"]{style="color:blue"}, record for 20 sec. 
-    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30 sec.  
-4.  __Recovery:__ Signal to the subject to breathe normally with face just above water. Comment ["recovery"]{style="color:blue"} and record for 10 sec or until until leg volume stabilizes.  Perform a leg volume measurement. 
-    a.  Rapidly inflate cuff to 60mmHg, comment ["cuff inflated"]{style="color:blue"}.  
-    b.  Record for 20 sec. 
-    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 30.  
-5.  Stop recording. 
-
+    c. Rapidly release all pressure. Comment ["deflated"]{style="color:blue"}, and record for 10 sec.  
+    d. Signal to the subject to __breathe normally__ with face just above water. Comment ["normal breathing"]{style="color:blue"} and record for 10 sec. 
 
 ## D. Additional Experiment
 The simulated dive involves multiple stimuli simultaneously. __Brainstorm__ how you might _identify the components which are actually “triggering” the dive response by isolating stimuli._ Are these components all necessary? Are they additive?
@@ -308,18 +305,28 @@ Each group should __design and perform an experiment to isolate one potential st
 
 ## Analysis
 
-### Change in heart rate
+### Change in Heart Rate and Pulse Amplitude
 
-1.  First analyze the __Dive Response__ data. 
+1.  First analyze the __Control Experiment__ and __Dive Response__ data. 
 2.  Open the data in the Chart View and __Autoscale__, if necessary.  Change the compression of the data trace so the entire exercise can be viewed at once. Identify the __rest__ section of the data and change the compression to find a representative cycle.  _You can change the compression and scale as often as required._
-2. Add a channel under the __Channel Settings__ menu and set it show the __heart rate__ in beats per minute (BPM) using the __cyclic measurement menu__.  
 3. Move the __Waveform Cursor__ to a representative cycle on the __pulse__ channel during __rest__.  Collect the values for __heart rate__ and __pulse amplitude__ at the pulse peak.
 4. Collect __heart rate__ and __pulse amplitude__ for:
    a. rest
-   b. 15 sec into the dive
-   c. just before the end of the dive
-   d. 30 sec after the end of the dive (recovery)
-5. Conduct this analysis for the __Breath Hold__ experiment.
+   b. 15 sec into the dive (a representative pulsewave during dive)
+   d. 10 sec after the end of the dive (recovery)
+   e. Tabulate the data in your notebook (for example see @tbl-hrdata)
+5. For the remaining experiments __Post Dive__, __Breath Hold__ experiment, and __Your Experiment__, you only need to collect heart rate and pulse amplitude data for the treatment period (pre-treatment and post-treatment not necessary; @tbl-lvdata)
+
+| Experiment | Parameter  |   Rest  | Treatment | Recovery  | 
+| ----  | ----  | ----  | ----  | ----  |   
+| Control | heart rate (BPM)|  |  |  |  |  |  |    
+| | pulse amplitude  (mV)|  |  |  |  |    |  |    
+| Dive | heart rate (BPM)|  |  |  |  |  |  |    
+| | pulse amplitude  (mV)|  |  |  |  |    |  |    
+
+: Heart rate and pulse amplitude should be recorded at rest, during the treatment, and during the recovery for each experiment. {#tbl-hrdata}
+
+
 
 ### Change in Peripheral Circulation
 
@@ -342,28 +349,25 @@ __The _leg volume_ difference__ is a measure of pooling and therefore peripheral
 :::
 
 
-1.  Collect the leg volume difference for the __control__, during the __dive__, and __recovery__ from the dive ($\Delta LV_{control}$, $\Delta LV_{treatment}$, and $\Delta LV_{recovery}$) . Tabulate as in Table @tbl-divedata.
-2.  Calculate the relative leg volumes for dive vs. control and recovery vs. control ($\Delta LV_{treatment}/ \Delta LV_{control}$, and $\Delta LV_{recovery}/ \Delta LV_{control}$ ). 
-3.  For the __breath hold experiment__, use the __recovery from the dive__ value as the __control__ for breath hold. 
-4.  Collect the leg volume data as before and tablulate as in @tbl-breathholddata
-5.  Do the same for your additional experiment.
-
-| Subject name   | $\Delta LV_{control}$ (mV)   | $\Delta LV_{dive}$ (mV) | $\Delta LV_{recovery}$ (mV)  | Dive/Control | Recovery/Control |
-| ----  | ----  | ----  | ----  | ---- | ---- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-: Effects of diving on peripheral circulation {#tbl-divedata}
+1.  Collect the leg volume difference for the __control__, during the __dive__, and __post dive__ ( $\Delta LV_{control}$, $\Delta LV_{dive}$, and $\Delta LV_{post-dive}$ ) . 
+2.  Calculate the relative leg volumes for dive vs. control and post-dive vs. control ( $\Delta LV_{dive}/ \Delta LV_{control}$, and $\Delta LV_{post-dive}/ \Delta LV_{control}$ ). 
+3.  Do the same for the __breath hold experiment__, and your __custom experiment__ and tabulate as in @tbl-lvdata. 
 
 
-| Subject name   | $\Delta LV_{control}$ (mV)   | $\Delta LV_{breathhold}$ (mV) | $\Delta LV_{recovery}$ (mV)  | Breath Hold/Control | Recovery/Control |
-| ----  | ----  | ----  | ----  | ---- | ---- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 
-: Effects of breath hold on peripheral circulation. Use the recovery LV value from the dive experiment for the control.  {#tbl-breathholddata}
+| |   Control  | Dive | Post Dive | Breath Hold | My Expt |  
+| ----  | ----  | ----  | ----  | ----  | ----  |   
+| heart rate (BPM)|  |  |  |   |  |  
+| pulse amplitude (mv)|  |  |  |   |  |  
+| $\Delta LV$  (mV)|  |  |  |   |  |  
+|   |  |  |  |  |  |   
+|   |  | __Dive/Control__  |  __Post Dive/Control__ | __Breath Hold/Control__ | __My Expt/Control__  | |   
+| Relative HR |  |  |  |    
+| Relative PA |  |  |  |    
+| Relative LV |  |  |  |    
+
+: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to record in your notebook. These are measurements taken during the "treatment" phase of each experiment. You may use the $HR_{control}$, $PA_{control}$, and $\Delta LV_{control}$ for all of your comparisions if your setup has not changed (i.e., you did not reposition your cuff or your transducers).  {#tbl-lvdata}
+
 
 ## Questions for thought . . . 
 1.  Compare your results of heart rate during breath holding with those from simulated dives.  Are they the same?

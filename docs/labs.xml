@@ -228,7 +228,7 @@ Exercises
 </figure>
 </div>
 </div></div><ol type="1">
-<li>Use the Exercise 1 setup with the addition of the Respiratory Belt Transducer to input 3 (or 2) to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings.</li>
+<li>Switch the PowerLab to the Dive Response settings. You should have the Finger Pulse transducer in channel 1 and the Respiratory Belt Transducer to input 2 to measure leg volume. Check the channel settings to make sure they match the inputs. Ask your TA for the proper settings. In this experiment, the sphygnamanometer is used to pressurize the thigh and not plugged in to PowerLab.</li>
 <li>Set up and maintain a wash basin with icewater deep enough to submerge your face up to your temples. Use a thermometer to monitor temperature at 10-15C (50-60F), replenish with ice as needed.</li>
 <li>Attach the respiratory belt snugly to the calf (Figure&nbsp;4). <em>It should feel tight and the sensor fabric should be slightly stretched.</em></li>
 <li>Place the sphygnomanometer cuff around the subject’s thigh, and <em>duct tape it securely so that it can be pressurized to restrict blood flow</em>. Be sure to apply tape to <em>secure both the top and the bottom</em> of the cuff.</li>
@@ -248,7 +248,6 @@ The idea behind measuring peripheral circulation using leg volume changes
 </div>
 <div class="callout-body-container callout-body">
 <p>We can quantify the volume in your peripheral circulation (specifically your lower leg) by assessing <strong>venous pooling</strong> for a standard time interval. By constricting blood flow to the lower limb, we will prevent venous return of the blood. Because the veins have little smooth muscle, it is relatively easy to stop venous return.</p>
-<p>You will use the sphygnomanometer cuff to cut off circulation in the leg for 30 sec.&nbsp;at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure <strong>calf volume</strong> (Figure&nbsp;4) <strong>before</strong> inflating the cuff, <strong>during 30 sec of inflation</strong>, and <strong>after deflating</strong> the cuff.</p>
 </div>
 </div>
 <div id="prot-legvol" class="callout callout-style-default callout-tip callout-titled">
@@ -261,10 +260,11 @@ Protocol: Basic Leg volume measurement
 </div>
 </div>
 <div class="callout-body-container callout-body">
+<p>You will use the sphygnomanometer cuff to cut off circulation in the leg for 20 sec.&nbsp;at the upper thigh. The respiratory belt transducer senses stretch and can be used to measure <strong>calf volume</strong> (Figure&nbsp;4) <strong>before</strong>, <strong>during inflation</strong>, and <strong>after deflating</strong> the cuff (recovery).</p>
 <ol type="1">
 <li>Record the subject’s <strong>resting</strong> recording for 10 seconds.</li>
-<li>Rapidly <strong>Inflate</strong> the cuff to <strong>60 mmHg</strong> (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], should be same for all measurements),</li>
-<li><strong>Hold pressure</strong> for <strong>exactly 20 seconds</strong> (<em>NOTE: You may have to gently squeeze the bulb to keep pressure at 80 mmHg.</em>)</li>
+<li>Rapidly <strong>Inflate</strong> the cuff to <strong>60 mmHg</strong> (or whatever pressure feels tight enough to restrict blood flow for the subject [I used 80 mmHg], the pressure should be same for all measurements),</li>
+<li><strong>Hold pressure</strong> for <strong>exactly 20 seconds</strong> (<em>NOTE: You may have to gently squeeze the bulb to keep pressure constant.</em>)</li>
 <li><strong>Quickly and COMPLETELY release</strong> the pressure (Figure&nbsp;5).</li>
 <li><strong>Recovery:</strong> Record for 30 sec or until the leg volume returns to baseline.</li>
 </ol>
@@ -290,7 +290,7 @@ Protocol: Basic Leg volume measurement
 <li>Start recording and comment <span style="color:blue">“control, resting”</span>, record for 10sec.</li>
 <li>Rapidly inflate the cuff to 60mmHg, comment <span style="color:blue">“control, cuff inflated”</span>, and record for 20sec.<br>
 </li>
-<li>Quickly release all cuff pressure, and comment <span style="color:blue">“deflated”</span>. Record for 30 sec or until leg volume stabilizes.</li>
+<li>Quickly release all cuff pressure, and comment <span style="color:blue">“deflated”</span>. Record for 30 sec or until leg volume and HR stabilizes.</li>
 </ol>
 <p><span style="color: blue">Make sure to <strong>comment at each step</strong> and always <strong>DEFLATE CUFF COMPLETELY</strong> each time.</span></p>
 </section>
@@ -311,7 +311,7 @@ NOTES:
 <li><strong>Make sure everything is very clear before beginning</strong> to avoid repeating this experiment.</li>
 <li>It is a good idea to practice a dry run of the simulated dive procedure (without submerging face).</li>
 <li>One member of the group should tap the subject on the back at 10-second intervals while immersed to help them keep track of the time and prevent anxiety.</li>
-<li>Work out in advance what your signals will be for timing vs.&nbsp;resurfacing.</li>
+<li>Work out in advance what your signals will be for timing (10s mark) vs.&nbsp;resurfacing.</li>
 <li><em>Do not force the subject to remain submerged</em>.<br>
 </li>
 </ul>
@@ -323,21 +323,20 @@ NOTES:
 <li><strong>Rest:</strong> Start recording and comment <span style="color:blue">“dive experiment, resting”</span>, record for 10sec.</li>
 <li><strong>Simulated dive:</strong>
 <ol type="a">
-<li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
+<li><strong>Rapidly</strong> inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
 </li>
 <li>Have the subject take a deep breath, exhale partially, and then hold their breath while immersing their face up to their temples in the pan of water. Comment <span style="color:blue">“dive”</span>, record for 20 sec.&nbsp;</li>
-<li>Rapidly release all cuff pressure. Comment <span style="color:blue">“deflated”</span>, and record for 30 sec.<br>
+<li><strong>Rapidly</strong> release all cuff pressure. Comment <span style="color:blue">“deflated”</span>, and record for 10 sec.<br>
 </li>
+<li>Signal to the subject to <strong>resurface</strong> and breathe normally with face just above water. Comment <span style="color:blue">“normal breathing”</span> and record for 10 sec.&nbsp;</li>
+<li>Allow subject to gently dry face.</li>
 </ol></li>
-<li><strong>Recovery:</strong> Signal to the subject to resurface and breathe normally with face just above water. Comment <span style="color:blue">“recovery”</span> and record for 10 sec or until until leg volume stabilizes. Perform a leg volume measurement:
+<li><strong>Post-dive:</strong> Perform a leg volume measurement post-dive.
 <ol type="a">
-<li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
-</li>
-<li>Record for 20 sec.&nbsp;</li>
-<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 30 sec.<br>
-</li>
+<li>Comment <span style="color:blue">“post-dive”</span> and record for 10 sec.&nbsp;</li>
+<li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span> and record for 20 sec.&nbsp;</li>
+<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 10 sec.&nbsp;</li>
 </ol></li>
-<li>Stop recording and allow subject to dry face.</li>
 </ol>
 </section>
 <section id="c.-breath-holding-exeriment" class="level2">
@@ -350,18 +349,10 @@ NOTES:
 <li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
 </li>
 <li>Have the subject take a deep breath, exhale partially, and then hold their breath. Comment <span style="color:blue">“breath hold”</span>, record for 20 sec.&nbsp;</li>
-<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 30 sec.<br>
+<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 10 sec.<br>
 </li>
+<li>Signal to the subject to <strong>breathe normally</strong> with face just above water. Comment <span style="color:blue">“normal breathing”</span> and record for 10 sec.&nbsp;</li>
 </ol></li>
-<li><strong>Recovery:</strong> Signal to the subject to breathe normally with face just above water. Comment <span style="color:blue">“recovery”</span> and record for 10 sec or until until leg volume stabilizes. Perform a leg volume measurement.
-<ol type="a">
-<li>Rapidly inflate cuff to 60mmHg, comment <span style="color:blue">“cuff inflated”</span>.<br>
-</li>
-<li>Record for 20 sec.&nbsp;</li>
-<li>Rapidly release all pressure. Comment <span style="color:blue">“deflated”</span>, and record for 30.<br>
-</li>
-</ol></li>
-<li>Stop recording.</li>
 </ol>
 </section>
 <section id="d.-additional-experiment" class="level2">
@@ -398,23 +389,65 @@ NOTES:
 </section>
 <section id="analysis-1" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="analysis-1">Analysis</h2>
-<section id="change-in-heart-rate" class="level3">
-<h3 class="anchored" data-anchor-id="change-in-heart-rate">Change in heart rate</h3>
+<section id="change-in-heart-rate-and-pulse-amplitude" class="level3">
+<h3 class="anchored" data-anchor-id="change-in-heart-rate-and-pulse-amplitude">Change in Heart Rate and Pulse Amplitude</h3>
 <ol type="1">
-<li>First analyze the <strong>Dive Response</strong> data.</li>
+<li>First analyze the <strong>Control Experiment</strong> and <strong>Dive Response</strong> data.</li>
 <li>Open the data in the Chart View and <strong>Autoscale</strong>, if necessary. Change the compression of the data trace so the entire exercise can be viewed at once. Identify the <strong>rest</strong> section of the data and change the compression to find a representative cycle. <em>You can change the compression and scale as often as required.</em></li>
-<li>Add a channel under the <strong>Channel Settings</strong> menu and set it show the <strong>heart rate</strong> in beats per minute (BPM) using the <strong>cyclic measurement menu</strong>.<br>
-</li>
 <li>Move the <strong>Waveform Cursor</strong> to a representative cycle on the <strong>pulse</strong> channel during <strong>rest</strong>. Collect the values for <strong>heart rate</strong> and <strong>pulse amplitude</strong> at the pulse peak.</li>
 <li>Collect <strong>heart rate</strong> and <strong>pulse amplitude</strong> for:
 <ol type="a">
 <li>rest</li>
-<li>15 sec into the dive</li>
-<li>just before the end of the dive</li>
-<li>30 sec after the end of the dive (recovery)</li>
+<li>15 sec into the dive (a representative pulsewave during dive)</li>
+<li>10 sec after the end of the dive (recovery)</li>
+<li>Tabulate the data in your notebook (for example see Table&nbsp;1)</li>
 </ol></li>
-<li>Conduct this analysis for the <strong>Breath Hold</strong> experiment.</li>
+<li>For the remaining experiments <strong>Post Dive</strong>, <strong>Breath Hold</strong> experiment, and <strong>Your Experiment</strong>, you only need to collect heart rate and pulse amplitude data for the treatment period (pre-treatment and post-treatment not necessary; Table&nbsp;2)</li>
 </ol>
+<div id="tbl-hrdata" class="anchored">
+<table class="table">
+<caption>Table&nbsp;1: Heart rate and pulse amplitude should be recorded at rest, during the treatment, and during the recovery for each experiment.</caption>
+<thead>
+<tr class="header">
+<th>Experiment</th>
+<th>Parameter</th>
+<th>Rest</th>
+<th>Treatment</th>
+<th>Recovery</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Control</td>
+<td>heart rate (BPM)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>pulse amplitude (mV)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dive</td>
+<td>heart rate (BPM)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>pulse amplitude (mV)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
 </section>
 <section id="change-in-peripheral-circulation" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="change-in-peripheral-circulation">Change in Peripheral Circulation</h3>
@@ -446,15 +479,13 @@ Collecting leg volume change from the volume trace:
 </div>
 </div>
 <ol type="1">
-<li>Collect the leg volume difference for the <strong>control</strong>, during the <strong>dive</strong>, and <strong>recovery</strong> from the dive (<img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D">, <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Btreatment%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Brecovery%7D">) . Tabulate as in Table Table&nbsp;1.</li>
-<li>Calculate the relative leg volumes for dive vs.&nbsp;control and recovery vs.&nbsp;control (<img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Btreatment%7D/%20%5CDelta%20LV_%7Bcontrol%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Brecovery%7D/%20%5CDelta%20LV_%7Bcontrol%7D"> ).</li>
-<li>For the <strong>breath hold experiment</strong>, use the <strong>recovery from the dive</strong> value as the <strong>control</strong> for breath hold.</li>
-<li>Collect the leg volume data as before and tablulate as in Table&nbsp;2</li>
-<li>Do the same for your additional experiment.</li>
+<li>Collect the leg volume difference for the <strong>control</strong>, during the <strong>dive</strong>, and <strong>post dive</strong> ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D">, <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bpost-dive%7D"> ) .</li>
+<li>Calculate the relative leg volumes for dive vs.&nbsp;control and post-dive vs.&nbsp;control ( <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D/%20%5CDelta%20LV_%7Bcontrol%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bpost-dive%7D/%20%5CDelta%20LV_%7Bcontrol%7D"> ).</li>
+<li>Do the same for the <strong>breath hold experiment</strong>, and your <strong>custom experiment</strong> and tabulate as in Table&nbsp;2.</li>
 </ol>
-<div id="tbl-divedata" class="anchored">
+<div id="tbl-lvdata" class="anchored">
 <table class="table">
-<caption>Table&nbsp;1: Effects of diving on peripheral circulation</caption>
+<caption>Table&nbsp;2: Heart rate (HR), pulse amplitude (PA), and leg volume (LV) data to record in your notebook. These are measurements taken during the “treatment” phase of each experiment. You may use the <img src="https://latex.codecogs.com/png.latex?HR_%7Bcontrol%7D">, <img src="https://latex.codecogs.com/png.latex?PA_%7Bcontrol%7D">, and <img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D"> for all of your comparisions if your setup has not changed (i.e., you did not reposition your cuff or your transducers).</caption>
 <colgroup>
 <col style="width: 16%">
 <col style="width: 16%">
@@ -465,17 +496,33 @@ Collecting leg volume change from the volume trace:
 </colgroup>
 <thead>
 <tr class="header">
-<th>Subject name</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D"> (mV)</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bdive%7D"> (mV)</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Brecovery%7D"> (mV)</th>
-<th>Dive/Control</th>
-<th>Recovery/Control</th>
+<th></th>
+<th>Control</th>
+<th>Dive</th>
+<th>Post Dive</th>
+<th>Breath Hold</th>
+<th>My Expt</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td>heart rate (BPM)</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>pulse amplitude (mv)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV"> (mV)</td>
 <td></td>
 <td></td>
 <td></td>
@@ -493,38 +540,21 @@ Collecting leg volume change from the volume trace:
 <tr class="odd">
 <td></td>
 <td></td>
+<td><strong>Dive/Control</strong></td>
+<td><strong>Post Dive/Control</strong></td>
+<td><strong>Breath Hold/Control</strong></td>
+<td><strong>My Expt/Control</strong></td>
+</tr>
+<tr class="even">
+<td>Relative HR</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-</div>
-<div id="tbl-breathholddata" class="anchored">
-<table class="table">
-<caption>Table&nbsp;2: Effects of breath hold on peripheral circulation. Use the recovery LV value from the dive experiment for the control.</caption>
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Subject name</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bcontrol%7D"> (mV)</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Bbreathhold%7D"> (mV)</th>
-<th><img src="https://latex.codecogs.com/png.latex?%5CDelta%20LV_%7Brecovery%7D"> (mV)</th>
-<th>Breath Hold/Control</th>
-<th>Recovery/Control</th>
-</tr>
-</thead>
-<tbody>
 <tr class="odd">
-<td></td>
+<td>Relative PA</td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,15 +562,7 @@ Collecting leg volume change from the volume trace:
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
+<td>Relative LV</td>
 <td></td>
 <td></td>
 <td></td>
