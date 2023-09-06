@@ -10,4 +10,6 @@ title: "Resources"
 -  [__Laulima__](https://laulima.hawaii.edu/) For grades and lab quizzes.   
 -  ZOOL430 library study guide: <https://guides.library.manoa.hawaii.edu/zoology430>
 
+- [Lab Notebook Instructions](labs-misc/lab-notebook.qmd) (including the prelab) 
+
 ## More coming soon

@@ -1,0 +1,95 @@
+---
+title: "Lab Notebooks and Prelab Instructions"
+format: 
+  html: default
+  pdf: default
+---
+Your __lab notebook__ is a record of your labwork. In research, a lab notebook is more than a diary of your work, it is used to write your reports and papers, inspire future research, or even prove the development of ideas in court cases. 
+
+For this class, it is bound notebook used exclusively for recording information and notes pertinent to experiments performed in this lab.  Your lab notebook will help you to do well on your lab reports, which are typed (i.e., mini scientific papers) that you turn in for grading. It is also a great place to take notes in lab lectures or discussion that may be helpful later. 
+
+# Format
+
+-  __Title page__   
+    +  Include your name, email address, lab section and purpose of the notebook on the first page, and the names and contact information (email and phone #) for your lab group.
+    +  __Table of contents__: update weekly with page numbers for each lab. (Number the pages of the rest of your lab notebook). 
+-  __Labs__ - Each lab has four sections:
+    +  __Introduction__  _(prelab)_
+    +  __Methods__  _(prelab)_
+    +  __Results__  _(in lab)_
+    +  __Discussion__  _(in lab)_
+  
+
+# Prelab {#sec-prelab}
+
+__At home__, read through the complete lab exercise. Your lab may also have standard protocols to read. In your notebook, write (or bullet-point) the introduction and methods sections below. This is your pre-lab assignment (5pts), and will be checked by your TA at the start of lab. 
+
+## Introduction
+
+-  Write the purpose of the week’s experiment. This should be the general idea that is broad enough to cover all of the ideas in the lab (the "umbrella idea"). 
+-  Bullet-point the most relevant background in this experiment, and how it might connect to a hypothesis. 
+  +  Introduce the physiological mechanisms under study
+  +  Start from what we know about the topic, and connect to what we are trying to demonstrate or find out in the current experiment. 
+  +  Be sure to introduce any ideas that go into your hypothesis. 
+  +  In other words, try to foreshadow why the current experiment is important. 
+-  A starting hypothesis (or hypotheses if there are multiple parts). 
+
+_An introduction just introduces the ideas (or touches upon them). Just enough so we can understand the hypothesis._ 
+
+Your TA will give you feedback during the prelab-check. _We particularly want to make sure you have a strong hypothesis._ 
+
+## Methods
+
+The experiment should be reproducible by a scientist based on your methods. Include:
+
+- Type of subjects (species) and how many 
+- What measurements you collected 
+- Techniques. (e.g., Human heart rate (HR) was measured using a finger pulse transducer connected to a PowerLab Data Acquistion System).  Note settings.
+- Experimental details. 
+  + Measurements (what?, where?, recording for how long, how many times, etc.)
+  + Details of controls (or baselines) and treatments
+  + Order of experiments, etc. 
+  + You do not need to copy standard protocols. Simply refer to any published or standard protocols (i.e, from lab manual), but explain any customizations. Do explain what the standard protocols were used to measure. 
+- How raw data are converted to physiological measurements
+  + For example, "systolic pressure was obtained from the blood pressure waveform by taking peak-to-trough measurements of the largest peaks." 
+  + Example: "Heart rate was calculated using the cyclic measurements panel in LabChart softare to measure the time between pulse wave peaks (peak-to-peak measurements) divided by elapsed time." 
+  + Example: "Peripheral circulation volume was measured as the difference between maximum and minimum leg volume measurements (at baseline and after reducing venous return for 30sec, respectively)."
+- Analysis 
+  + How the data will be used to evaluate the hypotheses. In other words, what will we compare to know whether the hypothesis has any support? This usually involves how the treatments will be compared to controls or baseline and can foreshadow the figures presented in the results. 
+  + For example, "HR was compared before and during a simulated dive to assess diving bradycardia, and venous pooling ..."
+ 
+
+# In Lab
+
+## Results
+
+Include raw data, calculations, equations, and physiological parameters obtained in your notebook.  
+
+-  Write all raw results in your notebook obtained from measuring peaks or landmarks, etc. 
+-  If your lab manual has any tables, you can fill them in and paste them into your notebook. 
+-  Data from the Chart software can be saved as .adicht (Windows chart data), which is a text format. This can be further analyzed at home with LabChart reader 8.0 software. 
+-  It is important to record things that go wrong as well as things that go right. 
+-  We will have in-lab discussions about how to analyze data and brainstorm what effective figures might look like. It is a great idea to sketch these ideas in your notebook. 
+
+_During lab, there should be time to collect the physiological parameters from your raw data, and to play with making figures or tables for your lab report._ 
+
+## Discussion
+
+Summarize your conclusions from the experiment.  Discuss what your results mean and interpret in light of the purpose of the lab. Think about what it implications your results might have more broadly.
+
+-  Look through your results and at least bullet-point some potential discussion topics.  
+-  Focus on interpretation of your direct results
+-  What do your results mean? Dig into the details of the results. 
+-  Note any connections between your results and known physiological mechanisms. What have we learned or demonstrated?
+-  Could your results apply to anything else? End by broadening out. 
+-  Include any good ideas that come up during the lab session. 
+
+# Checkout
+
+Before you leave the lab, checkout with your TA. 
+
+-  Your TA will give you feedback on your results and discussion, and your hypothesis (which hopefully has been improved).  
+-  Our goal is to ensure you leave lab with all the materials needed to write an excellent report. 
+
+_Note: If you have a good lab notebook, it will be easy to write your lab report because most of it can be taken from your notebook!_
+
