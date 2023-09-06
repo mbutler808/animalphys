@@ -41,12 +41,60 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 | 5 | Kirsten  | Christina  | Kylie |
 | 6 | Maisie   | Alvin  | Jessica |
    
+
+:::{.callout-tip}
+# Thought for the day
+
+> Physiology is the story of evolution’s struggle to maintain an appropriate SA/D ratio in relation to the volume of an animal -- _Haldane_ 
+:::
    
 # 3. Temperature
 
 ## Modes of Heat Transfer
 
+- __Conduction__
+- __Convection__
+- __Evaporative__
+- __Radiative__
+
+Animals also generate heat through __Metabolism__.
+
 {{< video https://youtu.be/BHchDrboqEo >}}
+
+
+
+Flux = C * $\nabla$ (Mass or Energy) 
+
+Q = C * M $\nabla$ T
+
+Where:
+- Flux is the transfer of mass or energy
+- $\nabla$ is the gradient symbol
+- Q is heat
+- C is a material property (resistance or insulation value)
+- T is temperature
+
+## Heat Balance 
+
+Metbolic heat production is balanced by all mechanisms for heat exchange: 
+
+$\Delta$H$_s$ = H$_m$ $\pm$ H$_c$ $\pm$ H$_r$ $\pm$ H$_e$
+
+Where:  
+$\Delta$H$_s$ = heat of storage  
+H$_m$ = heat of metabolism  
+H$_c$ = heat of conduction and convection  
+H$_r$ = heat of radiation  
+H$_e$ = heat of evaporation  
+
+If an animal is in heat balance, Tb (body temperature) is stable. 
+
+If $\Delta$H$_s$ is positive,  (Gains > Losses), then  Tb increases.  
+
+If $\Delta$H$_s$ is negative,  (Gains < Losses), then  Tb decreases.  
+
+
+## Body Temperature
 
 
 ## Q10 

@@ -103,13 +103,55 @@ Read ahead
 </tr>
 </tbody>
 </table>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Thought for the day
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<blockquote class="blockquote">
+<p>Physiology is the story of evolution’s struggle to maintain an appropriate SA/D ratio in relation to the volume of an animal – <em>Haldane</em></p>
+</blockquote>
+</div>
+</div>
 </section>
 </section>
 <section id="temperature" class="level1">
 <h1>3. Temperature</h1>
 <section id="modes-of-heat-transfer" class="level2">
 <h2 class="anchored" data-anchor-id="modes-of-heat-transfer">Modes of Heat Transfer</h2>
+<ul>
+<li><strong>Conduction</strong></li>
+<li><strong>Convection</strong></li>
+<li><strong>Evaporative</strong></li>
+<li><strong>Radiative</strong></li>
+</ul>
+<p>Animals also generate heat through <strong>Metabolism</strong>.</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/BHchDrboqEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Flux = C * <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> (Mass or Energy)</p>
+<p>Q = C * M <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> T</p>
+<p>Where: - Flux is the transfer of mass or energy - <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> is the gradient symbol - Q is heat - C is a material property (resistance or insulation value) - T is temperature</p>
+</section>
+<section id="heat-balance" class="level2">
+<h2 class="anchored" data-anchor-id="heat-balance">Heat Balance</h2>
+<p>Metbolic heat production is balanced by all mechanisms for heat exchange:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> = H<img src="https://latex.codecogs.com/png.latex?_m"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_c"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_r"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_e"></p>
+<p>Where:<br>
+<img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> = heat of storage<br>
+H<img src="https://latex.codecogs.com/png.latex?_m"> = heat of metabolism<br>
+H<img src="https://latex.codecogs.com/png.latex?_c"> = heat of conduction and convection<br>
+H<img src="https://latex.codecogs.com/png.latex?_r"> = heat of radiation<br>
+H<img src="https://latex.codecogs.com/png.latex?_e"> = heat of evaporation</p>
+<p>If an animal is in heat balance, Tb (body temperature) is stable.</p>
+<p>If <img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> is positive, (Gains &gt; Losses), then Tb increases.</p>
+<p>If <img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> is negative, (Gains &lt; Losses), then Tb decreases.</p>
+</section>
+<section id="body-temperature" class="level2">
+<h2 class="anchored" data-anchor-id="body-temperature">Body Temperature</h2>
 </section>
 <section id="q10" class="level2">
 <h2 class="anchored" data-anchor-id="q10">Q10</h2>

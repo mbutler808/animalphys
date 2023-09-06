@@ -25,9 +25,9 @@ tbl-colwidths: [9,3, 20, 20,30]
 |Week 3||||||
 | 9/4 | M | Labor Day Holiday | Choose your Fossil  |   |   |
 | | W | Temperature \[[html](posts/2023-09-06-Temperature/index.qmd)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |   | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   |
-|   | F | Heterothermy/Iterative Method  | PS2: Temperature  |   |   |
+|   | F | Heterothermy/Iterative Method  | |   |   |
 |Week 4||||||
-| 9/11  | M | Cardiac Regulation  |   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
+| 9/11  | M | Cardiac Regulation  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
 | | W | Circulatory Systems | Background Design 1 | Lab Practical / Lab4: PC3-G-ECG/Cardiac Function  |   |
 |   | F | Sustained Metabolic Scope Paper |   |   |   |
 |Week 5||||||
