@@ -20,7 +20,7 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 
 **Before class, you can prepare by reading the following materials:**
 
-1. Withers chapter 5. Look over the homework, handout, and discussion questions and skim the chapter, reading anything that you need to know.  
+1. Withers chapter 5. Look over the homework, handout, and discussion questions and skim the chapter, reading anything that you need to know. 
 2. \[[Discussion Questions](../../discussions/Discussion_Week_3_temperature.pdf)\] 
 3. \[[Slide Deck](../../powerpoints/3.Temperature.pdf)\] - for your reference as we go through the material
 :::
@@ -39,7 +39,7 @@ categories: [module 3, week 3, BMR, SMR, RMR, AMR, DMR ]
 | 3 | Mayuka |  Krystal | Logan M |
 | 4 | Anna  | Garrett  | Sasha |
 | 5 | Kirsten  | Christina  | Kylie |
-| 6 | Maisie   | Alvin  | Jessica |
+| 6 | Maisie   | Alvin  |  |
    
 
 :::{.callout-tip}
