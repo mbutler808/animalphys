@@ -1,0 +1,57 @@
+---
+title: "4. Cardiac Function and Metabolic Ceilings"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "The vertebrate heart and its regulation"
+date: 2023-09-06
+format: 
+  html: default 
+  pdf: default
+categories: [module 4, week 4, cardiac function, cardiac cycle, cardiac regulation, MMR ]
+---
+
+This week we will learn more about cardiac morphology, function, and regulation. There are multiple very short (but important) readings, and some longer readings to skim. Donʻt worry about understanding every detail in the readings, but rather look over the discussion questions first and hunt through the readings for those topics, skimming over the rest. _These are going to be important topics for the next few labs._ 
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday we will finish heterothermy and start cardiac function. Wednesday cardiac regulation  \[[Heart Discussion Questions and readings](../../discussions/Discussion-Week4-heart-function.pdf)\] 
+2. Friday we will discuss \[[Metabolic Celings](../../discussions/Discussion-Week4-metabolic-ceiling.pdf)\]
+:::
+
+### Announcements/Reminders
+
+-  Please wear comfortable shoes to lab for running up and down stairs.
+
+
+### Week 4 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |Adry| Krystal  | Sasha |
+| 2 |  Logan B  |  Anna | Kirsten |
+| 3 | Justin |  Maisie | Kylie |
+| 4 | Mayuka  | Garrett  | Logan M |
+| 5 |  Alvin | Richard  | Matt |
+| 6 |  Morgan  | Christina  |  |
+   
+
+
+
+# For Next Time
+
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
