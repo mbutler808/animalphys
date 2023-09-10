@@ -8,7 +8,7 @@ author:
 description: "Measure your own ECG! And explore the cardiac cycle and the effects of exercise "
 date: 2023-09-09
 toc: true
-image: images/detail_ecg.gif
+image: ../../images/detail_ecg.jpg
 format: 
   html: default
   pdf: default
@@ -29,6 +29,7 @@ categories: [week 4, labs, ecg, cardiac cycle, heart, exercise, electrical respo
 {{< video https://youtu.be/dWZqO2XHo2Y >}}
 :::
 
+![The ECG is the summation of cardiac potentials throughout the heart](../../images/detail_ecg.jpg){width=90%}
 
 ## In Lab: 
 

@@ -43,6 +43,12 @@ Prepare for lab by:
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/dWZqO2XHo2Y" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/detail_ecg.jpg" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption class="figure-caption">The ECG is the summation of cardiac potentials throughout the heart</figcaption>
+</figure>
+</div>
 <section id="in-lab" class="level2">
 <h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
 <ul>
@@ -90,7 +96,7 @@ Important
   <category>pulse</category>
   <guid>https://mbutler808.github.io/labs/Lab4-human-ecg/Lab4.html</guid>
   <pubDate>Sat, 09 Sep 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/labs/Lab4-human-ecg/images/detail_ecg.gif" medium="image" type="image/gif"/>
+  <media:content url="https://mbutler808.github.io/images/detail_ecg.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Lab 3: Peripheral Circulation and The Dive Response</title>
@@ -1388,7 +1394,7 @@ After today, you should know how to:
 
  ]]></description>
   <guid>https://mbutler808.github.io/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Sun, 10 Sep 2023 05:16:52 GMT</pubDate>
+  <pubDate>Sun, 10 Sep 2023 05:38:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
