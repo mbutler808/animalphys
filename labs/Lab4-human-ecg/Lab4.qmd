@@ -1,0 +1,50 @@
+---
+title: "Lab 4: Electrocardiogram (ECG/EKG) and Cardiac Response to Exercise"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Measure your own ECG! And explore the cardiac cycle and the effects of exercise "
+date: 2023-09-09
+toc: true
+image: images/detail_ecg.gif
+format: 
+  html: default
+  pdf: default
+categories: [week 4, labs, ecg, cardiac cycle, heart, exercise, electrical response, heart sounds, pulse]
+---
+
+# Before Lab
+
+:::{.callout-note}
+# Prepare for lab by:
+- __Wear comfortable shoes to lab__ (you will be running up and down the stairs). 
+- Watch cardiac cycle podcast.
+- Read human ecg protocol \[[Protocol 3](../Protocols/p3-human-ecg.pdf)\]. 
+- Read the lab manual for this weekʻs experiment \[[Lab 4](Lab4-Human-Heart-ECG.pdf)\] exploring the cardiac cycle and effects of exercise using ECG.  
+- Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
+- Do Quiz 4 on Laulima (open 24 hrs before lab). 
+
+{{< video https://youtu.be/dWZqO2XHo2Y >}}
+:::
+
+
+## In Lab: 
+
+- Practical based on [Lab 1](../Lab1-heart-rate-and-data-analysis/index.qmd). 
+- Lab 4 exercises 1-3. Record data in your lab notebook. \[[example data tables](Lab4-data-tables.pdf)\] \[[docx](Lab4-data-tables.docx)\]
+- Note: the data tables are to assist you in collecting data and should be included in your notebook.  Present the results in your lab report 
+
+## After Lab: 
+
+- Group lab report due next week
+- Use the guidance to structure your full lab report. \[[pdf](Lab4-ECG-Report.pdf)\] \[[docx](Lab4-ECG-Report.docx)\]
+- This will be a full lab report with intro, methods, results, discussion, literature cited, and respective contributions. \[[grading guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)\] \[[old style](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+
+
+:::{.callout-important}
+- Be sure to solicit feedback from lab partners, _but do not delete or rewrite the words of others_. Leave comments and allow author to revise (or not).
+:::
+
+

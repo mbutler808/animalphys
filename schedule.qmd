@@ -27,8 +27,8 @@ tbl-colwidths: [9,3, 20, 20,30]
 | | W | Temperature \[[html](posts/2023-09-06-Temperature/index.qmd)\] \[[discussion](discussions/Discussion_Week_3_temperature.pdf)\] |   | Lab3:PC3-IWS-Peripheral Circ/Dive Resp \[[overview](labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd)\]  |   |
 |   | F | Heterothermy/Iterative Method  | |   |   |
 |Week 4||||||
-| 9/11  | M | Cardiac Regulation  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |   | Sustained Metabolic Scope: Hammond and Diamond 1997,  Peterson, Nagy, and Diamond 1990  |
-| | W | Circulatory Systems | Background Design 1 | Lab Practical / Lab4: PC3-G-ECG/Cardiac Function  |   |
+| 9/11  | M | Cardiac Regulation  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |   | Sustained Metabolic Scope: \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson, Nagy, and Diamond 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\]  |
+| | W | Circulatory Systems | Background Design 1 | Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg/Lab4.qmd)\] |   |
 |   | F | Sustained Metabolic Scope Paper |   |   |   |
 |Week 5||||||
 | 9/18  | M | Feeding |  |   |   |
