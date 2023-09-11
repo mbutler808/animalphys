@@ -28,8 +28,11 @@ This week we will learn more about cardiac morphology, function, and regulation.
 
 ### Announcements/Reminders
 
--  Please wear comfortable shoes to lab for running up and down stairs.
-
+-  Please wear __comfortable shoes to lab__ for running up and down stairs.
+-  HW1 solutions are posted on window of EDM101 lab.
+-  HW2 due in class (hard copy preferred) or on Laulima by midnight.
+-  \[[Design Background](../../projects/2023-09-06-design-background/index.qmd)\] Due __Wednesday in hardcopy__. 10 points. Chance to revise by Friday. 
+-  Do discussion TEAMMATES eval, released each Friday, do by Monday.
 
 ### Week 4 Discussion Groups
 
@@ -41,9 +44,19 @@ This week we will learn more about cardiac morphology, function, and regulation.
 | 4 | Mayuka  | Garrett  | Logan M |
 | 5 |  Alvin | Richard  | Matt |
 | 6 |  Morgan  | Christina  |  |
+
+## Monday
    
+- Finish up Heterothermy \[[questions 3,4](../../discussions/Discussion-Week3-temperature.pdf)\] \[[slide deck](../../powerpoints/4.Temperature.pdf)\] 
+- Cardiac Cycle Q1,2 \[[slide deck](../../powerpoints/4.CardiacCycle.pdf)\]
 
+## Wednesday
 
+- Cardiac Function/Regulation Q3-6
+
+## Friday 
+
+- Paper discussion
 
 # For Next Time
 
