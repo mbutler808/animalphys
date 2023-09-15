@@ -1,0 +1,45 @@
+---
+title: "Design 1"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
+date: 2023-09-14
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, SMR, BMR, activity ]
+---
+
+# Suggestions for Metabolism and Heat Balance Design
+
+__Look through the analysis below and find the information needed to model__ your animalʻs __metabolism__ and __heat balance__. Hopefully you have it in your _background bullet points_. Find EVERYTHING about your species in the literature, and use the web and library to fill any holes. Ask us or the science librarians for help. For the first draft, I want you to outline (i.e., organized bullet-points) the __key background elements and end with a statement of purpose__. (Think about your intro as blocks of information you need to describe your animal and its metabolism and heat balance problem for a scientific paper). For example: general description, its place in the tree of life, when and where it lived, its general behavior and activity level, and thermal challenges.  
+__Analysis:__ Complete the analysis below using assumptions appropriate for your animal (see sample calculations). Type it up as an appendix of calculations.  Both partners must contribute substantively to finding info and analysis.  
+__First draft (due 9/25 by 5pm):__ Include an outline of the intro (organized bullet points of factual information), and a complete analysis (appendix). Also include a first draft of the paper. I highly recommend that you first make an outline -- and after completing the full analysis, you write the results and methods, then the discussion, then the intro. Include as much as you can in the first draft, but prioritize finishing the analysis. __Add citations as you go.__  
+__Final draft (due 10/2):__ Will include an introduction, methods, results, discussion, literature cited, appendix, and respective contributions.  
+_Note: You are writing a scientific paper (like a scientific journal article — not Q&A)._ Below are content suggestions to help you write an excellent paper (only include aspects that are __relevant__ to your animal):  
+
+- Required: From fossils described in the literature, estimate the body mass and body dimensions of your animal.  Make a sketch of your animal and add the body dimensions (overall height, leg length, wing span, etc).
+
+- Was your animal poikilothermic or homeothermic?  Endothermic or ectothermic? What range of body temperatures could your animal tolerate?  How did it deal with extreme heat or cold stress? If the animal was a thermoregulator, how did it regulate its body temperature? Did it have insulating fur, feathers or fat?  Could it sweat or use other forms of evaporative cooling?  Did it allow its tissues to become supercooled without freezing?  Was it freeze tolerant?  Did it use countercurrent heat exchangers?  Did it go into torpor or hibernate?
+
+- For endotherms, calculate BMR (choose an appropriate interspecific scaling equation from Withers Table 4-5). From BMR, estimate RMR, AMR, MMR and DMR.  What is the metabolic scope of your animal?  Include a lot of detail in writing about the lifestyle of the animal and why you chose the values that you did to estimate DMR and MMR.  
+
+- For ectotherms, choose an appropriate interspecific scaling equation from Withers Table 4-5 and the iterative method to calculate SMR for the animal when it is inactive at night  (assume a Q$_{10}$ of 2.5 for metabolic rate).  How much higher is body temperature than air temperature during the night (T$_b$-T$_a$)?  Use the Q$_{10}$ correction to calculate SMR at the higher ambient temperatures during the day (not yet iterative).  Increase SMR by a factor of 1.5-3 to reflect active metabolic rate (AMR).  Now use the iterative calculations to determine Tb-Ta, and the corresponding increase in MR.  Estimate DMR for your animal. These are just suggestions, find something interesting about DMR to explore.
+
+- Estimate values for the heat balance equation for your animal at rest.  Use allometric equations to estimate minimum Hc, and CEWL+REWL to estimate minimum He.  Then imagine some situations in which your animal might experience heat or cold stress, and use the heat equation to see whether it is able to maintain heat balance.  Create a situation that would put your animal out of heat balance.  _How fast does the body temperature increase or decrease?_  
+
+- If your animal is an endotherm, how much energy per day could your animal save by hibernating with a lower body temperature (if reasonable for your animal; this is a hard question to answer).
+
+:::{.callout-note}
+# Note:  Use standard scientific citation and reference formats throughout all of your papers.  
+
+Cite sources as (author(s), date) and include full references at the end of each design. For example:  The earliest amphibians were largely aquatic, and are thought to have had internal gills (Coates and Clack, 1991).
+
+Coates, M. I. and Clack, J. A. 1991. Fish-like gills and breathing in the earliest known tetrapod. _Nature_, 352:234-236.
+:::
+
+\[[pdf](1.MetabolismTempDesign1.pdf)\] version of this sheet

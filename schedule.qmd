@@ -33,9 +33,9 @@ tbl-colwidths: [9,3, 20, 20,30]
 |Week 5|||||
 | 9/18  | M | Feeding |  |   |   
 | | W | Digestion |  | Lab5: PC1-IWS-Toad Heart |   
-|   | F | Specialized Digestive Systems |  Design 1 Report Due |   |   
+|   | F | Specialized Digestive Systems |   |   |   
 |Week 6|||||
-| 9/25  | M | Max Size Herbivores Paper Claus 2003| |   | 
+| 9/25  | M | Max Size Herbivores Paper Claus 2003| Design 1 Report Due \[[html](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] |   | 
 | | W | Neurons |  Peer Critique 1 | Design Presentations/ Critique Session   |   
 |   | F | Synapses  | PS3: Feeding & Digestion  |   |   
 |Week 7|||||
