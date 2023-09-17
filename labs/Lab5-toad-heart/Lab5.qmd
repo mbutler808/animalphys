@@ -19,7 +19,8 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 
 :::{.callout-note}
 # Prepare for lab by:
-- __Wear shoes to lab__ (you will be dissecting). 
+- This will be our first dissection lab. Itʻs really cool!
+- __Wear shoes to lab__, and bring your dissecting kit (if you have one, otherwise we have supplies). Lab coat is not required but you are welcome to wear one if you wish. 
 - Read the lab manual for this weekʻs experiment \[[Lab 5](Lab5-toad-heart.pdf)\] exploring the physiology of the toad heart using ECG and a force transducer.  
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
 - Do Quiz 4 on Laulima (open 24 hrs before lab). 
