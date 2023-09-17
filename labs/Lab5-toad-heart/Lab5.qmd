@@ -29,7 +29,7 @@ categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical 
 
 ## In Lab: 
 
-- Lab 5 manual \[[pdf](Lab5-toad-heart.pdf)\] [docx](Lab5-toad-heart.docx)\]. Record data in your lab notebook. Use the guidance at the end of the lab manual to analyze your data in preparation for your results and discussion. 
+- Lab 5 manual \[[pdf](Lab5-toad-heart.pdf)\] \[[docx](Lab5-toad-heart.docx)\]. Record data in your lab notebook. Use the guidance at the end of the lab manual to analyze your data in preparation for your results and discussion. 
 -  Dissection guide \[[pdf](DissectionGuide.pdf)\]
 - Toad heart anatomy. Note that amphibians have a 3-chambered heart! Two atria and one ventricle. \[[pdf](HeartAnatomy.pdf)\]
 
