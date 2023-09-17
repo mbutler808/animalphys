@@ -1,0 +1,45 @@
+---
+title: "Lab 5: Physiology of the _in situ_ Toad Heart"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "The physiology of a heart in action!"
+date: 2023-09-16
+toc: true
+image: HeartAnatomy.pdf
+format: 
+  html: default
+  pdf: default
+categories: [week 5, labs, ecg, cardiac cycle, heart, in situ,  toad, electical impulse, Starlingʻs law, sympathetic, parasympathetic, ions, temperature]
+---
+
+# Before Lab
+
+:::{.callout-note}
+# Prepare for lab by:
+- __Wear shoes to lab__ (you will be dissecting). 
+- Read the lab manual for this weekʻs experiment \[[Lab 5](Lab5-toad-heart.pdf)\] exploring the physiology of the toad heart using ECG and a force transducer.  
+- Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
+- Do Quiz 4 on Laulima (open 24 hrs before lab). 
+:::
+
+
+## In Lab: 
+
+- Lab 5 manual \[[pdf](Lab5-toad-heart.pdf)\] [docx](Lab5-toad-heart.docx)\]. Record data in your lab notebook. Use the guidance at the end of the lab manual to analyze your data in preparation for your results and discussion. 
+-  Dissection guide \[[pdf](DissectionGuide.pdf)\]
+- Toad heart anatomy. Note that amphibians have a 3-chambered heart! Two atria and one ventricle. \[[pdf](HeartAnatomy.pdf)\]
+
+![](../../images/ToadDissectionGuide.png){width="4in" height="5.25in"}   ![](../../images/ToadHeartAnatomy.png){width="4in" height="5.25in"}  
+
+
+## After Lab: 
+
+- Individual Work Sheet due next week \[[pdf](Lab5WS-toad-heart.pdf)\] \[[docx](Lab5WS-toad-heart.docx)\]
+- You will include hypotheses (sections 1 and 2), mini results (section 3), and a regular discussion. On this lab WS, put a little more effort into the discussion.  For each section we ask for, always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)\] \[[old style](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+-  You are encouraged to analyze data with your lab members, and may develop figures together, but all writing must be your own work. 
+
+
+

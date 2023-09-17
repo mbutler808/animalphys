@@ -10,6 +10,7 @@
     "listing": "/labs.html",
     "items": [
       "/labs/Lab-notebooks/lab-notebook.html",
+      "/labs/Lab5-toad-heart/Lab5.html",
       "/labs/Lab4-human-ecg/Lab4.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html",
       "/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html",
@@ -23,6 +24,7 @@
     "items": [
       "/posts/2023-09-11-cardiac-function/cardiac.html",
       "/posts/2023-09-06-Temperature/index.html",
+      "/posts/2023-09-18-feeding/feeding.html",
       "/posts/2023-08-28-Metabolism/index.html",
       "/posts/2023-08-25-Library-day/index.html",
       "/posts/2023-08-23-the-colossal-whale/index.html",

@@ -29,17 +29,17 @@ tbl-colwidths: [9,3, 20, 20,30]
 |Week 4|||||
 | 9/11  | M | Heterothermy (see last week)/Cardiac Function \[[html](posts/2023-09-11-cardiac-function/cardiac.qmd)\]  | PS2: Temperature \[[pdf](homework/HW2heat_temp.pdf)\]   |   | 
 | | W | Cardiac Regulation | Background Design 1 \[[html](projects/2023-09-06-design-background/index.qmd)\] | Lab Practical / Lab4: PC3-G-ECG/Cardiac Function \[[overview](labs/Lab4-human-ecg/Lab4.qmd)\] |   
-|   | F | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\]|   |     
+|   | F | Design 1 chat |   |     
 |Week 5|||||
-| 9/18  | M | Feeding |  |   |   
-| | W | Digestion |  | Lab5: PC1-IWS-Toad Heart |   
-|   | F | Specialized Digestive Systems |   |   |   
+| 9/18  | M | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  |   |   
+| | W | Feeding & Digestion \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
+|   | F | Design 1 workshop - bring your draft |   |   |   
 |Week 6|||||
-| 9/25  | M | Max Size Herbivores Paper Claus 2003| Design 1 Report Due \[[html](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] |   | 
-| | W | Neurons |  Peer Critique 1 | Design Presentations/ Critique Session   |   
-|   | F | Synapses  | PS3: Feeding & Digestion  |   |   
+| 9/25  | M | Specialized Digestive Systems | Design 1 Report Due \[[html](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] |   | 
+| | W | Max Size Herbivores Paper Claus 2003 |  Peer Critique 1 | Design Presentations/ Critique Session   |   
+|   | F | Neurons  | PS3: Feeding & Digestion  |   |   
 |Week 7|||||
-| 10/2  | M | Signal Propagation  | Design 1 Rewrite Due    |   |   
+| 10/2  | M | Synapses/Signal Propagation  | Design 1 Rewrite Due    |   |   
 || W | Sensory Receptors | PS4: Neurons  | Lab 10:PC1-G-Vertebrate Action Potential  |   
 |   | F | Vision/Orals  |   |   |   
 |Week 8|||||
