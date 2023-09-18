@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The vertebrate heart and its regulation"
-date: 2023-09-06
+date: 2023-09-11
 format: 
   html: default 
   pdf: default
