@@ -3,6 +3,7 @@
 # Mac Finder information
 .DS_Store
 .icloud 
+.key
 
 # Lecture keynotes
 lectures/
