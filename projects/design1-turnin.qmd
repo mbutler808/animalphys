@@ -26,8 +26,8 @@ For example: "_Fisher_Gao.pdf_"
 
 :::{.callout-note}
 # Reference materials
-- \[[Review assignments](https://docs.google.com/spreadsheets/d/1tpULc_8UNd_RMxd290c9_ZY-OaCw2dsmOJpf2peRO9g/edit#gid=0)\] 
-- \[[Design 1 google drive folder](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\].
+- Find your \[[Review assignment](https://docs.google.com/spreadsheets/d/1tpULc_8UNd_RMxd290c9_ZY-OaCw2dsmOJpf2peRO9g/edit#gid=0)\] 
+- Download your assigned manuscript. \[[Design 1 google drive folder](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\].
 - \[[Design 1 assignment](design1.qmd)\] 
 
 __Print out the manuscript so that you can write comments directly on the report.__

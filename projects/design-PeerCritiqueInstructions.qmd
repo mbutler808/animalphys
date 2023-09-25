@@ -23,15 +23,15 @@ categories: [design project, preer review, constructive criticism ]
 __Print out the manuscript so that you can write comments directly on the report.__
 :::
 
-### _Read through the \[[content guidelines](PeerCritiqueGuidelines.pdf)\]_. 
+1. _Read through the \[[content guidelines](PeerCritiqueGuidelines.pdf)\]_. 
  
-### _Read your assigned manuscript. Be a good colleague._ 
+2. _Read your assigned manuscript. Be a good colleague._ 
 - As you go, mark it with brief comments or corrections. _Please do not correct each instance of the same type of error. Just point it out the first time._ 
 -  __Focus on improvements__ that would provide the __biggest payoff__. Be explic
 it (of course, don't be mean – just state the point). 
 -  When you receive your critique you must have a thick skin – the point of the exercise is to help you do better on the final draft. 
 
-### _Prepare your ~2 page __written critique__ for the authors_. 
+3. _Prepare your ~2 page __written critique__ for the authors_. 
 
   + __Begin your review with a positive statement__ before going into problems.  A critique is mostly negative – that's just the nature of the beast. As scientists, we are most interested in knowing exactly what is wrong, poorly stated, or unconvincing _so that we can correct it_. But it makes the medicine a little easier to swallow if you start with something nice.
 
