@@ -1,0 +1,73 @@
+---
+title: "Submitting Design 1 and How to Peer Critique"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "How to be a good colleague and provide very helpful feedback"
+date: 2023-09-25
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, SMR, BMR, activity, Hc, He, Hr, REWL, CEWL ]
+---
+
+# Turn in your Design 1 
+
+1) Please be sure to __name the file using the naming convention FirstAuthorLastName_SecondAuthorLastName.pdf__ so that your peers can find the correct paper to review. Be sure to put the first author first.
+
+For example: "_Fisher_Gao.pdf_"
+
+2) Post your paper on the shared Google Drive by 5pm Monday. \[[Upload here](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\]
+
+## Complete your Peer Critique 
+
+:::{.callout-note}
+# Reference materials
+- \[[Review assignments](https://docs.google.com/spreadsheets/d/1tpULc_8UNd_RMxd290c9_ZY-OaCw2dsmOJpf2peRO9g/edit#gid=0)\] 
+- \[[Design 1 google drive folder](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\].
+- \[[Design 1 assignment](design1.qmd)\] 
+
+__Print out the manuscript so that you can write comments directly on the report.__
+:::
+
+### _Read through the \[[content guidelines](PeerCritiqueGuidelines.pdf)\]_. 
+ 
+### _Read your assigned manuscript. Be a good colleague._ 
+- Your main task is to __critique the content__ - please go through their __analysis__ and look for any big improvements that could help. _Catch any errors, and they will be __extremely grateful__._ 
+- As you go, mark it with brief comments or corrections. _Please do not correct each instance of the same type of error. Just point it out the first time._ 
+-  __Focus on improvements__ that would provide the __biggest payoff__. Be explict
+it (of course, don't be mean – just state the facts). 
+-  When you receive your critique, it really helps to have a thick skin – we are working together to help each other produce the best final draft possible. 
+
+### _Prepare your ~2 page __written critique__ for the authors_. 
+
+  + __Begin your review with a positive statement__ before going into problems.  A critique is mostly negative – that's just the nature of the beast. As scientists, we are most interested in knowing exactly what is wrong, poorly stated, or unconvincing _so that we can correct it_. But it makes the medicine a little easier to swallow if you start with something nice.
+
+  + Write __Major (overall) comments__ (about one paragraph). What were the major problems? The most significant shortcomings? Was it well-written and clearly organized?
+
+  + Write __Specific comments__. For ideas on what to include for these sections, see Peer Critique guidelines:
+    *  Content (specific comments on each section)
+    *  Organization and Structure
+    *  Style and Grammar
+    *  Cited References
+
+  + In general, pick the most significant comments to write up first. _You are not obligated to provide more than two pages_ (i.e., don't correcting every little thing, just point out on the first instance, and let the authors learn from finding the rest). 
+
+  + Evaluate __Effectiveness of Collaboration__. Did each partner contribute significantly and more or less equally? (can be as short as one sentence, but please elaborate if you need to).
+
+  + Focus on __specific comments related to content__. However, if there are problems in other areas, please tell them clearly. 
+
+### _Assign a numeric grade based on a 100% maximum scale._ 
+It should be weighted (approximately) 60% Content, 20% Organization & Structure, 10% Style and Grammar, and 10% Cited References. 
+
+__The grade you give will not affect their grade at all. But will help clarify for everyone how papers are evaluated.__ Help them get a better grade by being clear so that the final version can be as strong as possible. 
+
+__Your peer-review grade (10 pts)__ will be based on the __quality of your critique__, including the reasonableness of the grade you assign.
+
+### Bring to LAB 
+__One marked up copy of the paper__ for the authors, and __3 copies of your peer review__: one each to the two coauthors and myself. (To your colleagues to help them revise their paper and to me to grade your peer review.)
+
+Thanks! Marguerite

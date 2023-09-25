@@ -1,0 +1,61 @@
+---
+title: "Peer Critique Instructions for Design Projects"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "How to be a good colleague and provide very helpful feedback"
+date: 2023-09-21
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, preer review, constructive criticism ]
+---
+
+:::{.callout-note}
+# Reference materials
+- \[[Review assignments](https://docs.google.com/spreadsheets/d/1tpULc_8UNd_RMxd290c9_ZY-OaCw2dsmOJpf2peRO9g/edit#gid=0)\] 
+- \[[Design 1 google drive folder](https://drive.google.com/drive/u/1/folders/1U_XYCqBZB3rLk7ca8Joi84cXN4YmULq0)\].
+- \[[Design 1 assignment](design1.qmd)\] 
+
+__Print out the manuscript so that you can write comments directly on the report.__
+:::
+
+### _Read through the \[[content guidelines](PeerCritiqueGuidelines.pdf)\]_. 
+ 
+### _Read your assigned manuscript. Be a good colleague._ 
+- As you go, mark it with brief comments or corrections. _Please do not correct each instance of the same type of error. Just point it out the first time._ 
+-  __Focus on improvements__ that would provide the __biggest payoff__. Be explic
+it (of course, don't be mean – just state the point). 
+-  When you receive your critique you must have a thick skin – the point of the exercise is to help you do better on the final draft. 
+
+### _Prepare your ~2 page __written critique__ for the authors_. 
+
+  + __Begin your review with a positive statement__ before going into problems.  A critique is mostly negative – that's just the nature of the beast. As scientists, we are most interested in knowing exactly what is wrong, poorly stated, or unconvincing _so that we can correct it_. But it makes the medicine a little easier to swallow if you start with something nice.
+
+  + Write __Major (overall) comments__ (about one paragraph). What were the major problems? The most significant shortcomings? Was it well-written and clearly organized?
+
+  + Write __Specific comments__. For ideas on what to include for these sections, see Peer Critique guidelines:
+    *  Content (specific comments on each section)
+    *  Organization and Structure
+    *  Style and Grammar
+    *  Cited References
+
+  + In general, pick the most significant comments to write up first. _You are not obligated to provide more than two pages_ (i.e., don't correcting every little thing, just point out on the first instance, and let the authors learn from finding the rest). 
+
+  + Evaluate __Effectiveness of Collaboration__. Did each partner contribute significantly and more or less equally? (can be as short as one sentence, but please elaborate if you need to).
+
+  + Focus on __specific comments related to content__. However, if there are problems in other areas, please tell them clearly. 
+
+4. _Assign a numeric grade based on a 100% maximum scale._ 
+It should be weighted (approximately) 60% Content, 20% Organization & Structure, 10% Style and Grammar, and 10% Cited References. 
+
+__The grade you give will not affect their grade at all. But will help clarify for everyone how papers are evaluated.__ Help them get a better grade by being clear so that the final version can be as strong as possible. 
+
+__Your peer-review grade (10 pts)__ will be based on the __quality of your critique__, including the reasonableness of the grade you assign.
+
+5. Bring __three copies of your written review__ with you to lab (one for me and one for each author), and the marked up manuscript for the authors.
+
+Ask any questions on Discord. 

@@ -1,0 +1,87 @@
+---
+title: "5. Digestion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Digesting and absorbing all that glorious food!"
+date: 2023-09-25
+format: 
+  html: default 
+  pdf: default
+categories: [module 5, week 6, DMR, digestion, herbivores, fermentation ]
+---
+
+This week will be a little odd. Monday we will do the Sustained metabolic scope discussion originally scheduled for last Friday. Wednesday we will start talking about feeding (our favorite topic!) and digestion. Friday we will have a special treat - Allison will lead a workshop to help you improve your design 1 drafts.  Bring your drafts!  
+
+# Pre-class materials 
+
+::: callout-note
+## Plan
+
+**Before class, you can prepare by reading the following materials:**
+
+1. This week we will discuss Digestion \[[discussion](../../discussions/Discussion-Week5-feeding&digestion.pdf)\]
+2. Design 1 draft due at 5pm sharp \[[turn-in page](../../projects/design1-turnin.qmd)\]
+3. Everyone must do a peer review. Instructions on \[[turn-in page](../../projects/design1-turnin.qmd)\]
+4. __Labs:__ _Design 1 peer critique workshop._ Bring your marked up draft and three copies of your peer review to your assinged Lab session this week:
+
+__Tuesday Lab 9/26 starting at 1:30__:  
+
+  +  Kirsten and Morgan  
+  +  Maisie and Christina  
+  +  Krystal and Logan B  
+  +  Anna and Kylie (Kylie joining at 2:30)  
+  +  Alvin and Richard  
+
+__Wednesday 9/27 starting at 2:30__:  
+
+  +  Mayuka and Logan M  
+  +  Garrett  
+  +  Justin and Sasha  
+  +  Adry and Matt  
+:::
+
+### Announcements/Reminders
+
+-  This will be a big week! Looking for many lightbulb moments
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 6 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 | Adry | Garrett  |  |
+| 2 |  Logan M  |  Christina | Mayuka |
+| 3 | Krystal |  Alvin | Kylie |
+| 4 | Sasha  | Richard  | Maisie |
+| 5 |  Logan | Matt  | Justin |
+| 6 |  Anna  | Morgan  | Kirsten |
+
+## Snakes Drink Weird!
+
+{{< video https://youtu.be/_r3gG6NjNKQ >}}
+
+## Monday
+   
+- Feeding & Digestion Q2-4 \[[discussion](../../discussions/Discussion-Week5-feeding&digestion.pdf)\] \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
+
+## Wednesday
+
+- Feeding & Digestion Q5-6
+
+## Friday 
+
+- Max Size Herbivores Discussion page 3 
+
+# For Next Time
+
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

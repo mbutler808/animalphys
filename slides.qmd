@@ -2,9 +2,10 @@
 title: "Slide Decks"
 ---
 
-# Lecture Slices
+# Lecture Slides
 
 -   Week 2 [Metabolism](powerpoints/2.Metabolism.pdf)
 -   Week 3 [Temperature](powerpoints/3.Temperature.pdf)
 -   Week 4 [Cardiac Physiology](powerpoints/4.CardiacCycle.pdf)
 -   Week 5 [Feeding](powerpoints/5.Feeding.pdf)
+-   Week 6 [Digestion](powerpoints/5b.DigestiveSystems.pdf)

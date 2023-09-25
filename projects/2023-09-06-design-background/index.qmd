@@ -22,13 +22,12 @@ Use the library and the Web to find general information about your animal.  Get 
 Instead of an introduction, I want you to bullet-point the key background elements and end with a statement of purpose. You will want to cover relevant questions such as: 
 
 -  What kind of animal was it? What did it look like? (Please draw the figures yourself, it is part of the learning process).  
+-  Its position in the tree of life.
 -  Include any info that you find particularly interesting about the animal. 
--  Where did it live?  General environment? (think metabolism and heat balance, so climate, humidity, temperature. 
--  What was the range of ambient temperatures in which it lived, etc.)  
--  Did it seek cover for shade or hiding places (think how it might impact heat balance and activity)? 
--  Was it an active animal? How did it obtain food?  
--  What other sorts of animals and plants lived at the same time?  
-
+-  Where/when did it live?  What did its world look like at the time? 
+  +  General environment (think metabolism and heat balance, so climate, humidity, range of ambient temperatures, habitat, etc.) 
+  +  What other sorts of animals and plants lived at the same time?  
+-  Was it an active animal? How did it obtain food?  Did it seek cover for shade or hiding places from predators (think how it might impact heat balance and activity)? 
 
 For the sake of completeness, please organize your info into categories such as
 
@@ -37,5 +36,7 @@ For the sake of completeness, please organize your info into categories such as
 -  __time period and range__, 
 -  __habitat, climate, and thermal biology__, 
 -  __lifestyle and behavior__ (such as foraging mode, locomotor strategy, social behavior, etc.)
+
+Eventually when you write the intro, you will want to foreshadow (i.e., hint at) any potential challenges with regard to heat balance (or maybe life was easy in every situation)? 
 
 Start with your Library Books, but continue the search using journal articles, online reviews, and books borrowed through interlibrary loan. \[[Library Day](../../posts/2023-08-25-Library-day)\]

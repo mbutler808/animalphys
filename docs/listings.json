@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/design1-turnin.html",
+      "/projects/design-PeerCritiqueInstructions.html",
       "/projects/design1.html",
       "/projects/2023-09-06-design-background/index.html"
     ]
@@ -22,6 +24,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2023-09-25-digestion/digestion.html",
       "/posts/2023-09-18-feeding/feeding.html",
       "/posts/2023-09-11-cardiac-function/cardiac.html",
       "/posts/2023-09-06-Temperature/index.html",
