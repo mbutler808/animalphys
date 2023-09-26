@@ -1,0 +1,71 @@
+---
+title: "Design 1 Frequently Asked Questions"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Hope this helps!"
+date: 2023-09-25
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 1, metabolism, heat balance, DMR, RMR, AMR, SMR, BMR, activity, Hc, He, Hr, REWL, CEWL ]
+---
+
+### 1. Don't forget to include page numbers!
+
+### 2. Can I use an the website XX as a source?
+
+In general, no. You must use sources that scientists would use -- that is, primarily peer-reviewed articles, reference books, and text books (books written for scientists). Websites which you CAN use are scientific databases or official information portals, for example the NOAA weather database (this is just an electronic form of their official data).
+
+Websites that are geared for educating the general public are not sources that scientists would use. That being said, Wikipedia while not a valid source, often has great citations -- which you can use! So make the best with what you have. If you run out of time, for now just use what you have and get on with your analysis -- ask for help, and when you find a better source plug it in. The quality of your information is really the backbone of your project. The stronger it is, the better your papers will be.
+
+
+
+### 3. Should I use a value of XX for my AMR multiplier? What should I use?
+
+This is one of the major assumptions of your project (i.e., for you to figure out and justify). You should base it on whatever biological information you have on your animal. For example, look at the metabolic rate papers under supplemental readings <https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk?usp=share_link>. There are two papers on mammals, one on the "lower vertebrates" (fish and lizards, etc.; Bennett 1978), and one on birds (Butler 91 -- not me). Use your biological information to decide how active an animal it was. Then find a similar animal (whatever is closest phylogenetically and/or most behaviorally similar) and use that multiplier for your animal. Do your best with what information you have. If you don't have any information or data, you can make an educated guess by thinking about what kinds of activities your animal engaged in and choosing analogous activities (similar effort) from the human in Withers and calculating your own multiplier. Do think about how much time it is doing any activity. For example if you say it runs and assign 8 hours to that activity, you are saying it is running non-stop for 8 hours(!). Having good reasons for your assumptions makes your paper much stronger (reviewers and critics have a harder time arguing with data), so be sure to clearly explain why you chose what you did.
+
+### 4. What goes in the Methods section?
+
+Your modeling strategy goes in the methods section. "We modeled BMR based on the scaling equation for XX because YY...". In the results, you put your calculations and what you found. Don't forget that you need to write it out in text as well as whatever numbers and other things you may have. Don't forget to try a heat stress scenario to see how much your model can explain. In the discussion, write about what it all means for your animal. Did you find any limitations? How would it have affected its behavior or biology? Write the abstract last (starting with design 2). It should be a synposis (a concise summary) of your paper. For a model abstract, have a look at the "Nature Summary Paragraph" under "course docs/writing aids" on the website.
+
+### 5. How do I get WATER VAPOR DENSITY for my animal?
+
+Depending on your ambient temperature and relative humidity, you can calculate the Water Vapor Density using this table. (citation is on the "Supplementary Readings" page). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.
+
+Water Vapor Density varies linearly with Temperature, so you can just interpolate to get values in-between the ones given in the table.
+
+For example: If our ambient temp Ta=27C, but we have values for 25C and 30C, we can obtain water vapor density at 27C by interpolating. Start from the density value at 25C and add 2/5 of the increase at 30C because 27C is 2/5 of the way between 25 and 30C (you can also come up with your own way to do this).
+
+$d_{25C}$ = 23g/m$^3$  
+$d_{30C}$ = 30.4g/m$^3$
+
+$d_{27C}$ = $d_{25C}$ + $\frac{2}{5}$ $\times$ [$d_{30C}$ - $d_{25C}$]
+
+$d_{27C}$ = 23g/m$^3$ + $\frac{2}{5}$ $\times$ (30.4 - 23)g/m$^3$
+$d_{27C}$ = 25.96g/m$^3$
+
+
+The table provides density values for "Saturated" water vapor, which means at 100% relative humidity. If your animal lived at 40% RH, for example, then:
+
+$d_{27C at 40\%RH}$ = 0.4 $\times$ 25.96g/m$^3$ = 10.38g/m$^3$
+
+Note: g/m$^3$ works out to be mg/L:  g/m$^3$ = g/(100cm)^3 = g/[$10^6$cm$^3$] = mg/$10^3$cm$^3$ = mg/1000ml = mg/L
+
+6. How do I get O2 extraction efficiency for my animal?
+
+This information is in Chapters 11 and 12. For fish, please use table 12-9 and look at pages 595-596. It is between 20-60% (a large range!). Choose based on an animal with a similar activity level (is your fish an active swimming fish, or very lethargic?) Activity level and phylogeny should dictate which value you choose. For animals with lungs (terrestrial animals), look at page: 628. For mammals, the value is typically 20-25% (Withers says humans are at about 23% -- I know, I need to edit the sample calculations). Extraction efficiency will be determined by lung type and activity level. Mammals, reptiles, and amphibians (if they have lungs) have tidal lungs. So reptiles and amphibians should be at the lower end of that range (closer to 20%). Birds, however, have a special lung with higher O2 efficiency at about 40% (Withers says 41.3).
+
+7. The iterative method is blowing up Tb for my gigantic ectotherm!
+
+If you have a VERY large ectotherm, then the iterative method may blow up. Think about what that means - Hc is not big enough to dump all of the heat from Hm, which is __a very cool finding__! So first you will want to demonstrate that that is happening. Include this in your paper.
+
+Then think about whether or not your animal may have additional adaptations to lose heat. Can you think of any? Come in to see us and we can chat about it. You may have found papers on a homeothermic hypothesis - the idea that they may have had mechanisms to limit Tb. If so, you can then compare to what you might expect if Tb is kept in check, that would be very interesting. Even if you can’t figure out exactly how heat balance is achieved, you can still model the various factors and demonstrate exactly what your animal's problems might have been. That is very interesting!
+
+8. My animal is burning up (Hr)!
+
+Think about Hr a bit more precisely. How many hours would it be in full sun? Obviously it’s not going to be 24 hours. How much of it’s body is exposed to direct sunlight? etc. Try to estimate. Explain what you're doing in the model and why. If it is in shade, Hr will go to zero.
+
