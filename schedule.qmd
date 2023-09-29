@@ -32,39 +32,39 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Design 1 chat |   |     
 |Week 5|||||
 | 9/18  | M | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  |   |   
-| | W | Feeding & Digestion \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
+| | W | Feeding  \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
 |   | F | Design 1 workshop - bring your draft |   |   |   
 |Week 6|||||
-| 9/25  | M | Specialized Digestive Systems \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]| Design 1 Report Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
-| | W | Max Size Herbivores Paper Claus 2003 |  Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] | Design Critique Session   |   
-|   | F | Neurons  | |   |   
+| 9/25  | M | Digestion  \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]| Design 1 Report Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
+| | W | Specialized Digestive Systems  |  Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] | Design Critique Session   |   
+|   | F | Max Size Herbivores Paper Claus 2003   | |   |   
 |Week 7|||||
-| 10/2  | M | Synapses/Signal Propagation  |  PS3: Feeding & Digestion   |   |   
-|| W | Sensory Receptors | Design 1 Rewrite Due  |  Lab6: PC2-IWS-Lobster Heart | 
-|   | F | Vision/Orals  |   |   |   
+| 10/2  | M | Neurons   |     |   |   
+|| W | Synapses/Signal Propagation | Design 1 Rewrite Due  |  Lab6: PC2-IWS-Lobster Heart | 
+|   | F | Sensory Receptors I |   |   |   
 |Week 8|||||
-| 10/9  | M | Chemoreception  | PS4: Neurons    |  |   
-| | W | Muscles |   |  Design Presentations |   
-|   | F | Muscles II  | Design 2 Feeding & Digestion/Peer Critique 2  |   |   
+| 10/9  | M | Sensory Receptors II  | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\] |  |   
+| | W | Muscles |   |  Lab 7:PC1-G-Vertebrate Action Potential |   
+|   | F | Muscles II  |   |   |   
 |Week 9|||||
-| 10/16 | M | Motor Control |  |   |   
-| | W | Biomechanics  |   |Lab 10:PC1-G-Vertebrate Action Potential  |   
-|   | F | Biomechanics  | Rewrite Design 2 Due  |   |   
+| 10/16 | M | Motor Control | Design 2 Feeding & Digestion |   |   
+| | W | Biomechanics  | Peer Critique 2 |  Design Presentations  |   
+|   | F | Biomechanics  | PS4: Neurons   |   |   
 |Week 10|||||
 | 10/23 | M | Locomotion on Land  |  |   |   
-|   | W | Locomotion in Fluids  |   | Lab7: PC2-G-Human Muscle  |   
-|   | F | Blood |  PS5: Muscles & Biomech  |   |   
+|   | W | Locomotion in Fluids  |  Rewrite Design 2 Due | Lab8: PC2-G-Human Muscle  |   
+|   | F | Blood |    |   |   
 |Week 11|||||
-| 10/30 | M | Ventilation   |   |   |  
-|   | W | Aquatic Respiration |   | Lab8: PC3-G-Toad Muscle  |   
+| 10/30 | M | Ventilation   |  PS5: Muscles & Biomech |   |  
+|   | W | Aquatic Respiration |   | Lab9: PC3-G-Toad Muscle  |   
 |   | F | Aerial Respiration  |   |   |   
 |Week 12|||||
 | 11/6  | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  PS6: Respiration |   |   
-|  | W | Osmoregulation  |   | Lab9:PC1-I-Toad Muscle Independent |   
+|  | W | Osmoregulation  |   | Lab10:PC1-I-Toad Muscle Independent |   
 |   | F | Veterans Day Holiday  |   |   |   
 |Week 13|||||
 | 11/13 | M | Excretion | Design 3 Resipration  |   |   
-|   | W | Excretion | Peer Critique 3 | Lab 10: PC1-G-Human EEG  |   
+|   | W | Excretion | Peer Critique 3 | Lab 11: PC1-G-Human EEG  |   
 |   | F | Hormonal Control  |   |   |   
 |Week 14|||||
 | 11/20 | M | Reproduction  | PS7: Osmoregulation |   |   
@@ -72,11 +72,11 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Thanksgiving Holiday  |   |   |   
 |Week 15|||||
 | 11/27 | M | Immune System |   |   |   
-|   | W | Immune System | Design 4: Osmoreg/Own | Lab 11: PC2-G-Human Renal  |   
+|   | W | Immune System | Design 4: Osmoreg/Own | Lab 12: PC2-G-Human Renal  |   
 |   | F | Student Presentations |   |   |   
 |Week 16|||||
 | 12/4  | M | Student Presentations |   |   |   
-|  | W | Student Presentations |   | Turn in Lab 11  |   
+|  | W | Student Presentations |   | Turn in Lab 12  |   
 ||||||
 | 12/11 | M | Finals Week | Design Term Paper Due |   |   
 ||||||

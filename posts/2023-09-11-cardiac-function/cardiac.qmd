@@ -1,5 +1,5 @@
 ---
-title: "4. Cardiac Function and Metabolic Ceilings"
+title: "4\\. Cardiac Function and Metabolic Ceilings"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org

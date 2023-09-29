@@ -1,5 +1,5 @@
 ---
-title: "2. Metabolic Rates"
+title: "2\\. Metabolic Rates"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org

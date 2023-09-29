@@ -30,7 +30,20 @@ This is one of the major assumptions of your project (i.e., for you to figure ou
 
 ### 4. What goes in the Methods section?
 
-Your modeling strategy goes in the methods section. "We modeled BMR based on the scaling equation for XX because YY...". In the results, you put your calculations and what you found. Don't forget that you need to write it out in text as well as whatever numbers and other things you may have. Don't forget to try a heat stress scenario to see how much your model can explain. In the discussion, write about what it all means for your animal. Did you find any limitations? How would it have affected its behavior or biology? Write the abstract last (starting with design 2). It should be a synposis (a concise summary) of your paper. For a model abstract, have a look at the "Nature Summary Paragraph" under "course docs/writing aids" on the website.
+For the methods, you want to get straight to the point with regard to how you modeled your animal. The statement of purpose (or hypothesis) should be presented in the introduction.  So dive right in with your modeling strategy: "We modeled BMR based on the scaling equation for XX because YY...". 
+Remember to put all equations with citations, parameters clearly indicated with units, and give the values you assumed for each parameter with a justification and citation. 
+
+I usually recommend folks to have sections: For example, how you modeled
+-  the metabolic rates, and importantly DMR.
+-  the components of heat
+-  the scenarios (heat balance at rest was calculated assuming...,)
+  +  heat balance at rest 
+  +  heat balance over a typical day (DMR)
+  +  heat stress (or can be cold stress) 
+  
+For the scenarios, after explaining how you got each component of heat, you explain what you are imagining your animal doing, and what assumptions you chose to model that. 
+
+In the results, you put your calculations and what you found. Don't forget that you need to write it out in text as well as whatever numbers and other things you may have. Don't forget to try a heat stress scenario to see how much your model can explain. In the discussion, write about what it all means for your animal. Did you find any limitations? How would it have affected its behavior or biology? Write the abstract last (starting with design 2). It should be a synposis (a concise summary) of your paper. For a model abstract, have a look at the "Nature Summary Paragraph" under "course docs/writing aids" on the website.
 
 ### 5. How do I get WATER VAPOR DENSITY for my animal?
 
