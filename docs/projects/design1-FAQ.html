@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Marguerite Butler">
-<meta name="dcterms.date" content="2023-09-25">
+<meta name="dcterms.date" content="2023-09-26">
 <meta name="description" content="Hope this helps!">
 
 <title>ZOOL430/430L Animal Physiology and Laboratory - Design 1 Frequently Asked Questions</title>
@@ -222,7 +222,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 25, 2023</p>
+      <p class="date">September 26, 2023</p>
     </div>
   </div>
   
@@ -253,7 +253,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="how-do-i-get-water-vapor-density-for-my-animal" class="level3">
 <h3 class="anchored" data-anchor-id="how-do-i-get-water-vapor-density-for-my-animal">5. How do I get WATER VAPOR DENSITY for my animal?</h3>
-<p>Depending on your ambient temperature and relative humidity, you can calculate the Water Vapor Density using this table. (citation is on the “Supplementary Readings” page). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.</p>
+<p>Depending on your ambient temperature and relative humidity, you can calculate the <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/watvap.html">Water Vapor Density using this table</a>. (Nave 20XX). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.</p>
+<p>Note: g/m<span class="math inline">\(^3\)</span> works out to be mg/L: g/m<span class="math inline">\(^3\)</span> = g/(100cm)^3 = g/[<span class="math inline">\(10^6\)</span>cm<span class="math inline">\(^3\)</span>] = mg/<span class="math inline">\(10^3\)</span>cm<span class="math inline">\(^3\)</span> = mg/1000ml = mg/L</p>
+<p>Citation: Nave, C. (20XX) Saturated Vapor Pressure, Density, for Water.Hyperphysics. Department of Physics and Astronomy, Georgia State University, http://hyperphysics.phy-astr.gsu.edu/Hbase/kinetic/watvap.html. Accessed Sept.&nbsp;XX 20XX.</p>
 <p>Water Vapor Density varies linearly with Temperature, so you can just interpolate to get values in-between the ones given in the table.</p>
 <p>For example: If our ambient temp Ta=27C, but we have values for 25C and 30C, we can obtain water vapor density at 27C by interpolating. Start from the density value at 25C and add 2/5 of the increase at 30C because 27C is 2/5 of the way between 25 and 30C (you can also come up with your own way to do this).</p>
 <p><span class="math inline">\(d_{25C}\)</span> = 23g/m<span class="math inline">\(^3\)</span><br>
@@ -261,8 +263,7 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="math inline">\(d_{27C}\)</span> = <span class="math inline">\(d_{25C}\)</span> + <span class="math inline">\(\frac{2}{5}\)</span> <span class="math inline">\(\times\)</span> [<span class="math inline">\(d_{30C}\)</span> - <span class="math inline">\(d_{25C}\)</span>]</p>
 <p><span class="math inline">\(d_{27C}\)</span> = 23g/m<span class="math inline">\(^3\)</span> + <span class="math inline">\(\frac{2}{5}\)</span> <span class="math inline">\(\times\)</span> (30.4 - 23)g/m<span class="math inline">\(^3\)</span> <span class="math inline">\(d_{27C}\)</span> = 25.96g/m<span class="math inline">\(^3\)</span></p>
 <p>The table provides density values for “Saturated” water vapor, which means at 100% relative humidity. If your animal lived at 40% RH, for example, then:</p>
-<p><span class="math inline">\(d_{27C at 40\%RH}\)</span> = 0.4 <span class="math inline">\(\times\)</span> 25.96g/m<span class="math inline">\(^3\)</span> = 10.38g/m<span class="math inline">\(^3\)</span></p>
-<p>Note: g/m<span class="math inline">\(^3\)</span> works out to be mg/L: g/m<span class="math inline">\(^3\)</span> = g/(100cm)^3 = g/[<span class="math inline">\(10^6\)</span>cm<span class="math inline">\(^3\)</span>] = mg/<span class="math inline">\(10^3\)</span>cm<span class="math inline">\(^3\)</span> = mg/1000ml = mg/L</p>
+<p><span class="math inline">\(d_{27C at 40\%RH}\)</span> = 0.4 <span class="math inline">\(\times\)</span> 25.96g/m<span class="math inline">\(^3\)</span> = 10.38g/m<span class="math inline">\(^3\)</span> = 10.38mg/L</p>
 <ol start="6" type="1">
 <li>How do I get O2 extraction efficiency for my animal?</li>
 </ol>

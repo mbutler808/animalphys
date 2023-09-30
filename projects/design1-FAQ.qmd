@@ -6,7 +6,7 @@ author:
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Hope this helps!"
-date: 2023-09-25
+date: 2023-09-26
 format: 
   html: default 
   pdf: default
@@ -47,7 +47,12 @@ In the results, you put your calculations and what you found. Don't forget that 
 
 ### 5. How do I get WATER VAPOR DENSITY for my animal?
 
-Depending on your ambient temperature and relative humidity, you can calculate the Water Vapor Density using this table. (citation is on the "Supplementary Readings" page). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.
+Depending on your ambient temperature and relative humidity, you can calculate the [Water Vapor Density using this table](http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/watvap.html). (Nave 20XX). Look up the value for Water Vapor Density according to your temperature, and multiply by your relative humidity.
+
+Note: g/m$^3$ works out to be mg/L:  g/m$^3$ = g/(100cm)^3 = g/[$10^6$cm$^3$] = mg/$10^3$cm$^3$ = mg/1000ml = mg/L
+
+Citation:
+Nave, C. (20XX) Saturated Vapor Pressure, Density, for Water.Hyperphysics. Department of Physics and Astronomy, Georgia State University, http://hyperphysics.phy-astr.gsu.edu/Hbase/kinetic/watvap.html. Accessed Sept. XX 20XX.
 
 Water Vapor Density varies linearly with Temperature, so you can just interpolate to get values in-between the ones given in the table.
 
@@ -64,9 +69,8 @@ $d_{27C}$ = 25.96g/m$^3$
 
 The table provides density values for "Saturated" water vapor, which means at 100% relative humidity. If your animal lived at 40% RH, for example, then:
 
-$d_{27C at 40\%RH}$ = 0.4 $\times$ 25.96g/m$^3$ = 10.38g/m$^3$
+$d_{27C at 40\%RH}$ = 0.4 $\times$ 25.96g/m$^3$ = 10.38g/m$^3$ = 10.38mg/L
 
-Note: g/m$^3$ works out to be mg/L:  g/m$^3$ = g/(100cm)^3 = g/[$10^6$cm$^3$] = mg/$10^3$cm$^3$ = mg/1000ml = mg/L
 
 6. How do I get O2 extraction efficiency for my animal?
 
