@@ -1,0 +1,77 @@
+---
+title: "6a\\. Neurons"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: ""
+date: 2023-10-06
+format: 
+  html: default 
+  pdf: default
+categories: [module 6, week 7, neurons, action potentials, electricity, signals ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday we will finish Max size herbivores discussion Feeding \[[last page](../../discussions/Discussion-Week5-feeding&digestion.pdf)\] \[[slide deck](../../powerpoints/5b.DigestiveSystems.pdf)\]
+2. Wednesday and Friday Neurons Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
+3. For Wed and Fri, please watch the podcasts below. 
+:::
+
+### Announcements/Reminders
+
+-  This week will be our first invertebrate lab on the Lobster Heart. Please wear shoes and bring your dissection kit (if you have one, if not we will provide).
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 7 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Kylie  |  Matt |  |
+| 2 |Adry| Mayuka  | Christina |
+| 3 | Maisie | Garrett  | Morgan |
+| 4 |  Justin |  Krystal | Logan M |
+| 5 |  Alvin |  Kirsten | Sasha |
+| 6 |   Logan B |  Anna | Richard |
+
+## Monday
+ 
+- Finish Max Size Herbivores & Fermentation discussion
+
+## Wednesday
+
+
+- Start Neurons Discussion \[[discussion](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] \[[slide deck](../../powerpoints/6a.NeuronsRecording.pdf)\]
+
+### Neurons podcast
+
+{{< video https://youtu.be/GKPWD-Mer6s >}}
+
+
+## Friday 
+
+- Continue Neurons & Signal Propagation
+
+### Signal propagation podcast 
+
+{{< video https://youtu.be/8Z8vW6FAJxY >}}
+
+
+
+# For Next Time
+
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

@@ -1,5 +1,5 @@
 ---
-title: "5\\. Digestion"
+title: "5b\\. Digestion"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
