@@ -39,7 +39,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 | | W | Specialized Digestive Systems  |  Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] | Design Critique Session   |   
 |   | F | Max Size Herbivores Paper Claus 2003   | |   |   
 |Week 7|||||
-| 10/2  | M | Neurons   |     |   |   
+| 10/2  | M | Neurons  \[[html](posts/2023-10-02-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |     |   |   
 || W | Synapses/Signal Propagation | Design 1 Rewrite Due  |  Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\]| 
 |   | F | Sensory Receptors I |   |   |   
 |Week 8|||||
