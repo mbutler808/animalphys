@@ -1,16 +1,16 @@
 ---
-title: "5. Feeding and Digestion"
+title: "7\\. Neurons"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: "Food! Glorious food!"
-date: 2023-09-06
+description: ""
+date: 2023-10-06
 format: 
   html: default 
   pdf: default
-categories: [module 5, week 5, food, feeding, nutrient composition, DMR, digestion, herbivores, fermentation ]
+categories: [module 6, week 7, neurons, action potentials, electricity, signals ]
 ---
 
 This week will be a little odd. Monday we will do the Sustained metabolic scope discussion originally scheduled for last Friday. Wednesday we will start talking about feeding (our favorite topic!) and digestion. Friday we will have a special treat - Allison will lead a workshop to help you improve your design 1 drafts.  Bring your drafts!  
@@ -32,16 +32,16 @@ This week will be a little odd. Monday we will do the Sustained metabolic scope 
 -  This will be our first toad lab. Please wear shoes and bring your dissection kit (if you have one, if not we will provide).
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
 
-### Week 5 Discussion Groups
+### Week 7 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
-| 1 |Adry| Logan M  | Alvin |
-| 2 |  Krystal  |  Garrett | Richard |
-| 3 | Sasha |  Mayuka | Matt |
-| 4 | Logan B  | Kylie  | Morgan |
-| 5 |  Anna | Maisie  | Christina |
-| 6 |  Kirsten  | Justin  |  |
+| 1 |Adry| Mayuka  | Christina |
+| 2 |  Kylie  |  Matt |  |
+| 3 | Maisie | Garrett  | Morgan |
+| 4 |  Justin |  Krystal | Logan M |
+| 5 |  Alvin |  Kirsten | Sasha |
+| 6 |   Logan B |  Anna | Richard |
 
 ## Snakes Drink Weird!
 

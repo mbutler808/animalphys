@@ -10,7 +10,90 @@
 <atom:link href="https://mbutler808.github.io/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sat, 16 Sep 2023 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 Sep 2023 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lab 6: The Neurogenic Crustacean Heart</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/labs/Lab6-lobster-heart/Lab6.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="before-lab" class="level1">
+<h1>Before Lab</h1>
+<p>This will be our first invertebrate lab. We will be studying the control of the neurogenic heart of crustaceans using the lobster as a model.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Read the lab manual for this weekʻs experiment [<a href="Lab6-lobster-heart.pdf">Lab 6</a>] exploring the physiology of the toad heart using ECG and a force transducer.<br>
+</li>
+<li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook.
+<ul>
+<li>For the <strong>Intro</strong>, focus on identifying the physiological mechanisms (outline them), and end with a paragraph of hypotheses/expectations (like the worksheet).</li>
+<li>Think about <strong>strong hypotheses</strong>! <em>Strong hypotheses lead to excellent reports.</em></li>
+<li><strong>Methods</strong>: subjects, experimental methods and analyses (how you will compare to address the hypotheses – <em>you should start thinking about how you will plot the data for the results to make these answers pop</em>).</li>
+</ul></li>
+<li>Do prelab Quiz on Laulima (open 24 hrs before lab).</li>
+<li>Please check out the [<a href="../../powerpoints/Lab6.HeartControlLobster.pdf">powerpoint notes</a>] and the review paper on the [<a href="Cooke02.pdf">crustacean cardiac ganglion</a>] by our very own Dr.&nbsp;Ian Cooke who was an emeritus faculty from the Zoology Department and PBRC, a pioneer in invertebrate neurophysiology!</li>
+</ul>
+</div>
+</div>
+<section id="in-lab" class="level2">
+<h2 class="anchored" data-anchor-id="in-lab">In Lab:</h2>
+<ul>
+<li><em>Plan to Work quickly!</em> <strong>You will have 30 min (and very lucky if you have an hour)</strong> once you open the carapace.</li>
+<li>Keep your animal chilled (they are Maine lobsters!) and irrigated with ice-cold Lobster ringers at all times.</li>
+<li>Lab 6 manual [<a href="Lab6-lobster-heart.pdf">pdf</a>] . Record data in your lab notebook.</li>
+<li>You should have plenty of time to complete the data collection and your figures during lab.<br>
+</li>
+<li>This will be a Group Lab. Begin planning with your partners as you work.</li>
+<li>Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.<br>
+</li>
+<li>Lobster external anatomy [<a href="lobster-dorsal-view.jpg">jpg</a>]</li>
+<li>Lobster internal anatomy [<a href="lobster-internal-anatomy.jpg">jpg</a>]</li>
+</ul>
+<p><img src="https://mbutler808.github.io/labs/Lab6-lobster-heart/lobster-dorsal-view.jpg" style="width:6in;height:4in"><br>
+<img src="https://mbutler808.github.io/labs/Lab6-lobster-heart/lobster-internal-anatomy.jpg" style="width:6in;height:4in"></p>
+</section>
+<section id="after-lab" class="level2">
+<h2 class="anchored" data-anchor-id="after-lab">After Lab:</h2>
+<ul>
+<li>Group lab report due next week. See the guidance at the end of the [<a href="Lab6-lobster-heart.pdf">Lobster Heart lab manual</a>]. You may also want to look over the guidance at the end of the [<a href="../Lab5-toad-heart/Lab5-toad-heart.pdf">Toad Heart Lab</a>].<br>
+</li>
+<li>Always follow the content guidelines: [<a href="../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf">grading guidelines</a>] [<a href="../../labs-misc/handouts/Zool430lab_report_guidelines.pdf">old style</a>]</li>
+<li>It is a good idea to divide up the work of writing the lab <strong>by experiment</strong>. That way, <em>each person writes a portion of the intro, methods, results, and discussion for their <strong>hypothesis</strong></em>.</li>
+<li>Work out your timeline with your lab partners during lab (and plan a face-to-face meet up [hey! you can do your lab EC]) <em>so that everyone has a chance to comment and edit</em> before the lab is submitted.</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>week 6</category>
+  <category>labs</category>
+  <category>cardiac cycle</category>
+  <category>invertebrate</category>
+  <category>heart</category>
+  <category>in situ</category>
+  <category>lobster</category>
+  <category>Starlingʻs law</category>
+  <category>sympathetic</category>
+  <category>parasympathetic</category>
+  <category>ions</category>
+  <category>temperature</category>
+  <guid>https://mbutler808.github.io/labs/Lab6-lobster-heart/Lab6.html</guid>
+  <pubDate>Sat, 30 Sep 2023 10:00:00 GMT</pubDate>
+  <media:content url="https://mbutler808.github.io/labs/Lab6-lobster-heart/lobster-internal-anatomy.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Lab 5: Physiology of the in situ Toad Heart</title>
   <dc:creator>Marguerite Butler</dc:creator>
@@ -1463,7 +1546,7 @@ After today, you should know how to:
 
  ]]></description>
   <guid>https://mbutler808.github.io/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Sat, 30 Sep 2023 00:28:59 GMT</pubDate>
+  <pubDate>Sun, 01 Oct 2023 05:40:05 GMT</pubDate>
 </item>
 </channel>
 </rss>

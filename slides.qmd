@@ -9,3 +9,4 @@ title: "Slide Decks"
 -   Week 4 [Cardiac Physiology](powerpoints/4.CardiacCycle.pdf)
 -   Week 5 [Feeding](powerpoints/5.Feeding.pdf)
 -   Week 6 [Digestion](powerpoints/5b.DigestiveSystems.pdf)
+-   Lab  6 [Lobster Heart](powerpoints/Lab6.HeartControlLobster.pdf)

@@ -40,7 +40,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Max Size Herbivores Paper Claus 2003   | |   |   
 |Week 7|||||
 | 10/2  | M | Neurons   |     |   |   
-|| W | Synapses/Signal Propagation | Design 1 Rewrite Due  |  Lab6: PC2-IWS-Lobster Heart | 
+|| W | Synapses/Signal Propagation | Design 1 Rewrite Due  |  Lab6: PC2-G-Lobster Heart \[[overview](labs/Lab6-lobster-heart/Lab6.qmd)\]| 
 |   | F | Sensory Receptors I |   |   |   
 |Week 8|||||
 | 10/9  | M | Sensory Receptors II  | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\] |  |   
