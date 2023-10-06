@@ -1,0 +1,42 @@
+---
+title: "Design 2"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "What would life cost for your animal, and how hard would it be to be in heat balance?"
+date: 2023-10-06
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 2, metabolism, nutrient content of food, DMR, feeding, digestion, protein transport, carbohydrate transport, gut, small intestine  ]
+---
+
+# Suggestions for Feeding, Digestion, and Cellular Metabolism
+
+__Please follow the same format as last time.__ A lot of information from design 1 will be relevant for design 2, but rewrite it to make a strong connection to feeding and digestion. You should add more detail on how it acquired food, food availability, diet, and any special foraging and digestive strategies, etc.  (Just FYI your remaining projects will cover 3:respiration and 4:osmoregulation and excretion (or circulation, or your own design.)) Include the really cool information about your fossil so that we have a better sense of the animal, then move to focusing on the relevant facts for the design project at hand and ends with a strong hypothesis or statement of purpose. Do make sure it is well-integrated, and organized (group your information), and not too long.  You can refer to your previous work (cite it!) __but each should stand alone _just as for any scientific paper_.__
+
+You will start from the daily metabolic rate of your animal (in kJ d$^{-1}$ – you may cite your design 1 using standard scientific format).  Did your animal use any anaerobic metabolism to support this metabolic rate (either in a transient or in a sustained manner)?  If so, what were the metabolic end-products and what were their fates?
+
+What did your animal eat to support this metabolic rate?  How did it acquire this food?  (You may want to draw its feeding structures).  Include in this description any photosynthetic or chemosynthetic symbionts that it would have.  What percentage of the animal’s energy derived from symbionts?
+
+Describe (and draw) the GI tract of your animal (for example, see drawings in lecture notes or consult a physiology textbook like those we have in Lab – e.g., Randall et al., Fig. 15-15, 15-16, and 15-22).  Include structures for storage, mechanical breakdown, chemical digestion, secretion of digestive enzymes, absorption, and storage of fecal material.  If your animal used cellulase producing symbiotic microbes for fermentation, include a region for fermentation to occur.
+
+From the types of foods your animal consumed, determine the percentages of carbohydrates, fats, protein, water, and indigestible material (bone, chitin, cellulose) contained in these foods.  You may need to consult a human nutrition book to determine the percentages (Hamilton Library) or you can use the USDA website or papers posted in supplemental readings.  Build a dietary model based on foods that are similar to what your animal was eating, but you may have to do some major estimating here (e.g. eating a mouse might be sort-of like eating lean meat, with perhaps 10% indigestible bone and hair).  The goal is to be able to say that (based on some similar data) your food contains, for example, 30% carbohydrate, 10% fat, 10% protein, 40% water and 10% indigestible material.  Use these percentages to calculate the overall energy density of the food (kJ g$^{-1}$). 
+(Note:  if you are designing a ruminant, the design will be different from this point forward.  You may either develop your own model for the design or work with the teaching staff to develop a model).
+
+How many grams of food must the animal have ___absorbed___ (assimilated) each day to maintain its daily metabolic rate?  How many grams of each component (carbs, fats, proteins) must have been absorbed?  Convert grams to moles for each component.
+
+How many grams of food must the animal have ___consumed___ each day? Is the result reasonable?  If relevant, calculate the number of food items per day that this represents (for example, 60 insects or 250 leaves, etc.).  Is the required foraging effort reasonable? (could your animal have caught or collected this many food items per day?) 
+
+How did your animal get enough nutrients (vitamins and protein – qualitative analysis)? How many grams of glucose per day are required to support the metabolism of the brain (quantitative analysis)? (The metabolic rate of an average mammal brain is about 8% of BMR, of a reptile or fish is about 2% of SMR).  If it did not absorb enough glucose through digestion, where did the glucose come from?
+
+Calculate the nominal surface area of intestine that your animal required to absorb the carbohydrates and proteins in its diet (don’t forget to correct absorption rates for Q$_{10}$ effects – assume Q$_{10}$ = 2.5).  
+
+From the nominal surface area, calculate intestine length and intestine volume.  Are the length and volume appropriate for the dimensions of your animal?  If not, change the absorption rate and/or change the internal diameter to change the length of the intestine.  Are your final absorption rates out of line with measured values (Gut Design Supplemental reading: Withers pp. 946-948)?
+
+Be sure to check out the \[[Design 2 FAQs](design2-FAQ.qmd)\] for helpful tips
+
+\[[pdf](2.FeedingDigestionDesign2.pdf)\] version of this sheet

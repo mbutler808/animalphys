@@ -35,7 +35,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 | | W | Feeding  \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
 |   | F | Design 1 workshop - bring your draft |   |   |   
 |Week 6|||||
-| 9/25  | M | Digestion  \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]| Design 1 Report Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
+| 9/25  | M | Digestion  \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]| Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
 | | W | Specialized Digestive Systems  |  Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] | Design Critique Session   |   
 |   | F | Max Size Herbivores Paper Claus 2003   | |   |   
 |Week 7|||||
@@ -47,7 +47,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 | | W | Muscles |   |  Lab 7:PC1-G-Vertebrate Action Potential |   
 |   | F | Muscles II  |   |   |   
 |Week 9|||||
-| 10/16 | M | Motor Control | Design 2 Feeding & Digestion |   |   
+| 10/16 | M | Motor Control | Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] |   |   
 | | W | Biomechanics  | Peer Critique 2 |  Design Presentations  |   
 |   | F | Biomechanics  | PS4: Neurons   |   |   
 |Week 10|||||

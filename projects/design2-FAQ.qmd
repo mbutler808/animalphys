@@ -1,0 +1,157 @@
+---
+title: "Design 2 Assignment and Frequently Asked Questions"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Hope this helps!"
+date: 2023-10-06
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 2, metabolism, nutrient content of food, DMR, feeding, digestion, protein transport, carbohydrate transport, gut, small intestine ]
+---
+
+### [Design 2 Assignment](design2.qmd)
+
+Great job on Design 1! Switch roles – whomever was first author on Design 1 will now be second author on Design 2 and vice versa.
+
+Now that you know what your animalʻs energy budget is, you can make some inferences about what it might have eaten. Then you can model how much food it must have eaten, and what kind of gut it required to be able to absorb the food! See FAQʻs Below.
+
+- Due __October 16 - Monday by 11:59__
+
+### FAQs
+
+### 0. Lots of resources in the [Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk) 
+
+### 1. Don't forget to include page numbers!
+
+### 2. Where can I get food nutritional content?
+
+You can use any legitimate source. Human nutrition books are good, just add in missing components that humans don't eat (bones, fur, skin, etc.). I’ve also posted articles On the shared google drive under Supplementary Readings > Digestion that have wild animal foods including some info in the Robbins chapters, and exotic meats.
+
+Here is the USDA table for human foods: nutritional composition.
+Remember that these are human foods and so your animal will probably not be able to eat such high-calorie vegetables with such low fiber, for example.
+
+Choose the __SR Legacy Foods__ tab here:
+
+<https://fdc.nal.usda.gov/fdc-app.html#/>
+
+
+### 3. Interpreting agriculture data for meats in predicting animal diets:
+
+For those using agriculture data for meats, of course please use raw values. Also if you use lean steaks for example, you will have to factor in the fats and indigestibles, etc. Please also think about whether your animal will be eating its prey whole or if it will eat parts of a carcass (muscle, organs, blood?, etc.).
+
+Some agriculture definitions:
+
+- _Live weight_ of animals intended for slaughter is the weight taken immediately before slaughter.
+
+- _Killed weight_ is the gross weight of the carcass including the hide or skin, head, feet and internal organs, but excluding the part of the blood which is not collected in the course of slaughter.
+
+- _Dressed carcass weight_ is the weight of the carcass after removal of: skin, head, feet, genitals, internal organs, tail, and slaughter fats.
+
+- _Carcass weight_ is the same as above but plus the slaughter fats
+
+The USDA database has some great data with nutritional content for carcasses.  So keep in mind that you will lose some water weight because of blood loss, etc. Animals are about 70% water overall (there is a figure in Withers I think in the osmotic balance chapter that shows the water content of various taxa), so if your animals eat their prey whole you might want to factor that in -- the main effect is that it reduce the energy density of the food and your animal will have to eat more prey items.
+
+
+### 4. Note!! Make sure your values have factored in water content.
+
+Especially for those working with __plants__, percent proteins, carbs and fats are most often given in __dry weight__. Because of the methods used to analyze nutritional contents, it is almost always dried prior to analysis. Your animal will most likely eat them __fresh__, so you will have to adjust the values.
+
+Given values for grass hay:
+
+__%Dry matter__ = 92% (this means that it's 8% water) This does not mean that the grass that was growing for the hay has only 8% water, but that the grass was dried down to have only 8% water. 
+
+__%carbs dry weight__ = 19.9%  - the dried hay is rich in carbs. But what about % carbs in the fresh grass?
+
+If we assume that the fresh grass is 20% dry matter/ 80% water, the % carbs in the fresh food is:
+
+%carbs in hay * % Dry matter hay + 0 * % water = % carbs in fresh grass
+
+.0199 * .2 + 0 * .8 = 0.0398 pr 4% carbs in fresh grass 
+
+Please note: _alfalfa is a legume_ (bean family), not a "grass" so it's pretty high in protein.
+
+
+### 5. Values for Grass (also Leaves or Woody Plants)
+
+It turns out that __high carbs__ is a big problem in equine medicine, and so there are companies that will do nutritional analysis of your grass. Dairy One is such a company, and they have an online database with average values for the past 10 years. You can look up data on grass hay and grass pasture, or silage. Hay is dried grass, pasture is fresh grass. Don't use the silage values because silage is a mash of partly fermented plant product that is only farm food (not wild). You may use this website:
+
+http://dairyone.com/analytical-services/feed-and-forage/feed-composition-library/interactive-feed-composition-library/
+
+Click "OK" at the bottom of this page and then "Main library" then make your choices. You might want to choose Fresh for Forage and then in the pull down menu grass pasture, for example. Choose leaves for general mixed leaves and woody plants for woody browse.
+
+Interpreting the numbers: The first number is % dry matter. So the Grass hay is 92% dry matter (8% water). Grass Pasture when it is hydrated (at the most hydrated end of its normal range) is 19% dry matter 81% water, at the driest end of normal it is 78% dry matter, etc.). The rest of the values are percentages of the dry matter. For protein values I would use the soluble protein value, which is a % of crude protein so if:
+
+__% crude protein__ = 35% (of Dry Matter)
+
+__Soluble protein, % of CP__ = 15%
+
+Then __protein % of dry matter__ = .15 * .35 = .0525 or roughly 5% of the dry matter is protein.
+
+__How much of the fresh grass is protein?__
+
+if grass is 19% dry matter and 81% water, then take a weighted average of the percent protein in dry matter plus percent protein in water (zero of course):
+
+0.0525 * 0.19 + 0 * 0.81 = 0.009975 or about 1% of the fresh grass is protein. Etc. etc. for carbs and fibers.
+
+(dry matter) + (water )
+
+Total carbohydrates is WSC (water soluble carbs) + Starch.
+
+MAKE SURE you don't use LEGUME hay or Alfalfa! Those cultivated by humans for feed but are from the bean family and are very rich in protein. Wild animals would not have access to alfalfa pastures on the regular.
+
+
+### 6. Where can I find a gut diameter for my animal?
+
+A good review is provided in Stevens and Hume 1998 ([Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk), Digestion papers). Start there. 
+
+If you are not able to find a gut diameter in the primary literature (journal articles) using such terms as "small intestine" or "gut diameter" and "mammals" or "predator" etc., then I would recommend looking in specialized textbooks either for your taxon or physiology: e.g., digestive physiology of mammals, avian physiology, physiology of fishes, a general mammology book, etc. There are a lot of such texts in Hamilton Library. It may not be so easy to find this data in the recent primary literature for your species if it does not have unusual digestive physiology because this is kind of "old news" as far as data goes. But it should be in these types of books.
+
+REMEMBER, just use the best information that you can find, but don't let it hold up your analysis. If you have a large mammalian carnivore, but can cannot find a close relative, try to find the gut diameter of ANY large mammalian carnivore (next best) or at least a large mammal (third best). Use the gut diameter of a human only as a last resort :). But do the best with what you have.
+
+
+### 7. What transporter rate should I use?
+
+First find range of transporter rates for your taxon and type of nutrient (you only need to do the limiting one) from Withers (read the digestion chapter supplement all the way to the end). Then decide what is a reasonable assumption for your animal. Should it be in the top of the range or the bottom? Just think about it and decide if you can come up with a good reason for one or the other. It's in putting together all these little bits of information that you enrich your model and demonstrate your knowledge of physiology. If you can't think of anything, you can always go with the middle of the range.
+
+
+### 8. Where should the description of the Gastrointestinal system go?
+
+The GI system should probably be described in the intro, or in a “background” section that can be placed between the intro and the methods or at the start of the methods. You can bring up specific details in the discussion if they come into play.
+
+### 9. What do we discuss if we found that the intestine length makes sense inside our animal? There seems to be little to analyze.
+
+If you have a carnivore it won't be as interesting a system to model in the sense that you won't run into too many "problems". But what you should think about is how the digestive system affects the physiology and the biology of the animal. Was it easy or difficult for the animal to meet its nutritional requirements (both caloric and glucose for the brain, vitamins and minerals)? Was it easy to find enough food? A reasonable effort per day? A daily or an intermittent feeder? For it to fit inside it's stomach? Would it be able to find food all year? Or would it have to fatten up, etc.?
+
+These are just suggestions. Think about what you found and how it would influence the digestive and nutrional physiology of the animal. And if it is easy, then great. But just do a thorough explanation of how easy it was for your animal to make a living.
+
+### 10. How do I modify the introduction from Design 1?
+
+Each paper should be able to stand alone. You will want to introduce your animal with the aim to introduce a project on feeding and digestion. So you need to introduce the most interesting things about your animal, and relate as much of the intro as possible to how it acquires its food and digests it. For example, when you introduce the general habitat, you might lead into the food available to your animal. When you talk about morphology, start slanting it toward how it will obtain and consume its food (feeding) and digestion, etc. For predators it is really interesting to describe how it will hunt and kill, which would lead to foraging strategy. For herbivores be sure to think about whether it would be a browser or a grazer. You can refer to your first paper for specifics about metabolism.
+
+### 11. Herbivore diets (making a living eating plants)
+
+I've posted a few papers on the [Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk) under "Herbivore Diets"
+
+Rogers et al 1990 and Stoddart 35 contain water content of plant information. Plants use a lot of water for transpiration (about 90% of they take up is transpired eventually). Because they are so dynamic, water content can vary a lot within a plant, as well as seasonally and across species. It seems that most plants are about 70-85% water, but the range can vary from 50% up to 90%.
+
+Demment and Van Soest 85 is a very influential paper about mammalian herbivores. It tries to model the difference between ruminant and non-ruminant (mostly hindgut fermenting) mammalian herbivores. The model considers body weight, food intake, energy extraction, volume, and retention time. There is a long-standing observation that small herbivores and very large herbivores tend to be hind-gut fermenters, whereas ruminants dominate the medium-sized herbivores.
+
+One idea is that if you're very small, then you can selectively forage (browse) and maintain your MR on high-quality foods. As you get larger, though, you need more calories and you must expand your dietary breadth. So while small animals may be able to get most of their nutrition from direct digestion of foods, as they get larger, they need to rely more and more on fermentation. The two relevant parts of the plant for the herbivores are the cell wall, which contains the cellulose and hemicellulose (structural fibers) and must be fermented, and the cell cytosol, which contains the directly digestible portion of the plant (the sugars, proteins, fast, non-structural carbohydrates).
+
+If you are a ruminant, your food MUST pass through the fermentation chamber first before getting into the stomach -- so all of your food is fermented first. It is also much slower, so there is greater nutrient extraction and fermentation efficiency, but because it must pass through the rumen first, all of it has to get fermented -- even the cytosol components. For a small herbivore, this is not advantageous if you can get all your requirements from direct digestion, because you've added another trophic level (the gut microbes) which will use up some of the energy, even though they are not "needed". This is the idea behind why small herbivores are hind-gut fermenters.
+
+As you get larger and need to eat more food, you must expand their dietary breadth and incorporate more poor quality foods, resulting in the need to be able to digest the cell walls. Fermentation is essential. If you are a ruminant, then you can survive on even lower quality food because the retention time (how long digestion takes) is longer, the longer it is, the more extraction you get. This can only be increased for so long, however, after a while, no matter how long you increase retention time, you won't get any more out of the food. So if you get to be a very large herbivore, then you hit an upper limit, and need to increase throughput. Thus, the theory predicts that very large herbivores are hind-gut fermentors. One disadvantage of hindgut fermentation is that you can't recover the energy that went into bacterial growth, whereas ruminants can (the microbes pass through the stomach and SI, so they can get digested). Fermentation in the hindgut occurs at the end of the digetstive tract, so they come out as feces. However, they get greater overall energy by just simply processing a lot more food.
+
+What does this all mean for your design project? Well, for a ruminant -- you need to "ferment" all of your food. You can look through the end of the digestion chapter in Withers where he has a breakdown of how much ingested energy goes to various components and start your model based on that. For the hindgut fermenter, you can estimate the amount of energy obtained from direct digestion, as well as hindgut fermentation. You can either base the energy from fermentation on the horse example given in the book, or look at the Robbins Tables in the supplementary readings which lists a bunch of values for energy obtained from hindgut fermentation for mammals and birds. If your animal is a reptile, there are papers that you can look up, mostly on iguana digestion.
+
+If you want to try a more challenging route, for either hindgut or foregut (mammals), you can try to follow the modeling in the Demment and Van Soest paper which will give you a model more specific for your animal's body weight.
+
+
+
+
+
