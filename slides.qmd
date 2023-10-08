@@ -2,8 +2,6 @@
 title: "Slide Decks"
 ---
 
-# Lecture Slides
-
 -   Week 2 [Metabolism](powerpoints/2.Metabolism.pdf)
 -   Week 3 [Temperature](powerpoints/3.Temperature.pdf)
 -   Week 4 [Cardiac Physiology](powerpoints/4.CardiacCycle.pdf)
@@ -11,3 +9,5 @@ title: "Slide Decks"
 -   Week 6 [Digestion](powerpoints/5b.DigestiveSystems.pdf)
 -   Lab  6 [Lobster Heart](powerpoints/Lab6.HeartControlLobster.pdf)
 -   Week 7 [Neurons](powerpoints/7.Neuronsrecording.pdf)
+-   Week 8 [Muscles I](powerpoints/8.MusclesI.pdf)
+-   Week 8 [Muscles II](powerpoints/8a.MusclesII.pdf)

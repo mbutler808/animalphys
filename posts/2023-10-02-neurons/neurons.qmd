@@ -1,11 +1,11 @@
 ---
-title: "6a\\. Neurons"
+title: "6\\. Neurons"
 author:
   - name: Marguerite Butler  
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
-description: ""
+description: "You all know about action potentials, but how do they actually work? The details, and how they scale up in the biological heirarchy are so much more interesting."
 date: 2023-10-06
 format: 
   html: default 

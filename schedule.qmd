@@ -44,7 +44,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Neurons \[[html](posts/2023-10-02-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
 |Week 8|||||
 | 10/9  | M | Synapses/Sensory Receptors  | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\] |  |   
-| | W | Muscles |   |  Lab 7:PC1-G-Vertebrate Action Potential \[[overview](labs/Lab7-toad-nerve/Lab7.qmd)\]|   
+| | W | Muscles \[[html](posts/2023-10-09-muscles/muscles.qmd)\] \[[discussion](discussions/Discussion-Week8-muscle.pdf)\] ||   |  Lab 7:PC1-G-Vertebrate Action Potential \[[overview](labs/Lab7-toad-nerve/Lab7.qmd)\]|   
 |   | F | Muscles II  |   |   |   
 |Week 9|||||
 | 10/16 | M | Motor Control | Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] |   |   
