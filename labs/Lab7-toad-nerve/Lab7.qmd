@@ -1,0 +1,387 @@
+---
+title: "Lab 7: Compound Action Potentials in the Toad Sciatic Nerve"
+author:
+  - name: Marguerite Butler
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Exploring properties of vertebrate neurons and nerve conduction using the toad sciatic nerve, a motor neuron"
+date: 2023-10-07
+toc: true
+format: 
+  html: default
+  docx: default
+  pdf: default
+categories: [week 8, labs, nerve, neuron, signal propagation, refractory period, conduction velocity, compound action potential, action potential Q10]
+---
+
+### Acknowledgements
+
+Material for this lab was borrowed and adopted from
+
+-   Frog Nerve Compound Action Potentials Protocol. Written by Staff of ADInstruments, Dr. Duncan MacKenzie, and Dr. Valerie G. Kalter.
+
+
+:::{.callout-note}
+# Prepare for lab by:
+- Watch the Neurons and Signal Propagation \[[podcasts](../../posts/2023-10-02-neurons)\].
+- Read the lab manual below.  
+- Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook.
+- Do Quiz on Laulima (open 24 hrs before lab). 
+- Please bring a laptop with you to lab, if possible, to analyze your experimental results.
+:::
+
+:::{.callout-note}
+# Summary
+
+- This week, dissect the toadʻs sciatic nerve, one of the longest motor neurons. Stimulating the frogʻs sciatic nerve will fire a large number of individual nerve fibers (neurons). You will measure the aggregate electrical activity of the nerve known as compound action potentials (CAPs) to explore various properties of nerve function. 
+:::
+
+# Background
+
+The fundamental unit of the nervous system is the __neuron__.  Neurons and other __excitable cells__ produce __action potentials__ when they receive electrical or chemical stimulation.  The action potential begins an electrical signal reaches specialized voltage-sensitive membrane sodium (Na$^+$) ion channels. When these voltages are above threshhold, these sodium channels open.  The large increase in sodium permeability results in membrane depolarization (in other words, the opening of the channels results in Na$^+$ ions flooding inwards, changing the voltage across the membrane).  This is followed by repolarization as the sodium permeability returns to its low baseline value and potassium (K$^+$) ion permeability is transiently increased.  Note that the actual numbers of ions moving during each action potential, however, are very small and cell ion concentrations are not altered measurably.  
+
+Action potentials are “all-or-none” events.  Once an action potential begins, it propagates down the length of the __axon__.  When the action potential reaches the end of the axon, a __neurotransmitter__ is typically released into the __synapse__.  Measuring action potentials from single neurons requires highly specialized equipment.  Instead, you will record __compound action potentials__ (or __CAP__) from an isolated peripheral nerve, the frog sciatic nerve, which contains hundreds of axons (@fig-nerve-pizza).
+
+::: {.column-margin}
+![Vertebrate nerves bundles of many individual neurons. This is an idealized cross-section of a peripheral nerve, for example the sciatic nerve that runs from the spinal column to all of the muscles of the hind limb (a motor nerve).](../../images/lab7-nerve-pizza.jpg){#fig-nerve-pizza}
+:::
+
+
+Peripheral nerves include _afferent_ (sensory) nerves and _efferent_ (motor and autonomic) nerves.  The individual axons within the nerve vary in diameter, myelination, excitability, threshold, and speed of conduction.  It is important to appreciate that _the threshold voltage required to produce an action potential in each axon reflects the diameter of the individual axon_ – __large diameter axons are stimulated at lower voltages than smaller diameter axons__.  
+
+Therefore, the nerve __compound action potentials (CAPs) you will record at any stimulus voltage represent the summed “all or nothing” action potentials only from those axons that are excited at that voltage.__  As the stimulus voltage is increased, more and more axons will be excited until eventually all of the axons within the nerve are excited.  Thus, the magnitude of the CAP will increase with increased stimulus strength.  After that point (the maximal response), __supramaximal__ stimuli will have no further effect on the magnitude of the CAP.  Also, because axons of different diameters have different conduction velocities, as more and more axons are excited, the peaks of the CAP will often broaden in shape as the waveforms with slightly different timings are averaged together). 
+
+Note that CAPs arise from __extracellular__ stimulation of the nerve and are recorded by extracellular electrodes, and therefore it will not look like the classical pictures that you see of single nerve action potentials recorded using an __intracellular__ electrode.  Your experimental setup will be similar to that in @fig-nerve-biphasic.  What you are recording here is the _difference in potential between two extracellular electrodes_ (the voltage difference between the recording electrodes in @fig-nerve-biphasic). 
+
+_Take a moment to understand the signal._ Remember that you are measuring from the outside of the nerve (_outside_ is _positive_ at rest, inside is negative). In the absence of a stimulus, there is no difference, and you have a baseline recording; but following a stimulus, a wave of depolarization passes down the nerve (a in @fig-nerve-biphasic).  As this wave crosses the first recording electrode, it becomes negative to the more distal electrode. By convention this difference is shown as a positive defection in the recording (red voltage - black voltage, b in @fig-nerve-biphasic). Then, when this wave reaches the second electrode, that electrode now becomes negative to the more proximal electrode and this results in a negative deflection in the recording (d in @fig-nerve-biphasic). Nerve propagation therefore results in a biphasic recording.
+
+![Extracellular recording of an action potential conducted along the anuran sciatic nerve.](../../images/lab7-biphasic-frog-nerve.jpg){#fig-nerve-biphasic}
+
+Because peripheral nerves are bundles of neurons, we can observe refractory periods in them as well. From the beginning of the CAP to the restoration of the __resting membrane potentials__, neurons are incapable of producing another action potential.  This period is referred to as the __refractory period__, which can be divided into two phases.  Initially there is the __absolute__ refractory period, where it is impossible to initiate a second action potential.  This is followed by the __relative__ refractory period, where a stimulus of greater than normal intensity can elicit a response. (Why? What is happening during these periods?)
+
+The importance of the CAP lies simply in the fact that it enables us to experimentally demonstrate aspects of nerve physiology. Clinically, CAPs are measured in patients to explore the peripheral nerve lesions and diseases. 
+
+### What you will do in the laboratory
+
+1.  _Setup and calibration of equipment_. In this exercise, you will check that the stimulating and recording connections are set up correctly.
+2.  _Determination of threshold voltage and maximal CAP amplitude_. Here you will give the nerve a series of stimuli, each increasing in amplitude.  You will then be able to calculate the threshold voltage for the nerve, as well as the voltage required for maximum CAP amplitude.
+3.  _Determination of the refractory period_. In this part of the laboratory, you will deliver paired supramaximal stimuli to the nerve. The interval between these stimuli will be progressively decreased. The results will enable you to determine the relative and absolute refractory periods of your nerve.
+4.  _Determination of nerve conduction velocity_. Here you will calculate the velocity of the CAP as it travels down the nerve.
+5.  _Bi-Directionality of Nerve Conduction_. You will demonstrate the ability of a nerve to conduct signals in both directions.
+6.  _Strength-Duration Relationships_. You will measure ability of a stimulus to elicit a response by changing the stimulus duration as well as its intensity (strength).
+
+## Equiptment
+
+-  PowerLab data acquisition system
+-  LabChart 8 or later
+-  Nerve Chamber 
+-  Stimulator Cable (BNC to Alligator Clips) (Note: These are the stimulating electrodes.)
+-  Two Differential Pod Input Cables (DIN to Alligator Clips) (Note: These are the recording electrodes.)
+-  One isolated frog sciatic nerve (_Rhinella marinus_) 
+-  Frog Ringer’s solution
+-  Pasteur pipette
+-  Filter paper, moistened with Ringer’s solution
+-  Thread
+-  Ruler
+-  Dissection tools:
+   +  Petri dish
+   +  Sharp scissors or scalpel
+   +  Glass probe and hook for handling nerve
+   +  Bone shears
+   +  Blunt probe
+   +  Dissection tray with wax or pad
+   +  Dissection pins 
+
+# Procedure
+
+## Setup and calibration of equiptment
+
+:::{.callout-tip}
+# Important - wire hygiene!
+- Before you begin, unwind (straigthen) all of your cables and wires so that there are _no coils_. 
+- Ensure your power cables __do not cross__ any information (USB or otherwise) or electrode wires. 
+- Try to avoid crossing your electrode wires, and especially __make sure your stimulating electrode wires do not touch the recording wires__. 
+- Good electrical contact while minimizing electrical noise is key to obtaining a clean and strong signal. 
+:::
+
+1.  Connect the red and black clips from the stimulator electrodes to two of the metal rungs on opposite sides of the Nerve Bath (@fig-setup).  The distance between the electrodes should be 0.5 cm.  It is not necessary to connect the green (ground) clip. 
+2.  Connect the red (positive) BNC connector from the stimulator electrode to the positive (+) analog output connector on the PowerLab.  Connect the black (negative) BNC connector from the stimulator electrode to the negative (–) analog output connector.
+3.  Connect the red and black leads from the first recording electrode to two of the metal rungs of the Nerve Bath (@fig-setup).  Connect the 8-pin DIN connector to Input 1 of the PowerLab.
+4.  Connect the leads for the second recording electrode (black closer to stimulator, red farther), but place the microhooks further away from the stimulus electrode (@fig-setup).  Attach the DIN connector to Input 2 on the PowerLab. 
+
+
+![Proper set up of recording and stimulating leads. Note: we will be using alligator clips not hook electrodes](../../images/lab7-setup.png){#fig-setup}
+
+5. Using a Pasteur pipette, fill the lower reservoir of the Nerve Bath with frog Ringer’s solution.  Fluid in the lower reservoir must not come in contact with the metal electrode rungs.  ___Note:__ Overfilling the Nerve Bath in this manner will cause a short circuit in your experiment._
+6. Cut a strip of filter paper and lay it over the wires in the nerve bath so that it touches both stimulating electrodes and both sets of recording electrodes.  Moisten the paper strip with frog Ringer’s solution, and place the cover on the nerve bath.  This arrangement will be used to test the connections.
+7. Before turning on the PowerLab, make sure it is connected to the computer via a USB cable.
+8. Launch LabChart from your computer using the settings file called __Toad Nerve Lab settings__.  
+9. Go to the Setup menu, select the Stimulator, and then select the waveform Test Connection (@fig-select-waveform).
+
+::: {.column-margin}
+![Select waveform - test connection.](../../images/lab7-select-waveform.png){#fig-select-waveform}
+:::
+
+
+10. Open LabChart in Scope View.  Click Start.  LabChart will now automatically record data for 10ms.  A series of stimulus pulses will be recorded (@fig-connection). You may need to adjust the axes or auto scale to see the signal.  _If no signal is recorded, check to make sure the microhooks are secure and the filter paper is moist and draped over all the active wires in the Nerve Bath._  
+
+![Stimulus Artifacts that indicate the equipment is set up properly. Note what the spike of the stimulus voltage looks like, so that you can tell them apart from the CAPs when you run your experiments below.](../../images/lab7-test-connection.png){#fig-connection}
+
+11. Once the connections are tested and working, remove the filter paper and proceed to next step.
+
+
+## Nerve dissection procedure
+1. Remove the skin from the legs and abdomen of a double-pithed toad obtained from your TA.  Cut the skin around the abdomen, and deglove the skin from the lower half of the body (@fig-deglove). 
+
+::: {.column-margin}
+![Degloving a frog.](../../images/lab7-frog-remove-skin.png){#fig-deglove}
+:::
+
+2. Keep the exposed tissue moist at all times with frog Ringer’s solution. 
+3. Grasp the urostyle (a bony element of the pelvis) with forceps and cut it free; you should be able to observe the nerve plexus below it (@fig-sciatic-nerve), being careful not to damage the nerve plexus.
+
+::: {.column-margin}
+![Exposing the sciatic nerve.](../../images/lab7-sciatic-nerve.png){#fig-sciatic-nerve}
+:::
+
+4.  From the dorsal side, using a glass hook and/or glass probe, locate and lift the sciatic nerve free from the associated fascia and the sciatic artery.  Use blunt dissection techniques, [__and do not pull or damage the nerve. Also do not touch the nerve with metal.__]{style="color: red"} 
+5.  You will want to dissect a long piece of sciatic nerve that can span many electrodes in the nerve chamber.  
+6.  Tie a piece of thread around the nerve as high up on the nerve as you can reach (near the spinal cord). The string will be used as a "leash", so that you can handle the nerve gently (touching it as little as possible).
+7.  Using scissors, cut the nerve from the spinal cord and reflect the nerve back onto the leg. (Only use metal to cut the ends of the nerve). 
+
+::: {.column-margin}
+![Removing the nerve.](../../images/lab7-sciatic-nerve-isolation.png){#fig-sciatic-nerve-isolation}
+:::
+
+8.  Using forceps (on muscle) and the glass hook (to touch the nerve), expose the nerve down to the gastrocnemius muscle. Cut the nerve free (@fig-sciatic-nerve-isolation).
+9.  Immediately place the isolated nerve into a petri plate with ringers solution. Let the nerve rest in ringers for a few seconds, and gently clear away any debris from the nerve using the glass tools.  [__Note: DO NOT GRASP THE NERVE WITH METAL FORCEPS!__]{style="color:red"})  
+10. Lay the nerve across the electrodes of the Nerve Chamber (@fig-setup) using the string leash and the glass hook.  Place the thicker end of the nerve toward the stimulating electrodes, and make sure that the position where the nerve is tied (the damaged part) is before both stimulating electrodes.
+11. If necessary gently blot the nerve on a piece of tissue or filter paper to remove any excess Ringer’s solution.
+12. Make sure the nerve is in contact with each of the active connections, but that no portion of the nerve is touching the fluid or the bottom of the chamber.  
+13. If the nerve is too short to span the second pair of recording electrodes, adjust the position of the recording electrodes as necessary.  Place the cover back on the Nerve Bath.
+
+
+
+# Exercise 1: Finding the threshold voltage and maximum CAP amplitude
+
+A series of stimuli will be given to the nerve, each increasing in amplitude.  From these recordings the threshold voltage for the nerve will be calculated, as well as the voltage required for maximum CAP amplitude.
+
+1. In the Setup menu, open the Stimulator… dialog, and select Waveform: Threshold.
+2. From the Setup menu, open the Stimulator Panel.
+3. In the Stimulator Panel, (@fig-threshold) set the Pulse Height amplitude to 20mV; do not adjust any other parameters.
+
+![Stimulator Panel](../../images/lab7-threshold.png){#fig-threshold}
+
+4. Click Start. LabChart will stimulate the nerve and record 20 blocks of data.
+5. Increase the pulse height by 20mV, and record again.
+6. Repeat this until a response is seen or you reach 400mV. If you do not see a response, consult your instructor.
+7. Enter the stimulus amplitude (pulse height) that elicits the minimum observable response in to the Stimulator Panel dialog. This is the threshold voltage.
+8. Find the voltage required for maximum CAP amplitude. Increase the stimulus by 10mV steps until the CAP does not increase on three consecutive stimulus amplitude increases or you reach 400mV.
+9. Save the data file.
+
+## Analysis: Determination of threshold voltage and maximum CAP amplitude
+
+1. Check the Overlay box in the Scope view but leave the slider set at zero. 
+2. Select the 20 pages that represent the threshold voltage test, then click on the   button to lock the selected pages in overlay.
+3. Place the Marker on the baseline just before the stimulus.
+4. Adjust the horizontal compression as necessary.
+5. Looking at the data in Channel 1, use the up and down arrows to scroll through the pages.
+
+![Using the Scope view to show increasing CAP amplitude.](../../images/lab7-cap-scope-crop1.png){#fig-cap-scope}
+
+6. Use the [__Waveform Cursor__]{style="color:green"} to measure CAP amplitude at each stimulus voltage.  Fill in @tbl-cap-amp. Each block of data is represented as a page and has a different stimulus voltage shown in channel 3. Note the stimulus level where the first CAP is seen, and where maximum CAP is reached. 
+
+![UWaveform cursor on the maximum CAP amplitude.](../../images/lab7-cap-amplitude.png){#fig-cap-amplitude}
+
+
+| Stimulus amplitude (mV) | CAP amplitude (mV)  |   Stimulus amplitude (mV)  | CAP amplitude (mV)  |  
+| ----  | ----  | ----  | ----  | 
+| 20 | |  220 |  |  
+| 40 | |  240 |  |  
+| 60 | |  260 |  |       
+| 80 | |  280 |  |      
+| 100 | |  300 |  |  
+| 120 | |  320 |  |  
+| 140 | |  340 |  |       
+| 160 | |  360 |  |      
+| 180 | |  380 |  |      
+| 200 | |  400 |  |      
+| Threshold stimulus voltage: |  |  |  mV|
+| Min Voltage for Max. CAP Amplitude: |  |  |  mV|
+
+: CAP amplitude versus stimulus intensity. {#tbl-cap-amp}
+
+
+# Exercise 2: Determination of the refractory period
+
+Using the minimum voltage for maximum CAP amplitude, stimulate the nerve with a series of pulses varying in pulse interval.  In each block of data, the pulse interval will decrease (i.e., the pulses will get closer together).  Use this data to find the the __relative__ and __absolute__ _refractory periods_ of your nerve.
+1. From the results in Table 1, determine __the minimum stimulus voltage__ required to elicit a __maximal CAP__ from the nerve.  
+2. From the Stimulator dialog, select waveform> __Refractory Period__, and close the Stimulator dialog.
+3. Open the Stimulator Panel if you have closed it and enter the voltage above in the pulse height for both pulses.
+
+![Stimulator panel for determining the refractory period.](../../images/lab7-refractory-panel.png)
+
+4. Record a series of 15 data blocks (displayed as pages).  During each page, two pulses are presented to the nerve.  You will decrease the time interval between the pulses decreases with each successive page. 
+5. Click __Start__, LabChart will stimulate the nerve 2 times 4 milliseconds apart.
+6. Add a comment stating the interval between pulses (4 ms) for the record. 
+7. Change the interval between pulses to 3.5 ms, click __Start__. Add a comment stating the interval period (3.5 ms) for the record. 
+8. Repeat for each specified interval Table 2 in the Data Notebook, adding a comment stating the interval period for each record.
+9. __Save your data__, do not close the file.
+
+### Analysis
+
+#### Determination of refractory period
+[__Select__]{style="color:green"} the 15 data pages recorded in Exercise 2, and lock them into Overlay mode.  Place the [__Marker__]{style="color:green"} on the baseline and use the [__Waveform Cursor__]{style="color:green"} to measure the amplitude for the second CAP.  Record these values in @tbl-refractory.  Determine the stimulus interval where the amplitude of the second CAP first shows a decrease.  This is the [__relative refractory period__]{style="color:blue"}.  Determine the stimulus interval where the second CAP completely disappears.  This is the [__absolute refractory period__]{style="color:blue"}.  Record both of these values in @tbl-refractory.
+
+![Scope View showing paired pulses for determining the refractory period.](../../images/lab7-refractory-period.png)
+
+
+| Stimulus interval (ms) | Amplitude of second CAP | Stimulus interval (ms) | Amplitude of second CAP |
+| ----  | ----  |  ----  | ----  |
+| 4.0 | | 1.6 | |  
+| 3.5 | | 1.5 | |   
+| 3.0 | | 1.4 | |        
+| 2.5 | | 1.3 | |       
+| 2.0 | | 1.2 | |  
+| 1.9 | | 1.1 | |    
+| 1.8 | | 1.0 | |         
+| 1.7 | | | |        
+| Relative refractory period (ms) |  |  | |
+| Absolute refractory period (ms) |  |  | |
+     
+: CAP amplitude versus stimulus intensity. {#tbl-refractory}
+
+
+# Exercise 3: Nerve conduction velocity and temperature sensitivity
+
+### Analysis
+
+#### Calculating conduction velocity
+1. Room temperature. Using the data in Exercise 1, make a [__selection__]{style="color:green"} in channels 1 and 2 that includes the CAP.  Open the [__Zoom window__]{style="color:green"}, and use the [__Marker__]{style="color:green"} and [__Waveform Cursor__]{style="color:green"} to determine the time interval for the CAP to travel between the two recording electrodes (@fig-velocity).  Place the marker on the first CAP peak.  
+
+2. Place the waveform cursor over the second CAP peak.  Record the value for time differential ($\Delta$t) in milliseconds in Table 3.  
+
+3. Using a ruler, measure the distance in millimeters between the black negative leads of each of the two recording electrodes.  Record in @tbl-velocity.
+
+4. Calculate the __conduction velocity__ from the __distance between the electrodes__ and __time interval between CAPs__: 
+
+Conduction velocity (m/sec) = $\frac{Distance(mm)}{Time(ms)}$
+
+![Zoom window in overlay mode showing analysis procedure for calculating conduction velocity.  Waveform Cursor information is displayed at the top of the window.](../../images/lab7-conduction2.png){#fig-velocity}
+
+| Parameter | cold | room temperature | warm |
+| ---- | ---- | ---- | ---- | 
+| Temperature (C) | | | |
+| Distance between recording electrodes (mm) | |  |  | 
+| Time interval between CAP1 and CAP2 (ms)  |   |  |  | 
+| Conduction velcoity (m/s) | |  |  | 
+     
+: Calculation of conduction velocity. {#tbl-velocity}
+
+5. Chill the nerve by placing it in a Petri dish with cold Ringer’s (~4°C). Replace the Ringerʻs in the nerve chamber with cold Ringerʻs. 
+6. Place the nerve in the chamber and quickly run the Conduction Velocity macro.  
+7. Repeat with warm Ringer’s (~35°C) and complete @tbl-velocity.
+
+
+# Exercise 4: Bi-Directionality of Nerve Conduction
+
+The ability of a nerve to conduct signals in both directions can be observed by changing the recording and stimulating leads. 
+
+1. The thicker end of the nerve originates closer to the spinal cord, and the thinner end is more distal. 
+2. Change the position of the leads to stimulate starting from the thinner end (@fig-nerve-reverse).
+
+![Reverse the stimulating and channel 2 recording leads to show bi-directionality.](../../images/lab7-nerve-reverse.png){#fig-nerve-reverse}
+
+3. Run the Threshold macro as in Exercise 1. Stimulator dialog, select Waveform: Threshold. Pulse Height amplitude 20 mV. 
+4. Right click in the first data block of this exercise and enter the __comment__ “Bi-Directionality” and save your data file.
+
+### Analysis
+
+Compare the threshold voltage necessary to elicit a maximum response from the nerve when stimulating from the thick end of the nerve (Exercise 1) vs. stimulating from the distal (thinner) end of the nerve (@tbl-cap-amp-rev).
+
+| Stimulus amplitude (mV) | CAP amplitude (mV)  |   Stimulus amplitude (mV)  | CAP amplitude (mV)  |  
+| ----  | ----  | ----  | ----  | 
+| 20 | |  220 |  |  
+| 40 | |  240 |  |  
+| 60 | |  260 |  |       
+| 80 | |  280 |  |      
+| 100 | |  300 |  |  
+| 120 | |  320 |  |  
+| 140 | |  340 |  |       
+| 160 | |  360 |  |      
+| 180 | |  380 |  |      
+| 200 | |  400 |  |      
+| Threshold stimulus voltage: |  |  |  mV|
+| Min Voltage for Max. CAP Amplitude: |  |  |  mV|
+
+: CAP amplitude versus stimulus intensity stimulating from the distal end of the nerve. {#tbl-cap-amp-rev}
+
+
+# Exercise 5: Stimulus Strength-Duration Relationships
+
+The ability of a stimulus to elicit a response is dependent on the __stimulus duration__ as well as its __strength__ (intensity).  The relationship between strength and duration can be derived empirically for your sciatic nerve preparation.  Strength-duration curves are often used by physiologists as a relative measure of a nerve’s __excitability__.
+
+1. Change the stimulator leads back so that you are stimulating the proximal (thick) end of the sciatic nerve.
+2. Open the Stimulator dialog and select Waveform: Threshold.
+3. In the Stimulator Panel, set the Pulse Height amplitude to 20 mV, and select a pulse duration of 50 $\mu$s. Click __Start__. 
+4. Right click in the first data block of this exercise and enter the __comment__ “strength-duration”.
+5. Increase the stimulus by 20 mV and repeat until a CAP is observed.
+6. Now return the stimulus pulse height to 20 mV, and repeat with durations of 100 $\mu$s, 250 $\mu$s, 500 $\mu$s, 750 $\mu$s, 1000 $\mu$s (you used 150 $\mu$s for the first exercise).
+7. Save your data file.
+
+### Analysis
+
+1. Use the overlay to determine when reaching threshold by comparing your trace to previous subthreshold traces. The voltage where the CAP is barely detectable in Channel 1 is the suprathreshold stimulus voltage. 
+2. Record the effective stimulus amplitude at which you first reach threshold for each duration (@tbl-strength).
+
+| Duration ($\mu$s) | Threshold Voltage (mV) |  
+| ---- | ---- |  
+| 50 |  | 
+| 100 |  |   
+| 150 |  |  
+| 250 |  |  
+| 500 |  |  
+| 750 |  |  
+| 1000 |  |  
+     
+: CAP threshold vs. stimulus duration. {#tbl-strength}  
+
+3. Graph these data with Threshold Voltage (mV) on the ordinate and duration (msec) on the abscissa.
+4. Find rheobase on your plot.  __Rheobase__ is the _minimum stimulus intensity_ that will elicit a _response at infinite duration_ (where stimulus intensity reaches an asymptote with respect to duration).  If you have printed a copy you may wish to mark this with an arrow.
+5. Find chronaxie on your plot.  Chronaxie is the stimulus duration required at a stimulus strength of 2x rheobase.  If you have printed a copy you may wish to mark this with an arrow.
+
+
+# Suggestions for the Results Section
+Conduct the appropriate analyses on your data and present your findings in paragraph form with the aid of graphs and/or tables as needed.  Typically, for this type of experiment one would report:
+
+- Determination of threshold voltage
+- The maximum CAP amplitude
+- Determination of the refractory period
+- Calculation of conduction velocity
+- Sensitivity of conduction velocity on Temperature (with Q10)
+- Threshold voltage for forward vs reverse stimulation (bidirectionality)  
+- Stimulus strength vs. duration relationship
+
+
+
+# Questions for Thought:
+
+1. How does a CAP differ from a single action potential? Would you see any differences in your data between the two?
+2. What is the cause of the relative refractory period?  Briefly describe the cellular events that occur during the refractory period (Hint: Discuss the mechanism of repolarization). Explain the difference between the relative and absolute refractory periods. What evidence do you see of these phenomena in your data?
+3. Action potentials are said to be “all or none” responses. Why does the toad sciatic nerve give what looks like a graded response?
+4. What was the smallest voltage required to produce the maximum CAP? What proportion of the nerve fibers was excited to produce this response?
+5. Based on your calculation for CAP conduction velocity, how long would it take the CAP to travel the length of the sciatic nerve?  Assume a total length of 10 cm. How could this be important for the animal? 
+6. How does the temperature sensitivity of nerve conduction velocity compare to other physiological processes in the toad?  If there is a difference, what are possible mechanisms that might cause the differences?  Hint: You have already determined Q10 for cardiac (muscle) function in the toad. 
+7. Why were you still able to elicit a CAP after reversing the direction of stimulation? How did the appearance of the frog CAP change in comparison to when it was in its original orientation? How do you explain this?
+8. What is happening in the nerve at the voltage-duration combinations that you are identifying as threshold? (Strength-duration experiment)
+9. Based on what you learned, what are the major factors involved in signal propagation through peripheral nerves in the toad? In vertebrates generally?
+
+
+# After Lab: Assignment Week 3:
+
+- This will be a group lab report. 
+- Please divide the work of writing the report __by experiment__, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections. 
+- Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion.
+- Please remember to include respective contributions. 
+

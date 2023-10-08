@@ -20,7 +20,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Library Day - Meet at Hamilton \[[html](posts/2023-08-25-Library-day/index.qmd)\] |   |   |   
 |Week 2|||||
 | 8/28  | M | Metabolism \[[html](posts/2023-08-28-Metabolism/index.qmd)\] \[[reading assignment and questions](discussions/Discussion_Week_2.pdf)\] \[[HWA readings](https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV)\] |   |   |   
-| | W | Size and Scaling \[[podcast](https://youtu.be/_NDNa_3Bon8)\]|   | Lab2: PC2-G-Honolulu Zoo \[[lab manual](labs/Lab2-zoo/index.qmd)\] |   
+| | W | Size and Scaling \[[podcast](https://youtu.be/_NDNa_3Bon8)\]|   | Lab2: PC2-G-Honolulu Zoo \[[lab manual](labs/Lab2-zoo/Lab2.qmd)\] |   
 |   | F | Adjustments to Metabolism | PS1: Metabolism \[[pdf](homework/HW1metabolism.pdf)\]|   |   
 |Week 3|||||
 | 9/4 | M | Labor Day Holiday | Choose your Fossil  |   |   
@@ -44,7 +44,7 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Neurons \[[html](posts/2023-10-02-neurons/neurons.qmd)\] \[[discussion](discussions/Discussion-Week7-neurons-signal-propagation.pdf)\] |   |   |   
 |Week 8|||||
 | 10/9  | M | Synapses/Sensory Receptors  | PS3: Feeding & Digestion \[[pdf](homework/HW3feeding_digestion.pdf)\] |  |   
-| | W | Muscles |   |  Lab 7:PC1-G-Vertebrate Action Potential |   
+| | W | Muscles |   |  Lab 7:PC1-G-Vertebrate Action Potential \[[overview](labs/Lab7-toad-nerve/Lab7.qmd)\]|   
 |   | F | Muscles II  |   |   |   
 |Week 9|||||
 | 10/16 | M | Motor Control | Design 2 Feeding & Digestion \[[html](projects/design2-FAQ.qmd)\] |   |   

@@ -1,4 +1,0 @@
-\contentsline {section}{\nonumberline Before Lab}{1}{section*.3}%
-\contentsline {subsection}{\nonumberline In Lab:}{1}{subsection*.5}%
-\contentsline {subsection}{\nonumberline After Lab:}{2}{subsection*.7}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
