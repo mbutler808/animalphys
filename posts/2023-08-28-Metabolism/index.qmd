@@ -29,7 +29,7 @@ categories: [module 2, week 2, BMR, SMR, RMR, AMR, DMR ]
 - You should have your book. $20 from SoLS Office St. John 101. 
 - Turn in your Library Day worksheet in class.
 - Please friend me on Discord/ __Always tag your partners on anything group-related__
-- Labs this Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/index.qmd). Bring:
+- Labs this Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. [Read Lab 2](../../labs/Lab2-zoo/Lab2.qmd). Bring:
   - Your lab notebook
   - A timing device (e.g. your phone)
   - Sun screen, hat, and sunglasses. It will be hot and sunny! 
