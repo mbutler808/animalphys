@@ -57,7 +57,7 @@ categories: [module 6, week 7, neurons, action potentials, electricity, signals 
 
 ## Friday 
 
-- Continue Neurons & Signal Propagation
+- Continue Neurons & Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
 
 ### Signal propagation podcast 
 

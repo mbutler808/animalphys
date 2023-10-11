@@ -71,7 +71,7 @@ The importance of the CAP lies simply in the fact that it enables us to experime
 5.  _Bi-Directionality of Nerve Conduction_. You will demonstrate the ability of a nerve to conduct signals in both directions.
 6.  _Strength-Duration Relationships_. You will measure ability of a stimulus to elicit a response by changing the stimulus duration as well as its intensity (strength).
 
-## Equiptment
+## Equipment
 
 -  PowerLab data acquisition system
 -  LabChart 8 or later

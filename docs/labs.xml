@@ -96,8 +96,8 @@ Summary
 <li><em>Strength-Duration Relationships</em>. You will measure ability of a stimulus to elicit a response by changing the stimulus duration as well as its intensity (strength).</li>
 </ol>
 </section>
-<section id="equiptment" class="level2">
-<h2 class="anchored" data-anchor-id="equiptment">Equiptment</h2>
+<section id="equipment" class="level2">
+<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
 <ul>
 <li>PowerLab data acquisition system</li>
 <li>LabChart 8 or later</li>
@@ -1140,8 +1140,8 @@ Exercises
 <p>Local changes in circulation are under <strong>nervous</strong> and <strong>hormonal</strong> control. Regulation of blood flow in the vertebrate circulatory system occurs by three primary mechanisms: 1) <strong>local receptors</strong> (<em>nervous system</em>) to detect levels of metabolic activity (e.g., carbon dioxide receptors), 2) <strong>sympathetic</strong> and <strong>parasympathetic</strong> (<em>autonomic nervous system</em>) control of the vasculature including capillary beds at the tissues, and 3) <strong>endocrine</strong> (<em>hormonal</em>) control of the vasculature.</p>
 <p>In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a belt with a force transducer. We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response).</p>
 </section>
-<section id="equiptment" class="level2">
-<h2 class="anchored" data-anchor-id="equiptment">Equiptment</h2>
+<section id="equipment" class="level2">
+<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
 <ul>
 <li>PowerLab data acquisition system</li>
 <li>Finger pulse transducer</li>
@@ -2328,7 +2328,7 @@ After today, you should know how to:
 
  ]]></description>
   <guid>https://mbutler808.github.io/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Mon, 09 Oct 2023 19:06:53 GMT</pubDate>
+  <pubDate>Wed, 11 Oct 2023 19:24:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,86 @@
+---
+title: "Digestion Papers (Directory)"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Directory of helpful resources for your Design 2"
+date: 2023-10-11
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 2, metabolism, nutrient content of food, DMR, feeding, digestion, protein transport, carbohydrate transport, gut, gut diameter, small intestine ]
+---
+
+Copies of these papers are located in the __shared google drive__ > DigestionPapers <https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk>
+
+### Important resources
+
+Searchable database of Nutrient content of foods from USDA <https://fdc.nal.usda.gov/fdc-app.html#/> – legacy foods tab is most helpful. Choose raw forms of foods
+
+Chapters from:
+__Robbins, C.T. (1993)__ Wildlife Feeding and Nutrition, Academic Press, Sand Diego, CA
+
+-  Chapter 12: Food Composition.  
+-  Chapter 13: GI Anatomy and Function.  
+-  Chapter 14: Digestion and Nutrient Metabolism.  
+-  Chapter 15: Food Intake and Regulation.  
+-  Some key tables from Robbins 1993.  
+
+__Stevens and Hume 1998__. A great review paper on the digestive system of many vertebrates, with info on gut morphology, passage rates, retention time, fermentation, and microbes. Lots of __gut diameter data__. A must read!
+
+__Wilmer et al 2005__. Assimilation efficiency and some nutrient contents.
+
+ 
+### Herbivores 
+(may be in HerbivoreNutrCont folder)
+
+__Bergman1990__ Energy contributions of volatile fatty acids from the gastrointestinal tract in various species
+
+__Clauss et al. 2003__ The maximum attainable body size of herbivorous mammals: morphophysiological constraints on foregut, and adaptations of hindgut fermentors
+
+__Dement and Van Soest 1995__ A very influential paper that describes foregut and hindgut digestive strategies and provides a model for energy extraction, volume, and retention time.
+
+__Rogers et al 1990__ Gorilla diet with nutritional info and water content of plants
+
+__Stoddard 1935__ Osmotic pressure and water content of prairie plants
+
+__Dierenfeld, Mueller and Hall 2002__ Duikers: native food composition, micronutrient assessment, and implications for improving captive diets.
+
+__Randolph 1991__ Dietary choice of a generalist grassland herbivore,Sigmodon hispidus (rat)
+
+__Bjorndal 1979__ Green sea turtle digestion
+
+__Bjorndal 1987__ Tortoise digestion
+
+__Scwarm, et al 2006__. Digestion studies in hippos
+
+__Water content of plants can be hard to find.__  There is good information in Staddart 1935, Rogers et al 1990, and Demment and Van Soest 85. 
+
+### Carnivores
+
+__Magara et al. 2020__. Edible crickets (Orthoptera) around the world…. 
+
+__Krause and Leeson 1974__. The gastric mucosa of two monotremes: the duck-billed platypus and echidna
+
+__Saadoun and Cabrera 2008__ Nutritional content of indigenous sources of meat in South America (lizard, rhea, peccary, alpaca, etc.)
+
+__Fish, Bostoc, Nicastro, and Beneski 2007__. Death roll of the alligator: mechanics of twist feeding in water. (under Feeding)
+
+### Body composition papers 
+(Body Composition Folder, mainly agriculture papers)
+
+Horse: __Webb and Weaver 1979__ Body composition of the horse. 
+
+Horse: __Znamirowska 2004__ Prediction of horse carcass composition using linear measurements. 
+
+Cow: __Gresham, Holloway, Butts, and McCurely 1986.__ Prediction of mature cow carcass composition from live animal measurements. 
+
+Kangaroo: __Tribe and Peel 1963.__ Body composition of the kangaroo (_Macropus sp_).  
+
+Pig: __Bee, Guex, and Herzog 2012__ Free-range rearing of pigs during the winter: Adaptations   in muscle fiber characteristics and effects on adipose tissue composition and meat quality traits. 
+
+\[[Back to the Design 2 FAQs and Assignment](design2-FAQ.qmd)\]   
+\[[Shared google drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\]

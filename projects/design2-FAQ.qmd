@@ -24,15 +24,20 @@ Now that you know what your animalʻs energy budget is, you can make some infere
 
 ### FAQs
 
-### 0. Lots of resources in the [Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk) 
+### 0. Lots of resources in the Shared Google Drive 
+
+- \[[Helpful index of papers](resources-digestion.qmd)\] - Check it out!
+- Papers are located in the Digestion folder of the \[[Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\]
 
 ### 1. Don't forget to include page numbers!
 
 ### 2. Where can I get food nutritional content?
 
-You can use any legitimate source. Human nutrition books are good, just add in missing components that humans don't eat (bones, fur, skin, etc.). I’ve also posted articles On the shared google drive under Supplementary Readings > Digestion that have wild animal foods including some info in the Robbins chapters, and exotic meats.
+-  You can use any legitimate source. Human nutrition books are good, just add in missing components that humans don't eat (bones, fur, skin, etc.). 
 
-Here is the USDA table for human foods: nutritional composition.
+-  I’ve also posted lots of articles on the shared google drive under Digestion that have wild animal foods including some info in the Robbins chapters, and exotic meats.
+
+-  Here is the USDA table for human foods: nutritional composition.
 Remember that these are human foods and so your animal will probably not be able to eat such high-calorie vegetables with such low fiber, for example.
 
 Choose the __SR Legacy Foods__ tab here:

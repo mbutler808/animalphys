@@ -10,7 +10,7 @@ date: 2023-10-09
 format: 
   html: default 
   pdf: default
-categories: [module 7, week 8, muscles, excitable tissues, contraction force, force, velosity, tension, sarcomere, muscle architecture ]
+categories: [module 7, week 8, muscles, excitable tissues, contraction force, force, velocity, tension, sarcomere, muscle architecture ]
 ---
 
 # Pre-class materials 
@@ -23,6 +23,7 @@ categories: [module 7, week 8, muscles, excitable tissues, contraction force, fo
 1. Monday we will finish Neurons and Signal Propagation \[[discussion & reading assignment](../../discussions/Discussion-Week7-neurons-signal-propagation.pdf)\]
 2. Wednesday and Friday Muscle Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week8-muscle.pdf)\] 
 3. HW3 Feeding and Digestion due Monday at midnight 
+4. Start gathering your diet data for \[[Design 2](../../projects/design2.qmd)\ and work through the basic analysis. Also check out the \[[FAQs](../../projects/design2-FAQ.qmd)\
 :::
 
 ### Announcements/Reminders
@@ -48,6 +49,7 @@ categories: [module 7, week 8, muscles, excitable tissues, contraction force, fo
 ## Wednesday
 
 
+- ...Still finishing Neurons & Signal Propagation \[[slide deck2](../../powerpoints/6b.Synapses.pdf)\]
 - Start Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck](../../powerpoints/8.MusclesI.pdf)\]
 
 ### Muscles EMG podcast

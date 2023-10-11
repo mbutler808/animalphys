@@ -99,7 +99,7 @@ Local changes in circulation are under __nervous__ and __hormonal__ control. Reg
 In this lab, we will measure blood pressure of volunteers using a finger pulse transducer, a stethoscope, a blood pressure cuff (sphygnomanometer), and changes in peripheral circulation by measuring the volume of the extremities using a belt with a force transducer.  We will do a series of learning exercises and then conduct an experiment on factors affecting peripheral circulation and as well as during simulated dives (the dive response). 
 
 
-## Equiptment
+## Equipment
 
 -  PowerLab data acquisition system
 -  Finger pulse transducer
