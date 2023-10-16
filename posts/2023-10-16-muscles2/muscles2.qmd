@@ -29,11 +29,11 @@ categories: [module 7, week 9, muscles, excitable tissues, contraction force, fo
 - Design 2 due today by midnight. \[[turn in](../../projects/design2-turnin.qmd)\]  
 -  Talks in Lab this week!  
 -  Tuesday starting at 1:30:  
-  +  Kirsten and Morgan
-  +  Maisie and Christina
-  +  Krystal and Logan B
-  +  Anna and Kylie (Kylie joining at 2:30)
-  +  Alvin and Richard
+  + Kirsten and Morgan
+  + Maisie and Christina
+  + Krystal and Logan B
+  + Anna and Kylie (Kylie joining at 2:30)
+  + Alvin and Richard
 - Wednesday starting at 2:30:  
   + Mayuka and Logan M
   + Garrett
@@ -45,7 +45,7 @@ categories: [module 7, week 9, muscles, excitable tissues, contraction force, fo
   + Everyone gets 2 golden tickets. See Discord #announcements
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
 
-### Week 8 Discussion Groups
+### Week 9 Discussion Groups
 
 | Group | Partner 1 | Partner 2 | Partner 3 |
 |----|----|----|----|----|
