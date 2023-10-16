@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/design2-turnin.html",
       "/projects/resources-digestion.html",
       "/projects/design2-FAQ.html",
       "/projects/design2.html",
@@ -29,6 +30,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2023-10-16-muscles2/muscles2.html",
       "/posts/2023-10-09-muscles/muscles.html",
       "/posts/2023-10-02-neurons/neurons.html",
       "/posts/2023-09-25-digestion/digestion.html",

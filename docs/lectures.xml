@@ -10,7 +10,183 @@
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 09 Oct 2023 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Oct 2023 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>7b. MusclesII</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-16-muscles2/muscles2.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday and Wednesday we will finish Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Friday we aim for Biomechanics</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Design 2 due today by midnight. [<a href="../../projects/design2-turnin.html">turn in</a>]<br>
+</li>
+<li>Talks in Lab this week!<br>
+</li>
+<li>Tuesday starting at 1:30:<br>
+</li>
+<li>Kirsten and Morgan</li>
+<li>Maisie and Christina</li>
+<li>Krystal and Logan B</li>
+<li>Anna and Kylie (Kylie joining at 2:30)</li>
+<li>Alvin and Richard</li>
+<li>Wednesday starting at 2:30:
+<ul>
+<li>Mayuka and Logan M</li>
+<li>Garrett</li>
+<li>Justin and Sasha</li>
+<li>Adry and Matt</li>
+</ul></li>
+<li>HW4 due Monday [<a href="../../homework/HW4neurons.pdf">pdf</a>]</li>
+<li>Wires from Discord:
+<ul>
+<li>Lab report extension due no later than Friday: Email your TA with cc to your lab partners</li>
+<li>Everyone gets 2 golden tickets. See Discord #announcements</li>
+</ul></li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-8-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-8-discussion-groups">Week 8 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Krystal</td>
+<td>Sahsa</td>
+<td>Mayuka</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Maisie</td>
+<td>Matthew</td>
+<td>Adry</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Logan B</td>
+<td>Richard</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Anna</td>
+<td>Alvin</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Garrett</td>
+<td>Justin</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Logan M</td>
+<td>Kirsten</td>
+<td>Christina</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Talk about talks</li>
+<li>More Muscles Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8.MusclesI.pdf">slide deck</a>]</li>
+</ul>
+<section id="muscles-emg-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscles-emg-podcast">Muscles EMG podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/6Z39ZqgixfY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Continue Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
+</ul>
+<section id="muscle-design-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Lab next week: Human EMG</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 7</category>
+  <category>week 9</category>
+  <category>muscles</category>
+  <category>excitable tissues</category>
+  <category>contraction force</category>
+  <category>force</category>
+  <category>velocity</category>
+  <category>tension</category>
+  <category>sarcomere</category>
+  <category>muscle architecture</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-16-muscles2/muscles2.html</guid>
+  <pubDate>Mon, 16 Oct 2023 10:00:00 GMT</pubDate>
+</item>
 <item>
   <title>7. Muscles</title>
   <dc:creator>Marguerite Butler</dc:creator>

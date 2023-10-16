@@ -1,0 +1,93 @@
+---
+title: "7b\\. MusclesII"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Continuing on muscles"
+date: 2023-10-16
+format: 
+  html: default 
+  pdf: default
+categories: [module 7, week 9, muscles, excitable tissues, contraction force, force, velocity, tension, sarcomere, muscle architecture ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday and Wednesday we will finish Muscle Discussion \[[discussion & reading assignment](../../discussions/Discussion-Week8-muscle.pdf)\] 
+2. Friday we aim for Biomechanics
+:::
+
+### Announcements/Reminders
+
+- Design 2 due today by midnight. \[[turn in](../../projects/design2-turnin.qmd)\]  
+-  Talks in Lab this week!  
+-  Tuesday starting at 1:30:  
+  +  Kirsten and Morgan
+  +  Maisie and Christina
+  +  Krystal and Logan B
+  +  Anna and Kylie (Kylie joining at 2:30)
+  +  Alvin and Richard
+- Wednesday starting at 2:30:  
+  + Mayuka and Logan M
+  + Garrett
+  + Justin and Sasha
+  + Adry and Matt
+- HW4 due Monday \[[pdf](../../homework/HW4neurons.pdf)\]
+- Wires from Discord: 
+  + Lab report extension due no later than Friday: Email your TA with cc to your lab partners
+  + Everyone gets 2 golden tickets. See Discord #announcements
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 8 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Krystal | Sahsa   | Mayuka  |  
+| 2 | Maisie| Matthew  | Adry |
+| 3 | Logan B |  Richard | Kylie |
+| 4 |  Anna | Alvin  |  |
+| 5 |  Garrett |  Justin | Morgan |
+| 6 |   Logan M |  Kirsten |  Christina|
+
+
+
+## Monday
+ 
+- Talk about talks
+- More Muscles Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck](../../powerpoints/8.MusclesI.pdf)\]
+
+### Muscles EMG podcast
+
+{{< video https://youtu.be/6Z39ZqgixfY >}}
+
+## Wednesday
+
+- Continue Muscle Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck 2](../../powerpoints/8a.MusclesII.pdf)\]
+
+### Muscle Design podcast 
+
+{{< video https://youtu.be/XPgHg2lmc5M >}}
+
+
+## Friday 
+
+
+
+# For Next Time
+
+- Lab next week: Human EMG
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
