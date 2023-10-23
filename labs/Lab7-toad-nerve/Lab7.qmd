@@ -378,7 +378,7 @@ Conduct the appropriate analyses on your data and present your findings in parag
 9. Based on what you learned, what are the major factors involved in signal propagation through peripheral nerves in the toad? In vertebrates generally?
 
 
-# After Lab: Assignment Week 3:
+# After Lab: 
 
 - This will be a group lab report. 
 - Please divide the work of writing the report __by experiment__, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections. 

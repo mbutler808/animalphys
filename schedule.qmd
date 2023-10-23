@@ -3,6 +3,10 @@ title: "Schedule"
 description: |
  Schedule and course materials for Animal Physiology (Zool 430/430L Fall 2023).
 tbl-colwidths: [9,3, 20, 20,30]
+format: 
+  html: default 
+  pdf: default
+  docx: default
 ---
 ```{r}
 #| echo: false
@@ -52,10 +56,10 @@ tbl-colwidths: [9,3, 20, 20,30]
 |   | F | Biomechanics  |   |   |   
 |Week 10|||||
 | 10/23 | M | Locomotion on Land  | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] |   |   
-|   | W | Locomotion in Fluids  |  | Lab8: PC2-G-Human Muscle  |   
+|   | W | Locomotion in Fluids  |  | Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\] |   
 |   | F | Blood |  Rewrite Design 2 Due   |   |   
 |Week 11|||||
-| 10/30 | M | Ventilation   |  PS5: Muscles & Biomech |   |  
+| 10/30 | M | Ventilation   |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] |   |  
 |   | W | Aquatic Respiration |   | Lab9: PC3-G-Toad Muscle  |   
 |   | F | Aerial Respiration  |   |   |   
 |Week 12|||||
