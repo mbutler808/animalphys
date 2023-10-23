@@ -55,9 +55,9 @@ format:
 | | W | Biomechanics  | Peer Critique 2 |  Design Presentations  |   
 |   | F | Biomechanics  |   |   |   
 |Week 10|||||
-| 10/23 | M | Locomotion on Land  | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] |   |   
+| 10/23 | M | Locomotion on Land \[[html](posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\] \[[discussion](discussions/Discussion-Week9-biomechanics&locomotion.pdf)\] | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] |   |   
 |   | W | Locomotion in Fluids  |  | Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\] |   
-|   | F | Blood |  Rewrite Design 2 Due   |   |   
+|   | F | Blood |  Rewrite Design 2 Due \[[Due midnight](https://drive.google.com/drive/folders/10oulMK2dCvRGHsAzhqIwwDahHwYaApDi?usp=share_link)\] |   |   
 |Week 11|||||
 | 10/30 | M | Ventilation   |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] |   |  
 |   | W | Aquatic Respiration |   | Lab9: PC3-G-Toad Muscle  |   

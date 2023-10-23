@@ -1,0 +1,70 @@
+---
+title: "8\\. Biomechanics and Locomotion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Now we get to the fun stuff!"
+date: 2023-10-23
+format: 
+  html: default 
+  pdf: default
+categories: [module 8, week 10, biomaterials, biomechanics, locomotion, aquatic, terrestrial, aerial, muscles, skeletons ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday we will finish Muscle Discussion and wednesday move on to biomechanics and locomotion
+2. Lab this week is on \[[human EMG](../../labs/Lab8-human-emg/Lab8.qmd)\]! Pay attention to refining your prelab. 
+:::
+
+### Announcements/Reminders
+
+-  Due Monday Homework 4 \[[schedule](../../schedule.qmd)\]
+-  Design 2 Rewrite due Friday by midnight. \[[turn in](../../projects/design2-turnin.qmd)\]  
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+-  Getting to the end, folks! 
+
+### Week 10 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Alvin | Krystal   | Maisie  |  
+| 2 | Kirsten | Kailie  | Matthew |
+| 3 | Anna | Mayuka | Morgan |
+| 4 |  Christina  | Logan B | Garrett |  
+| 5 |  Sasha |  Logan M |  |
+| 6 |  Justin |  Richard |  Adry |
+
+
+
+## Monday
+ 
+- Finish Muscles Discussion \[[discussion](../../discussions/Discussion-Week8-muscle.pdf)\] \[[slide deck](../../powerpoints/8.MusclesI.pdf)\]
+
+## Wednesday
+
+- Begin Biomechanics and Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 1](../../powerpoints/9a.Biomechanics.pdf)\]
+
+## Friday 
+
+- Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
+
+
+# For Next Time
+
+- Homework 5 Muscles & Biomechanics due Monday 10/30 \[[schedule](../../schedule.qmd)\]
+- Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
