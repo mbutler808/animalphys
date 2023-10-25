@@ -197,11 +197,11 @@ Summary
 <li>Scroll through the recorded data and note the changes in activity in the raw biceps channel. Note also that placing weights on the hand gives rise to little or no activity in the triceps muscle. Select a small part of the “Biceps” activity and examine it in Zoom View. The raw EMG signal is composed of many up-and-down spikes (Figure&nbsp;5).</li>
 <li>Note the relationship between the “Biceps” channel and the “RMS Biceps” channel. The height of the RMS trace reflects the overall activity of the raw EMG signal and gives a simpler view of the muscle’s electrical activity. Note the changes in the RMS trace as books were added and removed.<br>
 </li>
-<li>Select data points from “RMS Biceps” when books were added. Enter these values in Table&nbsp;1. The height of the trace correlates with the force produced by the muscle.</li>
+<li>Select data points from “RMS Biceps” when books were added. Enter these values in Table&nbsp;1. In this experiment, the height of the trace correlates with the force produced by the muscle. (why?)</li>
 </ol>
 <div id="tbl-book-force" class="anchored">
 <table class="table">
-<caption>Table&nbsp;1: Force produced by adding books</caption>
+<caption>Table&nbsp;1: Electrical activity produced by adding books</caption>
 <thead>
 <tr class="header">
 <th>N books</th>
@@ -250,7 +250,7 @@ Summary
 </ol>
 <div id="tbl-coactivation" class="anchored">
 <table class="table">
-<caption>Table&nbsp;2: Force produced during coactivation</caption>
+<caption>Table&nbsp;2: Electrical activity produced during coactivation</caption>
 <thead>
 <tr class="header">
 <th>Muscle contracting</th>
@@ -2634,7 +2634,7 @@ After today, you should know how to:
 
  ]]></description>
   <guid>https://mbutler808.github.io/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Mon, 23 Oct 2023 20:20:15 GMT</pubDate>
+  <pubDate>Wed, 25 Oct 2023 01:57:03 GMT</pubDate>
 </item>
 </channel>
 </rss>

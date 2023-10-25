@@ -142,7 +142,7 @@ We will explore voluntary muscle contractions with increasing demand, and how ac
 
 1. Scroll through the recorded data and note the changes in activity in the raw biceps channel.  Note also that placing weights on the hand gives rise to little or no activity in the triceps muscle.  Select a small part of the “Biceps” activity and examine it in Zoom View. The raw EMG signal is composed of many up-and-down spikes (@fig-emg).
 2. Note the relationship between the “Biceps” channel and the “RMS Biceps” channel.  The height of the RMS trace reflects the overall activity of the raw EMG signal and gives a simpler view of the muscle’s electrical activity.  Note the changes in the RMS trace as books were added and removed.  
-3. Select data points from “RMS Biceps” when books were added.  Enter these values in @tbl-book-force.  The height of the trace correlates with the force produced by the muscle.
+3. Select data points from “RMS Biceps” when books were added.  Enter these values in @tbl-book-force.  In this experiment, the height of the trace correlates with the force produced by the muscle. (why?)
 
 | N books | RMS biceps amplitude (mV.s)  |
 | ----  | ----  | 
@@ -151,7 +151,7 @@ We will explore voluntary muscle contractions with increasing demand, and how ac
 | 3 | |       
 | 4 | |     
 
-: Force produced by adding books {#tbl-book-force}
+: Electrical activity produced by adding books {#tbl-book-force}
 
 # Excercise 2: Alternating activity and coactivation
 
@@ -174,7 +174,7 @@ We will examine the activity of antagonist muscles and the phenomenon of coactiv
 | biceps  | | 
 | triceps | |   
 
-: Force produced during coactivation {#tbl-coactivation}
+: Electrical activity produced during coactivation {#tbl-coactivation}
 
 # Additional Exercises
 
