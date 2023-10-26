@@ -138,7 +138,7 @@ We will explore voluntary muscle contractions with increasing demand, and how ac
 
 ![Burst of EMG activity in biceps muscle while supporting a weight, along with the RMS activity.](../../images/lab8-rms-EMG.png){#fig-rms}
 
-## Analysis: Change in contractile force
+## Analysis: Change in contractile activity
 
 1. Scroll through the recorded data and note the changes in activity in the raw biceps channel.  Note also that placing weights on the hand gives rise to little or no activity in the triceps muscle.  Select a small part of the “Biceps” activity and examine it in Zoom View. The raw EMG signal is composed of many up-and-down spikes (@fig-emg).
 2. Note the relationship between the “Biceps” channel and the “RMS Biceps” channel.  The height of the RMS trace reflects the overall activity of the raw EMG signal and gives a simpler view of the muscle’s electrical activity.  Note the changes in the RMS trace as books were added and removed.  
@@ -198,6 +198,6 @@ Below is a list of additional exercises to do.  Pick several of these (at least 
 
 - This will be a group lab report. 
 - Please divide the work of writing the report __by experiment__, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections. 
-- Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion.
+- Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion. In the discussion circle back to the hypothesis and really try to interpret your results in light of muscle physiology mechanisms.
 - Please remember to include respective contributions. 
 
