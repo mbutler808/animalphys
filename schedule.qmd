@@ -36,10 +36,10 @@ format:
 |   | F | Design 1 chat |   |     
 |Week 5|||||
 | 9/18  | M | Sustained Metabolic Scope Paper \[[discussion](discussions/Discussion-Week4-metabolic-ceiling.pdf)\] \[[Hammond and Diamond 1997](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\],  \[[optional: Peterson et al. 1990](https://drive.google.com/drive/u/1/folders/1psPVIMIJVUuySxp9MHSQxxAhlvy-O9kK)\] |  |   |   
-| | W | Feeding  \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
+| | W | Feeding  \[[html](posts/2023-09-18-feeding/feeding.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]|  | Lab5: PC1-IWS-Toad Heart \[[overview](labs/Lab5-toad-heart/Lab5.qmd)\]|   
 |   | F | Design 1 workshop - bring your draft |   |   |   
 |Week 6|||||
-| 9/25  | M | Digestion  \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding&digestion.pdf)\]| Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
+| 9/25  | M | Digestion  \[[html](posts/2023-09-25-digestion/digestion.qmd)\] \[[discussion](discussions/Discussion-Week5-feeding-digestion.pdf)\]| Design 1 Due \[[assignment](projects/design1.qmd)\] \[[pdf](projects/1.MetabolismTempDesign1.pdf)\] \[[turn in](projects/design1-turnin.qmd)\]   | 
 | | W | Specialized Digestive Systems  |  Peer Critique 1 \[[turn in](projects/design1-turnin.qmd)\] | Design Critique Session   |   
 |   | F | Max Size Herbivores Paper Claus 2003   | |   |   
 |Week 7|||||
@@ -55,16 +55,16 @@ format:
 | | W | Biomechanics  | Peer Critique 2 |  Design Presentations  |   
 |   | F | Biomechanics  |   |   |   
 |Week 10|||||
-| 10/23 | M | Locomotion on Land \[[html](posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\] \[[discussion](discussions/Discussion-Week9-biomechanics&locomotion.pdf)\] | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] |   |   
+| 10/23 | M | Locomotion on Land \[[html](posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\] \[[discussion](discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] | PS4: Neurons \[[pdf](homework/HW4neurons.pdf)\] |   |   
 |   | W | Locomotion in Fluids  |  | Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\] |   
 |   | F | Blood |  Rewrite Design 2 Due \[[Due midnight](https://drive.google.com/drive/folders/10oulMK2dCvRGHsAzhqIwwDahHwYaApDi?usp=share_link)\] |   |   
 |Week 11|||||
 | 10/30 | M | Ventilation   |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] |   |  
-|   | W | Aquatic Respiration |   | Lab9: PC3-G-Toad Muscle  |   
+|   | W | Aquatic Respiration |   | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |   
 |   | F | Aerial Respiration  |   |   |   
 |Week 12|||||
 | 11/6  | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  PS6: Respiration |   |   
-|  | W | Osmoregulation  |   | Lab10:PC1-I-Toad Muscle Independent |   
+|  | W | Osmoregulation  |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]|   
 |   | F | Veterans Day Holiday  |   |   |   
 |Week 13|||||
 | 11/13 | M | Excretion | Design 3 Resipration  |   |   

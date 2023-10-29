@@ -1,0 +1,57 @@
+---
+title: "Labs 9 and 10: Vertebrate Skeletal Muscle"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "The physiology of in situ vertebrate muscle"
+date: 2023-10-30
+toc: true
+format: 
+  html: default
+  pdf: default
+categories: [week 9, week 10, labs, muscle, in situ, force, stretch, recruitment, twitch, tetanus, temperature]
+---
+
+# Before Lab
+
+The first week will be a group lab on toad muscle. You should develop a hypothesis that you will test the following week for your __independent lab__. 
+
+:::{.callout-note}
+# Prepare for lab by:
+- Read the lab manual for this weekʻs experiment \[[Lab 9/10](Lab9-10-toad-muscle-protocol.pdf)\]   
+- Outline the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook. **Summarize** the important points for this experiment.
+- Draft hypotheses for each experiment
+- Time permitting, outline (write a topic setence and bullet point any supporting points that come to mind):
+  + Umbrella idea
+  + Mechanism 1
+  + Mechanism 2 
+  + ...
+  + end with a paragraph of your hypotheses 
+- For the __methods__, outline:
+  + subjects
+  + equiptment 
+  + experimental treatments (be sure to note what __variables__ are changing) and controls or comparisons
+  + analysis
+- Do Quiz on Laulima (open 24 hrs before lab) for lab 9. No quiz for lab 10.
+- Please bring a laptop with you to lab, if possible, to analyze your experimental results.
+- __Draft hypotheses for your independent lab__ (next week Lab 10). Get approval from your TA during lab 9.
+- __For lab 10__, you will help your group members collect their data, but you will _design, execute, and write up your own independent lab report_.  
+:::
+
+
+## In Lab: 
+
+- Lab 9 manual \[[pdf](Lab9-10-toad-muscle-protocol.pdf)\] . Record data in your lab notebook. 
+- You should have plenty of time to complete the data collection and your figures during lab.  
+- This will be a Group Lab. Begin planning with your partners as you work. 
+- Start an outline with your lab partners and start outlining your discussion points, and the rest of the report. Use your time wisely to brainstorm as you work.   
+
+## After Lab: 
+
+- Group lab report due next week. See the guidance at the end of the manual \[[pdf](Lab9-10-toad-muscle-protocol.pdf)\]  
+- Always follow the content guidelines: \[[grading guidelines](../../labs-misc/handouts/Revised_Zool430L_lab_report_guidelines.pdf)\] \[[old style](../../labs-misc/handouts/Zool430lab_report_guidelines.pdf)\]
+- It is a good idea to divide up the work of writing the lab __by experiment__. That way, _each person writes a portion of the intro, methods, results, and discussion for their __hypothesis___. 
+- Work out your timeline with your lab partners during lab (and plan a face-to-face meet up ___so that everyone has a chance to comment and edit___ before the lab is submitted. 
+
