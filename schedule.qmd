@@ -59,13 +59,13 @@ format:
 |   | W | Locomotion in Fluids  |  | Lab8: PC2-G-Human Muscle \[[overview](labs/Lab8-human-emg/Lab8.qmd)\] |   
 |   | F | Blood |  Rewrite Design 2 Due \[[Due midnight](https://drive.google.com/drive/folders/10oulMK2dCvRGHsAzhqIwwDahHwYaApDi?usp=share_link)\] |   |   
 |Week 11|||||
-| 10/30 | M | Biomechanics and Locomotion   |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] |   |  
+| 10/30 | M | Biomechanics and Locomotion  \[[html](posts/2023-10-30-blood-respiration/blood-respiration.qmd)\] |  PS5: Muscles & Biomech \[[pdf](homework/HW5muscles-biomechanics.pdf)\] |   |  
 |   | W | Finish Locomotion |   | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |   
 |   | F | Blood and Respiratory Media  |   |   |   
 |Week 12|||||
 | 11/6  | M | Aquatic Respiration |   |   |   
 |  | W | Aerial Respiration  |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]|   
-|   | F | Veterans Day Holiday  |  PS6: Respiration \[[pdf](homework/HW6respirationx.pdf)\] |   |   
+|   | F | Veterans Day Holiday  |  PS6: Respiration \[[pdf](homework/HW6respiration.pdf)\] |   |   
 |Week 13|||||
 | 11/13 | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |   |   |   
 |   | W | Osmoregulation |  | Lab 11: PC1-G-Human EEG  |   

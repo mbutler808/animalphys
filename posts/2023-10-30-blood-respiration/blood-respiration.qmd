@@ -29,7 +29,7 @@ categories: [module 9, week 11, blood, respiratory media, aquatic, terrestrial, 
 ### Announcements/Reminders
 
 -  Due Monday Homework 5 \[[schedule](../../schedule.qmd)\]
-- Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
+-  Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
 -  Do discussion TEAMMATES eval, released each Friday, due by Monday.
 -  Getting to the end, folks! 
 
