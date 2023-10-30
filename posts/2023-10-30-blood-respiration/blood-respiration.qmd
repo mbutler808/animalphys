@@ -1,0 +1,72 @@
+---
+title: "9\\. Locomotion - Blood and Respiratory Media"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Now we get to move it move it!"
+date: 2023-10-30
+format: 
+  html: default 
+  pdf: default
+categories: [module 9, week 11, blood, respiratory media, aquatic, terrestrial, aerial ]
+---
+
+# Pre-class materials 
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. We did get a bit behind, so Monday and Wednesday we will finish \[[locomotion](../2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd)\]
+2. Wednesday and Friday we will move on to blood and respiratory media 
+3. Lab this week is on \[[toad muscle](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! Pay attention to refining your prelab. 
+4. Think hard about a __hypothesis for your independent toad muscle__ lab next week. 
+:::
+
+### Announcements/Reminders
+
+-  Due Monday Homework 5 \[[schedule](../../schedule.qmd)\]
+- Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+-  Getting to the end, folks! 
+
+### Week 11 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Justin | Kirsten   | Mayuka  |  
+| 2 | Logan M | Richard  | Christina |
+| 3 | Matthew | Morgan | Adry |
+| 4 |  Sasha  | Logan B | Alvin |  
+| 5 |  Anna |  Krystal | Garrett |
+| 6 |  Maisie |  Kylie |   |
+
+
+
+## Monday and Wednesday 
+ 
+- Finish Biomechanics and Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 1](../../powerpoints/9a.Biomechanics.pdf)\]
+
+- Terrestrial Locomotion \[[discussion](../../discussions/Discussion-Week9-biomechanics-locomotion.pdf)\] \[[slide deck 2](../../powerpoints/9b.TerrestrialLocomotion.pdf)\]
+
+{{< video https://youtu.be/YlyaASmy-1E >}}
+
+## Friday 
+
+{{< video https://youtu.be/t0Vf-RJleCE >}}
+
+- Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventillation.pdf)\]
+
+# For Next Time
+
+- Homework 6 Respiration Friday 11/10 \[[schedule](../../schedule.qmd)\]
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mbutler808.github.io/schedule.html</loc>
-    <lastmod>2023-10-29T04:59:49.868Z</lastmod>
+    <lastmod>2023-10-30T20:17:57.426Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/labs-misc/Lab1-discussion.html</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://mbutler808.github.io/posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.html</loc>
-    <lastmod>2023-10-29T04:56:36.548Z</lastmod>
+    <lastmod>2023-10-30T20:16:15.577Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/posts/2023-10-16-muscles2/muscles2.html</loc>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://mbutler808.github.io/lectures.html</loc>
-    <lastmod>2023-10-29T04:59:04.657Z</lastmod>
+    <lastmod>2023-10-30T20:22:11.186Z</lastmod>
   </url>
   <url>
     <loc>https://mbutler808.github.io/labs-misc/lab-notebook.html</loc>
@@ -171,5 +171,9 @@
   <url>
     <loc>https://mbutler808.github.io/resources.html</loc>
     <lastmod>2023-10-29T04:59:40.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mbutler808.github.io/posts/2023-10-30-blood-respiration/blood-respiration.html</loc>
+    <lastmod>2023-10-30T20:21:59.135Z</lastmod>
   </url>
 </urlset>
