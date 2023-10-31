@@ -7,6 +7,7 @@ author:
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "The physiology of in situ vertebrate muscle"
 date: 2023-10-30
+image: ../../images/lab8-muscle.png
 toc: true
 format: 
   html: default

@@ -9,7 +9,7 @@
 <link>https://mbutler808.github.io/lectures.html</link>
 <atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
-<generator>quarto-1.2.313</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Mon, 30 Oct 2023 10:00:00 GMT</lastBuildDate>
 <item>
   <title>9. Locomotion - Blood and Respiratory Media</title>
@@ -21,12 +21,12 @@
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -131,11 +131,11 @@ Read ahead
 <li>Conservation of energy in running, walking jumping</li>
 </ul></li>
 </ul>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </section>
 <section id="friday" class="level2">
 <h2 class="anchored" data-anchor-id="friday">Friday</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/t0Vf-RJleCE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/t0Vf-RJleCE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <ul>
 <li>Blood and Respiratory Media [<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion</a>] [<a href="../../powerpoints/10a.Blood.pdf">slide deck</a>] [<a href="../../powerpoints/10b.Ventillation.pdf">slide deck2</a>]</li>
 </ul>
@@ -146,12 +146,12 @@ Read ahead
 <ul>
 <li>Homework 6 Respiration Friday 11/10 [<a href="../../schedule.html">schedule</a>]</li>
 </ul>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Reminders and materials
 </div>
 </div>
@@ -184,12 +184,12 @@ Reminders and materials
 
 <section id="pre-class-materials" class="level1">
 <h1>Pre-class materials</h1>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Read ahead
 </div>
 </div>
@@ -294,12 +294,12 @@ Read ahead
 <li>Homework 5 Muscles &amp; Biomechanics due Monday 10/30 [<a href="../../schedule.html">schedule</a>]</li>
 <li>Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)</li>
 </ul>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Reminders and materials
 </div>
 </div>
@@ -1685,7 +1685,6 @@ Reminders and materials
   <category>DMR</category>
   <guid>https://mbutler808.github.io/posts/2023-08-28-Metabolism/index.html</guid>
   <pubDate>Mon, 28 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/LiveFastDieYoung.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
   <title>Library Day</title>
@@ -1808,7 +1807,6 @@ All the best online sources
   <category>design background</category>
   <guid>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</guid>
   <pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://manoa.hawaii.edu/library/wp-content/uploads/floorplans/Hamilton-3rd-Floor.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Colossal Whale Discussion</title>
@@ -2041,7 +2039,6 @@ All the best online sources
   <category>morphology</category>
   <guid>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</guid>
   <pubDate>Wed, 23 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title></title>
@@ -2053,7 +2050,6 @@ All the best online sources
   <category>introduction</category>
   <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
   <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
-  <media:content url="https://mbutler808.github.io/images/Edaphosaurus_boanerges.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
