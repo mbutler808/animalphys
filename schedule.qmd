@@ -63,17 +63,17 @@ format:
 |   | W | Finish Locomotion |   | Lab9: PC3-G-Toad Muscle \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\] |   
 |   | F | Blood and Respiratory Media  |   |   |   
 |Week 12|||||
-| 11/6  | M | Aquatic Respiration |   |   |   
+| 11/6  | M | Aquatic Respiration \[[html](posts/2023-11-06-ventilation/ventilation.qmd)\] |   |   |   
 |  | W | Aerial Respiration  |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]|   
-|   | F | Veterans Day Holiday  |  PS6: Respiration \[[pdf](homework/HW6respiration.pdf)\] |   |   
+|   | F | __Veterans Day Holiday__  |   |   |   
 |Week 13|||||
-| 11/13 | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |   |   |   
+| 11/13 | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  |   |   
 |   | W | Osmoregulation |  | Lab 11: PC1-G-Human EEG  |   
 |   | F | Excretion  |  Design 3 Resipration, Peer Critique 3 |   |   
 |Week 14|||||
 | 11/20 | M | Reproduction  |  |   |   
-|   | W | Thanksgiving Holiday  | PS7: Osmoregulation | No Labs |   
-|   | F | Thanksgiving Holiday  |   |   |   
+|   | W | __Thanksgiving Holiday__  | PS7: Osmoregulation | No Labs |   
+|   | F | __Thanksgiving Holiday__  |   |   |   
 |Week 15|||||
 | 11/27 | M | Immune System | Design 3 Rewrite  |   |   
 |   | W | Immune System |  | Lab 12: PC2-G-Human Renal  |   

@@ -1,0 +1,114 @@
+---
+title: "10\\. Respiration"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Oh Oxygen - Picking it up and dropping it off"
+date: 2023-11-06
+format: 
+  html: default 
+  pdf: default
+categories: [module 10, week 12, ventilation, lung volumes, flow, respiratory media, aquatic respiration, aerial respiration]
+---
+
+# Pre-class materials 
+
+::: callout-important
+## Important Homework announcements
+
+(copied from Discord) _Thank you for your hard work on the homework assignments._ Thank you especially to those who followed the guidelines. However, despite repeated reminders, some folks are still not complying with the submissions instructions, resulting in work that is not legible, too small to read, in multiple files, and not written out. This makes it very difficult to grade. Therefore:   
+
+-  Homework will NO LONGER be accepted in Laulima.
+-  Homework will be due IN CLASS __at the start of class on the due date__.
+-  MUST be __written by hand on paper using pencil or pen.__  
+-  No tablet-generated submissions will be accepted.
+-  PLEASE make it easy to grade by writing legibly and large enough to see. You know who you are - because Iʻve asked you before. 
+:::
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday and Wednesday we will cover aerial and aquatic respiration. 
+2. Watch both podcasts, look over the reading assignments, and the handouts. These will be very helpful for the homework and the design project. Please start your homework early, the design project will come up quick.
+3. Look over the homework and start what you can.  Think of questions to ask in class (no class on Friday).
+4. Have fun doing your independent lab this week! \[[you can refer to the toad muscle manual](../../labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]! 
+    - No graded prelab or quiz. 
+    - Just prepare for your brilliant experiment (and write notes to help yourself)! 
+    - _Make sure you are clear on the anatomy for the muscles you are going after._ Do a little literature search if you need more information
+    - As always, feel free to ask your TA for feedback. 
+:::
+
+### Announcements/Reminders
+
+-  Friday Nov. 10 is Veterans Day. Thanks to all our veterans for their service!
+-  Due Next Week Monday -- Homework 5 \[[schedule](../../schedule.qmd)\] 
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 12 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Adry | Matthew | Logan M |  
+| 2 | Alvin | Maisie | Anna |
+| 3 | Morgan | Justin | Sasha |
+| 4 |  Kylie | Mayuka | Christina |  
+| 5 |  Logan B | Garrett | Kirsten |
+| 6 |  Richard |  Krystal |   |
+
+
+
+## Monday - Gas Exchange in Air vs Water and Aquatic Respiration
+ 
+- __Reading assignment:__ Withers Aquatic respiration: skim 565-72, read 573-4, 585-99, supplement
+12-2. ALTERNATIVELY, read HWA chapter 22 + HWA 586-587 (countercurr) + HWA 590-594 (fish).
+- \[[discussion pg 2-3](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+- We will focus on pages 2-3. I will cover question 1, we will discuss questions 2-5. 
+- __Topics:__
+  - Air vs water (Q1)
+  - Partial pressures of gasses and pO2 at sea level - the starting point. 
+    + Influences of relative humidity
+    + Altitude (total pressure) 
+    + Henryʻs Law - dissolved O2 in water
+  - Diffusion (Fick’s Law) vs. Bulk Flow 
+    + How to increase rate of ventilation 
+  - Flow patterns: Countercurrent vs. Concurrent
+  - Fish Gills 
+    + Ventilatory pumps in fish (breathing patterns) 
+
+{{< video https://youtu.be/2GPfu8ebZac >}}
+
+## Wednesday - Aerial Respiration
+
+- __Reading assignment:__ Withers pp. 609-631 OR HWA chapter 23 + Withers 626-632, skip invertebrates
+- \[[discussion pg 3-4](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+- __Aerial Respiration Topics:__
+  - Air flow patterns of vertebrates
+  - Lung Volumes 
+    + Lung Volume (VL or VT)
+    + tidal volume (Vt)
+    + Dead space volume (VD)
+    + Alveolar ventilation volume (VA or Va)
+    + Alveolar Minute Volume (VAE)
+  - Breath Rate (BR)
+  - Oxygen Extraction and Pulmonary Diffusing Capacity
+
+
+Respiration the Movie 
+{{< video https://youtu.be/clyu9h810n4 >}}
+
+## Friday - Happy Veterans Day!
+
+# For Next Time
+
+- Homework 6 Respiration due Monday 11/13 \[[schedule](../../schedule.qmd)\] Homework is due on paper, __at the start of class.__ 
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+
