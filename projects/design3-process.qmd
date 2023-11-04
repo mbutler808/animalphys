@@ -1,0 +1,82 @@
+---
+title: "Design 3 Assignment"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Hope this helps!"
+date: 2023-11-06
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 3, metabolism, respiration, circulation, activity, blood, heart, lungs, gills ]
+---
+
+## Design 3 Assignment
+
+Great job on Design 2! Switch roles again – whomever was first author on Design 2 will now be second author on Design 3 and vice versa.
+
+Now that you know what your animalʻs energy budget is, and have some idea of its activities, how did it obtain enough oxygen? You have a choice here. You may model its respiratory system through ventilation (the lungs or gills) or you can choose to model its circulatory system (blood and oxygen delivery).  Then you can model how it would have adjusted to exercise. 
+
+- Due __November 17 - Friday by 11:59__
+
+### Design 3 Assignment option 1: [Respiration](design3.qmd)
+### Design 3 Assignment option 2: [Circulation](design3a.qmd)
+
+## Suggestions and Tips
+
+Iʻm hoping design 3 is your best effort so far.  Iʻve said all this before, but hereʻs my suggested process to make that happen:
+
+### Get help early! 
+
+Start gathering your information, and take a first pass at making progress. Figure out whatʻs going to be hard, and come see me for help with anything you canʻt find or figure out. 
+<https://calendly.com/mbutler808/office-hours>
+
+### 1. Lots of resources in the Shared Google Drive 
+
+- \[[Helpful index of papers](design3-resources.qmd)\] - Check it out!
+- Papers are located in the Digestion folder of the \[[Shared Google Drive](https://drive.google.com/drive/u/0/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk)\]
+
+### 2. Don't forget to include page numbers!
+
+### 3. Process
+
+1.  Review the assignment sheet ([respiration](design3.qmd) or [circulation](design3a.qmd)) and read the relevant sections of Withers (1992) to refresh your memory or gain anything you missed the first time around. Armed with those basics, write solid background into your __Methods__ and bullet point your __Introduction__. Withers does a good job of reviewing particulars of each taxon in an overview after covering the basics. 
+
+2.  Brainstorm with your partner to make sure you both really get it. Brainstorm to identify some interesting scenarios to model. Come up with __Your Question__.
+
+3.  Search the literature (look in Withers too) for specific information you need to tailor your model to your organism for its scenario, or for its morphology, or any other unique features of environment, etc. The library guide may be helpful. Bird people should definitely look at Sturkieʻs Avian Physiology. 
+
+4.  _Crank out your model_. Write it on paper. With units :D. Make sure they cancel properly.  Write it out again, make sure itʻs clean without any errors. 
+
+5.  Write out your results and organize your tables to show  the answer to __Your Question__. Make it pop. Tell us what happened.
+
+6.  Go back and update your __Methods__ - make sure you are explicit about the __scenario__ youʻre testing and what values/parameters you modified to test it. (update your hypothesis if needed to keep it aligned with what youʻre doing here)
+
+7.  Stare hard at your numbers and write your __Discussion__, starting with interpretation of your direct __Results__.  Broaden out and put your results in context of other great background youʻve come across, or additional topics like what if your animal went further? interaction with other physiological systems, whether it applies to other animals? Which or which not? etc. you could go on and on. (but please donʻt! :)
+
+8.  Circle back and write your __Introduction__.  Your goal is to make your hypothesis pop. Remember you are writing for physiologists, so you don't have to explain the basics. Focus on developing the problem for your animal. Hit the main elements that you will focus on in your analysis. Just enough so we can understand and appreciate your hypothesis. 
+
+9.  Print it out. 
+
+10.  __Edit the entire paper__, starting with the introduction. Stare hard at the essential topics in your analysis and make sure youʻve hit all the important ideas to prepare your reader. Move extra juicy details to discussion or a better place. Eliminate repetition. Foreshadow the analysis. End with strong __hypothesis__. 
+
+11.  Cross out all repetition. Cut. Be brutal.
+
+12.  Read it over to make sure everything is well connected. Itʻs all about the ideas, baby! Command them.
+
+13.  Write the __Abstract__, following the Nature Summary Paragraph example we will go over in lab.
+
+14.  _All pau!_
+
+### 4. Dead Space 
+
+Depending on your lung-breathing animal, you may have trouble finding dead space volume.  Sometimes dead space is called "tracheal volume"  so add that to your search terms in addition to "dead space volume". 
+
+Also, I found a bunch of good info by searching for "PO$_2$ lizard exercise"  etc. This information is somethimes found in the exercise physiology literature.
+
+For those of you working on dinosaurs and etc., you should be able to get V$_L$ and V$_t$ for lizards with scaling equations in Withers (1992), but to get the dead space you may have get creative with your modeling. For example, by finding V$_d$ and V$_L$ in some animal (say a sea turtle), then look at the relationship betwen these two parameters in living animals from Withers (1992, e.g. the ratio of V$_d$ to V$_L$), and apply the ratio to your animal for its V$_d$.  This method at least is an estimate based on the best information we have. 
+
+Also if your animal had an unusually long or wide neck, you may want to test your "lizard" or "turtle" model, etc. against a customized  dead space model that takes that unusual anatomy into account (come up with a geometric argument to customize your dead space).  Just ignore if this doesnʻt apply to you. But feel free to tailor your model to fit your ideas.     

@@ -69,7 +69,7 @@ format:
 |Week 13|||||
 | 11/13 | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  |   |   
 |   | W | Osmoregulation |  | Lab 11: PC1-G-Human EEG  |   
-|   | F | Excretion  |  Design 3 Resipration, Peer Critique 3 |   |   
+|   | F | Excretion  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] [turn in - coming soon]|   |   
 |Week 14|||||
 | 11/20 | M | Reproduction  |  |   |   
 |   | W | __Thanksgiving Holiday__  | PS7: Osmoregulation | No Labs |   

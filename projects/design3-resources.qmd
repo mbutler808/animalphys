@@ -1,0 +1,92 @@
+---
+title: "Respiration Papers (Directory)"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Directory of helpful resources for your Design 3"
+date: 2023-11-06
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 3, respiration, ventilation, circulation ]
+---
+
+Copies of these papers are located in the __shared google drive__. > RespirationPapers <https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT>
+
+### Important resources
+
+__Weibel Taylor Hoppeler 1991__. Symmorphosis: A testable hypothesis of structure-function relationship **EVERYONE READ**
+ 
+### Helpful sources  
+
+__Alhberg Clack 2006__. A firm step from water to land (early tetrapod evol)
+
+__Bennett 1973__. Ventilation in lizards: rest and activity
+
+__Benzo, Sturke 1986__. Sturkeyʻs avian physiology – **Essential for anyone attempting a Bird model** Check out from library and See me for help
+
+__Berger, Hart, and Roy 1970__. Respiration, oxygen consumption and heart rate in some birds during rest and exercise
+
+__Brakenberry, Avery, and Gleeson 1981__. Respiration in exercising fowl
+
+__Brackenberry, Gleeson, and Avery 1982__. Control of ventilation in running birds: effects of hypoxia, hyperoxia, and CO2
+
+__Brackenberry, Darby, and El-Sayed 1989__. Respiratory function in exercising fowl following occlusion of the thoracic air sacs
+
+__Butler 1991__. (not me!) Exercise in birds
+
+__Calder Schmidt-Neilsen 1966__. Evaporative cooling and respiratory alkalosis in the pigeon
+
+__Carroll 2001__. Early tetrapod evolution.
+
+__Crawford Kampe 1971__. Lizard Sauromalus obesus physiological responses to temperature
+
+__Dudley 1998__. Atmospheric oxygen, giant paleozoic insects and the evolution of aerial locomotor performance
+
+__Farmer and Carrier 2000__. Respiration and gas exchange during recovery from exercise in the American alligator
+
+__Fortuna and Saibene 1991__. Mechanics of breathing in horses at rest and during exercise
+
+__Frappell et al 2001__. Scaling of respiratory variables in birds
+
+__Gans 1970__. Respiration in early tetrapods: The Frog is a Red Herring
+
+__Glass and Wood 1983__. Respiration in reptiles
+
+__Gleeson and Bennett 1985__. Respiratory and cardiovascular adjustments to exercise in reptiles
+
+__Hinds and Calder 1971__. Tracheal Dead Space in the Respiration of Birds
+
+__Hoppeler and Weibel 1998__. Limits for oxygen and substrate transport in mammals ** more about symmorphosis **
+
+__Husczuk Et al 1990__. Ventilatory control during exercise in calves with artificial hearts
+
+__Jones Longworth Lindholm Conley Karas Kayar Taylor 1989__. O2 transport in large mammals (horse vs steer)
+
+__Martin Hutchinson__. 1979 Ventilation in two amphibians
+
+__Milsom 1984__. Breathing in gecko
+
+__Schaeffer 1965__. Rhipsidian (fish) - amphibian transition
+
+__Pierson 2009__. The cardiopulmonary physiology of dinosaurs
+
+__Shelton Boutilier 1982__. Apnea in amphibians and reptiles
+
+__Schmidt-Nielsen, Kanwiyher, Lasiewski, Cohn, Bretz 1969__. Temperature regulation and respiration in the Ostrich
+
+__Stahl 1967__. Scaling of Respiratory Variables in Mammals
+
+__Wang Carrier Hicks 1997__. Ventilation and gas exchange in lizards during treadmill exercise
+
+__Wang et al 2001__. respiratory consequences of feeding in amphibians and reptiles
+
+__Weibel 1987__. Scaling of structural and functional variables in the respiratory system (mammals)
+
+__Withers 1992__. p 627-631: pages from your text with a couple of highlighted comments inserted by me.
+
+\[[Back to the Design 3 Assignment](design3-process.qmd)\]   
+\[[Shared google drive](https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT)\]

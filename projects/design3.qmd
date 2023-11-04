@@ -1,0 +1,46 @@
+---
+title: "Design 3 - option 1 - Respiration"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Lungs and Gills edition: How does your animal obtain enough oxygen to support its activities?"
+date: 2023-11-06
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 3, oxygen, metabolism, DMR, ventilation, respiration, activity, lungs, gills, diffusion, convection ]
+---
+
+# Suggestions for Respiration
+
+_You have a choice in Design 3 projects. You may choose to model \[[Circulation](design3-circulation.qmd)\] instead of Respiration, if you like._
+
+__NOTE1:__ See me for help early if you need assistance finding the data for the last two paragraphs of the assignment. 
+
+__NOTE2:__ These are just suggestions for creating an interesting design project. You may pick and choose or go in other directions if you wish. Just make sure you put in a similar amount of effort and find interesting results.
+
+Draw and describe what the respiratory system of your animal might have looked like.  Describe how ventilation might have been accomplished (the mechanics of the pumps that moved air in and out of the lungs or water over the gills).
+
+If your animal had lungs and breathed air, use allometric relationships from Withers (1992, table 13-8) to calculate lung volume (V$_L$), tidal volume (V$_t$), dead space volume (V$_d$), and alveolar ventilation volume (V$_A$). I will also post additional articles under “Supplementary Readings”. If your animal had gills, draw the counter-current gas exchange system of your animal (giving water and capillary pO$_2$).
+
+Calculate pO$_{2ex}$.  Calculate FO$_{2in}$ and FO$_{2ex}$.  What might the oxygen extraction efficiency of your animal have been?
+
+Calculate VO$_2$ at RMR (in liters O$_2$/min).  Calculate V$_E$ (minute volume) at rest in liters air/minute (or liters water/min).  If you have an estimate for tidal volume, calculate breathing rate.  If you can estimate breathing rate, calculate tidal volume.
+
+Redo these calculations for maximum exercise (MMR).  How much have the variables changed from rest, relative to the increase in metabolic rate?  (For example, does breathing rate increase by 10 times if the metabolic rate goes up by 10 times?)  
+
+For air-breathing animals:  Calculate the oxygen flux (i.e., VO$_2$) between the lung and the blood at RMR that would be predicted from average measured values of DLO2 (pulmonary diffusion capacity; Withers table 13-7) and (p$_A$O$_2$ – p$_c$O$_2$).  How does this compare with the required VO$_2$ of your animal?  Is it likely that your animal had a respiratory system that is typical for the group to which it belongs (e.g., a mammal or a reptile or a bird, etc.?)  Calculate the oxygen flux between the lung and the blood at MMR.  How does this compare with the required VO$_2$?  Describe  how oxygen flux between the lung and the blood increased between rest and maximal exercise.  What changes occurred to increase oxygen delivery?
+
+For water-breathing animals (with gills):  Use the equations for diffusion from water into capillary blood to calculate the surface area of the gills required to support the Maximum Metabolic Rate (MMR). Is this surface area reasonable?  Try to find a measured value for an animal similar to your animal from Withers (table 12-8) or the literature. See me for help if you can't find it.
+
+Be sure to check out the:
+ 
+- \[[Design 3 Process](design3-process.qmd)\] for helpful tips 
+- \[[Index of papers](resources-digestion.qmd)\] for helpful resources. Check it out!
+
+\[[pdf](3.Respiration.pdf)\] version of this sheet
+
+Withers, P.C. 1992. _Comparative Animal Physiology_, Saunders College Publishing
