@@ -69,7 +69,7 @@ categories: [module 9, week 11, blood, respiratory media, aquatic, terrestrial, 
 
 {{< video https://youtu.be/t0Vf-RJleCE >}}
 
-- Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventillation.pdf)\]
+- Blood and Respiratory Media \[[discussion](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck](../../powerpoints/10a.Blood.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
 
 # For Next Time
 
