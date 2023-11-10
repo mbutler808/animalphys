@@ -275,15 +275,15 @@ In this exercise, you will compare abundance of different wave frequencies in di
 
 2. With the subject seated comfortably, start the recording and drop a comment saying "begin hand movement control". As before during the eyes open/closed trials, the subject will open their eyes, not reading anything and holding very still. This time, have the subject gently move their hand as if they are writing/typing. Record for 30 seconds and drop a comment when done.
 
-2. Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says "begin handwritten copying". Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.
+3. Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says "begin handwritten copying". Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.
 
-3. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.
+4. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.
 
 5. Repeat steps 3 & 4 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase) using cursive handwriting and then typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
 
-7. For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
+6. For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
 
-6. For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
+7. For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
 
 8. Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.
 
