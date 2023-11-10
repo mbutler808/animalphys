@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Marguerite Butler">
+<meta name="dcterms.date" content="2023-10-07">
+<meta name="description" content="Exploring properties of vertebrate neurons and nerve conduction using the toad sciatic nerve, a motor neuron">
+
+<title>ZOOL430/430L Animal Physiology and Laboratory - Lab 7: Compound Action Potentials in the Toad Sciatic Nerve</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">ZOOL430/430L Animal Physiology and Laboratory</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-general-information" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">General Information</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-general-information">    
+        <li>
+    <a class="dropdown-item" href="../../syllabus.html">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../schedule.html">
+ <span class="dropdown-text">Schedule</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-course-materials" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Course Materials</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-course-materials">    
+        <li>
+    <a class="dropdown-item" href="../../lectures.html">
+ <span class="dropdown-text">Lectures</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../labs.html">
+ <span class="dropdown-text">Labs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../slides.html">
+ <span class="dropdown-text">Slides</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../projects.html">
+ <span class="dropdown-text">Projects</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources.html">
+ <span class="dropdown-text">Resources</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/mbutler808"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/mbutler808"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml"><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#acknowledgements" id="toc-acknowledgements" class="nav-link active" data-scroll-target="#acknowledgements">Acknowledgements</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a>
+  <ul class="collapse">
+  <li><a href="#what-you-will-do-in-the-laboratory" id="toc-what-you-will-do-in-the-laboratory" class="nav-link" data-scroll-target="#what-you-will-do-in-the-laboratory">What you will do in the laboratory</a></li>
+  <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
+  </ul></li>
+  <li><a href="#procedure" id="toc-procedure" class="nav-link" data-scroll-target="#procedure">Procedure</a>
+  <ul class="collapse">
+  <li><a href="#setup-and-calibration-of-equiptment" id="toc-setup-and-calibration-of-equiptment" class="nav-link" data-scroll-target="#setup-and-calibration-of-equiptment">Setup and calibration of equiptment</a></li>
+  <li><a href="#nerve-dissection-procedure" id="toc-nerve-dissection-procedure" class="nav-link" data-scroll-target="#nerve-dissection-procedure">Nerve dissection procedure</a></li>
+  </ul></li>
+  <li><a href="#exercise-1-finding-the-threshold-voltage-and-maximum-cap-amplitude" id="toc-exercise-1-finding-the-threshold-voltage-and-maximum-cap-amplitude" class="nav-link" data-scroll-target="#exercise-1-finding-the-threshold-voltage-and-maximum-cap-amplitude">Exercise 1: Finding the threshold voltage and maximum CAP amplitude</a>
+  <ul class="collapse">
+  <li><a href="#analysis-determination-of-threshold-voltage-and-maximum-cap-amplitude" id="toc-analysis-determination-of-threshold-voltage-and-maximum-cap-amplitude" class="nav-link" data-scroll-target="#analysis-determination-of-threshold-voltage-and-maximum-cap-amplitude">Analysis: Determination of threshold voltage and maximum CAP amplitude</a></li>
+  </ul></li>
+  <li><a href="#exercise-2-determination-of-the-refractory-period" id="toc-exercise-2-determination-of-the-refractory-period" class="nav-link" data-scroll-target="#exercise-2-determination-of-the-refractory-period">Exercise 2: Determination of the refractory period</a>
+  <ul class="collapse">
+  <li><a href="#analysis" id="toc-analysis" class="nav-link" data-scroll-target="#analysis">Analysis</a></li>
+  </ul></li>
+  <li><a href="#exercise-3-nerve-conduction-velocity-and-temperature-sensitivity" id="toc-exercise-3-nerve-conduction-velocity-and-temperature-sensitivity" class="nav-link" data-scroll-target="#exercise-3-nerve-conduction-velocity-and-temperature-sensitivity">Exercise 3: Nerve conduction velocity and temperature sensitivity</a>
+  <ul class="collapse">
+  <li><a href="#analysis-1" id="toc-analysis-1" class="nav-link" data-scroll-target="#analysis-1">Analysis</a></li>
+  </ul></li>
+  <li><a href="#exercise-4-bi-directionality-of-nerve-conduction" id="toc-exercise-4-bi-directionality-of-nerve-conduction" class="nav-link" data-scroll-target="#exercise-4-bi-directionality-of-nerve-conduction">Exercise 4: Bi-Directionality of Nerve Conduction</a>
+  <ul class="collapse">
+  <li><a href="#analysis-2" id="toc-analysis-2" class="nav-link" data-scroll-target="#analysis-2">Analysis</a></li>
+  </ul></li>
+  <li><a href="#exercise-5-stimulus-strength-duration-relationships" id="toc-exercise-5-stimulus-strength-duration-relationships" class="nav-link" data-scroll-target="#exercise-5-stimulus-strength-duration-relationships">Exercise 5: Stimulus Strength-Duration Relationships</a>
+  <ul class="collapse">
+  <li><a href="#analysis-3" id="toc-analysis-3" class="nav-link" data-scroll-target="#analysis-3">Analysis</a></li>
+  </ul></li>
+  <li><a href="#suggestions-for-the-results-section" id="toc-suggestions-for-the-results-section" class="nav-link" data-scroll-target="#suggestions-for-the-results-section">Suggestions for the Results Section</a></li>
+  <li><a href="#questions-for-thought" id="toc-questions-for-thought" class="nav-link" data-scroll-target="#questions-for-thought">Questions for Thought:</a></li>
+  <li><a href="#after-lab" id="toc-after-lab" class="nav-link" data-scroll-target="#after-lab">After Lab:</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lab 7: Compound Action Potentials in the Toad Sciatic Nerve</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">week 8</div>
+    <div class="quarto-category">labs</div>
+    <div class="quarto-category">nerve</div>
+    <div class="quarto-category">neuron</div>
+    <div class="quarto-category">signal propagation</div>
+    <div class="quarto-category">refractory period</div>
+    <div class="quarto-category">conduction velocity</div>
+    <div class="quarto-category">compound action potential</div>
+    <div class="quarto-category">action potential Q10</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Exploring properties of vertebrate neurons and nerve conduction using the toad sciatic nerve, a motor neuron
+  </div>
+</div>
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <a href="https://butlerlab.org">Marguerite Butler</a> 
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Life Sciences, University of Hawaii
+          </p>
+      </div>
+    </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 7, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="acknowledgements" class="level3">
+<h3 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h3>
+<p>Material for this lab was borrowed and adopted from</p>
+<ul>
+<li>Frog Nerve Compound Action Potentials Protocol. Written by Staff of ADInstruments, Dr.&nbsp;Duncan MacKenzie, and Dr.&nbsp;Valerie G. Kalter.</li>
+</ul>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Watch the Neurons and Signal Propagation [<a href="../../posts/2023-10-02-neurons">podcasts</a>].</li>
+<li>Read the lab manual below.<br>
+</li>
+<li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook.</li>
+<li>Do Quiz on Laulima (open 24 hrs before lab).</li>
+<li>Please bring a laptop with you to lab, if possible, to analyze your experimental results.</li>
+</ul>
+</div>
+</div>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Summary
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>This week, dissect the toadʻs sciatic nerve, one of the longest motor neurons. Stimulating the frogʻs sciatic nerve will fire a large number of individual nerve fibers (neurons). You will measure the aggregate electrical activity of the nerve known as compound action potentials (CAPs) to explore various properties of nerve function.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="background" class="level1 page-columns page-full">
+<h1>Background</h1>
+<p>The fundamental unit of the nervous system is the <strong>neuron</strong>. Neurons and other <strong>excitable cells</strong> produce <strong>action potentials</strong> when they receive electrical or chemical stimulation. The action potential begins an electrical signal reaches specialized voltage-sensitive membrane sodium (Na<span class="math inline">\(^+\)</span>) ion channels. When these voltages are above threshhold, these sodium channels open. The large increase in sodium permeability results in membrane depolarization (in other words, the opening of the channels results in Na<span class="math inline">\(^+\)</span> ions flooding inwards, changing the voltage across the membrane). This is followed by repolarization as the sodium permeability returns to its low baseline value and potassium (K<span class="math inline">\(^+\)</span>) ion permeability is transiently increased. Note that the actual numbers of ions moving during each action potential, however, are very small and cell ion concentrations are not altered measurably.</p>
+<p>Action potentials are “all-or-none” events. Once an action potential begins, it propagates down the length of the <strong>axon</strong>. When the action potential reaches the end of the axon, a <strong>neurotransmitter</strong> is typically released into the <strong>synapse</strong>. Measuring action potentials from single neurons requires highly specialized equipment. Instead, you will record <strong>compound action potentials</strong> (or <strong>CAP</strong>) from an isolated peripheral nerve, the frog sciatic nerve, which contains hundreds of axons (<a href="#fig-nerve-pizza">Figure&nbsp;1</a>).</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-nerve-pizza" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-nerve-pizza.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Vertebrate nerves bundles of many individual neurons. This is an idealized cross-section of a peripheral nerve, for example the sciatic nerve that runs from the spinal column to all of the muscles of the hind limb (a motor nerve).</figcaption><p></p>
+</figure>
+</div>
+</div></div><p>Peripheral nerves include <em>afferent</em> (sensory) nerves and <em>efferent</em> (motor and autonomic) nerves. The individual axons within the nerve vary in diameter and myelination. It is important to appreciate that <em>the threshold voltage required to produce an action potential in each axon reflects the <strong>diameter</strong> of the individual axon</em> – <strong>large diameter axons are stimulated at lower voltages than smaller diameter axons</strong>. The <strong>myelin sheath</strong> is composed of lipid bylayer (fatty substances) and acts as electrical insulation or membrane resistance, which will greatly increase the speed of electrical impulses. <em>Thus, variation in diameter and myelination will in turn influence excitability, threshold, and speed of conduction.</em></p>
+<p>Therefore, the nerve <strong>compound action potentials (CAPs) you will record at any stimulus voltage represent the summed “all or nothing” action potentials only from those axons that are excited at that voltage.</strong> As the stimulus voltage is increased, more and more axons will be excited until eventually all of the axons within the nerve are excited. Thus, the magnitude of the CAP will increase with increased stimulus strength. After that point (the maximal response), <strong>supramaximal</strong> stimuli will have no further effect on the magnitude of the CAP. Also, because axons of different diameters have different conduction velocities, as more and more axons are excited, the peaks of the CAP will often broaden in shape as the waveforms with slightly different timings are averaged together).</p>
+<p>Note that CAPs arise from <strong>extracellular</strong> stimulation of the nerve and are recorded by extracellular electrodes, and therefore it will not look like the classical pictures that you see of single nerve action potentials recorded using an <strong>intracellular</strong> electrode. Your experimental setup will be similar to that in <a href="#fig-nerve-biphasic">Figure&nbsp;2</a>. What you are recording here is the <em>difference in potential between two extracellular electrodes</em> (the voltage difference between the recording electrodes in <a href="#fig-nerve-biphasic">Figure&nbsp;2</a>).</p>
+<p><em>Take a moment to understand the signal.</em> Remember that you are measuring from the outside of the nerve (<em>outside</em> is <em>positive</em> at rest, inside is negative). In the absence of a stimulus, there is no difference, and you have a baseline recording; but following a stimulus, a wave of depolarization passes down the nerve (a in <a href="#fig-nerve-biphasic">Figure&nbsp;2</a>). As this wave crosses the first recording electrode, it becomes negative to the more distal electrode. By convention this difference is shown as a positive defection in the recording (red voltage - black voltage, b in <a href="#fig-nerve-biphasic">Figure&nbsp;2</a>). Then, when this wave reaches the second electrode, that electrode now becomes negative to the more proximal electrode and this results in a negative deflection in the recording (d in <a href="#fig-nerve-biphasic">Figure&nbsp;2</a>). Nerve propagation therefore results in a biphasic recording.</p>
+<div id="fig-nerve-biphasic" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-biphasic-frog-nerve.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Extracellular recording of an action potential conducted along the anuran sciatic nerve.</figcaption><p></p>
+</figure>
+</div>
+<p>Because peripheral nerves are bundles of neurons, we can observe refractory periods in them as well. From the beginning of the CAP to the restoration of the <strong>resting membrane potentials</strong>, neurons are incapable of producing another action potential. This period is referred to as the <strong>refractory period</strong>, which can be divided into two phases. Initially there is the <strong>absolute</strong> refractory period, where it is impossible to initiate a second action potential. This is followed by the <strong>relative</strong> refractory period, where a stimulus of greater than normal intensity can elicit a response. (Why? What is happening during these periods?)</p>
+<p>The importance of the CAP lies simply in the fact that it enables us to experimentally demonstrate aspects of nerve physiology. Clinically, CAPs are measured in patients to explore the peripheral nerve lesions and diseases.</p>
+<section id="what-you-will-do-in-the-laboratory" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-will-do-in-the-laboratory">What you will do in the laboratory</h3>
+<ol type="1">
+<li><em>Setup and calibration of equipment</em>. In this exercise, you will check that the stimulating and recording connections are set up correctly.</li>
+<li><em>Determination of threshold voltage and maximal CAP amplitude</em>. Here you will give the nerve a series of stimuli, each increasing in amplitude. You will then be able to calculate the threshold voltage for the nerve, as well as the voltage required for maximum CAP amplitude.</li>
+<li><em>Determination of the refractory period</em>. In this part of the laboratory, you will deliver paired supramaximal stimuli to the nerve. The interval between these stimuli will be progressively decreased. The results will enable you to determine the relative and absolute refractory periods of your nerve.</li>
+<li><em>Determination of nerve conduction velocity</em>. Here you will calculate the velocity of the CAP as it travels down the nerve.</li>
+<li><em>Bi-Directionality of Nerve Conduction</em>. You will demonstrate the ability of a nerve to conduct signals in both directions.</li>
+<li><em>Strength-Duration Relationships</em>. You will measure ability of a stimulus to elicit a response by changing the stimulus duration as well as its intensity (strength).</li>
+</ol>
+</section>
+<section id="equipment" class="level2">
+<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
+<ul>
+<li>PowerLab data acquisition system</li>
+<li>LabChart 8 or later</li>
+<li>Nerve Chamber</li>
+<li>Stimulator Cable (BNC to Alligator Clips) (Note: These are the stimulating electrodes.)</li>
+<li>Two Differential Pod Input Cables (DIN to Alligator Clips) (Note: These are the recording electrodes.)</li>
+<li>One isolated frog sciatic nerve (<em>Rhinella marinus</em>)</li>
+<li>Frog Ringer’s solution</li>
+<li>Pasteur pipette</li>
+<li>Filter paper, moistened with Ringer’s solution</li>
+<li>Thread</li>
+<li>Ruler</li>
+<li>Dissection tools:
+<ul>
+<li>Petri dish</li>
+<li>Sharp scissors or scalpel</li>
+<li>Glass probe and hook for handling nerve</li>
+<li>Bone shears</li>
+<li>Blunt probe</li>
+<li>Dissection tray with wax or pad</li>
+<li>Dissection pins</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="procedure" class="level1 page-columns page-full">
+<h1>Procedure</h1>
+<section id="setup-and-calibration-of-equiptment" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="setup-and-calibration-of-equiptment">Setup and calibration of equiptment</h2>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Important - wire hygiene!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Before you begin, unwind (straigthen) all of your cables and wires so that there are <em>no coils</em>.</li>
+<li>Ensure your power cables <strong>do not cross</strong> any information (USB or otherwise) or electrode wires.</li>
+<li>Try to avoid crossing your electrode wires, and especially <strong>make sure your stimulating electrode wires do not touch the recording wires</strong>.</li>
+<li>Good electrical contact while minimizing electrical noise is key to obtaining a clean and strong signal.</li>
+</ul>
+</div>
+</div>
+<ol type="1">
+<li>Connect the red and black clips from the stimulator electrodes to two of the metal rungs on opposite sides of the Nerve Bath (<a href="#fig-setup">Figure&nbsp;3</a>). The distance between the electrodes should be 0.5 cm. It is not necessary to connect the green (ground) clip.</li>
+<li>Connect the red (positive) BNC connector from the stimulator electrode to the positive (+) analog output connector on the PowerLab. Connect the black (negative) BNC connector from the stimulator electrode to the negative (–) analog output connector.</li>
+<li>Connect the red and black leads from the first recording electrode to two of the metal rungs of the Nerve Bath (<a href="#fig-setup">Figure&nbsp;3</a>). Connect the 8-pin DIN connector to Input 1 of the PowerLab.</li>
+<li>Connect the leads for the second recording electrode (black closer to stimulator, red farther), but place the microhooks further away from the stimulus electrode (<a href="#fig-setup">Figure&nbsp;3</a>). Attach the DIN connector to Input 2 on the PowerLab.</li>
+</ol>
+<div id="fig-setup" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-setup.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Proper set up of recording and stimulating leads. Note: we will be using alligator clips not hook electrodes</figcaption><p></p>
+</figure>
+</div>
+<ol start="5" type="1">
+<li>Using a Pasteur pipette, fill the lower reservoir of the Nerve Bath with frog Ringer’s solution. Fluid in the lower reservoir must not come in contact with the metal electrode rungs. <em><strong>Note:</strong> Overfilling the Nerve Bath in this manner will cause a short circuit in your experiment.</em></li>
+<li>Cut a strip of filter paper and lay it over the wires in the nerve bath so that it touches both stimulating electrodes and both sets of recording electrodes. Moisten the paper strip with frog Ringer’s solution, and place the cover on the nerve bath. This arrangement will be used to test the connections.</li>
+<li>Before turning on the PowerLab, make sure it is connected to the computer via a USB cable.</li>
+<li>Launch LabChart from your computer using the settings file called <strong>Toad Nerve Lab settings</strong>.<br>
+</li>
+<li>Go to the Setup menu, select the Stimulator, and then select the waveform Test Connection (<a href="#fig-select-waveform">Figure&nbsp;4</a>).</li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-select-waveform" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-select-waveform.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: Select waveform - test connection.</figcaption><p></p>
+</figure>
+</div>
+</div></div><ol start="10" type="1">
+<li>Open LabChart in Scope View. Click Start. LabChart will now automatically record data for 10ms. A series of stimulus pulses will be recorded (<a href="#fig-connection">Figure&nbsp;5</a>). You may need to adjust the axes or auto scale to see the signal. <em>If no signal is recorded, check to make sure the microhooks are secure and the filter paper is moist and draped over all the active wires in the Nerve Bath.</em></li>
+</ol>
+<div id="fig-connection" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-test-connection.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Stimulus Artifacts that indicate the equipment is set up properly. Note what the spike of the stimulus voltage looks like, so that you can tell them apart from the CAPs when you run your experiments below.</figcaption><p></p>
+</figure>
+</div>
+<ol start="11" type="1">
+<li>Once the connections are tested and working, remove the filter paper and proceed to next step.</li>
+</ol>
+</section>
+<section id="nerve-dissection-procedure" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="nerve-dissection-procedure">Nerve dissection procedure</h2>
+<ol type="1">
+<li>Remove the skin from the legs and abdomen of a double-pithed toad obtained from your TA. Cut the skin around the abdomen, and deglove the skin from the lower half of the body (<a href="#fig-deglove">Figure&nbsp;6</a>).</li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-deglove" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-frog-remove-skin.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: Degloving a frog.</figcaption><p></p>
+</figure>
+</div>
+</div></div><ol start="2" type="1">
+<li>Keep the exposed tissue moist at all times with frog Ringer’s solution.</li>
+<li>Grasp the urostyle (a bony element of the pelvis) with forceps and cut it free; you should be able to observe the nerve plexus below it (<a href="#fig-sciatic-nerve">Figure&nbsp;7</a>), being careful not to damage the nerve plexus.</li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-sciatic-nerve" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-sciatic-nerve.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: Exposing the sciatic nerve.</figcaption><p></p>
+</figure>
+</div>
+</div></div><ol start="4" type="1">
+<li>From the dorsal side, using a glass hook and/or glass probe, locate and lift the sciatic nerve free from the associated fascia and the sciatic artery. Use blunt dissection techniques, <span style="color: red"><strong>and do not pull or damage the nerve. Also do not touch the nerve with metal.</strong></span></li>
+<li>You will want to dissect a long piece of sciatic nerve that can span many electrodes in the nerve chamber.<br>
+</li>
+<li>Tie a piece of thread around the nerve as high up on the nerve as you can reach (near the spinal cord). The string will be used as a “leash”, so that you can handle the nerve gently (touching it as little as possible).</li>
+<li>Using scissors, cut the nerve from the spinal cord and reflect the nerve back onto the leg. (Only use metal to cut the ends of the nerve).</li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div id="fig-sciatic-nerve-isolation" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-sciatic-nerve-isolation.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;8: Removing the nerve.</figcaption><p></p>
+</figure>
+</div>
+</div></div><ol start="8" type="1">
+<li>Using forceps (on muscle) and the glass hook (to touch the nerve), expose the nerve down to the gastrocnemius muscle. Cut the nerve free (<a href="#fig-sciatic-nerve-isolation">Figure&nbsp;8</a>).</li>
+<li>Immediately place the isolated nerve into a petri plate with ringers solution. Let the nerve rest in ringers for a few seconds, and gently clear away any debris from the nerve using the glass tools. <span style="color:red"><strong>Note: DO NOT GRASP THE NERVE WITH METAL FORCEPS!</strong></span>)<br>
+</li>
+<li>Lay the nerve across the electrodes of the Nerve Chamber (<a href="#fig-setup">Figure&nbsp;3</a>) using the string leash and the glass hook. Place the thicker end of the nerve toward the stimulating electrodes, and make sure that the position where the nerve is tied (the damaged part) is before both stimulating electrodes.</li>
+<li>If necessary gently blot the nerve on a piece of tissue or filter paper to remove any excess Ringer’s solution.</li>
+<li>Make sure the nerve is in contact with each of the active connections, but that no portion of the nerve is touching the fluid or the bottom of the chamber.<br>
+</li>
+<li>If the nerve is too short to span the second pair of recording electrodes, adjust the position of the recording electrodes as necessary. Place the cover back on the Nerve Bath.</li>
+</ol>
+</section>
+</section>
+<section id="exercise-1-finding-the-threshold-voltage-and-maximum-cap-amplitude" class="level1">
+<h1>Exercise 1: Finding the threshold voltage and maximum CAP amplitude</h1>
+<p>A series of stimuli will be given to the nerve, each increasing in amplitude. From these recordings the threshold voltage for the nerve will be calculated, as well as the voltage required for maximum CAP amplitude.</p>
+<ol type="1">
+<li>In the Setup menu, open the Stimulator… dialog, and select Waveform: Threshold.</li>
+<li>From the Setup menu, open the Stimulator Panel.</li>
+<li>In the Stimulator Panel, (<a href="#fig-threshold">Figure&nbsp;9</a>) set the Pulse Height amplitude to 20mV; do not adjust any other parameters.</li>
+</ol>
+<div id="fig-threshold" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-threshold.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;9: Stimulator Panel</figcaption><p></p>
+</figure>
+</div>
+<ol start="4" type="1">
+<li>Click Start. LabChart will stimulate the nerve and record 20 blocks of data.</li>
+<li>Increase the pulse height by 20mV, and record again.</li>
+<li>Repeat this until a response is seen or you reach 400mV. If you do not see a response, consult your instructor.</li>
+<li>Enter the stimulus amplitude (pulse height) that elicits the minimum observable response in to the Stimulator Panel dialog. This is the threshold voltage.</li>
+<li>Find the voltage required for maximum CAP amplitude. Increase the stimulus by 10mV steps until the CAP does not increase on three consecutive stimulus amplitude increases or you reach 400mV.</li>
+<li>Save the data file.</li>
+</ol>
+<section id="analysis-determination-of-threshold-voltage-and-maximum-cap-amplitude" class="level2">
+<h2 class="anchored" data-anchor-id="analysis-determination-of-threshold-voltage-and-maximum-cap-amplitude">Analysis: Determination of threshold voltage and maximum CAP amplitude</h2>
+<ol type="1">
+<li>Check the Overlay box in the Scope view but leave the slider set at zero.</li>
+<li>Select the 20 pages that represent the threshold voltage test, then click on the button to lock the selected pages in overlay.</li>
+<li>Place the Marker on the baseline just before the stimulus.</li>
+<li>Adjust the horizontal compression as necessary.</li>
+<li>Looking at the data in Channel 1, use the up and down arrows to scroll through the pages.</li>
+</ol>
+<div id="fig-cap-scope" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-cap-scope-crop1.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;10: Using the Scope view to show increasing CAP amplitude.</figcaption><p></p>
+</figure>
+</div>
+<ol start="6" type="1">
+<li>Use the <span style="color:green"><strong>Waveform Cursor</strong></span> to measure CAP amplitude at each stimulus voltage. Fill in <a href="#tbl-cap-amp">Table&nbsp;1</a>. Each block of data is represented as a page and has a different stimulus voltage shown in channel 3. Note the stimulus level where the first CAP is seen, and where maximum CAP is reached.</li>
+</ol>
+<div id="fig-cap-amplitude" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-cap-amplitude.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;11: UWaveform cursor on the maximum CAP amplitude.</figcaption><p></p>
+</figure>
+</div>
+<div id="tbl-cap-amp" class="anchored">
+<table class="table">
+<caption>Table&nbsp;1: CAP amplitude versus stimulus intensity.</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Stimulus amplitude (mV)</th>
+<th>CAP amplitude (mV)</th>
+<th>Stimulus amplitude (mV)</th>
+<th>CAP amplitude (mV)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>20</td>
+<td></td>
+<td>220</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>40</td>
+<td></td>
+<td>240</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>60</td>
+<td></td>
+<td>260</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>80</td>
+<td></td>
+<td>280</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>100</td>
+<td></td>
+<td>300</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>120</td>
+<td></td>
+<td>320</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>140</td>
+<td></td>
+<td>340</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>160</td>
+<td></td>
+<td>360</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>180</td>
+<td></td>
+<td>380</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>200</td>
+<td></td>
+<td>400</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Threshold stimulus voltage:</td>
+<td></td>
+<td></td>
+<td>mV</td>
+</tr>
+<tr class="even">
+<td>Min Voltage for Max. CAP Amplitude:</td>
+<td></td>
+<td></td>
+<td>mV</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+<section id="exercise-2-determination-of-the-refractory-period" class="level1">
+<h1>Exercise 2: Determination of the refractory period</h1>
+<p>Using the minimum voltage for maximum CAP amplitude, stimulate the nerve with a series of pulses varying in pulse interval. In each block of data, the pulse interval will decrease (i.e., the pulses will get closer together). Use this data to find the the <strong>relative</strong> and <strong>absolute</strong> <em>refractory periods</em> of your nerve. 1. From the results in Table 1, determine <strong>the minimum stimulus voltage</strong> required to elicit a <strong>maximal CAP</strong> from the nerve.<br>
+2. From the Stimulator dialog, select waveform&gt; <strong>Refractory Period</strong>, and close the Stimulator dialog. 3. Open the Stimulator Panel if you have closed it and enter the voltage above in the pulse height for both pulses.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../images/lab7-refractory-panel.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Stimulator panel for determining the refractory period.</figcaption><p></p>
+</figure>
+</div>
+<ol start="4" type="1">
+<li>Record a series of 15 data blocks (displayed as pages). During each page, two pulses are presented to the nerve. You will decrease the time interval between the pulses decreases with each successive page.</li>
+<li>Click <strong>Start</strong>, LabChart will stimulate the nerve 2 times 4 milliseconds apart.</li>
+<li>Add a comment stating the interval between pulses (4 ms) for the record.</li>
+<li>Change the interval between pulses to 3.5 ms, click <strong>Start</strong>. Add a comment stating the interval period (3.5 ms) for the record.</li>
+<li>Repeat for each specified interval Table 2 in the Data Notebook, adding a comment stating the interval period for each record.</li>
+<li><strong>Save your data</strong>, do not close the file.</li>
+</ol>
+<section id="analysis" class="level3">
+<h3 class="anchored" data-anchor-id="analysis">Analysis</h3>
+<section id="determination-of-refractory-period" class="level4">
+<h4 class="anchored" data-anchor-id="determination-of-refractory-period">Determination of refractory period</h4>
+<p><span style="color:green"><strong>Select</strong></span> the 15 data pages recorded in Exercise 2, and lock them into Overlay mode. Place the <span style="color:green"><strong>Marker</strong></span> on the baseline and use the <span style="color:green"><strong>Waveform Cursor</strong></span> to measure the amplitude for the second CAP. Record these values in <a href="#tbl-refractory">Table&nbsp;2</a>. Determine the stimulus interval where the amplitude of the second CAP first shows a decrease. This is the <span style="color:blue"><strong>relative refractory period</strong></span>. Determine the stimulus interval where the second CAP completely disappears. This is the <span style="color:blue"><strong>absolute refractory period</strong></span>. Record both of these values in <a href="#tbl-refractory">Table&nbsp;2</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../images/lab7-refractory-period.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Scope View showing paired pulses for determining the refractory period.</figcaption><p></p>
+</figure>
+</div>
+<div id="tbl-refractory" class="anchored">
+<table class="table">
+<caption>Table&nbsp;2: CAP amplitude versus stimulus intensity.</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Stimulus interval (ms)</th>
+<th>Amplitude of second CAP</th>
+<th>Stimulus interval (ms)</th>
+<th>Amplitude of second CAP</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>4.0</td>
+<td></td>
+<td>1.6</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>3.5</td>
+<td></td>
+<td>1.5</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3.0</td>
+<td></td>
+<td>1.4</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2.5</td>
+<td></td>
+<td>1.3</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2.0</td>
+<td></td>
+<td>1.2</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1.9</td>
+<td></td>
+<td>1.1</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1.8</td>
+<td></td>
+<td>1.0</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Relative refractory period (ms)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Absolute refractory period (ms)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+</section>
+<section id="exercise-3-nerve-conduction-velocity-and-temperature-sensitivity" class="level1">
+<h1>Exercise 3: Nerve conduction velocity and temperature sensitivity</h1>
+<section id="analysis-1" class="level3">
+<h3 class="anchored" data-anchor-id="analysis-1">Analysis</h3>
+<section id="calculating-conduction-velocity" class="level4">
+<h4 class="anchored" data-anchor-id="calculating-conduction-velocity">Calculating conduction velocity</h4>
+<ol type="1">
+<li><p>Room temperature. Using the data in Exercise 1, make a <span style="color:green"><strong>selection</strong></span> in channels 1 and 2 that includes the CAP. Open the <span style="color:green"><strong>Zoom window</strong></span>, and use the <span style="color:green"><strong>Marker</strong></span> and <span style="color:green"><strong>Waveform Cursor</strong></span> to determine the time interval for the CAP to travel between the two recording electrodes (<a href="#fig-velocity">Figure&nbsp;12</a>). Place the marker on the first CAP peak.</p></li>
+<li><p>Place the waveform cursor over the second CAP peak. Record the value for time differential (<span class="math inline">\(\Delta\)</span>t) in milliseconds in Table 3.</p></li>
+<li><p>Using a ruler, measure the distance in millimeters between the black negative leads of each of the two recording electrodes. Record in <a href="#tbl-velocity">Table&nbsp;3</a>.</p></li>
+<li><p>Calculate the <strong>conduction velocity</strong> from the <strong>distance between the electrodes</strong> and <strong>time interval between CAPs</strong>:</p></li>
+</ol>
+<p>Conduction velocity (m/sec) = <span class="math inline">\(\frac{Distance(mm)}{Time(ms)}\)</span></p>
+<div id="fig-velocity" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-conduction2.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;12: Zoom window in overlay mode showing analysis procedure for calculating conduction velocity. Waveform Cursor information is displayed at the top of the window.</figcaption><p></p>
+</figure>
+</div>
+<div id="tbl-velocity" class="anchored">
+<table class="table">
+<caption>Table&nbsp;3: Calculation of conduction velocity.</caption>
+<thead>
+<tr class="header">
+<th>Parameter</th>
+<th>cold</th>
+<th>room temperature</th>
+<th>warm</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Temperature (C)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Distance between recording electrodes (mm)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Time interval between CAP1 and CAP2 (ms)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Conduction velcoity (m/s)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ol start="5" type="1">
+<li>Chill the nerve by placing it in a Petri dish with cold Ringer’s (~4°C). Replace the Ringerʻs in the nerve chamber with cold Ringerʻs.</li>
+<li>Place the nerve in the chamber and quickly run the Conduction Velocity macro.<br>
+</li>
+<li>Repeat with warm Ringer’s (~35°C) and complete <a href="#tbl-velocity">Table&nbsp;3</a>.</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="exercise-4-bi-directionality-of-nerve-conduction" class="level1">
+<h1>Exercise 4: Bi-Directionality of Nerve Conduction</h1>
+<p>The ability of a nerve to conduct signals in both directions can be observed by changing the recording and stimulating leads.</p>
+<ol type="1">
+<li>The thicker end of the nerve originates closer to the spinal cord, and the thinner end is more distal.</li>
+<li>Change the position of the leads to stimulate starting from the thinner end (<a href="#fig-nerve-reverse">Figure&nbsp;13</a>).</li>
+</ol>
+<div id="fig-nerve-reverse" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../images/lab7-nerve-reverse.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;13: Reverse the stimulating and channel 2 recording leads to show bi-directionality.</figcaption><p></p>
+</figure>
+</div>
+<ol start="3" type="1">
+<li>Run the Threshold macro as in Exercise 1. Stimulator dialog, select Waveform: Threshold. Pulse Height amplitude 20 mV.</li>
+<li>Right click in the first data block of this exercise and enter the <strong>comment</strong> “Bi-Directionality” and save your data file.</li>
+</ol>
+<section id="analysis-2" class="level3">
+<h3 class="anchored" data-anchor-id="analysis-2">Analysis</h3>
+<p>Compare the threshold voltage necessary to elicit a maximum response from the nerve when stimulating from the thick end of the nerve (Exercise 1) vs.&nbsp;stimulating from the distal (thinner) end of the nerve (<a href="#tbl-cap-amp-rev">Table&nbsp;4</a>).</p>
+<div id="tbl-cap-amp-rev" class="anchored">
+<table class="table">
+<caption>Table&nbsp;4: CAP amplitude versus stimulus intensity stimulating from the distal end of the nerve.</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Stimulus amplitude (mV)</th>
+<th>CAP amplitude (mV)</th>
+<th>Stimulus amplitude (mV)</th>
+<th>CAP amplitude (mV)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>20</td>
+<td></td>
+<td>220</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>40</td>
+<td></td>
+<td>240</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>60</td>
+<td></td>
+<td>260</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>80</td>
+<td></td>
+<td>280</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>100</td>
+<td></td>
+<td>300</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>120</td>
+<td></td>
+<td>320</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>140</td>
+<td></td>
+<td>340</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>160</td>
+<td></td>
+<td>360</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>180</td>
+<td></td>
+<td>380</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>200</td>
+<td></td>
+<td>400</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Threshold stimulus voltage:</td>
+<td></td>
+<td></td>
+<td>mV</td>
+</tr>
+<tr class="even">
+<td>Min Voltage for Max. CAP Amplitude:</td>
+<td></td>
+<td></td>
+<td>mV</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+<section id="exercise-5-stimulus-strength-duration-relationships" class="level1">
+<h1>Exercise 5: Stimulus Strength-Duration Relationships</h1>
+<p>The ability of a stimulus to elicit a response is dependent on the <strong>stimulus duration</strong> as well as its <strong>strength</strong> (intensity). The relationship between strength and duration can be derived empirically for your sciatic nerve preparation. Strength-duration curves are often used by physiologists as a relative measure of a nerve’s <strong>excitability</strong>.</p>
+<ol type="1">
+<li>Change the stimulator leads back so that you are stimulating the proximal (thick) end of the sciatic nerve.</li>
+<li>Open the Stimulator dialog and select Waveform: Threshold.</li>
+<li>In the Stimulator Panel, set the Pulse Height amplitude to 20 mV, and select a pulse duration of 50 <span class="math inline">\(\mu\)</span>s. Click <strong>Start</strong>.</li>
+<li>Right click in the first data block of this exercise and enter the <strong>comment</strong> “strength-duration”.</li>
+<li>Increase the stimulus by 20 mV and repeat until a CAP is observed.</li>
+<li>Now return the stimulus pulse height to 20 mV, and repeat with durations of 100 <span class="math inline">\(\mu\)</span>s, 250 <span class="math inline">\(\mu\)</span>s, 500 <span class="math inline">\(\mu\)</span>s, 750 <span class="math inline">\(\mu\)</span>s, 1000 <span class="math inline">\(\mu\)</span>s (you used 150 <span class="math inline">\(\mu\)</span>s for the first exercise).</li>
+<li>Save your data file.</li>
+</ol>
+<section id="analysis-3" class="level3">
+<h3 class="anchored" data-anchor-id="analysis-3">Analysis</h3>
+<ol type="1">
+<li>Use the overlay to determine when reaching threshold by comparing your trace to previous subthreshold traces. The voltage where the CAP is barely detectable in Channel 1 is the suprathreshold stimulus voltage.</li>
+<li>Record the effective stimulus amplitude at which you first reach threshold for each duration (<a href="#tbl-strength">Table&nbsp;5</a>).</li>
+</ol>
+<div id="tbl-strength" class="anchored">
+<table class="table">
+<caption>Table&nbsp;5: CAP threshold vs.&nbsp;stimulus duration.</caption>
+<thead>
+<tr class="header">
+<th>Duration (<span class="math inline">\(\mu\)</span>s)</th>
+<th>Threshold Voltage (mV)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>50</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>100</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>150</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>250</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>500</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>750</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1000</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ol start="3" type="1">
+<li>Graph these data with Threshold Voltage (mV) on the ordinate and duration (msec) on the abscissa.</li>
+<li>Find rheobase on your plot. <strong>Rheobase</strong> is the <em>minimum stimulus intensity</em> that will elicit a <em>response at infinite duration</em> (where stimulus intensity reaches an asymptote with respect to duration). If you have printed a copy you may wish to mark this with an arrow.</li>
+<li>Find chronaxie on your plot. Chronaxie is the stimulus duration required at a stimulus strength of 2x rheobase. If you have printed a copy you may wish to mark this with an arrow.</li>
+</ol>
+</section>
+</section>
+<section id="suggestions-for-the-results-section" class="level1">
+<h1>Suggestions for the Results Section</h1>
+<p>Conduct the appropriate analyses on your data and present your findings in paragraph form with the aid of graphs and/or tables as needed. Typically, for this type of experiment one would report:</p>
+<ul>
+<li>Determination of threshold voltage</li>
+<li>The maximum CAP amplitude</li>
+<li>Determination of the refractory period</li>
+<li>Calculation of conduction velocity</li>
+<li>Sensitivity of conduction velocity on Temperature (with Q10)</li>
+<li>Threshold voltage for forward vs reverse stimulation (bidirectionality)<br>
+</li>
+<li>Stimulus strength vs.&nbsp;duration relationship</li>
+</ul>
+</section>
+<section id="questions-for-thought" class="level1">
+<h1>Questions for Thought:</h1>
+<ol type="1">
+<li>How does a CAP differ from a single action potential? Would you see any differences in your data between the two?</li>
+<li>What is the cause of the relative refractory period? Briefly describe the cellular events that occur during the refractory period (Hint: Discuss the mechanism of repolarization). Explain the difference between the relative and absolute refractory periods. What evidence do you see of these phenomena in your data?</li>
+<li>Action potentials are said to be “all or none” responses. Why does the toad sciatic nerve give what looks like a graded response?</li>
+<li>What was the smallest voltage required to produce the maximum CAP? What proportion of the nerve fibers was excited to produce this response?</li>
+<li>Based on your calculation for CAP conduction velocity, how long would it take the CAP to travel the length of the sciatic nerve? Assume a total length of 10 cm. How could this be important for the animal?</li>
+<li>How does the temperature sensitivity of nerve conduction velocity compare to other physiological processes in the toad? If there is a difference, what are possible mechanisms that might cause the differences? Hint: You have already determined Q10 for cardiac (muscle) function in the toad.</li>
+<li>Why were you still able to elicit a CAP after reversing the direction of stimulation? How did the appearance of the frog CAP change in comparison to when it was in its original orientation? How do you explain this?</li>
+<li>What is happening in the nerve at the voltage-duration combinations that you are identifying as threshold? (Strength-duration experiment)</li>
+<li>Based on what you learned, what are the major factors involved in signal propagation through peripheral nerves in the toad? In vertebrates generally?</li>
+</ol>
+</section>
+<section id="after-lab" class="level1">
+<h1>After Lab:</h1>
+<ul>
+<li>This will be a group lab report.</li>
+<li>Please divide the work of writing the report <strong>by experiment</strong>, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections.</li>
+<li>Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion.</li>
+<li>Please remember to include respective contributions.</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
