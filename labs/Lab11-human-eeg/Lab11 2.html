@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="quarto-1.3.450" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+<meta name="author" content="Marguerite Butler" />
+<meta name="dcterms.date" content="2023-11-06" />
+<meta name="description" content="Recording human brain waves" />
+
+<title>ZOOL430/430L Animal Physiology and Laboratory – Lab 11: Human Electroencephalography (EEG)</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+<!-- htmldependencies:E3FAD763 -->
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../../styles.css" />
+</head>
+
+<body>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="/index.html">
+    <span class="navbar-title">ZOOL430/430L Animal Physiology and Laboratory</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+  aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"
+  onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="/index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-general-information" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">General Information</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-general-information">    
+        <li>
+    <a class="dropdown-item" href="/syllabus.html" rel="" target="">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="/schedule.html" rel="" target="">
+ <span class="dropdown-text">Schedule</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-course-materials" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Course Materials</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-course-materials">    
+        <li>
+    <a class="dropdown-item" href="/lectures.html" rel="" target="">
+ <span class="dropdown-text">Lectures</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="/labs.html" rel="" target="">
+ <span class="dropdown-text">Labs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="/slides.html" rel="" target="">
+ <span class="dropdown-text">Slides</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="/projects.html" rel="" target="">
+ <span class="dropdown-text">Projects</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="/resources.html" rel="" target="">
+ <span class="dropdown-text">Resources</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/mbutler808" rel="" target=""><i 
+  class="bi bi-github" 
+  role="img" 
+>
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/mbutler808" rel="" target=""><i 
+  class="bi bi-twitter" 
+  role="img" 
+>
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="/index.xml" rel="" target=""><i 
+  class="bi bi-rss" 
+  role="img" 
+>
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <div id="quarto-toc-target"></div>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lab 11: Human Electroencephalography (EEG)</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">week 13</div>
+    <div class="quarto-category">labs</div>
+    <div class="quarto-category">electrical activity</div>
+    <div class="quarto-category">electrophysiology</div>
+    <div class="quarto-category">human</div>
+    <div class="quarto-category">EEG</div>
+    <div class="quarto-category">brain waves</div>
+    <div class="quarto-category">synapses</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Recording human brain waves
+  </div>
+</div>
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://butlerlab.org">Marguerite Butler</a> </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Life Sciences, University of Hawaii
+          </p>
+      </div>
+    </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 6, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+<nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#acknowledgements" id="toc-acknowledgements">Acknowledgements</a></li>
+  <li><a href="#background" id="toc-background">Background</a>
+  <ul>
+  <li><a href="#what-you-will-do-in-the-laboratory" id="toc-what-you-will-do-in-the-laboratory">What you will do in the laboratory</a></li>
+  <li><a href="#equipment" id="toc-equipment">Equipment</a></li>
+  </ul></li>
+  <li><a href="#procedure" id="toc-procedure">Procedure</a>
+  <ul>
+  <li><a href="#subject-preparation" id="toc-subject-preparation">Subject preparation</a></li>
+  <li><a href="#software-setup" id="toc-software-setup">Software Setup</a></li>
+  </ul></li>
+  <li><a href="#exercise-1-recognizing-artifacts" id="toc-exercise-1-recognizing-artifacts">Exercise 1: Recognizing Artifacts</a>
+  <ul>
+  <li><a href="#analysis" id="toc-analysis">Analysis</a>
+  <ul>
+  <li><a href="#exercise-1-recognizing-artifacts-1" id="toc-exercise-1-recognizing-artifacts-1">Exercise 1: Recognizing Artifacts</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#exercise-2-alpha-waves-in-the-eeg" id="toc-exercise-2-alpha-waves-in-the-eeg">Exercise 2: Alpha Waves in the EEG</a>
+  <ul>
+  <li><a href="#analysis-alpha-waves-in-the-eeg" id="toc-analysis-alpha-waves-in-the-eeg">Analysis: Alpha Waves in the EEG</a></li>
+  </ul></li>
+  <li><a href="#spectral-analysis-tutorial" id="toc-spectral-analysis-tutorial">Spectral Analysis Tutorial</a>
+  <ul>
+  <li><a href="#analysis-excercise-2-alpha-waves-in-the-eeg" id="toc-analysis-excercise-2-alpha-waves-in-the-eeg">Analysis Excercise 2: Alpha waves in the EEG</a></li>
+  </ul></li>
+  <li><a href="#food-for-thought" id="toc-food-for-thought">Food for thought</a></li>
+  <li><a href="#after-lab" id="toc-after-lab">After Lab:</a></li>
+  </ul>
+</nav>
+<section id="acknowledgements" class="level3">
+<h3>Acknowledgements</h3>
+<p>Material for this lab was borrowed and adopted from</p>
+<ul>
+<li>Electroencephalography Protocol. Written by Staff of ADInstruments for LabChart 8.</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class='callout-icon'></i>
+</div>
+<div class="callout-title-container flex-fill">
+Prepare for lab by:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Read the lab manual below.<br />
+</li>
+<li>Read from Eckert ch. 10 [<a href="https://drive.google.com/drive/folders/1BSLdFEnnLw0N6z-ouBI-Y50ZeY_5FItl?usp=share_link">readings</a>]: Mechanics of Muscle Contraction 375-379, Active State, Twitch and Tetanus 391- 392, Motor Control vertebrate 410 - 411</li>
+<li>Write the [<a href="../../labs-misc/lab-notebook.qmd#sec-prelab">Prelab</a>] in your lab notebook. <em><strong>Please DO NOT copy the lab manual word for word.</strong> Your task is to <strong>summarize</strong> the important points that are useful for developing hypotheses for this experiment.</em></li>
+<li>This week, draft hypotheses for each experiment.</li>
+<li>To obtain feedback from your TAs, <strong>for the prelab please have the hypotheses, figuring out how many ideas you have to cover, and writing a topic sentence for each paragraph:</strong>
+<ul>
+<li>Umbrella idea</li>
+<li>introduce mechanism 1</li>
+<li>introduce mechanism 2</li>
+<li>…</li>
+<li>end with a paragraph of your hypotheses</li>
+</ul></li>
+<li>For the <strong>methods</strong>, outline:
+<ul>
+<li>subjects</li>
+<li>equiptment</li>
+<li>experimental treatments (be sure to note what <strong>variables</strong> are changing) and controls or comparisons</li>
+<li>analysis</li>
+</ul></li>
+<li>Do Quiz on Laulima (open 24 hrs before lab).</li>
+<li>Please bring a laptop with you to lab, if possible, to analyze your experimental results.</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class='callout-icon'></i>
+</div>
+<div class="callout-title-container flex-fill">
+Summary
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>We will explore the electrical activity of the human brain while doing various activities, using a technique called electroencephalography (EEG). There has been a lot of debate on various modes of study, we will test these ideas by measuring brain activity in two regions of the brain.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="background" class="level1">
+<h1>Background</h1>
+<p>What EEG is measuring</p>
+<p>Brain waves (<a href="#fig-brainwaves">Figure 1</a>)</p>
+<div id="fig-brainwaves" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-brainwaves.png" class="img-fluid" /></p>
+<figcaption>Figure 1: EEG and wave bands.</figcaption>
+</figure>
+</div>
+<p>Experiments on learning? I will work on this.</p>
+<section id="what-you-will-do-in-the-laboratory" class="level3">
+<h3>What you will do in the laboratory</h3>
+<ol type="1">
+<li><em>Setup</em>. Check that the equiptment are set up correctly and ready to record.</li>
+<li><em>Muscle activation with increasing load</em>. You will increase the load on the muscle-joint system, and measure changes in electrical activation of the biceps.</li>
+<li><em>Alternating activity and coactivation</em>. You will explore the function of antagonistic muscles and demonstrate coactivation.</li>
+<li><em>Several of your own experiments</em>. See below for ideas.</li>
+</ol>
+</section>
+<section id="equipment" class="level2">
+<h2>Equipment</h2>
+<ul>
+<li>PowerLab data acquisition system</li>
+<li>LabChart 8 or later</li>
+<li>5 Lead Shielded Bio Amp Cable</li>
+<li>EEG Flat Electrodes</li>
+<li>Electrode Cream or Paste</li>
+<li>Alcohol Swabs</li>
+<li>Ace Bandgage</li>
+<li>Tape</li>
+</ul>
+</section>
+</section>
+<section id="procedure" class="level1">
+<h1>Procedure</h1>
+<section id="subject-preparation" class="level2">
+<h2>Subject preparation</h2>
+<ol type="1">
+<li><p>Make sure the PowerLab is turned off and the USB cable is connected to the computer.</p></li>
+<li><p>Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (<a href="#fig-setup">Figure 2</a>). The hardware needs to be connected <strong>before</strong> you open the settings file.</p></li>
+<li><p>Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable. Channel 1 “positive” will lead to the inion (the bump on the back of the head above the neck) and Channel 1 “negative” will lead to the forehead. Channel 2 will be empty and the Earth will lead to the temple. Refer to Figure 1 for proper placement, but do not attach them to the volunteer. Follow the color scheme on the Bio Amp Cable.</p></li>
+<li><p>Remove any jewelry from the volunteer’s face, ears, and neck. Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and temple. Use Figure 1 as a guide. Abrade the skin with Abrasive Gel or Pad. This is important as abrasion helps reduce the skin’s resistance.</p></li>
+<li><p>After abrasion, clean the area with an alcohol swab to remove the dead skin cells. While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (<a href="#fig-setup">Figure 2</a>) and keep the electrodes and wires in place with the medical tape. Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head. This will help the electrodes maintain good contact with the skin.</p></li>
+<li><p>Have the volunteer seated in a comfortable position at the table with paper and pen and a laptop in front of them. During the experiment is important to minimize muscle movement and ensure that none of the electrodes are disturbed or compressed.</p></li>
+<li><p>Check that all five electrodes are properly connected to the volunteer and the Bio Amp Cable before proceeding. Turn on the PowerLab. (<a href="#fig-setup">Figure 2</a>).</p></li>
+</ol>
+<div id="fig-setup" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-eeg-setup.png" class="img-fluid" /></p>
+<figcaption>Figure 2: Electrodes and cable setup. We will use five electrodes to record from two channels and a ground. Follow instructions provided by your TA for electrode placement.</figcaption>
+</figure>
+</div>
+</section>
+<section id="software-setup" class="level2">
+<h2>Software Setup</h2>
+<ol type="1">
+<li><p>Start Chart using the EEG lab settings file. Three channels should appear: the <strong>EEG frontal</strong> and the <strong>EEG occipital</strong>, and two channels: <strong>Alpha power frontal</strong> and <strong>Alpha power occipital</strong>.</p></li>
+<li><p>Make sure that the EEG channels are set to the “Bioamp”. Make sure the settings are as follows: Range 200 <span class="math inline">\(\mu\)</span>V, High Pass 0.5 Hz, and Low Pass 50 Hz (<a href="#fig-bioamp">Figure 3</a>). Check that the spectral input is reading the channels for the EEG. You may have to change the inputs to match the correct channel number. If you are using the new setup, you may have to change and restart Chart (several times) with the Bioamp cable connected for it to appear in the menu. If you are using the old setup, the little green light on the front of the Bioamp should be on. Ask your TA for help if needed.</p></li>
+</ol>
+<div id="fig-bioamp" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-bioamp-dialog.png" class="img-fluid" /></p>
+<figcaption>Figure 3: Check your recording and filter settings in the Bioamp dialog box.</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="exercise-1-recognizing-artifacts" class="level1">
+<h1>Exercise 1: Recognizing Artifacts</h1>
+<ol type="1">
+<li><p>Start recording. Ask the volunteer blink repeatedly and add a comment “blinking”. Stop recording after 10 seconds.</p></li>
+<li><p>Record the volunteer making eye movements. Add a comment “eye movements.” Have the volunteer gaze up-and-down and left-and-right in a repeated pattern. Make sure the volunteer is keeping their head still and only moving their eyes.</p></li>
+<li><p>Record the volunteer making head movements.</p></li>
+<li><p>Record the volunteer making jaw movements.</p></li>
+<li><p>Save your data, and open a new file with the same settings.</p></li>
+</ol>
+<section id="analysis" class="level2">
+<h2>Analysis</h2>
+<section id="exercise-1-recognizing-artifacts-1" class="level3">
+<h3>Exercise 1: Recognizing Artifacts</h3>
+<ol type="1">
+<li><p>Examine the vertical scale at the left of the Chart View, and note the positions corresponding to +50 µV and –50 µV. True EEG signals rarely exceed these limits.</p></li>
+<li><p>Examine the entire data trace and Autoscale, if necessary. There may be some large signals outside the ±75 µV range. Such large signals are artifacts.</p></li>
+</ol>
+</section>
+</section>
+</section>
+<section id="exercise-2-alpha-waves-in-the-eeg" class="level1">
+<h1>Exercise 2: Alpha Waves in the EEG</h1>
+<p>In this exercise, you will examine the effects of relaxation and eye movement on alpha waves in the EEG.</p>
+<ol type="1">
+<li><p>Make sure the volunteer is relaxed and comfortable. Have the volunteer close his/her eyes and remain quiet. Keep noise to a minimum and keep all distractions away from the volunteer.</p></li>
+<li><p>Start recording. Record for 30 seconds. Prepare a comment with “open;” do not enter it yet.</p></li>
+<li><p>Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. Record with the volunteer’s eyes open for 10 seconds. Do not stop recording.</p></li>
+<li><p>Prepare a comment with “shut.” When the 10 seconds are complete, tell the volunteer to close both eyes. Immediately press Return/Enter to add the comment.</p></li>
+<li><p>Repeat steps 3 and 4 twice, to give you three sets of results. Save your data.</p></li>
+</ol>
+<section id="analysis-alpha-waves-in-the-eeg" class="level2">
+<h2>Analysis: Alpha Waves in the EEG</h2>
+<ol type="1">
+<li>Examine the entire data trace. Use the View Buttons to change the horizontal compression to see data with eyes open and shut. Make a data selection that includes some data from both eyes open and eyes shut conditions. View this selection in Zoom View. This should make it easier to see the alpha wave activity (<a href="#fig-eeg-raw">Figure 4</a>). Now Autoscale, if necessary.</li>
+</ol>
+<div id="fig-eeg-raw" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-eeg-raw.png" class="img-fluid" /></p>
+<figcaption>Figure 4: EEG signal with eyes shut and open. Note alpha waves during eyes shut.</figcaption>
+</figure>
+</div>
+<ol start="2" type="1">
+<li>In Chart View scroll through the “eyes shut” recording to look for alpha waves. Use the View Buttons to change the horizontal compression if necessary. The alpha waves can be recognized by their amplitude (usually 30 to 50 <span class="math inline">\(\mu\)</span>V peak-to-peak, although it can be quite variable) and their frequency. Each cycle of an alpha wave should last approximately 0.1 s.</li>
+</ol>
+<p>Note: If you cannot find brain activity that matches the alpha rhythm, re-attach the electrodes and repeat this exercise.</p>
+<ol start="3" type="1">
+<li><p>Use the Marker and Waveform Cursor to measure the amplitude of the alpha waves. Place the Marker at the lowest point of the wave and move the Waveform Cursor to the peak of the wave. Measure the amplitudes of five waves from when the volunteer’s eyes were closed. Record the values in <a href="#tbl-alpha">Table 1</a>.</p></li>
+<li><p>Now measure wave amplitudes when the volunteer’s eyes were open. Record these values in <a href="#tbl-noalpha">Table 2</a> .</p></li>
+<li><p>The amplitude of the waves is affected by the quality of the EEG signal. Therefore, it is useful to examine the frequency and power of the wave activity. Spectral analysis can be used to examine these features of a signal. Before examining your EEG signal you will complete a short tutorial on Spectral Analysis.</p></li>
+</ol>
+<div id="tbl-alpha">
+<table>
+<caption>Table 1: Alpha waves</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th>Amplitude</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Wave 1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wave 2</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Wave 3</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wave 4</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tbl-noalpha">
+<table>
+<caption>Table 2: Absence of alpha waves</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th>Amplitude</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Wave 1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wave 2</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Wave 3</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Wave 4</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</section>
+<section id="spectral-analysis-tutorial" class="level1">
+<h1>Spectral Analysis Tutorial</h1>
+<p>LabChart provides a module called <strong>Spectrum View</strong> that allows you to observe the <strong>frequency distribution of EEG data</strong> that might not otherwise be easily seen. For example, it could be used to break down an EEG waveform into its various components: beta waves, alpha waves, theta waves and delta waves.</p>
+<p>Spectrum view conducts a spectral analysis of the data by separting the complex EEG signal into its component waveforms which differ by frequency. Specifically we will use the “<em>fast Fourier transform</em>”, which is one method of conducting a spectral analysis on the raw EEG data. It is more important, however, is for you to understand what this method is accomplishing. If we think of the EEG as the sum of many <em>sine waves of many different frequencies</em>, the spectral analysis splits the complex wave into individual wave forms and adds up the numbers of waves of each frequency. Thus, what we see is a plot of the power (y-axis) of different frequencies (x-axis) relative to each other in the input signal. Here <em>power</em> is equivalent to <em>amplitude</em> or a <em>count of the numbers</em> of waves at the given frequency along the x-axis. This is called a Power Spectrum Density (PSD) plot. The data can also be displayed as 3-dimensional color plot of spectral power, frequency, and time called a Spectrogram. (Donʻt get confused, <em>frequency</em> in this context refers to how many Hertz or cycles per second characterize each waveform, not the numbers of waves of each Hz we are counting - the power.)</p>
+<ol type="1">
+<li><p>Click on the home button on the lower left of the screen to open the Welcome Center. In the Experiments tab browse the “EEG Spectral Analysis Tutorial.” It will be in the Settings folder for this experiment. Open this file.</p></li>
+<li><p>Examine the Chart View. Use the View Buttons to view each block. You should see five blocks of data. The first record is a slowly oscillating sine wave</p></li>
+<li><p>Open Spectrum view by clicking on the Spectrum View button in the Toolbar (<a href="#fig-button">Figure 5</a>).</p></li>
+</ol>
+<div id="fig-button" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-spectral-button.png" class="img-fluid" /></p>
+<figcaption>Figure 5: Spectrum View Toolbar button.</figcaption>
+</figure>
+</div>
+<ol start="4" type="1">
+<li><p>Click the Smart Tile button in the LabChart Toolbar to display both windows in full screen mode.</p></li>
+<li><p>In Chart View Select the first record by double clicking in the Time axis. This will perform a spectral analysis for this record and displays the result in the Spectrum view. Adjust the horizontal scaling of plots to view the results:</p></li>
+</ol>
+<ul>
+<li>Set the horizontal scaling for the Power Spectrum Density (PSD) plot to 50 Hz (<a href="#fig-eeg-hz">Figure 6</a>). Use the horizontal scroll bar to display the 0 Hz to 50 Hz region of the plot.</li>
+</ul>
+<div id="fig-eeg-hz" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-eeg-hz.png" class="img-fluid" /></p>
+<figcaption>Figure 6: Spectrum PSD Scale.</figcaption>
+</figure>
+</div>
+<ul>
+<li>Set the horizontal scaling for the Spectrogram to 50:1.</li>
+</ul>
+<ol start="6" type="1">
+<li>Examine the PSD plot and then the first section of the Spectrogram. Expand the vertical axes if necessary. Use the waveform cursor to identify the frequency in Hertz (Hz) of the peak in the PSD plot and the band in the Spectrogram. Values are displayed at the top of each plot.</li>
+</ol>
+<ul>
+<li>What is the frequency in Hertz (Hz) of this sine wave? ______<br />
+</li>
+</ul>
+<ol start="7" type="1">
+<li>Select the second record and again view the result in the Spectrum view.</li>
+</ol>
+<ul>
+<li>What is the frequency in Hertz (Hz) of this second sine wave? _____</li>
+</ul>
+<ol start="8" type="1">
+<li>Select the third record and again view the result in the Spectrum view. You should now see two prominent peaks (PSD plot) and bands (Spectrogram) in the result.</li>
+</ol>
+<ul>
+<li>Are these two peaks/bands the same as for the first two records? _____</li>
+</ul>
+<ol start="9" type="1">
+<li>Select the fourth record and again view the result in the Spectrum view.</li>
+</ol>
+<ul>
+<li>Is there any regular signal within this record? _____<br />
+</li>
+</ul>
+<ol start="10" type="1">
+<li><p>In Chart View compare the signal amplitudes of the fourth and fifth records. Note that the fifth record has lower amplitude compared with the fourth record.</p></li>
+<li><p>Select the fourth record again. In the Spectrum view examine the PSD plot. Move the Waveform Cursor to the prominent peak.</p></li>
+</ol>
+<ul>
+<li><p>What is the frequency (Hz) of this signal? _____</p></li>
+<li><p>What is the power (mV2) of this signal? _____</p></li>
+</ul>
+<ol start="12" type="1">
+<li>Select the fifth record and examine the PSD plot. Move the Waveform Cursor to the peak.</li>
+</ol>
+<ul>
+<li><p>What is the frequency (Hz) of this signal? _____</p></li>
+<li><p>What is the power (mV2) of this signal? _____</p></li>
+</ul>
+<ol start="13" type="1">
+<li>Examine the Spectrogram. Note that the band corresponding to the signal’s frequency appears to missing. This is because the power of the signal is small compared with the previous four records. Expand the scale on the right hand side of the Spectrogram by setting the scale closer to the power of the signal (e.g., 0 to 0.004 V<span class="math inline">\(^2\)</span>) (<a href="#fig-6a">Figure 7</a>,<a href="#fig-6b">Figure 8</a>). Note that the band is now visible at the expected frequency.</li>
+</ol>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-6a" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-6a.png" class="img-fluid" /></p>
+<figcaption>Figure 7: Spectrogram drop-down menu</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-6b" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-6b.png" class="img-fluid" /></p>
+<figcaption>Figure 8: Set scale dialog box</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<ol start="14" type="1">
+<li>The fifth record is the same signal as the fourth record, except that the quality of the raw signal has been affected. Compare your features (amplitude, power, frequency) of the fourth and fifth record.</li>
+</ol>
+<ul>
+<li>How has the quality of the signal affected the wave features? _____</li>
+</ul>
+<section id="analysis-excercise-2-alpha-waves-in-the-eeg" class="level3">
+<h3>Analysis Excercise 2: Alpha waves in the EEG</h3>
+<p>Now you will use Spectral Analysis to examine the EEG you recorded.</p>
+<ol type="1">
+<li>Use the View Buttons to change the horizontal compression to 10:1 (<a href="#fig-eeg">Figure 9</a>).</li>
+</ol>
+<div id="fig-eeg" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-eeg.png" class="img-fluid" /></p>
+<figcaption>Figure 9: Alpha Waves with 10:1 Compression</figcaption>
+</figure>
+</div>
+<ol start="2" type="1">
+<li>Find the part of the recording when the volunteer had his/her eyes shut. Click-and-drag across this part of the raw data trace to select it. From the Window menu, select Spectrum. In the Spectrum View choose Selected (<a href="#fig-alpha">Figure 10</a>).</li>
+</ol>
+<div id="fig-alpha" class="quarto-figure quarto-figure-center">
+<figure>
+<p><img src="../../images/lab11-alpha.png" class="img-fluid" /></p>
+<figcaption>Figure 10: Spectrum of an EEG</figcaption>
+</figure>
+</div>
+<ol start="3" type="1">
+<li><p>Alpha activity shows up in the PSD plot as a clear peak in the 8-12 Hz range. Then print the PSD plot.</p></li>
+<li><p>Alpha activity shows up in the Spectrogram as a band of color in the 8-12 Hz range. If you cannot see the alpha activity as a clear peak in the 8-12 Hz range, scale the horizontal and vertical axes. Note that Spectrogram displays all the recorded data and that the selection you have made is highlighted in a darker blue color.</p></li>
+<li><p>Make a data selection of several seconds from when the volunteer had their eyes open. Select Spectrum. Note that in the PSD plot the peak in the alpha activity range of 8-12 Hz is small or absent and in the Spectrogram the band of color in the alpha activity range of 8-12 Hz is weak or absent. Print the PSD plot.</p></li>
+<li><p>In the Spectrogram scale the horizontal axis so that all the data is visible. Note the presence and absence of the band of color in the alpha activity range of 8-12 Hz which correspond with the eyes shut and eyes open conditions. Print the Spectrogram.</p></li>
+</ol>
+</section>
+</section>
+<section id="food-for-thought" class="level1">
+<h1>Food for thought</h1>
+<ol type="1">
+<li><p>How does the human anatomy make it difficult ot record and electroencephalogram or EEG?</p></li>
+<li><p>What are common causes of the artifacts you recorded in Exercise 1? Name at least 3.</p></li>
+<li><p>In exercise 2, under what conditions did you see alpha waves more clearly?</p></li>
+<li><p>What are alpha waves thought to indicate?</p></li>
+<li><p>Look at your Spectral Analysis from when the volunteer had their eyes shut. At what range do you have the greatest peak? What type of brain waves does the Spectral Analysis suggest is active? Compare this with the same for the eyes open treatment.</p></li>
+</ol>
+</section>
+<section id="after-lab" class="level1">
+<h1>After Lab:</h1>
+<ul>
+<li>This will be a group lab report.</li>
+<li>Please divide the work of writing the report <strong>by experiment</strong>, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections.</li>
+<li>Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion. In the discussion circle back to the hypothesis and really try to interpret your results in light of muscle physiology mechanisms.</li>
+<li>Please remember to include respective contributions.</li>
+</ul>
+<p>Citations:</p>
+<p>Vibell, J. (2023?) Ch. 3 Electroencephalography.</p>
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden" data-render-id="quarto-int-sidebar-title">ZOOL430/430L Animal Physiology and Laboratory</span> <span class="hidden" data-render-id="quarto-int-navbar-title">ZOOL430/430L Animal Physiology and Laboratory</span> <span class="hidden" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:General Information">General Information</span> <span class="hidden" data-render-id="quarto-int-navbar:Syllabus">Syllabus</span> <span class="hidden" data-render-id="quarto-int-navbar:/syllabus.html">/syllabus.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Schedule">Schedule</span> <span class="hidden" data-render-id="quarto-int-navbar:/schedule.html">/schedule.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Course Materials">Course Materials</span> <span class="hidden" data-render-id="quarto-int-navbar:Lectures">Lectures</span> <span class="hidden" data-render-id="quarto-int-navbar:/lectures.html">/lectures.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Labs">Labs</span> <span class="hidden" data-render-id="quarto-int-navbar:/labs.html">/labs.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Slides">Slides</span> <span class="hidden" data-render-id="quarto-int-navbar:/slides.html">/slides.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Projects">Projects</span> <span class="hidden" data-render-id="quarto-int-navbar:/projects.html">/projects.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Resources">Resources</span> <span class="hidden" data-render-id="quarto-int-navbar:/resources.html">/resources.html</span> <span class="hidden" data-render-id="quarto-int-navbar:https://github.com/mbutler808">https://github.com/mbutler808</span> <span class="hidden" data-render-id="quarto-int-navbar:https://twitter.com/mbutler808">https://twitter.com/mbutler808</span> <span class="hidden" data-render-id="quarto-int-navbar:/index.xml">/index.xml</span></p>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden" data-render-id="quarto-metatitle">ZOOL430/430L Animal Physiology and Laboratory - Lab 11: Human Electroencephalography (EEG)</span> <span class="hidden" data-render-id="quarto-twittercardtitle">ZOOL430/430L Animal Physiology and Laboratory - Lab 11: Human Electroencephalography (EEG)</span> <span class="hidden" data-render-id="quarto-ogcardtitle">ZOOL430/430L Animal Physiology and Laboratory - Lab 11: Human Electroencephalography (EEG)</span> <span class="hidden" data-render-id="quarto-metasitename">ZOOL430/430L Animal Physiology and Laboratory</span> <span class="hidden" data-render-id="quarto-twittercarddesc">Recording human brain waves</span> <span class="hidden" data-render-id="quarto-ogcardddesc">Recording human brain waves</span></p>
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id = "quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+</body>
+
+</html>
