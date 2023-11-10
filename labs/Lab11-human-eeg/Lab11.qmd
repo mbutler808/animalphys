@@ -85,9 +85,9 @@ Experiments on learning?  I will work on this.
 
 2.  Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (@fig-setup).  The hardware needs to be connected __before__ you open the settings file.
 
-3.  Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable.  Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead. Channel 2 electrodes will lead to either side of the inion (the bump on the back of the head above the neck) and the Earth will lead to the temple.  Refer to Figure 1 for proper placement, but do not attach them to the volunteer.  Follow the color scheme on the Bio Amp Cable.
+3.  Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable.  Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead to record across the frontal lobe. Channel 2 "posiyive" and "negative" electrodes will cross the occipital lobe on the back of the head just above the neck. The Earth electrode will lead to the bare skin just behind the ear on the left side.  Refer to Figure 1 for proper placement, but do not attach them to the volunteer.  Follow the color scheme on the Bio Amp Cable.
 
-4. Remove any jewelry from the volunteer’s face, ears, and neck.  Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and temple.  Use Figure 1 as a guide.  Abrade the skin with Abrasive Gel or Pad.  This is important as abrasion helps reduce the skin’s resistance.
+4. Remove any jewelry from the volunteer’s face, ears, and neck.  Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and behind the ear.  Use Figure 1 as a guide.  Abrade the skin with Abrasive Gel or Pad.  This is important as abrasion helps reduce the skin’s resistance.
 
 5. After abrasion, clean the area with an alcohol swab to remove the dead skin cells.  While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (@fig-setup) and keep the electrodes and wires in place with the medical tape.   Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head.  This will help the electrodes maintain good contact with the skin. Make sure the electrode wires are nearly unwound and do not cross over any power cables or electronic equipment.
 
@@ -139,7 +139,7 @@ In this exercise, you will examine the effects of relaxation and eye movement on
 
 2.  Start recording.  Record for 30 seconds.  Prepare a comment with “open;” do not enter it yet.
 
-3.  Tell the volunteer to open both eyes.  Immediately press Return/Enter to add the comment.  Record with the volunteer’s eyes open for 10 seconds.  Do not stop recording.
+3.  Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. The subject should not be reading anything or moving their eyes around. Keep head, neck, and eyes very still with the gaze focused on a single point in front of them. Record with the volunteer’s eyes open for 10 seconds.  Do not stop recording.
 
 4.  Prepare a comment with “shut.”  When the 10 seconds are complete, tell the volunteer to close both eyes.  Immediately press Return/Enter to add the comment.
 
@@ -269,38 +269,42 @@ Now you will use Spectral Analysis to examine the EEG you recorded.
 
 
 # Exercise 3: Note Taking Strategies
-In this exercise, you will compare wave frequencies during different modes of note taking.
+In this exercise, you will compare abundance of different wave frequencies in different brain regions during various modes of note taking.
 
-1. On the desk in front of the subject, there will be a paper with prompts for your learning activities.
+1. On the desk in front of the subject, there will be a paper with prompts for your learning activities. The experimentor will use a top sheet to cover the prompts, moving it down to expose the next line as you move through each experiment.
 
-2. Start the recording and drop a comment that says "begin handwritten copying". Have the subject read the first line on the prompt sheet and copy it using the pen and paper in front of them. It is important to keep eyes and head very still while writing to prevent artifacts. Blinking is OK. Drop another comment when they have finished writing.
+2. With the subject seated comfortably, start the recording and drop a comment saying "begin hand movement control". As before during the eyes open/closed trials, the subject will open their eyes, not reading anything and holding very still. This time, have the subject gently move their hand as if they are writing/typing. Record for 30 seconds and drop a comment when done.
 
-3. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence using the pen and paper. Drop a comment when finished.
+2. Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says "begin handwritten copying". Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.
 
-4. For the final handwriting exercise, drop a comment saying "begin handwritten dictation". This time the experimentor will read the third prompt on the sheet out loud to the subject who will copy what they are saying verbatim using pen and paper. Drop a comment when finished.
+3. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.
 
-5. Repeat steps 2-3 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase, and noting dictation) using cursive handwriting and typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
+5. Repeat steps 3 & 4 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase) using cursive handwriting and then typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
 
-7. For the 10th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
+7. For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
 
-6. For the 11th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
+6. For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
 
-### Analysis Excercise 3: Note Taking Strategies
+8. Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.
+
+## Analysis
+
+### Excercise 3: Note Taking Strategies
 Steps 1-3 __must__ be done in class. You can not do this on your home version of LabChart.
 
-1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both "EEG Frontal" and "EEG Occipital channels".
+1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both "EEG Frontal" and "EEG Occipital" channels.
 
 2. In the top menu, select File -> Export -> Spectrum PSD Text file. This will create a text file with the relative abundance of waves at different frequencies for both the frontal and occipital regions. Save this file with a name corresponding to which treatment the data came from, for example, "Handwritten_Copying.txt".
 
-3. Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, dictation) as well as drawing and reading only. Also do this process for "eyes open" and "eyes closed" data for control. You should have a total of 13 text files.
+3. Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, your choice) as well as drawing and reading only. Also do this process for "eyes open" and "eyes closed" data for control. You should have at least 12 text files total.
 
-4. Make a copy of this Google sheet <insert link> and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the alpha frequency range (8-12 Hz) and beta frequency range (13-30Hz).
+4. Make a copy of this Google sheet <insert link> and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the alpha frequency range (8-12 Hz) and beta frequency range (13-25Hz).
 
 5. Now you can compare the abundance of different wave types in different areas of the brain for each activity. With your group, come up with 5 comparisons to tell you something about brain activity during different modes of note taking.
 
 # Food for thought
 
-1. How does the human anatomy make it difficult ot record and electroencephalogram or EEG?
+1. How does the human anatomy make it difficult to record and electroencephalogram or EEG?
 
 2. What are common causes of the artifacts you recorded in Exercise 1? Name at least 3.
 
@@ -309,6 +313,8 @@ Steps 1-3 __must__ be done in class. You can not do this on your home version of
 4. What are alpha waves thought to indicate?
 
 5. Look at your Spectral Analysis from when the volunteer had their eyes shut. At what range do you have the greatest peak? What type of brain waves does the Spectral Analysis suggest is active? Compare this with the same for the eyes open treatment.
+
+6. What is the purpose of taking a control measurement with hand movement only?
 
 
 # After Lab:
