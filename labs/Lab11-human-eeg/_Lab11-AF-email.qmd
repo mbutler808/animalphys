@@ -1,0 +1,329 @@
+---
+title: "Lab 11: Human Electroencephalography (EEG)"
+author:
+  - name: Marguerite Butler
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Recording human brain waves"
+date: 2023-11-06
+toc: true
+format:
+  html: default
+  pdf: default
+categories: [week 13, labs, electrical activity, electrophysiology, human, EEG, brain waves, synapses]
+---
+
+### Acknowledgements
+
+Material for this lab was borrowed and adopted from
+
+-   Electroencephalography Protocol. Written by Staff of ADInstruments for LabChart 8.
+
+
+:::{.callout-note}
+# Prepare for lab by:
+- Read the lab manual below.
+- Read from Eckert ch. 10 \[[readings](https://drive.google.com/drive/folders/1BSLdFEnnLw0N6z-ouBI-Y50ZeY_5FItl?usp=share_link)\]:  Mechanics of Muscle Contraction 375-379, Active State, Twitch and Tetanus 391- 392, Motor Control vertebrate 410 - 411
+- Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook. ___Please DO NOT copy the lab manual word for word.__ Your task is to **summarize** the important points that are useful for developing hypotheses for this experiment._
+- This week, draft hypotheses for each experiment.
+- To obtain feedback from your TAs, __for the prelab please have the hypotheses, figuring out how many ideas you have to cover, and writing a topic sentence for each paragraph:__
+  + Umbrella idea
+  + introduce mechanism 1
+  + introduce mechanism 2
+  + ...
+  + end with a paragraph of your hypotheses
+- For the __methods__, outline:
+  + subjects
+  + equipment
+  + experimental treatments (be sure to note what __variables__ are changing) and controls or comparisons
+  + analysis
+- Do Quiz on Laulima (open 24 hrs before lab).
+- Please bring a laptop with you to lab, if possible, to analyze your experimental results.
+:::
+
+:::{.callout-note}
+# Summary
+
+- We will explore the electrical activity of the human brain while doing various activities, using a technique called electroencephalography (EEG). There has been a lot of debate on various modes of study, we will test these ideas by measuring brain activity in two regions of the brain.
+:::
+
+# Background
+
+What EEG is measuring
+
+Brain waves (@fig-brainwaves)
+
+![EEG and wave bands.](../../images/lab11-brainwaves.png){#fig-brainwaves}
+
+Experiments on learning?  I will work on this.
+
+### What you will do in the laboratory
+
+1.  _Setup_. Check that the equipment are set up correctly and ready to record.
+2.  _Muscle activation with increasing load_. You will increase the load on the muscle-joint system, and measure changes in electrical activation of the biceps.
+3.  _Alternating activity and coactivation_. You will explore the function of antagonistic muscles and demonstrate coactivation.
+4.  _Several of your own experiments_. See below for ideas.
+
+## Equipment
+
+-  PowerLab data acquisition system
+-  LabChart 8 or later
+-  5 Lead Shielded Bio Amp Cable
+-  EEG Flat Electrodes
+-  Electrode Cream or Paste
+-  Alcohol Swabs
+-  Ace Bandgage
+-  Tape
+
+
+# Procedure
+
+## Subject preparation
+
+1.  Make sure the PowerLab is turned off and the USB cable is connected to the computer.
+
+2.  Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (@fig-setup).  The hardware needs to be connected __before__ you open the settings file.
+
+3.  Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable.  Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead to record across the frontal lobe. Channel 2 "posiyive" and "negative" electrodes will cross the occipital lobe on the back of the head just above the neck. The Earth electrode will lead to the bare skin just behind the ear on the left side.  Refer to Figure 1 for proper placement, but do not attach them to the volunteer.  Follow the color scheme on the Bio Amp Cable.
+
+4. Remove any jewelry from the volunteer’s face, ears, and neck.  Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and behind the ear.  Use Figure 1 as a guide.  Abrade the skin with Abrasive Gel or Pad.  This is important as abrasion helps reduce the skin’s resistance.
+
+5. After abrasion, clean the area with an alcohol swab to remove the dead skin cells.  While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (@fig-setup) and keep the electrodes and wires in place with the medical tape.   Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head.  This will help the electrodes maintain good contact with the skin. Make sure the electrode wires are nearly unwound and do not cross over any power cables or electronic equipment.
+
+6. Have the volunteer seated in a comfortable position at the table with paper and pen and a laptop in front of them. During the experiment is important to minimize muscle movement and ensure that none of the electrodes are disturbed or compressed.
+
+7. Check that all five electrodes are properly connected to the volunteer and the Bio Amp Cable before proceeding.  Turn on the PowerLab. (@fig-setup).
+
+
+![Electrodes and cable setup. We will use five electrodes to record from two channels and a ground. Follow instructions provided by your TA for electrode placement.](../../images/lab11-eeg-setup.png){#fig-setup}
+
+
+
+## Software Setup
+
+1. Start Chart using the EEG lab settings file.  Four channels should appear: the __EEG frontal__ and the __EEG occipital__, and : __Alpha power frontal__ and __Alpha power occipital__.
+
+2. Make sure that the EEG channels are set to the “Bioamp”.  Make sure the settings are as follows: Range 200 $\mu$V, High Pass 0.5 Hz, and Low Pass 50 Hz (@fig-bioamp). Check that the spectral input is reading the channels for the EEG. You may have to change the inputs to match the correct channel number. If you are using the new setup, you may have to change and restart Chart (several times) with the Bioamp cable connected for it to appear in the menu. If you are using the old setup, the little green light on the front of the Bioamp should be on. Ask your TA for help if needed.
+
+![Check your recording and filter settings in the Bioamp dialog box.](../../images/lab11-bioamp-dialog.png){#fig-bioamp}
+
+
+# Exercise 1: Recognizing Artifacts
+
+1.  Start recording.  Ask the volunteer blink repeatedly and add a comment “blinking”.  Stop recording after 10 seconds.
+
+2.  Record the volunteer making eye movements.  Add a comment “eye movements.”  Have the volunteer gaze up-and-down and left-and-right in a repeated pattern.  Make sure the volunteer is keeping their head still and only moving their eyes.
+
+3.  Record the volunteer making head movements.
+
+4.  Record the volunteer making jaw movements.
+
+5.  Record the volunteer swallowing.
+
+6.  Save your data, and open a new file with the same settings.
+
+
+## Analysis
+
+### Exercise 1: Recognizing Artifacts
+
+1. Examine the vertical scale at the left of the Chart View, and note the positions corresponding to +50 µV and –50 µV.  True EEG signals rarely exceed these limits.
+
+2. Examine the entire data trace and Autoscale, if necessary.  There may be some large signals outside the ±75 µV range.  Such large signals are artifacts.
+
+# Exercise 2: Alpha Waves in the EEG
+In this exercise, you will examine the effects of relaxation and eye movement on alpha waves in the EEG.
+
+1.  Make sure the volunteer is relaxed and comfortable.  Have the volunteer close his/her eyes and remain quiet.  Keep noise to a minimum and keep all distractions away from the volunteer.
+
+2.  Start recording.  Record for 30 seconds.  Prepare a comment with “open;” do not enter it yet.
+
+3.  Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. The subject should not be reading anything or moving their eyes around. Keep head, neck, and eyes very still with the gaze focused on a single point in front of them. Record with the volunteer’s eyes open for 10 seconds.  Do not stop recording.
+
+4.  Prepare a comment with “shut.”  When the 10 seconds are complete, tell the volunteer to close both eyes.  Immediately press Return/Enter to add the comment.
+
+5.  Repeat steps 3 and 4 twice, to give you three sets of results.  Save your data.
+
+## Analysis: Alpha Waves in the EEG
+
+1. Examine the entire data trace.  Use the View Buttons to change the horizontal compression to see data with eyes open and shut.  Make a data selection that includes some data from both eyes open and eyes shut conditions. View this selection in Zoom View. This should make it easier to see the alpha wave activity (@fig-eeg-raw).  Now Autoscale, if necessary.
+
+
+![EEG signal with eyes shut and open. Note alpha waves during eyes shut.](../../images/lab11-eeg-raw.png){#fig-eeg-raw}
+
+2. In Chart View scroll through the "eyes shut" recording to look for alpha waves.  Use the View Buttons to change the horizontal compression if necessary. The alpha waves can be recognized by their amplitude (usually 30 to 50 $\mu$V peak-to-peak, although it can be quite variable) and their frequency.  Each cycle of an alpha wave should last approximately 0.1 s.
+
+Note: If you cannot find brain activity that matches the alpha rhythm, re-attach the electrodes and repeat this exercise.
+
+3. Use the Marker and Waveform Cursor to measure the amplitude of the alpha waves.  Place the Marker at the lowest point of the wave and move the Waveform Cursor to the peak of the wave. Measure the amplitudes of five waves from when the volunteer’s eyes were closed.  Record the values in @tbl-alpha.
+
+4. Now measure wave amplitudes when the volunteer’s eyes were open.  Record these values in @tbl-noalpha .
+
+5. The amplitude of the waves is affected by the quality of the EEG signal. Therefore, it is useful to examine the frequency and power of the wave activity.  Spectral analysis can be used to examine these features of a signal. Before examining your EEG signal you will complete a short tutorial on Spectral Analysis.
+
+|  | Amplitude  |
+| ----  | ----  |
+| Wave 1 | |
+| Wave 2 | |
+| Wave 3 | |
+| Wave 4 | |
+
+: Alpha waves {#tbl-alpha}
+
+|  | Amplitude  |
+| ----  | ----  |
+| Wave 1 | |
+| Wave 2 | |
+| Wave 3 | |
+| Wave 4 | |
+
+: Absence of alpha waves {#tbl-noalpha}
+
+# Spectral Analysis Tutorial
+
+LabChart provides a module called __Spectrum View__ that allows you to observe the __frequency distribution of EEG data__ that might not otherwise be easily seen. For example, it could be used to break down an EEG waveform into its various components: beta waves, alpha waves, theta waves and delta waves.
+
+Spectrum view conducts a spectral analysis of the data by separting the complex EEG signal into its component waveforms which differ by frequency.  Specifically we will use the "_fast Fourier transform_", which is one method of conducting a spectral analysis on the raw EEG data. It is more important, however, is for you to understand what this method is accomplishing. If we think of the EEG as the sum of many _sine waves of many different frequencies_, the spectral analysis splits the complex wave into individual wave forms and adds up the numbers of waves of each frequency. Thus, what we see is a plot of the power (y-axis) of different frequencies (x-axis) relative to each other in the input signal. Here _power_ is equivalent to _amplitude_ or a _count of the numbers_ of waves at the given frequency along the x-axis. This is called a Power Spectrum Density (PSD) plot. The data can also be displayed as 3-dimensional color plot of spectral power, frequency, and time called a Spectrogram.  (Donʻt get confused, _frequency_ in this context refers to how many Hertz or cycles per second characterize each waveform, not the numbers of waves of each Hz we are counting - the power.)
+
+1. Click on the home button on the lower left of the screen to open the Welcome Center.   In the Experiments tab browse the “EEG Spectral Analysis Tutorial.”  It will be in the Settings folder for this experiment. Open this file.
+
+2. Examine the Chart View. Use the View Buttons to view each block.  You should see five blocks of data.  The first record is a slowly oscillating sine wave
+
+3. Open Spectrum view by clicking on the Spectrum View button in the Toolbar (@fig-button).
+
+![Spectrum View Toolbar button.](../../images/lab11-spectral-button.png){#fig-button}
+
+4. Click the Smart Tile button in the LabChart Toolbar to display both windows in full screen mode.
+
+5. In Chart View Select the first record by double clicking in the Time axis.  This will perform a spectral analysis for this record and displays the result in the Spectrum view. Adjust the horizontal scaling of plots to view the results:
+
+  - Set the horizontal scaling for the Power Spectrum Density (PSD) plot to 50 Hz (@fig-eeg-hz). Use the horizontal scroll bar to display the 0 Hz to 50 Hz region of the plot.
+
+![Spectrum PSD Scale.](../../images/lab11-eeg-hz.png){#fig-eeg-hz}
+
+  - Set the horizontal scaling for the Spectrogram to 50:1.
+
+6. Examine the PSD plot and then the first section of the Spectrogram. Expand the vertical axes if necessary. Use the waveform cursor to identify the frequency in Hertz (Hz) of the peak in the PSD plot and the band in the Spectrogram. Values are displayed at the top of each plot.
+
+  - What is the frequency in Hertz (Hz) of this sine wave? ______
+7. Select the second record and again view the result in the Spectrum view.
+
+  - What is the frequency in Hertz (Hz) of this second sine wave? _____
+
+8. Select the third record and again view the result in the Spectrum view.  You should now see two prominent peaks (PSD plot) and bands (Spectrogram) in the result.
+
+  - Are these two peaks/bands the same as for the first two records? _____
+
+9. Select the fourth record and again view the result in the Spectrum view.
+
+  - Is there any regular signal within this record? _____
+10. In Chart View compare the signal amplitudes of the fourth and fifth records. Note that the fifth record has lower amplitude compared with the fourth record.
+
+11. Select the fourth record again. In the Spectrum view examine the PSD plot. Move the Waveform Cursor to the prominent peak.
+
+  -  What is the frequency (Hz) of this signal? _____
+
+  -  What is the power (mV2) of this signal? _____
+
+12. Select the fifth record and examine the PSD plot. Move the Waveform Cursor to the peak.
+
+  -  What is the frequency (Hz) of this signal? _____
+
+  -  What is the power (mV2) of this signal? _____
+
+13. Examine the Spectrogram. Note that the band corresponding to the signal’s frequency appears to missing. This is because the power of the signal is small compared with the previous four records. Expand the scale on the right hand side of the Spectrogram by setting the scale closer to the power of the signal (e.g., 0 to 0.004 V$^2$) (@fig-6a,@fig-6b). Note that the band is now visible at the expected frequency.
+
+::: {layout-ncol=2}
+
+![Spectrogram drop-down menu](../../images/lab11-6a.png){#fig-6a}
+
+![Set scale dialog box](../../images/lab11-6b.png){#fig-6b}
+
+:::
+
+14. The fifth record is the same signal as the fourth record, except that the quality of the raw signal has been affected. Compare your features (amplitude, power, frequency) of the fourth and fifth record.
+
+  -  How has the quality of the signal affected the wave features? _____
+
+
+### Analysis Excercise 2: Alpha waves in the EEG
+
+Now you will use Spectral Analysis to examine the EEG you recorded.
+
+1. Use the View Buttons to change the horizontal compression to 10:1 (@fig-eeg).
+
+![Alpha Waves with 10:1 Compression](../../images/lab11-eeg.png){#fig-eeg}
+
+2. Find the part of the recording when the volunteer had his/her eyes shut.  Click-and-drag across this part of the raw data trace to select it.  From the Window menu, select Spectrum. In the Spectrum View choose Selected (@fig-alpha).
+
+![Spectrum of an EEG](../../images/lab11-alpha.png){#fig-alpha}
+
+3. Alpha activity shows up in the PSD plot as a clear peak in the 8-12 Hz range.  Then print the PSD plot.
+
+4. Alpha activity shows up in the Spectrogram as a band of color in the 8-12 Hz range. If you cannot see the alpha activity as a clear peak in the 8-12 Hz range, scale the horizontal and vertical axes.  Note that Spectrogram displays all the recorded data and that the selection you have made is highlighted in a darker blue color.
+
+5. Make a data selection of several seconds from when the volunteer had their eyes open.  Select Spectrum.  Note that in the PSD plot the peak in the alpha activity range of 8-12 Hz is small or absent and in the Spectrogram the band of color in the alpha activity range of 8-12 Hz is weak or absent.  Print the PSD plot.
+
+6. In the Spectrogram scale the horizontal axis so that all the data is visible. Note the presence and absence of the band of color in the alpha activity range of 8-12 Hz which correspond with the eyes shut and eyes open conditions. Print the Spectrogram.
+
+
+# Exercise 3: Note Taking Strategies
+In this exercise, you will compare abundance of different wave frequencies in different brain regions during various modes of note taking.
+
+1. On the desk in front of the subject, there will be a paper with prompts for your learning activities. The experimentor will use a top sheet to cover the prompts, moving it down to expose the next line as you move through each experiment.
+
+2. With the subject seated comfortably, start the recording and drop a comment saying "begin hand movement control". As before during the eyes open/closed trials, the subject will open their eyes, not reading anything and holding very still. This time, have the subject gently move their hand as if they are writing/typing. Record for 30 seconds and drop a comment when done.
+
+3. Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says "begin handwritten copying". Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.
+
+4. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.
+
+5. Repeat steps 3 & 4 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase) using cursive handwriting and then typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
+
+6. For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
+
+7. For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
+
+8. Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.
+
+## Analysis
+
+### Excercise 3: Note Taking Strategies
+Steps 1-3 __must__ be done in class. You can not do this on your home version of LabChart.
+
+1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both "EEG Frontal" and "EEG Occipital" channels.
+
+2. In the top menu, select File -> Export -> Spectrum PSD Text file. This will create a text file with the relative abundance of waves at different frequencies for both the frontal and occipital regions. Save this file with a name corresponding to which treatment the data came from, for example, "Handwritten_Copying.txt".
+
+3. Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, your choice) as well as drawing and reading only. Also do this process for "eyes open" and "eyes closed" data for control. You should have at least 12 text files total.
+
+4. Make a copy of this Google sheet <insert link> and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the alpha frequency range (8-12 Hz) and beta frequency range (13-25Hz).
+
+5. Now you can compare the abundance of different wave types in different areas of the brain for each activity. With your group, come up with 5 comparisons to tell you something about brain activity during different modes of note taking.
+
+# Food for thought
+
+1. How does the human anatomy make it difficult to record and electroencephalogram or EEG?
+
+2. What are common causes of the artifacts you recorded in Exercise 1? Name at least 3.
+
+3. In exercise 2, under what conditions did you see alpha waves more clearly?
+
+4. What are alpha waves thought to indicate?
+
+5. Look at your Spectral Analysis from when the volunteer had their eyes shut. At what range do you have the greatest peak? What type of brain waves does the Spectral Analysis suggest is active? Compare this with the same for the eyes open treatment.
+
+6. What is the purpose of taking a control measurement with hand movement only?
+
+
+# After Lab:
+
+- This will be a group lab report.
+- Please divide the work of writing the report __by experiment__, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections.
+- Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion. In the discussion circle back to the hypothesis and really try to interpret your results in light of muscle physiology mechanisms.
+- Please remember to include respective contributions.
+
+Citations:
+
+Vibell, J. (2023?) Ch. 3 Electroencephalography.

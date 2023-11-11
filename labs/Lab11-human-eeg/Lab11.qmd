@@ -1,16 +1,18 @@
 ---
 title: "Lab 11: Human Electroencephalography (EEG)"
 author:
-  - name: Marguerite Butler
+  - name: Allison Fisher and Marguerite Butler
     url: https://butlerlab.org
     affiliation: School of Life Sciences, University of Hawaii
     affiliation_url: https://manoa.hawaii.edu/lifesciences/
 description: "Recording human brain waves"
 date: 2023-11-06
 toc: true
+bibliography: ../../animalphys.bib
 format:
   html: default
   pdf: default
+  docx: default
 categories: [week 13, labs, electrical activity, electrophysiology, human, EEG, brain waves, synapses]
 ---
 
@@ -50,20 +52,54 @@ Material for this lab was borrowed and adopted from
 
 # Background
 
-What EEG is measuring
+The __cerebral cortex__ of the brain is the most developed in mammals and is a major center of information processing and integration (@fig-brain). It plays a key role in many cognitive processes including attention, motor control and sensory-motor integration, memory, and language. The electrical activity of the brain can be measured non-invasively through __electroencephalography__ [EEG, @Vibell:2023], and furthermore can be used to monitor brain waves associated with behaviors.
 
-Brain waves (@fig-brainwaves)
+In humans the different regions of the cerebral cortex have been mapped to different functions (@fig-brain). For example the __frontal lobe__ _integrates_ many different processes including inputs, outputs, and control of movements (motor behavior), speech, and other behaviors, as well as cognitive and emotional processes. Humans are able to synthesize and prioritize the numerous inputs to produce optimal responses to changes in our environment. The __occipital lobe__ plays a major role in visual processing. It is involved in object and facial recognition, depth perception, color recognition, and relays visual information to other regions of the brain. It receives visual information from the retina, but also receives input from other regions of the brain.
 
-![EEG and wave bands.](../../images/lab11-brainwaves.png){#fig-brainwaves}
+![The human cerebrum, annotated with functional regions (lobes). Bectorized by [Jkwchui](http://training.seer.cancer.gov/module_anatomy/unit5_3_nerve_org1_cns.html), CC BY-SA 3.0, [original](https://commons.wikimedia.org/w/index.php?curid=29055751)](../../images/lab11-cerebrum-lobes.png){#fig-brain}
 
-Experiments on learning?  I will work on this.
+EEG is measuring electrical activity from cerebral cortex using skin surface electrodes on the scalp. Although the human brain has about 100 billion neurons, the electrical signals emitted by neurons are weak and have to pass through the cerebrospinal fluid, skull, scalp, and hair before being detected by the electrodes. The EEG technique takes advantage of the fact that the outermost portion of the cerebral cortex have neurons with a particular arrangement of their synapses such that they are all aligned and pointed outward (called "open field") so that their electrical dipoles align and their signals sum [@Vibell:2023].  Thus what we are actually measuring are the summed activities of a large number of so-called pyrimidal neurons (@fig-neurons) near the electrodes. 
+
+Pyrimidal neurons are the most numerous excitatory neurons in the cerebral cortex [@Bekkers:2011]. They transform the sum of synaptic inputs into patterns of action potentials which may travel to other regions of the brain, or to muscle targets far away in the body to signal motor behavior. When we perform EEG we are measuring the activities of many (100s of thousands of) pyrimidal neurons as they go about processing information and coordinating activity.
+
+::: {#fig-neurowave layout-ncol=2}
+
+![Pyrimidal neurons are the most common neuron in the cerebral cortex. The name comes from the triangular shape of their soma. UC Regents Davis campus, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons](../../images/lab11-pyrimidal-neurons.jpg){#fig-neurons}
+
+![EEG wave bands differ in temporal frequency, which can be seen on a very clean raw data trace. Typically as the frequency goes up, the amplitude goes down. Figure from @Vibell:2023](../../images/lab11-brainwaves.png){#fig-brainwaves}
+
+Pyrimidal neurons and the most common EEG wave bands.
+:::
+
+Brain waves can be classified by frequency bands. This means that they have characteristic patterns of oscillation over time (@fig-brainwaves). One of the earliest uses of EEG was characterizing brain activity during sleep, which led to the definition of alpha(7-13Hz), beta (13-30Hz), theta (3.5-7Hz) and delta (0.5-3.5Hz) waves [@tbl-eegpatterns; @Vibell:2023]. The dominance of the different frequences changes with different stages of sleep. Although these waves were originally defined during sleep, they do occur with other behavioral states and brain activities.
+
+
+| EEG pattern | Frequency (Hz)| Behavioral/Psychological State  |
+| ----  | ----  |  ----  |
+| Delta | 0.5-3.5 | Deep, restful sleep; vague dream states. |
+| Theta | 3.5-7 | Visual imagery, imagery when falling asleep or just before awakening; light sleep.|
+| Alpha | 7-13 | Awake, non-focused, relaxed, drowsy, or non-vigilant; Low level of environmental stimulation (for example when eyes are closed). |
+| Beta | 13-30 | Awake, alert, focused attention or problem-solving; dream/REM sleep; high level of environmental stimulation (for example when eyes are open). |
+| Gamma | 30-70, >70 | Associated with cognitive processing, correlated with large-scale brain networking. |
+
+: EEG patterns, frequency ranges, and associated behavioral states. Delta, Theta, Alpha, and Beta definitions are from early sleep studies. Slow and fast gamma are associated with cognitive processing. [@Vibell:2023] {#tbl-eegpatterns tbl-colwidths="[20,20,70]"}
+
+
+Alpha waves (8-12 Hz) can be measured spontaneously and are prominent over the occipital (visual) region of the brain.  When our eyes are open and are in an alert state, alpha waves tend to be suppressed. They are prominent when the eyes are closed and we are relaxed (@tbl-eegpatterns). You will do an "eyes open/eyes closed" experiment today. Beta waves increase when we are alert and are associated with focus or problem-solving. Gamma waves are associated with cognitive processing.
+
+It is important to note that brain function is extremely complicated and not perfectly understood. In particular, there is no easy one-to-one interpretation of brain frequencies with particular cogntive functions. In other words, there are likely to be countless processes that generate these wave frequencies. However, EEG is very good at detecting brain activity at great temporal and spatial resolution. The most sophisticated systems use 64-256 electrodes mapped across the brain and can provide spatial and temporal resolution in 3D. We will be using only two sets of electrodes targeting the frontal cortex and the occipital cortex, enough to detect some spatial differences, but we will have much better temporal resultion (and hopefully you can obtain clean signals if you can keep the level of noise down).
+
+Recently, there has been a lot of interest in using EEG to measure brain activity in an educational context. Many studies have established the benefits to learning of taking notes by hand or drawing over typing by computer [see studies cited in @Meer:2017; @Ose-Askvik:2020]. However, whether these can be connected to brain activity is less clear. @Meer:2017 found that a decrease of theta/alpha brain waves (lower frequency) when drawing over typing, implying that the brain is more receptive to learning. Describing words (paraphrasing) was associated with an increase in the upper alpha/beta/gamma range (higher frequency waves), especially during ideation (the formatiom of ideas). @Ose-Askvik:2020 explored brain activity while writing in cursive vs. drawing vs. typing.
+
+Your task today is to explore brain activity in the frontal and occipital cortex while the subject performs different tasks. Can you see changes in EEG pattern?
+
 
 ### What you will do in the laboratory
 
 1.  _Setup_. Check that the equipment are set up correctly and ready to record.
-2.  _Muscle activation with increasing load_. You will increase the load on the muscle-joint system, and measure changes in electrical activation of the biceps.
-3.  _Alternating activity and coactivation_. You will explore the function of antagonistic muscles and demonstrate coactivation.
-4.  _Several of your own experiments_. See below for ideas.
+2.  _Detecting artifacts_. You will learn how to indentify artifacts produced by unwanted electrical acticity.
+3.  _Brain activity by notetaking strategy_. You will explore the types of brain waves generated while taking notes verbatim vs. paraphrasing in your own words vs. doodling modes of interacting with learning materials. You will also compare printing vs. cursive writing vs. typing on a keyboard as well as reading silently (with no notes). You will also compare note taking from visual or auditory inputs.
+4.  _Several of your own experiments_.
 
 ## Equipment
 
@@ -85,9 +121,9 @@ Experiments on learning?  I will work on this.
 
 2.  Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (@fig-setup).  The hardware needs to be connected __before__ you open the settings file.
 
-3.  Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable.  Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead. Channel 2 electrodes will lead to either side of the inion (the bump on the back of the head above the neck) and the Earth will lead to the temple.  Refer to Figure 1 for proper placement, but do not attach them to the volunteer.  Follow the color scheme on the Bio Amp Cable.
+3.  Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable.  Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead to record across the frontal lobe. Channel 2 "posiyive" and "negative" electrodes will cross the occipital lobe on the back of the head just above the neck. The Earth electrode will lead to the bare skin just behind the ear on the left side.  Refer to Figure 1 for proper placement, but do not attach them to the volunteer.  Follow the color scheme on the Bio Amp Cable.
 
-4. Remove any jewelry from the volunteer’s face, ears, and neck.  Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and temple.  Use Figure 1 as a guide.  Abrade the skin with Abrasive Gel or Pad.  This is important as abrasion helps reduce the skin’s resistance.
+4. Remove any jewelry from the volunteer’s face, ears, and neck.  Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and behind the ear.  Use Figure 1 as a guide.  Abrade the skin with Abrasive Gel or Pad.  This is important as abrasion helps reduce the skin’s resistance.
 
 5. After abrasion, clean the area with an alcohol swab to remove the dead skin cells.  While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (@fig-setup) and keep the electrodes and wires in place with the medical tape.   Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head.  This will help the electrodes maintain good contact with the skin. Make sure the electrode wires are nearly unwound and do not cross over any power cables or electronic equipment.
 
@@ -139,7 +175,7 @@ In this exercise, you will examine the effects of relaxation and eye movement on
 
 2.  Start recording.  Record for 30 seconds.  Prepare a comment with “open;” do not enter it yet.
 
-3.  Tell the volunteer to open both eyes.  Immediately press Return/Enter to add the comment.  Record with the volunteer’s eyes open for 10 seconds.  Do not stop recording.
+3.  Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. The subject should not be reading anything or moving their eyes around. Keep head, neck, and eyes very still with the gaze focused on a single point in front of them. Record with the volunteer’s eyes open for 10 seconds.  Do not stop recording.
 
 4.  Prepare a comment with “shut.”  When the 10 seconds are complete, tell the volunteer to close both eyes.  Immediately press Return/Enter to add the comment.
 
@@ -269,38 +305,49 @@ Now you will use Spectral Analysis to examine the EEG you recorded.
 
 
 # Exercise 3: Note Taking Strategies
-In this exercise, you will compare wave frequencies during different modes of note taking.
+In this exercise, you will compare abundance of different wave frequencies in different brain regions during various modes of note taking.
 
-1. On the desk in front of the subject, there will be a paper with prompts for your learning activities.
+1. On the desk in front of the subject, there will be a paper with prompts for your learning activities. The experimentor will use a top sheet to cover the prompts, moving it down to expose the next line as you move through each experiment.
 
-2. Start the recording and drop a comment that says "begin handwritten copying". Have the subject read the first line on the prompt sheet and copy it using the pen and paper in front of them. It is important to keep eyes and head very still while writing to prevent artifacts. Blinking is OK. Drop another comment when they have finished writing.
+2. With the subject seated comfortably, start the recording and drop a comment saying "begin hand movement control". As before during the eyes open/closed trials, the subject will open their eyes, not reading anything and holding very still. This time, have the subject gently move their hand as if they are writing/typing. Record for 30 seconds and drop a comment when done.
 
-3. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence using the pen and paper. Drop a comment when finished.
+3. Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says "begin handwritten copying". Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.
 
-4. For the final handwriting exercise, drop a comment saying "begin handwritten dictation". This time the experimentor will read the third prompt on the sheet out loud to the subject who will copy what they are saying verbatim using pen and paper. Drop a comment when finished.
+4. While still recording, drop another comment saying "begin handwritten paraphrasing". Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.
 
-5. Repeat steps 2-3 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase, and noting dictation) using cursive handwriting and typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
+5. Repeat steps 3 & 4 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase) using cursive handwriting and then typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).
 
-7. For the 10th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
+6. For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.
 
-6. For the 11th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
+7. For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.
 
-### Analysis Excercise 3: Note Taking Strategies
+8. Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.
+
+## Analysis
+
+### Excercise 3: Note Taking Strategies
 Steps 1-3 __must__ be done in class. You can not do this on your home version of LabChart.
 
-1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both "EEG Frontal" and "EEG Occipital channels".
+1. Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both "EEG Frontal" and "EEG Occipital" channels.
 
 2. In the top menu, select File -> Export -> Spectrum PSD Text file. This will create a text file with the relative abundance of waves at different frequencies for both the frontal and occipital regions. Save this file with a name corresponding to which treatment the data came from, for example, "Handwritten_Copying.txt".
 
-3. Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, dictation) as well as drawing and reading only. Also do this process for "eyes open" and "eyes closed" data for control. You should have a total of 13 text files.
+3. Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, your choice) as well as drawing and reading only. Also do this process for "eyes open" and "eyes closed" data for control. You should have at least 12 text files total.
 
-4. Make a copy of this Google sheet <insert link> and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the alpha frequency range (8-12 Hz) and beta frequency range (13-30Hz).
+4. Make a copy of [this Google sheet](https://docs.google.com/spreadsheets/d/1NszouoafNYPwEMO5w8iF_cYApgp0K3NM04JTTBrygWI/edit?usp=sharing) and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the __delta__, __theta__, __alpha__, __beta__, and __gamma__ frequency ranges. _These values tell you the relative abundance, or power, of each type of wave during each experiment._ By comparing wave type powers, you can see what types of brain activity are more prevalent in each region.
 
-5. Now you can compare the abundance of different wave types in different areas of the brain for each activity. With your group, come up with 5 comparisons to tell you something about brain activity during different modes of note taking.
+5. Now you can compare the abundance of different wave types in different areas of the brain for each activity. With your group, __come up with at least 6 questions__ regarding brain activity during different modes of note taking and show us with appropriate comparisons of your data. 
+    i)  One of your questions __must__ include comparisons between _alpha and beta waves_ in _both brain regions_ during eyes closed and eyes open. 
+        A.  For example, "Do we see a decrease in alpha waves and an increase in beta waves with eyes open?" 
+        B.  Make a bar plot for eyes open treatments grouped by brain region versus alpha wave power. If parentheses indicates which bars are side-by-side, it would look like this: Along the x-axis you will have (frontal-eyes open, frontal-eyes closed) a gap, then (occipital-eyes open, occipital eyes closed). Make the same type of bar plot for beta wave power. Arrange the two plots with alpha wave power above the beta wave power so that the brain regions and treatments line up vertically. 
+    ii)  Your second question __must__ involve comparing across _handwriting, cursive, and typing_.   
+          A.  For example, "Is there any difference in gamma waves in the frontal lobe across the activities of handwriting, cursive, or typing?"  
+    iii)  Come up with four additional questions to address with this dataset. 
+This is a large dataset, we will demonstrate some ways you can manipulate the data by subsetting the larger table to make comparisons easier. We encourage you to explore many aspects of your data to find interesting patterns before deciding on which comparisons to present in your final report.
 
 # Food for thought
 
-1. How does the human anatomy make it difficult ot record and electroencephalogram or EEG?
+1. How does the human anatomy make it difficult to record and electroencephalogram or EEG?
 
 2. What are common causes of the artifacts you recorded in Exercise 1? Name at least 3.
 
@@ -310,6 +357,10 @@ Steps 1-3 __must__ be done in class. You can not do this on your home version of
 
 5. Look at your Spectral Analysis from when the volunteer had their eyes shut. At what range do you have the greatest peak? What type of brain waves does the Spectral Analysis suggest is active? Compare this with the same for the eyes open treatment.
 
+6. What is the purpose of taking a control measurement with hand movement only?
+
+7. Which activities were easier or more difficult for the subject to perform? Which types of waves are more abundant during more difficult activities?
+
 
 # After Lab:
 
@@ -317,7 +368,3 @@ Steps 1-3 __must__ be done in class. You can not do this on your home version of
 - Please divide the work of writing the report __by experiment__, so that each person benefits from the experience of writing the intro, methods, results, and discussion. This will also ensure that the ideas are better connected between sections.
 - Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion. In the discussion circle back to the hypothesis and really try to interpret your results in light of muscle physiology mechanisms.
 - Please remember to include respective contributions.
-
-Citations:
-
-Vibell, J. (2023?) Ch. 3 Electroencephalography.

@@ -10,10 +10,10 @@
 <atom:link href="https://mbutler808.github.io/labs.xml" rel="self" type="application/rss+xml"/>
 <description>Course website for Animal Physiology in Fall 2023</description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 06 Nov 2023 10:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Nov 2023 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Lab 11: Human Electroencephalography (EEG)</title>
-  <dc:creator>Marguerite Butler</dc:creator>
+  <dc:creator>Allison Fisher and Marguerite Butler</dc:creator>
   <link>https://mbutler808.github.io/labs/Lab11-human-eeg/Lab11.html</link>
   <description><![CDATA[ 
 
@@ -36,8 +36,7 @@ Prepare for lab by:
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Read the lab manual below.<br>
-</li>
+<li>Read the lab manual below.</li>
 <li>Read from Eckert ch.&nbsp;10 [<a href="https://drive.google.com/drive/folders/1BSLdFEnnLw0N6z-ouBI-Y50ZeY_5FItl?usp=share_link">readings</a>]: Mechanics of Muscle Contraction 375-379, Active State, Twitch and Tetanus 391- 392, Motor Control vertebrate 410 - 411</li>
 <li>Write the [<a href="../../labs-misc/lab-notebook.html#sec-prelab">Prelab</a>] in your lab notebook. <em><strong>Please DO NOT copy the lab manual word for word.</strong> Your task is to <strong>summarize</strong> the important points that are useful for developing hypotheses for this experiment.</em></li>
 <li>This week, draft hypotheses for each experiment.</li>
@@ -52,7 +51,7 @@ Prepare for lab by:
 <li>For the <strong>methods</strong>, outline:
 <ul>
 <li>subjects</li>
-<li>equiptment</li>
+<li>equipment</li>
 <li>experimental treatments (be sure to note what <strong>variables</strong> are changing) and controls or comparisons</li>
 <li>analysis</li>
 </ul></li>
@@ -79,22 +78,95 @@ Summary
 </section>
 <section id="background" class="level1">
 <h1>Background</h1>
-<p>What EEG is measuring</p>
-<p>Brain waves (Figure&nbsp;1)</p>
-<div id="fig-brainwaves" class="quarto-figure quarto-figure-center anchored">
+<p>The <strong>cerebral cortex</strong> of the brain is the most developed in mammals and is a major center of information processing and integration (Figure&nbsp;1). It plays a key role in many cognitive processes including attention, motor control and sensory-motor integration, memory, and language. The electrical activity of the brain can be measured non-invasively through <strong>electroencephalography</strong> <span class="citation" data-cites="Vibell:2023">(EEG, Vibell in prep)</span>, and furthermore can be used to monitor brain waves associated with behaviors.</p>
+<p>In humans the different regions of the cerebral cortex have been mapped to different functions (Figure&nbsp;1). For example the <strong>frontal lobe</strong> <em>integrates</em> many different processes including inputs, outputs, and control of movements (motor behavior), speech, and other behaviors, as well as cognitive and emotional processes. Humans are able to synthesize and prioritize the numerous inputs to produce optimal responses to changes in our environment. The <strong>occipital lobe</strong> plays a major role in visual processing. It is involved in object and facial recognition, depth perception, color recognition, and relays visual information to other regions of the brain. It receives visual information from the retina, but also receives input from other regions of the brain.</p>
+<div id="fig-brain" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
-<p><img src="https://mbutler808.github.io/images/lab11-brainwaves.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: EEG and wave bands.</figcaption>
+<p><img src="https://mbutler808.github.io/images/lab11-cerebrum-lobes.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: The human cerebrum, annotated with functional regions (lobes). Bectorized by <a href="http://training.seer.cancer.gov/module_anatomy/unit5_3_nerve_org1_cns.html">Jkwchui</a>, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=29055751">original</a></figcaption>
 </figure>
 </div>
-<p>Experiments on learning? I will work on this.</p>
+<p>EEG is measuring electrical activity from cerebral cortex using skin surface electrodes on the scalp. Although the human brain has about 100 billion neurons, the electrical signals emitted by neurons are weak and have to pass through the cerebrospinal fluid, skull, scalp, and hair before being detected by the electrodes. The EEG technique takes advantage of the fact that the outermost portion of the cerebral cortex have neurons with a particular arrangement of their synapses such that they are all aligned and pointed outward (called “open field”) so that their electrical dipoles align and their signals sum <span class="citation" data-cites="Vibell:2023">(Vibell in prep)</span>. Thus what we are actually measuring are the summed activities of a large number of so-called pyrimidal neurons (Figure&nbsp;2 (a)) near the electrodes.</p>
+<p>Pyrimidal neurons are the most numerous excitatory neurons in the cerebral cortex <span class="citation" data-cites="Bekkers:2011">(Bekkers 2011)</span>. They transform the sum of synaptic inputs into patterns of action potentials which may travel to other regions of the brain, or to muscle targets far away in the body to signal motor behavior. When we perform EEG we are measuring the activities of many (100s of thousands of) pyrimidal neurons as they go about processing information and coordinating activity.</p>
+<div id="fig-neurowave" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-neurons" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/lab11-pyrimidal-neurons.jpg" class="img-fluid figure-img" data-ref-parent="fig-neurowave"></p>
+<figcaption class="figure-caption">(a) Pyrimidal neurons are the most common neuron in the cerebral cortex. The name comes from the triangular shape of their soma. UC Regents Davis campus, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-brainwaves" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/lab11-brainwaves.png" class="img-fluid figure-img" data-ref-parent="fig-neurowave"></p>
+<figcaption class="figure-caption">(b) EEG wave bands differ in temporal frequency, which can be seen on a very clean raw data trace. Typically as the frequency goes up, the amplitude goes down. Figure from <span class="citation" data-cites="Vibell:2023">Vibell (in prep)</span></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Pyrimidal neurons and the most common EEG wave bands.</figcaption><p></p>
+</figure>
+</div>
+<p>Brain waves can be classified by frequency bands. This means that they have characteristic patterns of oscillation over time (Figure&nbsp;2 (b)). One of the earliest uses of EEG was characterizing brain activity during sleep, which led to the definition of alpha(7-13Hz), beta (13-30Hz), theta (3.5-7Hz) and delta (0.5-3.5Hz) waves Table&nbsp;1. The dominance of the different frequences changes with different stages of sleep. Although these waves were originally defined during sleep, they do occur with other behavioral states and brain activities.</p>
+<div id="tbl-eegpatterns" class="anchored">
+<table class="table">
+<caption>Table&nbsp;1: EEG patterns, frequency ranges, and associated behavioral states. Delta, Theta, Alpha, and Beta definitions are from early sleep studies. Slow and fast gamma are associated with cognitive processing. <span class="citation" data-cites="Vibell:2023">(Vibell in prep)</span></caption>
+<colgroup>
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 64%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>EEG pattern</th>
+<th>Frequency (Hz)</th>
+<th>Behavioral/Psychological State</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Delta</td>
+<td>0.5-3.5</td>
+<td>Deep, restful sleep; vague dream states.</td>
+</tr>
+<tr class="even">
+<td>Theta</td>
+<td>3.5-7</td>
+<td>Visual imagery, imagery when falling asleep or just before awakening; light sleep.</td>
+</tr>
+<tr class="odd">
+<td>Alpha</td>
+<td>7-13</td>
+<td>Awake, non-focused, relaxed, drowsy, or non-vigilant; Low level of environmental stimulation (for example when eyes are closed).</td>
+</tr>
+<tr class="even">
+<td>Beta</td>
+<td>13-30</td>
+<td>Awake, alert, focused attention or problem-solving; dream/REM sleep; high level of environmental stimulation (for example when eyes are open).</td>
+</tr>
+<tr class="odd">
+<td>Gamma</td>
+<td>30-70, &gt;70</td>
+<td>Associated with cognitive processing, correlated with large-scale brain networking.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Alpha waves (8-12 Hz) can be measured spontaneously and are prominent over the occipital (visual) region of the brain. When our eyes are open and are in an alert state, alpha waves tend to be suppressed. They are prominent when the eyes are closed and we are relaxed (Table&nbsp;1). You will do an “eyes open/eyes closed” experiment today. Beta waves increase when we are alert and are associated with focus or problem-solving. Gamma waves are associated with cognitive processing.</p>
+<p>It is important to note that brain function is extremely complicated and not perfectly understood. In particular, there is no easy one-to-one interpretation of brain frequencies with particular cogntive functions. In other words, there are likely to be countless processes that generate these wave frequencies. However, EEG is very good at detecting brain activity at great temporal and spatial resolution. The most sophisticated systems use 64-256 electrodes mapped across the brain and can provide spatial and temporal resolution in 3D. We will be using only two sets of electrodes targeting the frontal cortex and the occipital cortex, enough to detect some spatial differences, but we will have much better temporal resultion (and hopefully you can obtain clean signals if you can keep the level of noise down).</p>
+<p>Recently, there has been a lot of interest in using EEG to measure brain activity in an educational context. Many studies have established the benefits to learning of taking notes by hand or drawing over typing by computer <span class="citation" data-cites="Meer:2017 Ose-Askvik:2020">(see studies cited in Meer and Weel 2017; Ose Askvik, Weel, and Meer 2020)</span>. However, whether these can be connected to brain activity is less clear. <span class="citation" data-cites="Meer:2017">Meer and Weel (2017)</span> found that a decrease of theta/alpha brain waves (lower frequency) when drawing over typing, implying that the brain is more receptive to learning. Describing words (paraphrasing) was associated with an increase in the upper alpha/beta/gamma range (higher frequency waves), especially during ideation (the formatiom of ideas). <span class="citation" data-cites="Ose-Askvik:2020">Ose Askvik, Weel, and Meer (2020)</span> explored brain activity while writing in cursive vs.&nbsp;drawing vs.&nbsp;typing.</p>
+<p>Your task today is to explore brain activity in the frontal and occipital cortex while the subject performs different tasks. Can you see changes in EEG pattern?</p>
 <section id="what-you-will-do-in-the-laboratory" class="level3">
 <h3 class="anchored" data-anchor-id="what-you-will-do-in-the-laboratory">What you will do in the laboratory</h3>
 <ol type="1">
-<li><em>Setup</em>. Check that the equiptment are set up correctly and ready to record.</li>
-<li><em>Muscle activation with increasing load</em>. You will increase the load on the muscle-joint system, and measure changes in electrical activation of the biceps.</li>
-<li><em>Alternating activity and coactivation</em>. You will explore the function of antagonistic muscles and demonstrate coactivation.</li>
-<li><em>Several of your own experiments</em>. See below for ideas.</li>
+<li><em>Setup</em>. Check that the equipment are set up correctly and ready to record.</li>
+<li><em>Detecting artifacts</em>. You will learn how to indentify artifacts produced by unwanted electrical acticity.</li>
+<li><em>Brain activity by notetaking strategy</em>. You will explore the types of brain waves generated while taking notes verbatim vs.&nbsp;paraphrasing in your own words vs.&nbsp;doodling modes of interacting with learning materials. You will also compare printing vs.&nbsp;cursive writing vs.&nbsp;typing on a keyboard as well as reading silently (with no notes). You will also compare note taking from visual or auditory inputs.</li>
+<li><em>Several of your own experiments</em>.</li>
 </ol>
 </section>
 <section id="equipment" class="level2">
@@ -117,30 +189,30 @@ Summary
 <h2 class="anchored" data-anchor-id="subject-preparation">Subject preparation</h2>
 <ol type="1">
 <li><p>Make sure the PowerLab is turned off and the USB cable is connected to the computer.</p></li>
-<li><p>Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (Figure&nbsp;2). The hardware needs to be connected <strong>before</strong> you open the settings file.</p></li>
-<li><p>Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable. Channel 1 “positive” will lead to the inion (the bump on the back of the head above the neck) and Channel 1 “negative” will lead to the forehead. Channel 2 will be empty and the Earth will lead to the temple. Refer to Figure 1 for proper placement, but do not attach them to the volunteer. Follow the color scheme on the Bio Amp Cable.</p></li>
-<li><p>Remove any jewelry from the volunteer’s face, ears, and neck. Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and temple. Use Figure 1 as a guide. Abrade the skin with Abrasive Gel or Pad. This is important as abrasion helps reduce the skin’s resistance.</p></li>
-<li><p>After abrasion, clean the area with an alcohol swab to remove the dead skin cells. While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (Figure&nbsp;2) and keep the electrodes and wires in place with the medical tape. Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head. This will help the electrodes maintain good contact with the skin.</p></li>
+<li><p>Connect the 5 Lead Shielded Bio Amp Cable to the Bio Amp Connector on the front panel of the PowerLab (Figure&nbsp;3). The hardware needs to be connected <strong>before</strong> you open the settings file.</p></li>
+<li><p>Attach the leads of the EEG Flat Electrodes to the Earth, CH1 NEG and POS pins closest to the labeled side on the Bio Amp Cable. Channel 1 “positive” and “negative” electrodes will attach on either side of the forehead to record across the frontal lobe. Channel 2 “posiyive” and “negative” electrodes will cross the occipital lobe on the back of the head just above the neck. The Earth electrode will lead to the bare skin just behind the ear on the left side. Refer to Figure 1 for proper placement, but do not attach them to the volunteer. Follow the color scheme on the Bio Amp Cable.</p></li>
+<li><p>Remove any jewelry from the volunteer’s face, ears, and neck. Use a ballpoint pen to mark a small cross on the skin on the back of the head, forehead, and behind the ear. Use Figure 1 as a guide. Abrade the skin with Abrasive Gel or Pad. This is important as abrasion helps reduce the skin’s resistance.</p></li>
+<li><p>After abrasion, clean the area with an alcohol swab to remove the dead skin cells. While the skin is drying, scoop Electrode Paste into the EEG Flat Electrodes. When the skin is dry stick the electrodes to the skin (Figure&nbsp;3) and keep the electrodes and wires in place with the medical tape. Use the ACE bandage to wrap keep the flat electrodes tightly in contact with the head. This will help the electrodes maintain good contact with the skin. Make sure the electrode wires are nearly unwound and do not cross over any power cables or electronic equipment.</p></li>
 <li><p>Have the volunteer seated in a comfortable position at the table with paper and pen and a laptop in front of them. During the experiment is important to minimize muscle movement and ensure that none of the electrodes are disturbed or compressed.</p></li>
-<li><p>Check that all five electrodes are properly connected to the volunteer and the Bio Amp Cable before proceeding. Turn on the PowerLab. (Figure&nbsp;2).</p></li>
+<li><p>Check that all five electrodes are properly connected to the volunteer and the Bio Amp Cable before proceeding. Turn on the PowerLab. (Figure&nbsp;3).</p></li>
 </ol>
 <div id="fig-setup" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-eeg-setup.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Electrodes and cable setup. We will use five electrodes to record from two channels and a ground. Follow instructions provided by your TA for electrode placement.</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;3: Electrodes and cable setup. We will use five electrodes to record from two channels and a ground. Follow instructions provided by your TA for electrode placement.</figcaption>
 </figure>
 </div>
 </section>
 <section id="software-setup" class="level2">
 <h2 class="anchored" data-anchor-id="software-setup">Software Setup</h2>
 <ol type="1">
-<li><p>Start Chart using the EEG lab settings file. Three channels should appear: the <strong>EEG frontal</strong> and the <strong>EEG occipital</strong>, and two channels: <strong>Alpha power frontal</strong> and <strong>Alpha power occipital</strong>.</p></li>
-<li><p>Make sure that the EEG channels are set to the “Bioamp”. Make sure the settings are as follows: Range 200 <img src="https://latex.codecogs.com/png.latex?%5Cmu">V, High Pass 0.5 Hz, and Low Pass 50 Hz (Figure&nbsp;3). Check that the spectral input is reading the channels for the EEG. You may have to change the inputs to match the correct channel number. If you are using the new setup, you may have to change and restart Chart (several times) with the Bioamp cable connected for it to appear in the menu. If you are using the old setup, the little green light on the front of the Bioamp should be on. Ask your TA for help if needed.</p></li>
+<li><p>Start Chart using the EEG lab settings file. Four channels should appear: the <strong>EEG frontal</strong> and the <strong>EEG occipital</strong>, and : <strong>Alpha power frontal</strong> and <strong>Alpha power occipital</strong>.</p></li>
+<li><p>Make sure that the EEG channels are set to the “Bioamp”. Make sure the settings are as follows: Range 200 <img src="https://latex.codecogs.com/png.latex?%5Cmu">V, High Pass 0.5 Hz, and Low Pass 50 Hz (Figure&nbsp;4). Check that the spectral input is reading the channels for the EEG. You may have to change the inputs to match the correct channel number. If you are using the new setup, you may have to change and restart Chart (several times) with the Bioamp cable connected for it to appear in the menu. If you are using the old setup, the little green light on the front of the Bioamp should be on. Ask your TA for help if needed.</p></li>
 </ol>
 <div id="fig-bioamp" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-bioamp-dialog.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;3: Check your recording and filter settings in the Bioamp dialog box.</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;4: Check your recording and filter settings in the Bioamp dialog box.</figcaption>
 </figure>
 </div>
 </section>
@@ -152,6 +224,7 @@ Summary
 <li><p>Record the volunteer making eye movements. Add a comment “eye movements.” Have the volunteer gaze up-and-down and left-and-right in a repeated pattern. Make sure the volunteer is keeping their head still and only moving their eyes.</p></li>
 <li><p>Record the volunteer making head movements.</p></li>
 <li><p>Record the volunteer making jaw movements.</p></li>
+<li><p>Record the volunteer swallowing.</p></li>
 <li><p>Save your data, and open a new file with the same settings.</p></li>
 </ol>
 <section id="analysis" class="level2">
@@ -171,19 +244,19 @@ Summary
 <ol type="1">
 <li><p>Make sure the volunteer is relaxed and comfortable. Have the volunteer close his/her eyes and remain quiet. Keep noise to a minimum and keep all distractions away from the volunteer.</p></li>
 <li><p>Start recording. Record for 30 seconds. Prepare a comment with “open;” do not enter it yet.</p></li>
-<li><p>Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. Record with the volunteer’s eyes open for 10 seconds. Do not stop recording.</p></li>
+<li><p>Tell the volunteer to open both eyes. Immediately press Return/Enter to add the comment. The subject should not be reading anything or moving their eyes around. Keep head, neck, and eyes very still with the gaze focused on a single point in front of them. Record with the volunteer’s eyes open for 10 seconds. Do not stop recording.</p></li>
 <li><p>Prepare a comment with “shut.” When the 10 seconds are complete, tell the volunteer to close both eyes. Immediately press Return/Enter to add the comment.</p></li>
 <li><p>Repeat steps 3 and 4 twice, to give you three sets of results. Save your data.</p></li>
 </ol>
 <section id="analysis-alpha-waves-in-the-eeg" class="level2">
 <h2 class="anchored" data-anchor-id="analysis-alpha-waves-in-the-eeg">Analysis: Alpha Waves in the EEG</h2>
 <ol type="1">
-<li>Examine the entire data trace. Use the View Buttons to change the horizontal compression to see data with eyes open and shut. Make a data selection that includes some data from both eyes open and eyes shut conditions. View this selection in Zoom View. This should make it easier to see the alpha wave activity (Figure&nbsp;4). Now Autoscale, if necessary.</li>
+<li>Examine the entire data trace. Use the View Buttons to change the horizontal compression to see data with eyes open and shut. Make a data selection that includes some data from both eyes open and eyes shut conditions. View this selection in Zoom View. This should make it easier to see the alpha wave activity (Figure&nbsp;5). Now Autoscale, if necessary.</li>
 </ol>
 <div id="fig-eeg-raw" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-eeg-raw.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;4: EEG signal with eyes shut and open. Note alpha waves during eyes shut.</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;5: EEG signal with eyes shut and open. Note alpha waves during eyes shut.</figcaption>
 </figure>
 </div>
 <ol start="2" type="1">
@@ -191,13 +264,13 @@ Summary
 </ol>
 <p>Note: If you cannot find brain activity that matches the alpha rhythm, re-attach the electrodes and repeat this exercise.</p>
 <ol start="3" type="1">
-<li><p>Use the Marker and Waveform Cursor to measure the amplitude of the alpha waves. Place the Marker at the lowest point of the wave and move the Waveform Cursor to the peak of the wave. Measure the amplitudes of five waves from when the volunteer’s eyes were closed. Record the values in Table&nbsp;1.</p></li>
-<li><p>Now measure wave amplitudes when the volunteer’s eyes were open. Record these values in Table&nbsp;2 .</p></li>
+<li><p>Use the Marker and Waveform Cursor to measure the amplitude of the alpha waves. Place the Marker at the lowest point of the wave and move the Waveform Cursor to the peak of the wave. Measure the amplitudes of five waves from when the volunteer’s eyes were closed. Record the values in Table&nbsp;2.</p></li>
+<li><p>Now measure wave amplitudes when the volunteer’s eyes were open. Record these values in Table&nbsp;3 .</p></li>
 <li><p>The amplitude of the waves is affected by the quality of the EEG signal. Therefore, it is useful to examine the frequency and power of the wave activity. Spectral analysis can be used to examine these features of a signal. Before examining your EEG signal you will complete a short tutorial on Spectral Analysis.</p></li>
 </ol>
 <div id="tbl-alpha" class="anchored">
 <table class="table">
-<caption>Table&nbsp;1: Alpha waves</caption>
+<caption>Table&nbsp;2: Alpha waves</caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -226,7 +299,7 @@ Summary
 </div>
 <div id="tbl-noalpha" class="anchored">
 <table class="table">
-<caption>Table&nbsp;2: Absence of alpha waves</caption>
+<caption>Table&nbsp;3: Absence of alpha waves</caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -262,12 +335,12 @@ Summary
 <ol type="1">
 <li><p>Click on the home button on the lower left of the screen to open the Welcome Center. In the Experiments tab browse the “EEG Spectral Analysis Tutorial.” It will be in the Settings folder for this experiment. Open this file.</p></li>
 <li><p>Examine the Chart View. Use the View Buttons to view each block. You should see five blocks of data. The first record is a slowly oscillating sine wave</p></li>
-<li><p>Open Spectrum view by clicking on the Spectrum View button in the Toolbar (Figure&nbsp;5).</p></li>
+<li><p>Open Spectrum view by clicking on the Spectrum View button in the Toolbar (Figure&nbsp;6).</p></li>
 </ol>
 <div id="fig-button" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-spectral-button.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;5: Spectrum View Toolbar button.</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;6: Spectrum View Toolbar button.</figcaption>
 </figure>
 </div>
 <ol start="4" type="1">
@@ -275,12 +348,12 @@ Summary
 <li><p>In Chart View Select the first record by double clicking in the Time axis. This will perform a spectral analysis for this record and displays the result in the Spectrum view. Adjust the horizontal scaling of plots to view the results:</p></li>
 </ol>
 <ul>
-<li>Set the horizontal scaling for the Power Spectrum Density (PSD) plot to 50 Hz (Figure&nbsp;6). Use the horizontal scroll bar to display the 0 Hz to 50 Hz region of the plot.</li>
+<li>Set the horizontal scaling for the Power Spectrum Density (PSD) plot to 50 Hz (Figure&nbsp;7). Use the horizontal scroll bar to display the 0 Hz to 50 Hz region of the plot.</li>
 </ul>
 <div id="fig-eeg-hz" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-eeg-hz.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;6: Spectrum PSD Scale.</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;7: Spectrum PSD Scale.</figcaption>
 </figure>
 </div>
 <ul>
@@ -290,8 +363,7 @@ Summary
 <li>Examine the PSD plot and then the first section of the Spectrogram. Expand the vertical axes if necessary. Use the waveform cursor to identify the frequency in Hertz (Hz) of the peak in the PSD plot and the band in the Spectrogram. Values are displayed at the top of each plot.</li>
 </ol>
 <ul>
-<li>What is the frequency in Hertz (Hz) of this sine wave? ______<br>
-</li>
+<li>What is the frequency in Hertz (Hz) of this sine wave? ______</li>
 </ul>
 <ol start="7" type="1">
 <li>Select the second record and again view the result in the Spectrum view.</li>
@@ -309,8 +381,7 @@ Summary
 <li>Select the fourth record and again view the result in the Spectrum view.</li>
 </ol>
 <ul>
-<li>Is there any regular signal within this record? _____<br>
-</li>
+<li>Is there any regular signal within this record? _____</li>
 </ul>
 <ol start="10" type="1">
 <li><p>In Chart View compare the signal amplitudes of the fourth and fifth records. Note that the fifth record has lower amplitude compared with the fourth record.</p></li>
@@ -328,7 +399,7 @@ Summary
 <li><p>What is the power (mV2) of this signal? _____</p></li>
 </ul>
 <ol start="13" type="1">
-<li>Examine the Spectrogram. Note that the band corresponding to the signal’s frequency appears to missing. This is because the power of the signal is small compared with the previous four records. Expand the scale on the right hand side of the Spectrogram by setting the scale closer to the power of the signal (e.g., 0 to 0.004 V<img src="https://latex.codecogs.com/png.latex?%5E2">) (Figure&nbsp;7,Figure&nbsp;8). Note that the band is now visible at the expected frequency.</li>
+<li>Examine the Spectrogram. Note that the band corresponding to the signal’s frequency appears to missing. This is because the power of the signal is small compared with the previous four records. Expand the scale on the right hand side of the Spectrogram by setting the scale closer to the power of the signal (e.g., 0 to 0.004 V<img src="https://latex.codecogs.com/png.latex?%5E2">) (Figure&nbsp;8,Figure&nbsp;9). Note that the band is now visible at the expected frequency.</li>
 </ol>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
@@ -336,7 +407,7 @@ Summary
 <div id="fig-6a" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-6a.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;7: Spectrogram drop-down menu</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;8: Spectrogram drop-down menu</figcaption>
 </figure>
 </div>
 </div>
@@ -344,7 +415,7 @@ Summary
 <div id="fig-6b" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-6b.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;8: Set scale dialog box</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;9: Set scale dialog box</figcaption>
 </figure>
 </div>
 </div>
@@ -360,21 +431,21 @@ Summary
 <h3 class="anchored" data-anchor-id="analysis-excercise-2-alpha-waves-in-the-eeg">Analysis Excercise 2: Alpha waves in the EEG</h3>
 <p>Now you will use Spectral Analysis to examine the EEG you recorded.</p>
 <ol type="1">
-<li>Use the View Buttons to change the horizontal compression to 10:1 (Figure&nbsp;9).</li>
+<li>Use the View Buttons to change the horizontal compression to 10:1 (Figure&nbsp;10).</li>
 </ol>
 <div id="fig-eeg" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-eeg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;9: Alpha Waves with 10:1 Compression</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;10: Alpha Waves with 10:1 Compression</figcaption>
 </figure>
 </div>
 <ol start="2" type="1">
-<li>Find the part of the recording when the volunteer had his/her eyes shut. Click-and-drag across this part of the raw data trace to select it. From the Window menu, select Spectrum. In the Spectrum View choose Selected (Figure&nbsp;10).</li>
+<li>Find the part of the recording when the volunteer had his/her eyes shut. Click-and-drag across this part of the raw data trace to select it. From the Window menu, select Spectrum. In the Spectrum View choose Selected (Figure&nbsp;11).</li>
 </ol>
 <div id="fig-alpha" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://mbutler808.github.io/images/lab11-alpha.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;10: Spectrum of an EEG</figcaption>
+<figcaption class="figure-caption">Figure&nbsp;11: Spectrum of an EEG</figcaption>
 </figure>
 </div>
 <ol start="3" type="1">
@@ -385,14 +456,57 @@ Summary
 </ol>
 </section>
 </section>
+<section id="exercise-3-note-taking-strategies" class="level1">
+<h1>Exercise 3: Note Taking Strategies</h1>
+<p>In this exercise, you will compare abundance of different wave frequencies in different brain regions during various modes of note taking.</p>
+<ol type="1">
+<li><p>On the desk in front of the subject, there will be a paper with prompts for your learning activities. The experimentor will use a top sheet to cover the prompts, moving it down to expose the next line as you move through each experiment.</p></li>
+<li><p>With the subject seated comfortably, start the recording and drop a comment saying “begin hand movement control”. As before during the eyes open/closed trials, the subject will open their eyes, not reading anything and holding very still. This time, have the subject gently move their hand as if they are writing/typing. Record for 30 seconds and drop a comment when done.</p></li>
+<li><p>Position the pen and blank paper in front of the subject. Start the recording and drop a comment that says “begin handwritten copying”. Expose the first line on the prompt sheet and have the subject copy it using regular handwriting. Try to only move the hand and wrist while writing. Drop another comment when they have finished writing.</p></li>
+<li><p>While still recording, drop another comment saying “begin handwritten paraphrasing”. Have the subject read the second prompt and paraphrase the sentence (in their own words) using the pen and paper. Drop a comment when finished.</p></li>
+<li><p>Repeat steps 3 &amp; 4 two more times. Instead of handwriting print, the subject will run through each trial (copy, paraphrase) using cursive handwriting and then typing on a keyboard. Move through the prompts in order, ensuring each is new. Comment appropriately for each exercise (begin cursive copying, begin typing copying, etc.).</p></li>
+<li><p>For the 7th prompt on the sheet, have the subject read the sentence and draw a diagram/picture to illustrate what the sentence describes.</p></li>
+<li><p>For the 8th prompt on the sheet, have the subject only read the sentence (in their head) without doing any note-taking activity.</p></li>
+<li><p>Design your own experiment to test another factor in note taking strategies. For example, having the sentence read aloud to the subject. Record this trial with appropriate commenting.</p></li>
+</ol>
+<section id="analysis-1" class="level2">
+<h2 class="anchored" data-anchor-id="analysis-1">Analysis</h2>
+<section id="excercise-3-note-taking-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="excercise-3-note-taking-strategies">Excercise 3: Note Taking Strategies</h3>
+<p>Steps 1-3 <strong>must</strong> be done in class. You can not do this on your home version of LabChart.</p>
+<ol type="1">
+<li><p>Select a clean section of data in the Chart Window from the first experiment (without any major artifacts). Open the Spectrum view and change the settings to display both “EEG Frontal” and “EEG Occipital” channels.</p></li>
+<li><p>In the top menu, select File -&gt; Export -&gt; Spectrum PSD Text file. This will create a text file with the relative abundance of waves at different frequencies for both the frontal and occipital regions. Save this file with a name corresponding to which treatment the data came from, for example, “Handwritten_Copying.txt”.</p></li>
+<li><p>Repeat this exporting process for each combination of note taking mode (handwriting, cursive, typing), experiment (copying, paraphrasing, your choice) as well as drawing and reading only. Also do this process for “eyes open” and “eyes closed” data for control. You should have at least 12 text files total.</p></li>
+<li><p>Make a copy of <a href="https://docs.google.com/spreadsheets/d/1NszouoafNYPwEMO5w8iF_cYApgp0K3NM04JTTBrygWI/edit?usp=sharing">this Google sheet</a> and share with your group members. Select the columns in each text file, copy, and paste them into Sheet 1 under the appropriate heading. If inserted correctly, formulas in Sheet 2 will populate with summed values for waves in the <strong>delta</strong>, <strong>theta</strong>, <strong>alpha</strong>, <strong>beta</strong>, and <strong>gamma</strong> frequency ranges. <em>These values tell you the relative abundance, or power, of each type of wave during each experiment.</em> By comparing wave type powers, you can see what types of brain activity are more prevalent in each region.</p></li>
+<li><p>Now you can compare the abundance of different wave types in different areas of the brain for each activity. With your group, <strong>come up with at least 6 questions</strong> regarding brain activity during different modes of note taking and show us with appropriate comparisons of your data.</p>
+<ol type="i">
+<li>One of your questions <strong>must</strong> include comparisons between <em>alpha and beta waves</em> in <em>both brain regions</em> during eyes closed and eyes open.
+<ol type="A">
+<li>For example, “Do we see a decrease in alpha waves and an increase in beta waves with eyes open?”</li>
+<li>Make a bar plot for eyes open treatments grouped by brain region versus alpha wave power. If parentheses indicates which bars are side-by-side, it would look like this: Along the x-axis you will have (frontal-eyes open, frontal-eyes closed) a gap, then (occipital-eyes open, occipital eyes closed). Make the same type of bar plot for beta wave power. Arrange the two plots with alpha wave power above the beta wave power so that the brain regions and treatments line up vertically.</li>
+</ol></li>
+<li>Your second question <strong>must</strong> involve comparing across <em>handwriting, cursive, and typing</em>.
+<ol type="A">
+<li>For example, “Is there any difference in gamma waves in the frontal lobe across the activities of handwriting, cursive, or typing?”<br>
+</li>
+</ol></li>
+<li>Come up with four additional questions to address with this dataset. This is a large dataset, we will demonstrate some ways you can manipulate the data by subsetting the larger table to make comparisons easier. We encourage you to explore many aspects of your data to find interesting patterns before deciding on which comparisons to present in your final report.</li>
+</ol></li>
+</ol>
+</section>
+</section>
+</section>
 <section id="food-for-thought" class="level1">
 <h1>Food for thought</h1>
 <ol type="1">
-<li><p>How does the human anatomy make it difficult ot record and electroencephalogram or EEG?</p></li>
+<li><p>How does the human anatomy make it difficult to record and electroencephalogram or EEG?</p></li>
 <li><p>What are common causes of the artifacts you recorded in Exercise 1? Name at least 3.</p></li>
 <li><p>In exercise 2, under what conditions did you see alpha waves more clearly?</p></li>
 <li><p>What are alpha waves thought to indicate?</p></li>
 <li><p>Look at your Spectral Analysis from when the volunteer had their eyes shut. At what range do you have the greatest peak? What type of brain waves does the Spectral Analysis suggest is active? Compare this with the same for the eyes open treatment.</p></li>
+<li><p>What is the purpose of taking a control measurement with hand movement only?</p></li>
+<li><p>Which activities were easier or more difficult for the subject to perform? Which types of waves are more abundant during more difficult activities?</p></li>
 </ol>
 </section>
 <section id="after-lab" class="level1">
@@ -403,13 +517,25 @@ Summary
 <li>Please think about effective figures for this interesting lab, and the results will jump out at you. It will also be easier to write the discussion. In the discussion circle back to the hypothesis and really try to interpret your results in light of muscle physiology mechanisms.</li>
 <li>Please remember to include respective contributions.</li>
 </ul>
-<p>Citations:</p>
-<p>Vibell, J. (2023?) Ch. 3 Electroencephalography.</p>
+
 
 
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-Bekkers:2011" class="csl-entry">
+Bekkers, John M. 2011. <span>“Pyramidal Neurons.”</span> <em>Curr Biol</em> 21 (24): R975. <a href="https://doi.org/10.1016/j.cub.2011.10.037">https://doi.org/10.1016/j.cub.2011.10.037</a>.
+</div>
+<div id="ref-Meer:2017" class="csl-entry">
+Meer, Audrey L. H. van der, and F. R. (Ruud) van der Weel. 2017. <span>“Only Three Fingers Write, but the Whole Brain Works†: A High-Density EEG Study Showing Advantages of Drawing over Typing for Learning.”</span> <em>Frontiers in Psychology</em> 8. <a href="https://doi.org/10.3389/fpsyg.2017.00706">https://doi.org/10.3389/fpsyg.2017.00706</a>.
+</div>
+<div id="ref-Ose-Askvik:2020" class="csl-entry">
+Ose Askvik, Eva, F. R. (Ruud) van der Weel, and Audrey L. H. van der Meer. 2020. <span>“The Importance of Cursive Handwriting over Typewriting for Learning in the Classroom: A High-Density EEG Study of 12-Year-Old Children and Young Adults.”</span> <em>Frontiers in Psychology</em> 11. <a href="https://doi.org/10.3389/fpsyg.2020.01810">https://doi.org/10.3389/fpsyg.2020.01810</a>.
+</div>
+<div id="ref-Vibell:2023" class="csl-entry">
+Vibell, Jonas. in prep. <span>“Ch. 3 Electroencephalography.”</span> In.
+</div>
+</div></section></div> ]]></description>
   <category>week 13</category>
   <category>labs</category>
   <category>electrical activity</category>
@@ -419,7 +545,7 @@ Summary
   <category>brain waves</category>
   <category>synapses</category>
   <guid>https://mbutler808.github.io/labs/Lab11-human-eeg/Lab11.html</guid>
-  <pubDate>Mon, 06 Nov 2023 10:00:00 GMT</pubDate>
+  <pubDate>Mon, 06 Nov 2023 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Labs 9 and 10: Vertebrate Skeletal Muscle</title>
@@ -507,7 +633,7 @@ Prepare for lab by:
   <category>tetanus</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/labs/Lab9-10-toad-muscle/Lab9-10.html</guid>
-  <pubDate>Mon, 30 Oct 2023 10:00:00 GMT</pubDate>
+  <pubDate>Mon, 30 Oct 2023 04:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/images/lab8-muscle.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
@@ -814,7 +940,7 @@ Summary
   <category>motion</category>
   <category>electrical activity</category>
   <guid>https://mbutler808.github.io/labs/Lab8-human-emg/Lab8.html</guid>
-  <pubDate>Mon, 23 Oct 2023 10:00:00 GMT</pubDate>
+  <pubDate>Mon, 23 Oct 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 7: Compound Action Potentials in the Toad Sciatic Nerve</title>
@@ -1596,7 +1722,7 @@ Important - wire hygiene!
   <category>compound action potential</category>
   <category>action potential Q10</category>
   <guid>https://mbutler808.github.io/labs/Lab7-toad-nerve/Lab7.html</guid>
-  <pubDate>Sat, 07 Oct 2023 10:00:00 GMT</pubDate>
+  <pubDate>Sat, 07 Oct 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 6: The Neurogenic Crustacean Heart</title>
@@ -1678,7 +1804,7 @@ Prepare for lab by:
   <category>ions</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/labs/Lab6-lobster-heart/Lab6.html</guid>
-  <pubDate>Sat, 30 Sep 2023 10:00:00 GMT</pubDate>
+  <pubDate>Sat, 30 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/labs/Lab6-lobster-heart/lobster-internal-anatomy.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1747,7 +1873,7 @@ Prepare for lab by:
   <category>ions</category>
   <category>temperature</category>
   <guid>https://mbutler808.github.io/labs/Lab5-toad-heart/Lab5.html</guid>
-  <pubDate>Sat, 16 Sep 2023 10:00:00 GMT</pubDate>
+  <pubDate>Sat, 16 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/labs/Lab5-toad-heart/HeartAnatomy.pdf" medium="image"/>
 </item>
 <item>
@@ -1834,7 +1960,7 @@ Important
   <category>heart sounds</category>
   <category>pulse</category>
   <guid>https://mbutler808.github.io/labs/Lab4-human-ecg/Lab4.html</guid>
-  <pubDate>Sat, 09 Sep 2023 10:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 Sep 2023 04:00:00 GMT</pubDate>
   <media:content url="https://mbutler808.github.io/images/detail_ecg.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -2432,7 +2558,7 @@ Collecting leg volume change from the volume trace:
   <category>blood pressure</category>
   <category>dive response</category>
   <guid>https://mbutler808.github.io/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.html</guid>
-  <pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Sep 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 3 Worksheet: Peripheral Circulation and The Dive Response</title>
@@ -2511,7 +2637,7 @@ Notes
   <category>dive response</category>
   <category>worksheet</category>
   <guid>https://mbutler808.github.io/labs/Lab3-human-peripheral-circulation-dive-response/Lab3ws.html</guid>
-  <pubDate>Fri, 01 Sep 2023 10:00:00 GMT</pubDate>
+  <pubDate>Fri, 01 Sep 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 2: Zoo</title>
@@ -2880,7 +3006,7 @@ Notes
   <category>AMR</category>
   <category>DMR</category>
   <guid>https://mbutler808.github.io/labs/Lab2-zoo/Lab2.html</guid>
-  <pubDate>Tue, 29 Aug 2023 10:00:00 GMT</pubDate>
+  <pubDate>Tue, 29 Aug 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab 1: Heart Rate and Data Analysis</title>
@@ -2978,7 +3104,7 @@ After today, you should know how to:
   <category>finger pulse transducer</category>
   <category>LabChart Quick Reference Guide</category>
   <guid>https://mbutler808.github.io/labs/Lab1-heart-rate-and-data-analysis/index.html</guid>
-  <pubDate>Tue, 22 Aug 2023 10:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Aug 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Standard Protocols</title>
@@ -3017,7 +3143,7 @@ After today, you should know how to:
   <category>Human ECG</category>
   <category>LabChart Quick Reference Guide</category>
   <guid>https://mbutler808.github.io/labs/Protocols/protocols.html</guid>
-  <pubDate>Sat, 19 Aug 2023 10:00:00 GMT</pubDate>
+  <pubDate>Sat, 19 Aug 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Lab Notebooks and Prelab Instructions</title>
@@ -3133,7 +3259,7 @@ After today, you should know how to:
 
  ]]></description>
   <guid>https://mbutler808.github.io/labs/Lab-notebooks/lab-notebook.html</guid>
-  <pubDate>Mon, 06 Nov 2023 06:10:50 GMT</pubDate>
+  <pubDate>Sat, 11 Nov 2023 15:33:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
