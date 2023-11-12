@@ -67,16 +67,16 @@ format:
 |  | W | Aerial Respiration  |   | Lab10:PC1-I-Toad Muscle Independent \[[overview](labs/Lab9-10-toad-muscle/Lab9-10.qmd)\]|   
 |   | F | __Veterans Day Holiday__  |   |   |   
 |Week 13|||||
-| 11/13 | M | Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  |   |   
-|   | W | Osmoregulation |  | Lab 11: PC1-G-Human EEG  |   
-|   | F | Excretion  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] [turn in - coming soon]|   |   
+| 11/13 | M | Finish Respiration/Begin Osmoregulation \[[html](posts/2023-11-13-osmoregulation/osmoregulation.qmd)\] | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  |   |   
+|   | W | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  | Lab 11: PC1-G-Human EEG  |   
+|   | F | Osmoregulation  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] [turn in - coming soon]|   |   
 |Week 14|||||
-| 11/20 | M | Reproduction  |  |   |   
+| 11/20 | M | Excretion  |  |   |   
 |   | W | __Thanksgiving Holiday__  | PS7: Osmoregulation | No Labs |   
 |   | F | __Thanksgiving Holiday__  |   |   |   
 |Week 15|||||
-| 11/27 | M | Immune System | Design 3 Rewrite  |   |   
-|   | W | Immune System |  | Lab 12: PC2-G-Human Renal  |   
+| 11/27 | M | Excretion | Design 3 Rewrite  |   |   
+|   | W | Reproduction |  | Lab 12: PC2-G-Human Renal  |   
 |   | F | Student Presentations |   |   |   
 |Week 16|||||
 | 12/4  | M | Student Presentations | Design 4: Osmoreg/Own (optional, for comments)  |   |   

@@ -15,3 +15,8 @@ title: "Slide Decks"
 -   Topic 9 [Biomechanics](powerpoints/9a.Biomechanics.pdf)
 -   Topic 9 [Terrestiral Locomotion](powerpoints/9b.TerrestrialLocomotion.pdf)
 -   Topic 9 [Aerial Aquatic Locomotion](powerpoints/9c.AquaticAerialLocomotion.pdf)
+-   Topic 10 [Blood](powerpoints/10a.Blood.pdf)
+-   Topic 10 [Ventilation](powerpoints/10b.Ventilation.pdf)
+-   Topic 10 [Circulatory Systems](powerpoints/10c.CirculatorySystems.pdf)
+-   Topic 11 [Osmoregulation](powerpoints/11.Osmoregulation.pdf)
+-   Topic 11 [Osmoregulation II](powerpoints/11b.Osmoregulation_SaltWater.pdf)

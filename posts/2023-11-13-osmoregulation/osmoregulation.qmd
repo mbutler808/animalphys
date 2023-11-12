@@ -1,0 +1,104 @@
+---
+title: "11\\. Respiration-Osmoreguation"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "Finishing off respiration and starting osmoregulation"
+date: 2023-11-13
+format: 
+  html: default 
+  pdf: default
+categories: [module 11, week 13, ventilation, respiration, osmoregulation]
+---
+
+# Pre-class materials 
+
+::: callout-important
+## Important Homework announcements
+
+:::
+
+::: callout-note
+## Read ahead
+
+**Before class, you can prepare by reading the following materials:**
+
+1. Monday and Wednesday we will finish respiration and Friday begin osmoregulation. 
+2. The Symmorphosis paper is a very interesting and important paper. It will be useful for design3 respiration. 
+3. In Lab this week you will measure your own brain waves using EEG. Have fun! \[[manual](../../labs/Lab11-human-eeg/Lab11.qmd)\]! 
+:::
+
+### Announcements/Reminders
+
+-  Due Monday at the start of class-- Homework 5 \[[schedule](../../schedule.qmd)\] 
+-  Due Friday at midnight - Design 3 draft
+-  Please do your peer review for design 3 over the weekend
+-  Do discussion TEAMMATES eval, released each Friday, due by Monday.
+
+### Week 13 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Alvin | Sasha | Anna |  
+| 2 | Adry | Morgan Maisie | Kylie |
+| 3 | Garrett | Christina | Krystal |
+| 4 | Maisie | Kirsten | Logan M  |  
+| 5 |  Logan B | Matthew |  Richard|
+| 6 |  Justin  |  Mayuka |   |
+
+
+
+## Monday - Finish aerial respiration questions 2, 3, 5 
+- __Reading assignment:__ Withers pp. 609-631 OR HWA chapter 23 + Withers 626-632, skip invertebrates
+- \[[discussion pg 4:2,3,5](../../discussions/Discussion-Week10-blood-ventilation.pdf)\] \[[slide deck2](../../powerpoints/10b.Ventilation.pdf)\]
+- __Aerial Respiration Topics:__
+  - Air flow patterns of vertebrates
+  - Lung Volumes 
+    + Lung Volume (VL or VT)
+    + tidal volume (Vt)
+    + Dead space volume (VD)
+    + Alveolar ventilation volume (VA or Va)
+    + Alveolar Minute Volume (VAE)
+  - Breath Rate (BR)
+  - Oxygen Extraction and Pulmonary Diffusing Capacity
+
+
+Respiration the Movie 
+{{< video https://youtu.be/clyu9h810n4 >}}
+
+## Wednesday - Symmorphosis
+- __Reading assignment:__ Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 [Respiration Papers folder](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link)
+- In class discussion
+
+## Friday - Begin Osmoregulation
+- __Reading assignment:__ Withers skim beginning Ch. 16 for definitions in list below, also read Water & Ion Budgets pp. 788-790, Vertebrates pp. 798-803, Terrestrial Environments pp. 806-812, Terr. Verts. 822-827.  Withers is actually very readable on this topic, and some of it will be familiar to you already:).
+- \[[discussion](../../discussions/Discussion-Week11-osmoregulation.pdf)\] \[[slide deck](../../powerpoints/11.Osmoregulation.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\]
+- definitions: 
+    -   solutes, 
+    -   osmosis, 
+    -   osmolarity/osmolality, 
+    -   ionoregulation, 
+    -   osmoregulation/osmoconforming, 
+    -   compatible solutes, 
+    -   perturbing solutes, 
+    -   counteracting solutes, 
+    -   osmotic permeability (&formulae)
+- The components of __Water Budgets__ (input/output) as well as __Ion Budgets__
+- The water and ion challenges of __freshwater__, __marine__, and __terrestrial__ environments
+
+
+Osmoregulation Podcast
+{{< video https://youtu.be/1vQxLFoPCmM >}}
+
+
+# For Next Time
+
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

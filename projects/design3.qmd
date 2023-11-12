@@ -16,7 +16,7 @@ categories: [design project, design 3, oxygen, metabolism, DMR, ventilation, res
 
 # Suggestions for Respiration
 
-_You have a choice in Design 3 projects. You may choose to model \[[Circulation](design3-circulation.qmd)\] instead of Respiration, if you like._
+_You have a choice in Design 3 projects. You may choose to model \[[Circulation](design3a.qmd)\] instead of Respiration, if you like._
 
 __NOTE1:__ See me for help early if you need assistance finding the data for the last two paragraphs of the assignment. 
 

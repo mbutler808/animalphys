@@ -16,7 +16,7 @@ categories: [design project, design 3, oxygen, metabolism, DMR, circulation, blo
 
 # Suggestions for Circulation
 
-_You have a choice in Design 3 projects. You may choose to model \[[Respiration](design3-respiration.qmd)\] instead of Circulation, if you like._
+_You have a choice in Design 3 projects. You may choose to model \[[Respiration](design3.qmd)\] instead of Circulation, if you like._
 
 Again, you are free to take your design in any direction you wish.  Below are some suggestions:
 
