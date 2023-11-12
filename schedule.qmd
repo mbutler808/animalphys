@@ -68,7 +68,7 @@ format:
 |   | F | __Veterans Day Holiday__  |   |   |   
 |Week 13|||||
 | 11/13 | M | Finish Respiration/Begin Osmoregulation \[[html](posts/2023-11-13-osmoregulation/osmoregulation.qmd)\] | PS6: Respiration \[[due at start of class](homework/HW6respiration.pdf)\]  |   |   
-|   | W | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  | Lab 11: PC1-G-Human EEG  |   
+|   | W | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  | Lab 11: PC1-G-Human EEG \[[overview](labs/Lab11-human-eeg/Lab11.qmd)\] |   
 |   | F | Osmoregulation  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] [turn in - coming soon]|   |   
 |Week 14|||||
 | 11/20 | M | Excretion  |  |   |   

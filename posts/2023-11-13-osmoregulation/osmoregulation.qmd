@@ -18,6 +18,7 @@ categories: [module 11, week 13, ventilation, respiration, osmoregulation]
 ::: callout-important
 ## Important Homework announcements
 
+Due at the beginning of class, written by hand (paper and pencil or pen).
 :::
 
 ::: callout-note
