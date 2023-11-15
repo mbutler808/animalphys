@@ -72,11 +72,11 @@ format:
 |   | F | Osmoregulation  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] [turn in - coming soon]|   |   
 |Week 14|||||
 | 11/20 | M | Excretion  |  |   |   
-|   | W | __Thanksgiving Holiday__  | PS7: Osmoregulation | No Labs |   
+|   | W | __Thanksgiving Holiday__  |  | No Labs |   
 |   | F | __Thanksgiving Holiday__  |   |   |   
 |Week 15|||||
-| 11/27 | M | Excretion | Design 3 Rewrite  |   |   
-|   | W | Reproduction |  | Lab 12: PC2-G-Human Renal  |   
+| 11/27 | M | Excretion | PS7: Osmoregulation \[[pdf](homework/HW7Osmoregulation.pdf)\]  |   |   
+|   | W | Reproduction | Design 3 Rewrite | Lab 12: PC2-G-Human Renal  |   
 |   | F | Student Presentations |   |   |   
 |Week 16|||||
 | 12/4  | M | Student Presentations | Design 4: Osmoreg/Own (optional, for comments)  |   |   

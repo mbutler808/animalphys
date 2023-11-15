@@ -26,7 +26,6 @@ Material for this lab was borrowed and adopted from
 :::{.callout-note}
 # Prepare for lab by:
 - Read the lab manual below.
-- Read from Eckert ch. 10 \[[readings](https://drive.google.com/drive/folders/1BSLdFEnnLw0N6z-ouBI-Y50ZeY_5FItl?usp=share_link)\]:  Mechanics of Muscle Contraction 375-379, Active State, Twitch and Tetanus 391- 392, Motor Control vertebrate 410 - 411
 - Write the \[[Prelab](../../labs-misc/lab-notebook.qmd#sec-prelab)\] in your lab notebook. ___Please DO NOT copy the lab manual word for word.__ Your task is to **summarize** the important points that are useful for developing hypotheses for this experiment._
 - This week, draft hypotheses for each experiment.
 - To obtain feedback from your TAs, __for the prelab please have the hypotheses, figuring out how many ideas you have to cover, and writing a topic sentence for each paragraph:__
