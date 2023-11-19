@@ -1,0 +1,86 @@
+---
+title: "11a\\. Osmoreguation"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "We are all slightly salty bags of water in the environment"
+date: 2023-11-20
+format: 
+  html: default 
+  pdf: default
+categories: [module 11, week 14,  osmoregulation]
+---
+
+# Pre-class materials 
+
+::: callout-important
+## Letʻs finish strong!
+
+- We have __only 3__ class sessions left to finish all of our content. After that, we have final student presentations. 
+- __Attendance is mandatory__ at all remaining classes. 
+- __Come prepared__ by __reading the book__, and our discussions can __probe deeper.__ This will make your __homeworks__, __labs__, and __papers__ so much easier. 
+- __Remember that effort counts__, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a "bump up".  You show effort in many ways, including attendance and sincere participation. 
+:::
+
+
+### Announcements/Reminders
+
+-  Due Monday Design 3 draft \[[turn in](../../projects/design3-turnin.qmd)\], please do your peer review for design 3 by wednesday, and email to the authors with cc to me.
+-  TEAMMATES will be on hold and Mondayʻs session will be combined with the week after Thanksgiving :). 
+-  The EEG group lab is due at the normal time by email to your TA. No lab sessions this week.
+-  Short week this week, happy Thanksgiving!!
+
+### Week 14 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Logan B | Morgan | Justin |  
+| 2 | Adry | Christina | Krystal |
+| 3 | Garrett | Maisie | Kylie |
+| 4 | Mayuka | Richard | Alvin  |  
+| 5 | Kirsten | Matthew |  Sasha|
+| 6 |  Logan M  |  Anna |   |
+
+
+
+## (Last Friday) 
+- If you missed last Friday, familiarize yourself with the reading assignment and definitions, water budgets, and challenges of terrestrial, freshwater, and marine environments \[[last week](../2023-11-13-osmoregulation/osmoregulation.qmd)\]. 
+
+## Monday 
+- We will finish the \[[Osmoregulation discussion](../../discussions/Discussion-Week11-osmoregulation.pdf)\] \[[slide deck](../../powerpoints/11.Osmoregulation.pdf)\] and start \[[Excretion questions 1,2](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] which we will finish next week. 
+- Be prepared to diagram and discuss the routes of water and ion inflow and outflow for terrestrial animals (human), freshwater fish (q1), marine fish (q2), and marine elasmobrachs (q3).
+  + This time, start with the osmotic gradient facing the animal. Clearly label the mOsm of the media outside, as well as mOsm inside (use the extracellular fluid as the inside compartment).   
+  + Consider the gradient facing the skin :) also. 
+  + Label special organs or sites of major exchange.
+  + Indicate __water__ and __ions__ separately, and whether it is active or passive movement, and for ions - which ones (details matter).
+  + __Look in your book!__
+- For excretion think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)
+
+| Group | | |  | | |
+| ----  | ----  |----  |----  |----  |----  |
+| Fish | Kidneys | Gills | Bladder | Intestines | |
+| Amphibians | Kidneys | Gills | Bladder | Intestines | Skin | 
+| Reptiles | Kidneys | | | Intestines | Salt Glands| 
+| Birds | Kidneys | | | Intestines | | Salt Glands |
+| Mammals | Kidneys |  |  | |  |
+
+: Organs involved in osmoregulation {#tbl-osmoorg}
+
+
+Osmoregulation Podcast
+{{< video https://youtu.be/1vQxLFoPCmM >}}
+
+
+# For Next Time
+
+- Happy Thanksgiving!
+- We will pick up Excretion the Monday after Thanksgiving \[[questions 3](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] and have a fascinating discussion on reptile and bird excretion \[[notes](../../discussions/11c.Avian_Reptilian_Osmoregulation_Notes.pdf)\]
+
+::: callout-note
+## Reminders and materials
+
+:::
+
+

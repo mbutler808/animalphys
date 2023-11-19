@@ -71,7 +71,7 @@ format:
 |   | W | Symmorphosis: [Weibel, Taylor, and Hoppeler (1991)](https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 |  | Lab 11: PC1-G-Human EEG \[[overview](labs/Lab11-human-eeg/Lab11.qmd)\] |   
 |   | F | Osmoregulation  |  Design 3 Resipration, Peer Critique 3  \[[html](projects/design3-process.qmd)\] \[[resources](projects/design3-resources.qmd)\] \[[turn in](projects/design3-turnin.qmd)\] |   |   
 |Week 14|||||
-| 11/20 | M | Excretion  |  |   |   
+| 11/20 | M | Excretion \[[html](posts/2023-11-20-osmoregulation2/osmoregulation2.qmd)\] |  |   |   
 |   | W | __Thanksgiving Holiday__  |  | No Labs |   
 |   | F | __Thanksgiving Holiday__  |   |   |   
 |Week 15|||||

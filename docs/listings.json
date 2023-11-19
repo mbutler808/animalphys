@@ -2,8 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/design3-turnin.html",
       "/projects/design3a.html",
+      "/projects/design3-turnin.html",
       "/projects/design3.html",
       "/projects/design3-process.html",
       "/projects/design3-resources.html",
@@ -38,6 +38,7 @@
   {
     "listing": "/lectures.html",
     "items": [
+      "/posts/2023-11-20-osmoregulation2/osmoregulation2.html",
       "/posts/2023-11-13-osmoregulation/osmoregulation.html",
       "/posts/2023-11-06-ventilation/ventilation.html",
       "/posts/2023-10-30-blood-respiration/blood-respiration.html",
