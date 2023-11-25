@@ -76,7 +76,7 @@ format:
 |   | F | __Thanksgiving Holiday__  |   |   |   
 |Week 15|||||
 | 11/27 | M | Excretion |   |   |   
-|   | W | Reproduction | PS7: Osmoregulation \[[pdf](homework/HW7Osmoregulation.pdf)\] | Lab 12: PC2-G-Human Renal  |   
+|   | W | Reproduction | PS7: Osmoregulation \[[pdf](homework/HW7Osmoregulation.pdf)\] | Lab 12: PC2-G-Human Renal \[[overview](labs/Lab12-human-renal/Lab12.qmd)\] |   
 |   | F | Student Presentations | Design 3 Rewrite |   |   
 |Week 16|||||
 | 12/4  | M | Student Presentations |   |   |   
