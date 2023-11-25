@@ -50,6 +50,7 @@ categories: [module 11, week 14,  osmoregulation]
 
 ## Monday 
 - We will finish the \[[Osmoregulation discussion](../../discussions/Discussion-Week11-osmoregulation.pdf)\] \[[slide deck](../../powerpoints/11.Osmoregulation.pdf)\] and start \[[Excretion questions 1,2](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] which we will finish next week. 
+- We will finish the \[[Osmoregulation discussion](../../discussions/Discussion-Week11-osmoregulation.pdf)\] \[[slide deck](../../powerpoints/11.Osmoregulation.pdf)\] and start \[[Excretion questions 1,2](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] which we will finish next week. 
 - Be prepared to diagram and discuss the routes of water and ion inflow and outflow for terrestrial animals (human), freshwater fish (q1), marine fish (q2), and marine elasmobrachs (q3).
   + This time, start with the osmotic gradient facing the animal. Clearly label the mOsm of the media outside, as well as mOsm inside (use the extracellular fluid as the inside compartment).   
   + Consider the gradient facing the skin :) also. 
@@ -62,8 +63,8 @@ categories: [module 11, week 14,  osmoregulation]
 | ----  | ----  |----  |----  |----  |----  |
 | Fish | Kidneys | Gills | Bladder | Intestines | |
 | Amphibians | Kidneys | Gills | Bladder | Intestines | Skin | 
-| Reptiles | Kidneys | | | Intestines | Salt Glands| 
-| Birds | Kidneys | | | Intestines | | Salt Glands |
+| Reptiles | Kidneys | | | Intestines | (Salt Glands)| 
+| Birds | Kidneys | | | Intestines | (Salt Glands) |
 | Mammals | Kidneys |  |  | |  |
 
 : Organs involved in osmoregulation {#tbl-osmoorg}

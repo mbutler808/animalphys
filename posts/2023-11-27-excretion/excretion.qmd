@@ -1,0 +1,76 @@
+---
+title: "11b\\. Excretion"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "We are all slightly salty bags of water in the environment"
+date: 2023-11-27
+format: 
+  html: default 
+  pdf: default
+categories: [module 11, week 14,  osmoregulation, excretion]
+---
+
+# Pre-class materials 
+
+::: callout-important
+## Letʻs finish strong!
+
+- Two more content discussions, then final student presentions. 
+- Everyone is so excited to watch your final presentations. Please sign up for a \[[presentation time]\](https://docs.google.com/spreadsheets/d/1QqrkmpJj7Ol2F8koAwAkO08_LW4xH_gX_uIKxDLwLas/edit#gid=0) 
+- __Attendance is mandatory__ at all remaining classes. 
+- __Come prepared__ by __reading the book__, and our discussions can __probe deeper.__ This will make your __homeworks__, __labs__, and __papers__ so much easier. 
+- __Remember that effort counts__, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a "bump up".  You show effort in many ways, including attendance and sincere participation. 
+:::
+
+
+### Announcements/Reminders
+
+-  Osmoregulation homework due Wednesday at start of class. 
+-  Please do TEAMMATES after Wednesday. Monday before Thanksgiving plus the week after Thanksgiving. 
+-  Last lab this week! __Prepare for the Human Renal Lab starting from the night before lab.__ \[[lab 12](../../labs/Lab12-human-renal/Lab12.qmd)\]
+
+### Week 14/15 Discussion Groups
+
+| Group | Partner 1 | Partner 2 | Partner 3 |
+|----|----|----|----|----|
+| 1 |  Logan B | Morgan | Justin |  
+| 2 | Adry | Christina | Krystal |
+| 3 | Garrett | Maisie | Kylie |
+| 4 | Mayuka | Richard | Alvin  |  
+| 5 | Kirsten | Matthew |  Sasha|
+| 6 |  Logan M  |  Anna |   |
+
+
+## Monday 
+- Welcome back from Thanksgiving! 
+- \[[Excretion questions 1-3](../../discussions/Discussion-Week11b-excretion.pdf)\] \[[slide deck 2](../../powerpoints/11b.Osmoregulation_SaltWater.pdf)\] 
+- Reading assignment: Withers skim pp. 841-845 (pick up the four main steps of Tubular Excretion),read 855- 874 (Vertebrate Kidneys) and pp. 874-886 (Nitrogen Metabolism)  or HWA pp.754-776, 782-785.
+
+- Nitrogenous waste comes from protein metabolism. Think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)
+
+| Group | | |  | | |
+| ----  | ----  |----  |----  |----  |----  |
+| Fish | Kidneys | Gills | Bladder | Intestines | |
+| Amphibians | Kidneys | Gills | Bladder | Intestines | Skin | 
+| Reptiles | Kidneys | | | Intestines | (Salt Glands)| 
+| Birds | Kidneys | | | Intestines | (Salt Glands) |
+| Mammals | Kidneys |  |  | |  |
+
+: Organs involved in osmoregulation {#tbl-osmoorg}
+
+
+Osmoregulation Podcast
+{{< video https://youtu.be/1vQxLFoPCmM >}}
+
+## Wednesday
+- Bird and Reptile Excretion! We will have a fascinating discussion on reptile and bird excretion \[[notes](../../discussions/11c.Avian_Reptilian_Osmoregulation_Notes.pdf)\]
+
+## Friday
+- Begin Final Presentations
+
+
+
+
