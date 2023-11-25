@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ZOOL430/430L Animal Physiology and Laboratory</title>
+<link>https://mbutler808.github.io/lectures.html</link>
+<atom:link href="https://mbutler808.github.io/lectures.xml" rel="self" type="application/rss+xml"/>
+<description>Course website for Animal Physiology in Fall 2023</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Mon, 20 Nov 2023 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>11a. Osmoreguation</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-11-20-osmoregulation2/osmoregulation2.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Letʻs finish strong!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>We have <strong>only 3</strong> class sessions left to finish all of our content. After that, we have final student presentations.</li>
+<li><strong>Attendance is mandatory</strong> at all remaining classes.</li>
+<li><strong>Come prepared</strong> by <strong>reading the book</strong>, and our discussions can <strong>probe deeper.</strong> This will make your <strong>homeworks</strong>, <strong>labs</strong>, and <strong>papers</strong> so much easier.</li>
+<li><strong>Remember that effort counts</strong>, and will be taken into account in the final grades. If your grade is on the borderline, effort will translates into a “bump up”. You show effort in many ways, including attendance and sincere participation.</li>
+</ul>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Monday Design 3 draft [<a href="../../projects/design3-turnin.html">turn in</a>], please do your peer review for design 3 by wednesday, and email to the authors with cc to me.</li>
+<li>TEAMMATES will be on hold and Mondayʻs session will be combined with the week after Thanksgiving :).</li>
+<li>The EEG group lab is due at the normal time by email to your TA. No lab sessions this week.</li>
+<li>Short week this week, happy Thanksgiving!!</li>
+</ul>
+</section>
+<section id="week-14-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-14-discussion-groups">Week 14 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Logan B</td>
+<td>Morgan</td>
+<td>Justin</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Christina</td>
+<td>Krystal</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Garrett</td>
+<td>Maisie</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Mayuka</td>
+<td>Richard</td>
+<td>Alvin</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Kirsten</td>
+<td>Matthew</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Logan M</td>
+<td>Anna</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="last-friday" class="level2">
+<h2 class="anchored" data-anchor-id="last-friday">(Last Friday)</h2>
+<ul>
+<li>If you missed last Friday, familiarize yourself with the reading assignment and definitions, water budgets, and challenges of terrestrial, freshwater, and marine environments [<a href="../../posts/2023-11-13-osmoregulation/osmoregulation.html">last week</a>].</li>
+</ul>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>We will finish the [<a href="../../discussions/Discussion-Week11-osmoregulation.pdf">Osmoregulation discussion</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck</a>] and start [<a href="../../discussions/Discussion-Week11b-excretion.pdf">Excretion questions 1,2</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>] which we will finish next week.</li>
+<li>Be prepared to diagram and discuss the routes of water and ion inflow and outflow for terrestrial animals (human), freshwater fish (q1), marine fish (q2), and marine elasmobrachs (q3).
+<ul>
+<li>This time, start with the osmotic gradient facing the animal. Clearly label the mOsm of the media outside, as well as mOsm inside (use the extracellular fluid as the inside compartment).<br>
+</li>
+<li>Consider the gradient facing the skin :) also.</li>
+<li>Label special organs or sites of major exchange.</li>
+<li>Indicate <strong>water</strong> and <strong>ions</strong> separately, and whether it is active or passive movement, and for ions - which ones (details matter).</li>
+<li><strong>Look in your book!</strong></li>
+</ul></li>
+<li>For excretion think about nitrogenous waste (osmoreg question 5) and what mechanisms organisms have for their excretion (excretion questions 1,2)</li>
+</ul>
+<div id="tbl-osmoorg" class="anchored">
+<table class="table">
+<caption>Table&nbsp;1: Organs involved in osmoregulation</caption>
+<thead>
+<tr class="header">
+<th>Group</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fish</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amphibians</td>
+<td>Kidneys</td>
+<td>Gills</td>
+<td>Bladder</td>
+<td>Intestines</td>
+<td>Skin</td>
+</tr>
+<tr class="odd">
+<td>Reptiles</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td>Salt Glands</td>
+</tr>
+<tr class="even">
+<td>Birds</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td>Intestines</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mammals</td>
+<td>Kidneys</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Happy Thanksgiving!</li>
+<li>We will pick up Excretion the Monday after Thanksgiving [<a href="../../discussions/Discussion-Week11b-excretion.pdf">questions 3</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>] and have a fascinating discussion on reptile and bird excretion [<a href="../../discussions/11c.Avian_Reptilian_Osmoregulation_Notes.pdf">notes</a>]</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 11</category>
+  <category>week 14</category>
+  <category>osmoregulation</category>
+  <guid>https://mbutler808.github.io/posts/2023-11-20-osmoregulation2/osmoregulation2.html</guid>
+  <pubDate>Mon, 20 Nov 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>11. Respiration-Osmoreguation</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-11-13-osmoregulation/osmoregulation.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important Homework announcements
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Due at the beginning of class, written by hand (paper and pencil or pen).</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday and Wednesday we will finish respiration and Friday begin osmoregulation.</li>
+<li>The Symmorphosis paper is a very interesting and important paper. It will be useful for design3 respiration.</li>
+<li>In Lab this week you will measure your own brain waves using EEG. Have fun! [<a href="../../labs/Lab11-human-eeg/Lab11.html">manual</a>]!</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Monday at the start of class– Homework 5 [<a href="../../schedule.html">schedule</a>]</li>
+<li>Due Friday at midnight - Design 3 draft</li>
+<li>Please do your peer review for design 3 over the weekend</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-13-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-13-discussion-groups">Week 13 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Alvin</td>
+<td>Sasha</td>
+<td>Anna</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Morgan Maisie</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Garrett</td>
+<td>Christina</td>
+<td>Krystal</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Maisie</td>
+<td>Kirsten</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Logan B</td>
+<td>Matthew</td>
+<td>Richard</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Justin</td>
+<td>Mayuka</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday---finish-aerial-respiration-questions-2-3-5" class="level2">
+<h2 class="anchored" data-anchor-id="monday---finish-aerial-respiration-questions-2-3-5">Monday - Finish aerial respiration questions 2, 3, 5</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Withers pp.&nbsp;609-631 OR HWA chapter 23 + Withers 626-632, skip invertebrates</li>
+<li>[<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion pg 4:2,3,5</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]</li>
+<li><strong>Aerial Respiration Topics:</strong>
+<ul>
+<li>Air flow patterns of vertebrates</li>
+<li>Lung Volumes
+<ul>
+<li>Lung Volume (VL or VT)</li>
+<li>tidal volume (Vt)</li>
+<li>Dead space volume (VD)</li>
+<li>Alveolar ventilation volume (VA or Va)</li>
+<li>Alveolar Minute Volume (VAE)</li>
+</ul></li>
+<li>Breath Rate (BR)</li>
+<li>Oxygen Extraction and Pulmonary Diffusing Capacity</li>
+</ul></li>
+</ul>
+<p>Respiration the Movie</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/clyu9h810n4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="wednesday---symmorphosis" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday---symmorphosis">Wednesday - Symmorphosis</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Symmorphosis: Weibel, Taylor, and Hoppeler (1991) The concept of symmorphosis: A testable hypothesis of structure-function relationship. PNAS 88:10357-61 <a href="https://drive.google.com/file/d/1Td1DRJpE398Mj50m5r7bm4ooiinkchct/view?usp=share_link">Respiration Papers folder</a></li>
+<li>In class discussion</li>
+</ul>
+</section>
+<section id="friday---begin-osmoregulation" class="level2">
+<h2 class="anchored" data-anchor-id="friday---begin-osmoregulation">Friday - Begin Osmoregulation</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Withers skim beginning Ch. 16 for definitions in list below, also read Water &amp; Ion Budgets pp.&nbsp;788-790, Vertebrates pp.&nbsp;798-803, Terrestrial Environments pp.&nbsp;806-812, Terr. Verts. 822-827. Withers is actually very readable on this topic, and some of it will be familiar to you already:).</li>
+<li>[<a href="../../discussions/Discussion-Week11-osmoregulation.pdf">discussion</a>] [<a href="../../powerpoints/11.Osmoregulation.pdf">slide deck</a>] [<a href="../../powerpoints/11b.Osmoregulation_SaltWater.pdf">slide deck 2</a>]</li>
+<li>definitions:
+<ul>
+<li>solutes,</li>
+<li>osmosis,</li>
+<li>osmolarity/osmolality,</li>
+<li>ionoregulation,</li>
+<li>osmoregulation/osmoconforming,</li>
+<li>compatible solutes,</li>
+<li>perturbing solutes,</li>
+<li>counteracting solutes,</li>
+<li>osmotic permeability (&amp;formulae)</li>
+</ul></li>
+<li>The components of <strong>Water Budgets</strong> (input/output) as well as <strong>Ion Budgets</strong></li>
+<li>The water and ion challenges of <strong>freshwater</strong>, <strong>marine</strong>, and <strong>terrestrial</strong> environments</li>
+</ul>
+<p>Osmoregulation Podcast</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1vQxLFoPCmM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 11</category>
+  <category>week 13</category>
+  <category>ventilation</category>
+  <category>respiration</category>
+  <category>osmoregulation</category>
+  <guid>https://mbutler808.github.io/posts/2023-11-13-osmoregulation/osmoregulation.html</guid>
+  <pubDate>Mon, 13 Nov 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>10. Respiration</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-11-06-ventilation/ventilation.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important Homework announcements
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>(copied from Discord) <em>Thank you for your hard work on the homework assignments.</em> Thank you especially to those who followed the guidelines. However, despite repeated reminders, some folks are still not complying with the submissions instructions, resulting in work that is not legible, too small to read, in multiple files, and not written out. This makes it very difficult to grade. Therefore:</p>
+<ul>
+<li>Homework will NO LONGER be accepted in Laulima.</li>
+<li>Homework will be due IN CLASS <strong>at the start of class on the due date</strong>.</li>
+<li>MUST be <strong>written by hand on paper using pencil or pen.</strong><br>
+</li>
+<li>No tablet-generated submissions will be accepted.</li>
+<li>PLEASE make it easy to grade by writing legibly and large enough to see. You know who you are - because Iʻve asked you before.</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday and Wednesday we will cover aerial and aquatic respiration.</li>
+<li>Watch both podcasts, look over the reading assignments, and the handouts. These will be very helpful for the homework and the design project. Please start your homework early, the design project will come up quick.</li>
+<li>Look over the homework and start what you can. Think of questions to ask in class (no class on Friday).</li>
+<li>Have fun doing your independent lab this week! [<a href="../../labs/Lab9-10-toad-muscle/Lab9-10.html">you can refer to the toad muscle manual</a>]!
+<ul>
+<li>No graded prelab or quiz.</li>
+<li>Just prepare for your brilliant experiment (and write notes to help yourself)!</li>
+<li><em>Make sure you are clear on the anatomy for the muscles you are going after.</em> Do a little literature search if you need more information</li>
+<li>As always, feel free to ask your TA for feedback.</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Friday Nov.&nbsp;10 is Veterans Day. Thanks to all our veterans for their service!</li>
+<li>Due Next Week Monday – Homework 5 [<a href="../../schedule.html">schedule</a>]</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-12-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-12-discussion-groups">Week 12 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Adry</td>
+<td>Matthew</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Alvin</td>
+<td>Maisie</td>
+<td>Anna</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Morgan</td>
+<td>Justin</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Kylie</td>
+<td>Mayuka</td>
+<td>Christina</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Logan B</td>
+<td>Garrett</td>
+<td>Kirsten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Richard</td>
+<td>Krystal</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday---gas-exchange-in-air-vs-water-and-aquatic-respiration" class="level2">
+<h2 class="anchored" data-anchor-id="monday---gas-exchange-in-air-vs-water-and-aquatic-respiration">Monday - Gas Exchange in Air vs Water and Aquatic Respiration</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Withers Aquatic respiration: skim 565-72, read 573-4, 585-99, supplement 12-2. ALTERNATIVELY, read HWA chapter 22 + HWA 586-587 (countercurr) + HWA 590-594 (fish).</li>
+<li>[<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion pg 2-3</a>] [<a href="../../powerpoints/10a.Blood.pdf">slide deck</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]</li>
+<li>We will focus on pages 2-3. I will cover question 1, we will discuss questions 2-5.</li>
+<li><strong>Topics:</strong>
+<ul>
+<li>Air vs water (Q1)</li>
+<li>Partial pressures of gasses and pO2 at sea level - the starting point.
+<ul>
+<li>Influences of relative humidity</li>
+<li>Altitude (total pressure)</li>
+<li>Henryʻs Law - dissolved O2 in water</li>
+</ul></li>
+<li>Diffusion (Fick’s Law) vs.&nbsp;Bulk Flow
+<ul>
+<li>How to increase rate of ventilation</li>
+</ul></li>
+<li>Flow patterns: Countercurrent vs.&nbsp;Concurrent</li>
+<li>Fish Gills
+<ul>
+<li>Ventilatory pumps in fish (breathing patterns)</li>
+</ul></li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/2GPfu8ebZac" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="wednesday---aerial-respiration" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday---aerial-respiration">Wednesday - Aerial Respiration</h2>
+<ul>
+<li><strong>Reading assignment:</strong> Withers pp.&nbsp;609-631 OR HWA chapter 23 + Withers 626-632, skip invertebrates</li>
+<li>[<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion pg 3-4</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]</li>
+<li><strong>Aerial Respiration Topics:</strong>
+<ul>
+<li>Air flow patterns of vertebrates</li>
+<li>Lung Volumes
+<ul>
+<li>Lung Volume (VL or VT)</li>
+<li>tidal volume (Vt)</li>
+<li>Dead space volume (VD)</li>
+<li>Alveolar ventilation volume (VA or Va)</li>
+<li>Alveolar Minute Volume (VAE)</li>
+</ul></li>
+<li>Breath Rate (BR)</li>
+<li>Oxygen Extraction and Pulmonary Diffusing Capacity</li>
+</ul></li>
+</ul>
+<p>Respiration the Movie</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/clyu9h810n4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="friday---happy-veterans-day" class="level2">
+<h2 class="anchored" data-anchor-id="friday---happy-veterans-day">Friday - Happy Veterans Day!</h2>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Homework 6 Respiration due Monday 11/13 [<a href="../../schedule.html">schedule</a>] Homework is due on paper, <strong>at the start of class.</strong></li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 10</category>
+  <category>week 12</category>
+  <category>ventilation</category>
+  <category>lung volumes</category>
+  <category>flow</category>
+  <category>respiratory media</category>
+  <category>aquatic respiration</category>
+  <category>aerial respiration</category>
+  <guid>https://mbutler808.github.io/posts/2023-11-06-ventilation/ventilation.html</guid>
+  <pubDate>Mon, 06 Nov 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>9. Locomotion - Blood and Respiratory Media</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-30-blood-respiration/blood-respiration.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>We did get a bit behind, so Monday and Wednesday we will finish [<a href="../../posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.html">locomotion</a>]</li>
+<li>Wednesday and Friday we will move on to blood and respiratory media</li>
+<li>Lab this week is on [<a href="../../labs/Lab9-10-toad-muscle/Lab9-10.html">toad muscle</a>]! Pay attention to refining your prelab.</li>
+<li>Think hard about a <strong>hypothesis for your independent toad muscle</strong> lab next week.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Monday Homework 5 [<a href="../../schedule.html">schedule</a>]</li>
+<li>Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+<li>Getting to the end, folks!</li>
+</ul>
+</section>
+<section id="week-11-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-11-discussion-groups">Week 11 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Justin</td>
+<td>Kirsten</td>
+<td>Mayuka</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Logan M</td>
+<td>Richard</td>
+<td>Christina</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Matthew</td>
+<td>Morgan</td>
+<td>Adry</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Sasha</td>
+<td>Logan B</td>
+<td>Alvin</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Anna</td>
+<td>Krystal</td>
+<td>Garrett</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Maisie</td>
+<td>Kylie</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday-and-wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="monday-and-wednesday">Monday and Wednesday</h2>
+<ul>
+<li>Finish Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]
+<ul>
+<li>Support vs.&nbsp;Locomotion</li>
+<li>Material properties and functional design
+<ul>
+<li>stress and strain<br>
+</li>
+<li>posture</li>
+</ul></li>
+<li>Muscle architecture</li>
+<li>Lever arms and gear ratios</li>
+</ul></li>
+<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]
+<ul>
+<li>Cursorial adaptations</li>
+<li>Trends in posture</li>
+<li>Limb cycles and gaits (kinematics)</li>
+<li>Ground reaction forces and joint forces (biomechanics)</li>
+<li>Conservation of energy in running, walking jumping</li>
+</ul></li>
+</ul>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YlyaASmy-1E" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/t0Vf-RJleCE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<ul>
+<li>Blood and Respiratory Media [<a href="../../discussions/Discussion-Week10-blood-ventilation.pdf">discussion</a>] [<a href="../../powerpoints/10a.Blood.pdf">slide deck</a>] [<a href="../../powerpoints/10b.Ventilation.pdf">slide deck2</a>]</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Homework 6 Respiration Friday 11/10 [<a href="../../schedule.html">schedule</a>]</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 9</category>
+  <category>week 11</category>
+  <category>blood</category>
+  <category>respiratory media</category>
+  <category>aquatic</category>
+  <category>terrestrial</category>
+  <category>aerial</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-30-blood-respiration/blood-respiration.html</guid>
+  <pubDate>Mon, 30 Oct 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>8. Biomechanics and Locomotion</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday we will finish Muscle Discussion and wednesday move on to biomechanics and locomotion</li>
+<li>Lab this week is on [<a href="../../labs/Lab8-human-emg/Lab8.html">human EMG</a>]! Pay attention to refining your prelab.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Due Monday Homework 4 [<a href="../../schedule.html">schedule</a>]</li>
+<li>Design 2 Rewrite due Friday by midnight. [<a href="../../projects/design2-turnin.html">turn in</a>]<br>
+</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+<li>Getting to the end, folks!</li>
+</ul>
+</section>
+<section id="week-10-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-10-discussion-groups">Week 10 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Alvin</td>
+<td>Krystal</td>
+<td>Maisie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Kirsten</td>
+<td>Kailie</td>
+<td>Matthew</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Anna</td>
+<td>Mayuka</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Christina</td>
+<td>Logan B</td>
+<td>Garrett</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Sasha</td>
+<td>Logan M</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Justin</td>
+<td>Richard</td>
+<td>Adry</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Finish Muscles Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8.MusclesI.pdf">slide deck</a>]</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Begin Biomechanics and Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9a.Biomechanics.pdf">slide deck 1</a>]</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Terrestrial Locomotion [<a href="../../discussions/Discussion-Week9-biomechanics-locomotion.pdf">discussion</a>] [<a href="../../powerpoints/9b.TerrestrialLocomotion.pdf">slide deck 2</a>]</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Homework 5 Muscles &amp; Biomechanics due Monday 10/30 [<a href="../../schedule.html">schedule</a>]</li>
+<li>Halloween Extra Credit - come dressed up, stop by lab on Tuesday (or Monday)</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 8</category>
+  <category>week 10</category>
+  <category>biomaterials</category>
+  <category>biomechanics</category>
+  <category>locomotion</category>
+  <category>aquatic</category>
+  <category>terrestrial</category>
+  <category>aerial</category>
+  <category>muscles</category>
+  <category>skeletons</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.html</guid>
+  <pubDate>Mon, 23 Oct 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>7b. MusclesII</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-16-muscles2/muscles2.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday and Wednesday we will finish Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Friday we aim for Biomechanics</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Design 2 due today by midnight. [<a href="../../projects/design2-turnin.html">turn in</a>]<br>
+</li>
+<li>Talks in Lab this week!<br>
+</li>
+<li>Tuesday starting at 1:30:<br>
+</li>
+<li>Kirsten and Morgan</li>
+<li>Maisie and Christina</li>
+<li>Krystal and Logan B</li>
+<li>Anna and Kylie (Kylie joining at 2:30)</li>
+<li>Alvin and Richard</li>
+<li>Wednesday starting at 2:30:
+<ul>
+<li>Mayuka and Logan M</li>
+<li>Garrett</li>
+<li>Justin and Sasha</li>
+<li>Adry and Matt</li>
+</ul></li>
+<li>HW4 due Monday [<a href="../../homework/HW4neurons.pdf">pdf</a>]</li>
+<li>Wires from Discord:
+<ul>
+<li>Lab report extension due no later than Friday: Email your TA with cc to your lab partners</li>
+<li>Everyone gets 2 golden tickets. See Discord #announcements</li>
+</ul></li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-9-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-9-discussion-groups">Week 9 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Krystal</td>
+<td>Sahsa</td>
+<td>Mayuka</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Maisie</td>
+<td>Matthew</td>
+<td>Adry</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Logan B</td>
+<td>Richard</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Anna</td>
+<td>Alvin</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Garrett</td>
+<td>Justin</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Logan M</td>
+<td>Kirsten</td>
+<td>Christina</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Talk about talks</li>
+<li>More Muscles Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8.MusclesI.pdf">slide deck</a>]</li>
+</ul>
+<section id="muscles-emg-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscles-emg-podcast">Muscles EMG podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/6Z39ZqgixfY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Continue Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
+</ul>
+<section id="muscle-design-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Lab next week: Human EMG</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 7</category>
+  <category>week 9</category>
+  <category>muscles</category>
+  <category>excitable tissues</category>
+  <category>contraction force</category>
+  <category>force</category>
+  <category>velocity</category>
+  <category>tension</category>
+  <category>sarcomere</category>
+  <category>muscle architecture</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-16-muscles2/muscles2.html</guid>
+  <pubDate>Mon, 16 Oct 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>7. Muscles</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-09-muscles/muscles.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday we will finish Neurons and Signal Propagation [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
+<li>Wednesday and Friday Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion &amp; reading assignment</a>]</li>
+<li>HW3 Feeding and Digestion due Monday at midnight</li>
+<li>Start gathering your diet data for [<a href="../../projects/design2.html">Design 2</a>&nbsp;and work through the basic analysis. Also check out the [<a href="../../projects/design2-FAQ.html">FAQs</a><br>
+</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This week will be a very interesting lab on the toad sciatic nerve and neuronal function. Bringn your best dissecting skills! Itʻs an interesting one.</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-8-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-8-discussion-groups">Week 8 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Christina</td>
+<td>Maisie</td>
+<td>Alvin</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Kylie</td>
+<td>Adry</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Garrett</td>
+<td>Krystal</td>
+<td>Anna</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Justin</td>
+<td>Richard</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Mayuka</td>
+<td>Matthew</td>
+<td>Kirsten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Logan M</td>
+<td>Sahsa</td>
+<td>Logan B</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Finish Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion</a>] [<a href="../../powerpoints/6a.NeuronsRecording.pdf">slide deck</a>]</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>…Still finishing Neurons &amp; Signal Propagation [<a href="../../powerpoints/6b.Synapses.pdf">slide deck2</a>]</li>
+<li>Start Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8.MusclesI.pdf">slide deck</a>]</li>
+</ul>
+<section id="muscles-emg-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscles-emg-podcast">Muscles EMG podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/6Z39ZqgixfY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Continue Muscle Discussion [<a href="../../discussions/Discussion-Week8-muscle.pdf">discussion</a>] [<a href="../../powerpoints/8a.MusclesII.pdf">slide deck 2</a>]</li>
+</ul>
+<section id="muscle-design-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="muscle-design-podcast">Muscle Design podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XPgHg2lmc5M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Design 2 draft due Monday 10/9 at midnight</li>
+<li>Lab next week: Design presentations</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 7</category>
+  <category>week 8</category>
+  <category>muscles</category>
+  <category>excitable tissues</category>
+  <category>contraction force</category>
+  <category>force</category>
+  <category>velocity</category>
+  <category>tension</category>
+  <category>sarcomere</category>
+  <category>muscle architecture</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-09-muscles/muscles.html</guid>
+  <pubDate>Mon, 09 Oct 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>6. Neurons</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-10-02-neurons/neurons.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday we will finish Max size herbivores discussion Feeding [<a href="../../discussions/Discussion-Week5-feeding&amp;digestion.pdf">last page</a>] [<a href="../../powerpoints/5b.DigestiveSystems.pdf">slide deck</a>]</li>
+<li>Wednesday and Friday Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion &amp; reading assignment</a>]</li>
+<li>For Wed and Fri, please watch the podcasts below.</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This week will be our first invertebrate lab on the Lobster Heart. Please wear shoes and bring your dissection kit (if you have one, if not we will provide).</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-7-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-7-discussion-groups">Week 7 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Kylie</td>
+<td>Matt</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Mayuka</td>
+<td>Christina</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Maisie</td>
+<td>Garrett</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Justin</td>
+<td>Krystal</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Alvin</td>
+<td>Kirsten</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Logan B</td>
+<td>Anna</td>
+<td>Richard</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Finish Max Size Herbivores &amp; Fermentation discussion</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Start Neurons Discussion [<a href="../../discussions/Discussion-Week7-neurons-signal-propagation.pdf">discussion</a>] [<a href="../../powerpoints/6a.NeuronsRecording.pdf">slide deck</a>]</li>
+</ul>
+<section id="neurons-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="neurons-podcast">Neurons podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/GKPWD-Mer6s" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Continue Neurons &amp; Signal Propagation [<a href="../../powerpoints/6b.Synapses.pdf">slide deck2</a>]</li>
+</ul>
+<section id="signal-propagation-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="signal-propagation-podcast">Signal propagation podcast</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8Z8vW6FAJxY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 6</category>
+  <category>week 7</category>
+  <category>neurons</category>
+  <category>action potentials</category>
+  <category>electricity</category>
+  <category>signals</category>
+  <guid>https://mbutler808.github.io/posts/2023-10-02-neurons/neurons.html</guid>
+  <pubDate>Fri, 06 Oct 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>5b. Digestion</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-09-25-digestion/digestion.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This week will be a little odd. Monday we will do the Sustained metabolic scope discussion originally scheduled for last Friday. Wednesday we will start talking about feeding (our favorite topic!) and digestion. Friday we will have a special treat - Allison will lead a workshop to help you improve your design 1 drafts. Bring your drafts!</p>
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Plan
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>This week we will discuss Digestion [<a href="../../discussions/Discussion-Week5-feeding-digestion.pdf">discussion</a>]</li>
+<li>Design 1 draft due at 5pm sharp [<a href="../../projects/design1-turnin.html">turn-in page</a>]</li>
+<li>Everyone must do a peer review. Instructions on [<a href="../../projects/design1-turnin.html">turn-in page</a>]</li>
+<li><strong>Labs:</strong> <em>Design 1 peer critique workshop.</em> Bring your marked up draft and three copies of your peer review to your assinged Lab session this week:</li>
+</ol>
+<p><strong>Tuesday Lab 9/26 starting at 1:30</strong>:</p>
+<ul>
+<li>Kirsten and Morgan<br>
+</li>
+<li>Maisie and Christina<br>
+</li>
+<li>Krystal and Logan B<br>
+</li>
+<li>Anna and Kylie (Kylie joining at 2:30)<br>
+</li>
+<li>Alvin and Richard</li>
+</ul>
+<p><strong>Wednesday 9/27 starting at 2:30</strong>:</p>
+<ul>
+<li>Mayuka and Logan M<br>
+</li>
+<li>Garrett<br>
+</li>
+<li>Justin and Sasha<br>
+</li>
+<li>Adry and Matt<br>
+</li>
+</ul>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This will be a big week! Looking for many lightbulb moments</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-6-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-6-discussion-groups">Week 6 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Adry</td>
+<td>Garrett</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Logan M</td>
+<td>Christina</td>
+<td>Mayuka</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Krystal</td>
+<td>Alvin</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Sasha</td>
+<td>Richard</td>
+<td>Maisie</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Logan</td>
+<td>Matt</td>
+<td>Justin</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Anna</td>
+<td>Morgan</td>
+<td>Kirsten</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="snakes-drink-weird" class="level2">
+<h2 class="anchored" data-anchor-id="snakes-drink-weird">Snakes Drink Weird!</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_r3gG6NjNKQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Feeding &amp; Digestion Q2-4 [<a href="../../discussions/Discussion-Week5-feeding&amp;digestion.pdf">discussion</a>] [<a href="../../powerpoints/5b.DigestiveSystems.pdf">slide deck</a>]</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Feeding &amp; Digestion Q5-6</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Max Size Herbivores Discussion page 3</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>HW3 is posted [<a href="../../homework/HW3feeding_digestion.pdf">pdf</a>]</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 5</category>
+  <category>week 6</category>
+  <category>DMR</category>
+  <category>digestion</category>
+  <category>herbivores</category>
+  <category>fermentation</category>
+  <guid>https://mbutler808.github.io/posts/2023-09-25-digestion/digestion.html</guid>
+  <pubDate>Mon, 25 Sep 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>5. Feeding</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-09-18-feeding/feeding.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This week will be a little odd. Monday we will do the Sustained metabolic scope discussion originally scheduled for last Friday. Wednesday we will start talking about feeding (our favorite topic!) and digestion. Friday we will have a special treat - Allison will lead a workshop to help you improve your design 1 drafts. Bring your drafts!</p>
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday we will discuss [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">Metabolic Celings</a>]</li>
+<li>Wednesday we will start Feeding &amp; Digestion [<a href="../../discussions/Discussion-Week5-feeding-digestion.pdf">discussion</a>]</li>
+<li>Friday Design 1 draft workshop! With Allison</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>This will be our first toad lab. Please wear shoes and bring your dissection kit (if you have one, if not we will provide).</li>
+<li>Do discussion TEAMMATES eval, released each Friday, due by Monday.</li>
+</ul>
+</section>
+<section id="week-5-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-5-discussion-groups">Week 5 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Adry</td>
+<td>Logan M</td>
+<td>Alvin</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Krystal</td>
+<td>Garrett</td>
+<td>Richard</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Sasha</td>
+<td>Mayuka</td>
+<td>Matt</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Logan B</td>
+<td>Kylie</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Anna</td>
+<td>Maisie</td>
+<td>Christina</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Kirsten</td>
+<td>Justin</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="snakes-drink-weird" class="level2">
+<h2 class="anchored" data-anchor-id="snakes-drink-weird">Snakes Drink Weird!</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_r3gG6NjNKQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Paper discussion</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Feeding &amp; Digestion Q1-2</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Design 1 Workshop</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Next week letʻs find a common lab time for design critique session. <a href="https://lettucemeet.com/l/Obd3q" class="uri">https://lettucemeet.com/l/Obd3q</a></li>
+<li>You should have all of your background information and should be completing your analysis.</li>
+<li>Make an appointment for you and your partner to get help from me. Both must attend. <a href="https://calendly.com/mbutler808/office-hours" class="uri">https://calendly.com/mbutler808/office-hours</a></li>
+</ul>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 5</category>
+  <category>week 5</category>
+  <category>food</category>
+  <category>feeding</category>
+  <category>nutrient composition</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/posts/2023-09-18-feeding/feeding.html</guid>
+  <pubDate>Mon, 18 Sep 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>4. Cardiac Function and Metabolic Ceilings</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-09-11-cardiac-function/cardiac.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This week we will learn more about cardiac morphology, function, and regulation. There are multiple very short (but important) readings, and some longer readings to skim. Donʻt worry about understanding every detail in the readings, but rather look over the discussion questions first and hunt through the readings for those topics, skimming over the rest. <em>These are going to be important topics for the next few labs.</em></p>
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Monday we will finish heterothermy and start cardiac function. Wednesday cardiac regulation [<a href="../../discussions/Discussion-Week4-heart-function.pdf">Heart Discussion Questions and readings</a>]</li>
+<li>Friday we will discuss [<a href="../../discussions/Discussion-Week4-metabolic-ceiling.pdf">Metabolic Celings</a>]</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Please wear <strong>comfortable shoes to lab</strong> for running up and down stairs.</li>
+<li>HW1 solutions are posted on window of EDM101 lab.</li>
+<li>HW2 due in class (hard copy preferred) or on Laulima by midnight.</li>
+<li>[<a href="../../projects/2023-09-06-design-background/index.html">Design Background</a>] Due <strong>Wednesday in hardcopy</strong>. 10 points. Chance to revise by Friday.</li>
+<li>Do discussion TEAMMATES eval, released each Friday, do by Monday.</li>
+</ul>
+</section>
+<section id="week-4-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-4-discussion-groups">Week 4 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Adry</td>
+<td>Krystal</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Logan B</td>
+<td>Anna</td>
+<td>Kirsten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Justin</td>
+<td>Maisie</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Mayuka</td>
+<td>Garrett</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Alvin</td>
+<td>Richard</td>
+<td>Matt</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Morgan</td>
+<td>Christina</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="monday" class="level2">
+<h2 class="anchored" data-anchor-id="monday">Monday</h2>
+<ul>
+<li>Finish up Heterothermy [<a href="../../discussions/Discussion-Week3-temperature.pdf">questions 3,4</a>] [<a href="../../powerpoints/4.Temperature.pdf">slide deck</a>]</li>
+<li>Cardiac Cycle Q1,2 [<a href="../../powerpoints/4.CardiacCycle.pdf">slide deck</a>]</li>
+</ul>
+</section>
+<section id="wednesday" class="level2">
+<h2 class="anchored" data-anchor-id="wednesday">Wednesday</h2>
+<ul>
+<li>Cardiac Function/Regulation Q3-6</li>
+</ul>
+</section>
+<section id="friday" class="level2">
+<h2 class="anchored" data-anchor-id="friday">Friday</h2>
+<ul>
+<li>Paper discussion</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 4</category>
+  <category>week 4</category>
+  <category>cardiac function</category>
+  <category>cardiac cycle</category>
+  <category>cardiac regulation</category>
+  <category>MMR</category>
+  <guid>https://mbutler808.github.io/posts/2023-09-11-cardiac-function/cardiac.html</guid>
+  <pubDate>Mon, 11 Sep 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>3. Temperature</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-09-06-Temperature/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>Withers chapter 5. Look over the homework, handout, and discussion questions and skim the chapter, reading anything that you need to know.</li>
+<li>[<a href="../../discussions/Discussion_Week_3_temperature.pdf">Discussion Questions</a>]</li>
+<li>[<a href="../../powerpoints/3.Temperature.pdf">Slide Deck</a>] - for your reference as we go through the material</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>Monday is Labor Day. No class</li>
+</ul>
+</section>
+<section id="week-3-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-3-discussion-groups">Week 3 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Justin</td>
+<td>Morgan</td>
+<td>Richard</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Matthew</td>
+<td>Logan B</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Mayuka</td>
+<td>Krystal</td>
+<td>Logan M</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Anna</td>
+<td>Garrett</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Kirsten</td>
+<td>Christina</td>
+<td>Kylie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Maisie</td>
+<td>Alvin</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Thought for the day
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<blockquote class="blockquote">
+<p>Physiology is the story of evolution’s struggle to maintain an appropriate SA/D ratio in relation to the volume of an animal – <em>Haldane</em></p>
+</blockquote>
+</div>
+</div>
+</section>
+</section>
+<section id="temperature" class="level1">
+<h1>3. Temperature</h1>
+<section id="modes-of-heat-transfer" class="level2">
+<h2 class="anchored" data-anchor-id="modes-of-heat-transfer">Modes of Heat Transfer</h2>
+<ul>
+<li><strong>Conduction</strong></li>
+<li><strong>Convection</strong></li>
+<li><strong>Evaporative</strong></li>
+<li><strong>Radiative</strong></li>
+</ul>
+<p>Animals also generate heat through <strong>Metabolism</strong>.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/BHchDrboqEo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Flux = C * <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> (Mass or Energy)</p>
+<p>Q = C * M <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> T</p>
+<p>Where: - Flux is the transfer of mass or energy - <img src="https://latex.codecogs.com/png.latex?%5Cnabla"> is the gradient symbol - Q is heat - C is a material property (resistance or insulation value) - T is temperature</p>
+</section>
+<section id="heat-balance" class="level2">
+<h2 class="anchored" data-anchor-id="heat-balance">Heat Balance</h2>
+<p>Metbolic heat production is balanced by all mechanisms for heat exchange:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> = H<img src="https://latex.codecogs.com/png.latex?_m"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_c"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_r"> <img src="https://latex.codecogs.com/png.latex?%5Cpm"> H<img src="https://latex.codecogs.com/png.latex?_e"></p>
+<p>Where:<br>
+<img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> = heat of storage<br>
+H<img src="https://latex.codecogs.com/png.latex?_m"> = heat of metabolism<br>
+H<img src="https://latex.codecogs.com/png.latex?_c"> = heat of conduction and convection<br>
+H<img src="https://latex.codecogs.com/png.latex?_r"> = heat of radiation<br>
+H<img src="https://latex.codecogs.com/png.latex?_e"> = heat of evaporation</p>
+<p>If an animal is in heat balance, Tb (body temperature) is stable.</p>
+<p>If <img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> is positive, (Gains &gt; Losses), then Tb increases.</p>
+<p>If <img src="https://latex.codecogs.com/png.latex?%5CDelta">H<img src="https://latex.codecogs.com/png.latex?_s"> is negative, (Gains &lt; Losses), then Tb decreases.</p>
+</section>
+<section id="body-temperature" class="level2">
+<h2 class="anchored" data-anchor-id="body-temperature">Body Temperature</h2>
+</section>
+<section id="q10" class="level2">
+<h2 class="anchored" data-anchor-id="q10">Q10</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/T5O9UvSZ_-g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="iterative-method" class="level2">
+<h2 class="anchored" data-anchor-id="iterative-method">Iterative Method</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/pEzcZCTYPyE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>module 3</category>
+  <category>week 3</category>
+  <category>BMR</category>
+  <category>SMR</category>
+  <category>RMR</category>
+  <category>AMR</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/posts/2023-09-06-Temperature/index.html</guid>
+  <pubDate>Wed, 06 Sep 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>2. Metabolic Rates</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-08-28-Metabolism/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li>[<a href="../../discussions/Discussion_Week_2.pdf">Discussion Questions and reading assignment</a>] Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson [<a href="https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV">(HWA)</a>]. (These are on the shared google drive).</li>
+</ol>
+</div>
+</div>
+<section id="announcementsreminders" class="level3">
+<h3 class="anchored" data-anchor-id="announcementsreminders">Announcements/Reminders</h3>
+<ul>
+<li>HW1 is <a href="../../homework/HW1metabolism.pdf">posted</a></li>
+<li>You should have your book. $20 from SoLS Office St.&nbsp;John 101.</li>
+<li>Turn in your Library Day worksheet in class.</li>
+<li>Please friend me on Discord/ <strong>Always tag your partners on anything group-related</strong></li>
+<li>Labs this Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus. <a href="../../labs/Lab2-zoo/Lab2.html">Read Lab 2</a>. Bring:
+<ul>
+<li>Your lab notebook</li>
+<li>A timing device (e.g.&nbsp;your phone)</li>
+<li>Sun screen, hat, and sunglasses. It will be hot and sunny!</li>
+<li>Water</li>
+<li>One hardcopy of Lab 1 to turn in</li>
+</ul></li>
+</ul>
+</section>
+<section id="week-2-discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="week-2-discussion-groups">Week 2 Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Adry</td>
+<td>Kirsten</td>
+<td>Maisie</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Justin</td>
+<td>Mayuka</td>
+<td>Alvin</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Anna</td>
+<td>Krystal</td>
+<td>Morgan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Matthew</td>
+<td>Christina</td>
+<td>Sasha</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Logan M</td>
+<td>Richard</td>
+<td>Logan B</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Kylie</td>
+<td>Garrett</td>
+<td>Jessica</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="successful-discussions" class="level2">
+<h2 class="anchored" data-anchor-id="successful-discussions">Successful Discussions</h2>
+<ul>
+<li><span style="color: blue"><strong>Encourage equal participation</strong></span>
+<ul>
+<li><span style="color: blue">Take turns going first</span></li>
+</ul></li>
+<li><strong>Dig deeper</strong> into a subject</li>
+<li>Bring out <strong>everyone’s ideas</strong></li>
+<li>Explore and evaluate <strong>arguments</strong></li>
+<li>Provide a forum for <strong>pitching ideas</strong> and <strong>practicing vocabulary</strong></li>
+<li>Are interactive, evaluate strengths and soft-spots</li>
+</ul>
+</section>
+</section>
+<section id="a.-metabolism-and-how-do-we-measure-the-cost-of-being-alive" class="level1">
+<h1>2a. Metabolism and how do we measure the cost of being alive?</h1>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NRrgZQrEiWc?si=1jk4xxtXYrrzjq5N&amp;t=90" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><img src="https://mbutler808.github.io/images/LiveFastDieYoung.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/AerobicRespiration.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Where metabolism comes from</figcaption>
+</figure>
+</div>
+<section id="discussion-questions" class="level2">
+<h2 class="anchored" data-anchor-id="discussion-questions">Discussion Questions</h2>
+<ol type="1">
+<li><p>What is BMR and SMR? Why do we need both? What is the difference between BMR/SMR and RMR? What is AMR and MMR?</p></li>
+<li><p>What is absolute aerobic scope and factorial aerobic scope? Is it specific to an activity? Why? What are the rough rules of thumb for how much higher RMR, AMR, and MMR are above BMR or SMR for active endotherms vs ectotherms? (Look in Withers). If you knew an animal’s RMR and the types of activity it did, what strategy could you use to estimate DMR (Daily Metabolic Rate)?</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/MetabolicScope.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">An example of Metabolic Scope</figcaption>
+</figure>
+</div>
+<ol start="3" type="1">
+<li>We know that MR varies by animal size and taxonomic group. If we knew the cost of running in a 70kg human (letʻs say approximately 10x BMR), how can we use this information to estimate the cost of the same activity in a different animal? What is the justification?</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/Table4-10notes.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Table 4-10 from Withers 1992</figcaption>
+</figure>
+</div>
+<ol start="4" type="1">
+<li>What is direct and indirect calorimetry? Why can we metabolism by measuring an animal’s heat production (think thermodynamics)? When we try to measure metabolism by measuring heat, or O2, or CO2 – which methods are good for aerobic vs.&nbsp;anaerobic metabolism?</li>
+</ol>
+<p><img src="https://mbutler808.github.io/images/DirectCalorimetry.png" class="img-fluid"></p>
+<p><img src="https://mbutler808.github.io/images/BombCalorimetry.png" class="img-fluid"></p>
+<p><img src="https://mbutler808.github.io/images/Respirometry.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Meet at the Honolulu Zoo at 1:30pm - in front of main entrance</li>
+<li>Add your fossil <a href="https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0">here</a></li>
+<li>Continue the discussion! NOTE: We will discuss Anaerobic metabolism last (Friday)</li>
+<li>HW1 due Friday</li>
+</ul>
+</section>
+<section id="b.-size-and-scaling" class="level1">
+<h1>2b. Size and Scaling</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Reminders and materials
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>[<a href="../../discussions/2.ScalingExample.pdf">Scaling Example</a>]</li>
+<li>[<a href="../../discussions/Discussion_Week_2.pdf">Discussion Questions</a>] Jump to Q6</li>
+<li>[<a href="../../powerpoints/2.Metabolism.pdf">Slide Deck</a>]</li>
+<li>An exciting addition to our teaching team: Allison Fisher</li>
+<li>Friday Class will be held on [<a href="https://hawaii.zoom.us/j/95180706058">Zoom</a>] Please join using your UHID</li>
+<li>[<a href="../../homework/HW1metabolism.pdf">HW1</a>] Due Friday at midnight, written by hand. Submit in person or on Laulima</li>
+<li>After Friday class, please fill out <em>Discussion Evaluations</em> - look for email from <strong>TEAMMATES</strong></li>
+</ol>
+</div>
+</div>
+<section id="scaling-podcast" class="level2">
+<h2 class="anchored" data-anchor-id="scaling-podcast">Scaling Podcast</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_NDNa_3Bon8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="if-you-would-like-some-more-review-optional" class="level2">
+<h2 class="anchored" data-anchor-id="if-you-would-like-some-more-review-optional">If you would like some more review (optional)</h2>
+<section id="a-walk-through-of-bmr-scaling-equations" class="level3">
+<h3 class="anchored" data-anchor-id="a-walk-through-of-bmr-scaling-equations">A walk through of BMR scaling equations</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/uqGEBgspTI0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="refresher-on-log_10-lines-and-how-much-to-feed-your-elephant" class="level3">
+<h3 class="anchored" data-anchor-id="refresher-on-log_10-lines-and-how-much-to-feed-your-elephant">Refresher on log_10, lines, and how much to feed your elephant</h3>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/sO9fLmkaVB8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+</section>
+<section id="for-next-week" class="level1">
+<h1>For Next Week</h1>
+<ul>
+<li>Holiday on Monday</li>
+<li>Labs will be back in EDM101</li>
+<li>Look ahead to the lecture post for 3. Temperature. Watch podcasts, etc.</li>
+<li>Add your fossil <a href="https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0">here</a></li>
+<li>HW1 due Friday Sept 1 at midnight</li>
+<li>Due in two weeks [<a href="../../projects/2023-09-06-design-background">Background Bullet Points</a>]</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>module 2</category>
+  <category>week 2</category>
+  <category>BMR</category>
+  <category>SMR</category>
+  <category>RMR</category>
+  <category>AMR</category>
+  <category>DMR</category>
+  <guid>https://mbutler808.github.io/posts/2023-08-28-Metabolism/index.html</guid>
+  <pubDate>Mon, 28 Aug 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Library Day</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="reminders" class="level3">
+<h3 class="anchored" data-anchor-id="reminders">Reminders</h3>
+<ul>
+<li>Get the Book $20 from SoLS Office St.&nbsp;John 101 <span style="color: blue">TODAY</span></li>
+<li>Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus</li>
+</ul>
+</section>
+<section id="goals-for-today" class="level1">
+<h1>Goals for today</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Get a strong foundation for your design project
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>With your partner, explore background on potential animals</li>
+<li>Search for books that will help with the <a href="../../projects/0.BackgroundDesign.pdf"><em>Animal Design Project Background</em></a></li>
+<li>Check out at least 5 books that may be helpful. Itʻs free!</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0">Select a fossil</a> or at least get some ideas about type of animal youʻd like to work on.</li>
+<li>Today is just an introduction, you will need to accumulate more information.</li>
+</ol>
+</div>
+</div>
+</section>
+<section id="explore-library-resources" class="level1">
+<h1>Explore Library Resources</h1>
+<section id="where-do-we-find-information" class="level3">
+<h3 class="anchored" data-anchor-id="where-do-we-find-information">Where do we find information?</h3>
+<p><strong><em>General Background</em></strong> is best found in <strong>BOOKS</strong>. Academic books are the best source for things that are well-known or have been known for a long time. Here you will find general information about the habitat at the time (paleontology books), the general biology of that kind of animal (e.g.&nbsp;herpetology, mammology, or mammalian paleontology, etc. ). <span style="color: blue">Get all the books you can in Hamilton for a strong foundation.</span></p>
+<p><strong>Compilations</strong> can be found in <strong>REVIEW ARTICLES</strong><br>
+Academic authors will sometimes write a summary of the last 10 years or so of reasearch in a review article. These are often found in Annual Reviews as well as other places. If one exists for your group, get it.</p>
+<p><strong>Newest Information</strong> can be found in <strong>JOURNAL ARTICLES</strong>. Scientific articles report the latest findings at that moment in time.</p>
+</section>
+<section id="search-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
+<p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Check out the tabs along the top</li>
+<li>The “In Class Exercises” is very helpful for developing database</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+All the best online sources
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><em>Be sure to enter through the <strong>UH library website</strong> and login for free access.</em><br>
+</li>
+<li><strong>UH Library science databases and E-journals:</strong> <a href="http://www.hawaii.edu/sciref/" class="uri">http://www.hawaii.edu/sciref/</a>.
+<ul>
+<li>Check out “Science &amp; Technology Databases” tab.</li>
+<li>Good databases: <strong>Web of science</strong>, <strong>google scholar</strong>, or <strong>zoological record</strong></li>
+</ul></li>
+<li><a href="https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259">Jonathan Young</a> is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="we-are-going-to-hamilton-addition-3rd-floor" class="level3">
+<h3 class="anchored" data-anchor-id="we-are-going-to-hamilton-addition-3rd-floor">We are going to Hamilton Addition 3rd Floor</h3>
+<p><img src="https://mbutler808.github.io/posts/2023-08-25-Library-day/https:/manoa.hawaii.edu/library/wp-content/uploads/floorplans/Hamilton-3rd-Floor.png" class="img-fluid"></p>
+<p><a href="https://manoa.hawaii.edu/library/about/visiting-the-library/library-floor-plans/">Library Floor Plans</a></p>
+</section>
+<section id="before-you-leave" class="level2">
+<h2 class="anchored" data-anchor-id="before-you-leave">Before you leave</h2>
+<ul>
+<li>Turn in your Library Day worksheet to me</li>
+<li>Check out your 5 books from the library</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1KarnLss0eE1tCsvq0mVCyLTtLD0Hf4m6RYuX9tSXb-0/edit#gid=0">Post your fossil choice</a> (or as soon as possible)</li>
+</ul>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Prepare for our discussion on metabolic rates and size and scaling <a href="../../discussions/Discussion_Week_2.pdf">reading assignment and questions</a> Note that there are readings from your textbook (Withers, 1992) as well as Hill Wise and Anderson <a href="https://drive.google.com/drive/folders/1ONGdTPdeQz2lgGgAiWyZ_yGRmmcNSwoV">(HWA). These are on the shared google drive</a>.</li>
+<li>Keep exploring potential fossils with your partner online</li>
+<li>Keep collecting books, articles, and sources for your design background</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>module 1</category>
+  <category>week 1</category>
+  <category>library day</category>
+  <category>information sources</category>
+  <category>design background</category>
+  <guid>https://mbutler808.github.io/posts/2023-08-25-Library-day/index.html</guid>
+  <pubDate>Fri, 25 Aug 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Colossal Whale Discussion</title>
+  <dc:creator>Marguerite Butler</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="pre-class-materials" class="level1">
+<h1>Pre-class materials</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Read ahead
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Before class, you can prepare by reading the following materials:</strong></p>
+<ol type="1">
+<li><a href="https://www.nature.com/articles/s41586-023-06381-1">Bianucci, et al (2023)</a> [<a href="https://drive.google.com/drive/folders/1M8ygipZEd9OUdld45C4BGgfJw2KWUKYk">Google Drive copy</a>] - please accept invitation to join</li>
+</ol>
+</div>
+</div>
+<section id="reminders" class="level3">
+<h3 class="anchored" data-anchor-id="reminders">Reminders</h3>
+<ul>
+<li>Get the Book $20 from SoLS Office St.&nbsp;John 101.</li>
+<li>Friday class at Hamilton Library</li>
+<li>Great Lab Discussion yesterday. Hlimoneko was just an example. Please focus on <strong>content</strong>, not style.</li>
+<li>Labs Next Week - Meet at Honolulu Zoo at 1:30pm. LMK if you need a ride from campus</li>
+</ul>
+</section>
+</section>
+<section id="todays-discussion" class="level1">
+<h1>Todays Discussion</h1>
+<section id="discussion-groups" class="level3">
+<h3 class="anchored" data-anchor-id="discussion-groups">Discussion Groups</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Partner 1</th>
+<th>Partner 2</th>
+<th>Partner 3</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Kirsten</td>
+<td>Morgan</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Adry</td>
+<td>Matthew</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Maisie</td>
+<td>Christina</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Justin</td>
+<td>Sasha</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Mayuka</td>
+<td>Logan M</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Alvin</td>
+<td>Richard</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Anna</td>
+<td>Kylie</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Krystal</td>
+<td>Logan B</td>
+<td>Garrett</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="successful-discussions" class="level2">
+<h2 class="anchored" data-anchor-id="successful-discussions">Successful Discussions</h2>
+<ul>
+<li><strong>Dig deeper</strong> into a subject</li>
+<li>Bring out <strong>everyone’s ideas</strong></li>
+<li>Explore and evaluate <strong>arguments</strong></li>
+<li>Provide a forum for <strong>pitching ideas</strong> and <strong>practicing vocabulary</strong></li>
+<li>Encourage equal participation</li>
+<li>Are interactive, evaluate strengths and soft-spots</li>
+</ul>
+</section>
+<section id="the-colossal-whale" class="level2">
+<h2 class="anchored" data-anchor-id="the-colossal-whale">The Colossal Whale</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/https:/media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-023-06381-1/MediaObjects/41586_2023_6381_Fig14_ESM.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Artistic reconstruction of <em>Perucetus colossus</em> from Bianucci, et al (2023) <a href="https://doi.org/10.1038/s41586-023-06381-1" class="uri">https://doi.org/10.1038/s41586-023-06381-1</a></figcaption>
+</figure>
+</div>
+<section id="discussion-agenda" class="level3">
+<h3 class="anchored" data-anchor-id="discussion-agenda">Discussion Agenda</h3>
+<ol type="1">
+<li><a href="ReadingAssessment-Bianucci23-whale.pdf">Reading Assessment</a></li>
+<li>Warm up</li>
+</ol>
+<ul>
+<li>Funny format of Science, Nature, PNAS - Abstract, Intro, Results/Discussion, followed by Methods.</li>
+<li>Shall we define any new vocabulary?</li>
+</ul>
+<ol start="3" type="1">
+<li>Small Group Discussion</li>
+</ol>
+</section>
+<section id="compact-and-cancellous-bone" class="level3">
+<h3 class="anchored" data-anchor-id="compact-and-cancellous-bone">Compact and Cancellous Bone</h3>
+<p>Bone structure is fascinating. As organisms get larger, bones provide structural support. But bones also grow and remodel, as well as provide bone marrow for the development of blood cells.</p>
+<p>The structural part is generally in the <strong>compact bone</strong>. The <strong>cancellous</strong> bone is the spongy interior and in the joints.</p>
+<p><img src="https://mbutler808.github.io/images/BoneStructure.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mbutler808.github.io/images/femur_head.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">The head of a human femur</figcaption>
+</figure>
+</div>
+</section>
+</section>
+</section>
+<section id="explore-library-resources" class="level1">
+<h1>Explore Library Resources</h1>
+<section id="where-do-we-find-information" class="level3">
+<h3 class="anchored" data-anchor-id="where-do-we-find-information">Where do we find information?</h3>
+<p><strong><em>General Background</em></strong> is best found in <strong>BOOKS</strong>. Academic books are the best source for things that are well-known or have been known for a long time. Here you will find general information about the habitat at the time (paleontology books), the general biology of that kind of animal (e.g.&nbsp;herpetology, mammology, or mammalian paleontology, etc. ). <span style="color: blue">Get all the books you can in Hamilton for a strong foundation.</span></p>
+<p><strong>Compilations</strong> can be found in <strong>REVIEW ARTICLES</strong><br>
+Academic authors will sometimes write a summary of the last 10 years or so of reasearch in a review article. These are often found in Annual Reviews as well as other places. If one exists for your group, get it.</p>
+<p><strong>Newest Information</strong> can be found in <strong>JOURNAL ARTICLES</strong>. Scientific articles report the latest findings at that moment in time.</p>
+</section>
+<section id="search-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="search-strategies">Search Strategies</h3>
+<p>Start with the Zool430 study guide to get familiar with what kinds of books are available</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+ZOOL430 library study guide: <a href="https://guides.library.manoa.hawaii.edu/zoology430" class="uri">https://guides.library.manoa.hawaii.edu/zoology430</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Check out the tabs along the top</li>
+<li>The “In Class Exercises” is very helpful for developing database</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+All the best online sources
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><em>Be sure to enter through the <strong>UH library website</strong> and login for free access.</em><br>
+</li>
+<li><strong>UH Library science databases and E-journals:</strong> <a href="http://www.hawaii.edu/sciref/" class="uri">http://www.hawaii.edu/sciref/</a>.
+<ul>
+<li>Check out “Science &amp; Technology Databases” tab.</li>
+<li>Good databases: <strong>Web of science</strong>, <strong>google scholar</strong>, or <strong>zoological record</strong></li>
+</ul></li>
+<li><a href="https://guides.library.manoa.hawaii.edu/prf.php?account_id=202259">Jonathan Young</a> is our own Natural Sciences Reference Librarian. Please reach out to him for help - heʻs very friendly and willing to help.</li>
+</ul>
+</div>
+</div>
+</section>
+</section>
+<section id="for-next-time" class="level1">
+<h1>For Next Time</h1>
+<ul>
+<li>Library Day! On Friday Meet at Hamilton Lobby, first floor just inside the door at 11:30pm</li>
+<li><strong>Bring your UHID to check out books</strong></li>
+<li>Start exploring potential fossils with your partner online</li>
+<li>Browse the book collection online, to get some ideas for Friday</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>module 1</category>
+  <category>week 1</category>
+  <category>reading assessment</category>
+  <category>close reading</category>
+  <category>gigantism</category>
+  <category>size</category>
+  <category>morphology</category>
+  <guid>https://mbutler808.github.io/posts/2023-08-23-the-colossal-whale/index.html</guid>
+  <pubDate>Wed, 23 Aug 2023 10:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Marguerite Butler and Diana Gao (TA)</dc:creator>
+  <link>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>module 1</category>
+  <category>week 1</category>
+  <category>introduction</category>
+  <guid>https://mbutler808.github.io/posts/2023-08-21-the-big-picture/index.html</guid>
+  <pubDate>Mon, 21 Aug 2023 10:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
