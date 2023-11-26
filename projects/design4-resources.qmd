@@ -1,0 +1,58 @@
+---
+title: "Osmoregulation Papers (Directory)"
+author:
+  - name: Marguerite Butler  
+    url: https://butlerlab.org
+    affiliation: School of Life Sciences, University of Hawaii
+    affiliation_url: https://manoa.hawaii.edu/lifesciences/
+description: "A few potentially helpful resources for your Design 4"
+date: 2023-11-27
+format: 
+  html: default 
+  pdf: default
+  docx: default
+categories: [design project, design 4, osmoregulation, excretion, feces, urine ]
+---
+
+Copies of these papers are located in the __shared google drive__. > OsmoregulationPapers <https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT>
+
+### Helpful sources  
+
+#### Mammals
+
+Mammalian resources are pretty easy to find. Come see me early if you need help. 
+
+#### Fishes
+
+
+\[[Evans 2010](https://www.frontiersin.org/articles/10.3389/fphys.2010.00013/full)\] A brief history of the study of fish osmoregulation: the central role of the Mt. Desert Island Biological Laboratory. _A nice review article, see citations within for any more specific info._ 
+
+
+#### Birds 
+
+\[[Anderson Braun 1985](https://drive.google.com/file/d/1zQaF8jEsWJY-dLW2ry1OzGSZ8igXvZNh/view?usp=share_link)\] Postrenal modification of urine in __birds__. Feces data too. 
+
+\[[Braun 1999](https://drive.google.com/file/d/1uhZy5cPA62NJ7HmRswyizEN-PXqV1Xsh/view?usp=share_link)\] Organs involved in avian post-renal iono and osmoregulation. Really cool! Good data on water and ions too 
+
+\[[Crouch Lynch Clarke 2020](https://drive.google.com/file/d/19Af6Puw9otrz8_0mbJVhsIkeZG1klcVh/view?usp=share_link)\] A re‐evaluation of the chemical composition of avian urinary excreta 
+
+#### Amphibians and Reptiles
+
+\[[Schoemaker Nagy 1977](https://drive.google.com/file/d/1aepYA4AwhHCj-DW6ggrzMV5EF5qMMSIF/view?usp=share_link)\] Osmoregulation in amphibians and reptiles 
+
+\[[Minnich Schoemaker 1972](https://drive.google.com/file/d/17BO_oOkjtTFcvMN4Ri1wz6TpWjmLwstP/view?usp=share_link)\] Water turnover in the desert lizard _Uma scoparia_ 
+
+\[[Prange 1985](https://drive.google.com/file/d/1JBnVX9qZkKjSFVusFBKw19h8wSxVhCoY/view?usp=share_link)\] Extra renal mechanisms of salt and water regulation in the __sea turtle__ 
+
+#### Marine Reptiles
+
+\[[Eckert, Wallace, Frazier, Eckert, Pritchard 2012](https://digitalmedia.fws.gov/digital/collection/document/id/1519/)\] Synopsis of the Biological Data on the Leatherback Sea Turtle (_Dermochelys coriacea_). 
+
+\[[Reina, R. D., Jones, T. T. and Spotila, J. R. (2002)](https://drive.google.com/file/d/1V0JZGsp48oK4OXpFWH3albP9cZ0P2FFS/view?usp=share_link)\]. Salt and water regulation by the leatherback sea turtle _Dermochelys coriacea_. J. Exp. Biol. 205, 1853-1860.
+
+\[[Schmidt-Nielsen Skadhauge 1967](https://drive.google.com/file/d/1QjvMebCuDolZvzklU8HKWojo1s78Ycbt/view?usp=share_link)\] __Crocodile__ excretory system 
+
+\[[Schoemaker Nagy 1984](https://drive.google.com/file/d/1wSpCxlqPX_XeB98WC4R4rh0S1hxoL9Sw/view?usp=share_link)\] Osmoregulation in the __Galapagos marine iguana__
+
+\[[Back to the Design 4 Assignment](design4.qmd)\]   
+\[[Shared google drive](https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT)\]

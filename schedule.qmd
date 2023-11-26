@@ -80,7 +80,7 @@ format:
 |   | F | Student Presentations | Design 3 Rewrite |   |   
 |Week 16|||||
 | 12/4  | M | Student Presentations |   |   |   
-|  | W | Student Presentations | Design 4: Osmoreg/Own (draft optional) | Turn in Lab 12  |   
+|  | W | Student Presentations | Design 4: Osmoreg/Own (draft optional) \[[html](projects/design4.qmd)\] \[[resources](projects/design4-resources.qmd)\] |  Turn in Lab 12  |   
 ||||||
 | 12/11 | M | Finals Week | Design 4 Due |   |   
 ||||||
