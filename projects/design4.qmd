@@ -14,7 +14,7 @@ format:
 categories: [design project, design 4, osmoregulation, excretion, metabolism, protein, DMR, urine ]
 ---
 
-_Feel free to follow your interests and design your own project, if you wish!_ 
+___Last one!___ _Feel free to follow your interests and design your own project, if you wish!_ 
 
 # Suggestions
 
@@ -22,7 +22,7 @@ Set the initial conditions for the osmoregulation balance sheet. Was your animal
 
 Make up a _qualitative_ (no numbers yet) _water balance sheet_ for your animal.  List all of the ways that the animal gains and loses water (water in and water out), and explain them in words. 
 
-_Calculate theoretical values_ for the elements of the water balance sheet.  When calculating _urine volume_, calculate the volume required to excrete nitrogenous wastes, given the maximum possible nitrogen concentration. _Assume the animal is in water balance_ (set total water in = total water out).  Calculate the amount that the animal must drink to stay in water balance.  If this value is negative, then the animal has more water than it needs and will produce a more dilute urine.  Increase urine volume to compensate for this, and assume zero drinking.
+Calculate theoretical values for the elements of the _water balance sheet_.  When calculating _urine volume_, calculate the volume required to excrete nitrogenous wastes, given the maximum possible nitrogen concentration. _Assume the animal is in water balance_ (set total water in = total water out).  Calculate the amount that the animal must drink to stay in water balance.  If this value is negative, then the animal has more water than it needs and will produce a more dilute urine.  Increase urine volume to compensate for this, and assume zero drinking.
 
 Make up a _qualitative solute balance sheet_ for your animal (solutes in and solutes out).  List all of the ways that the animal gains and loses solutes, and explain them in words.
 
