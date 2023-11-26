@@ -29,7 +29,7 @@ Make up a _qualitative solute balance sheet_ for your animal (solutes in and sol
 _Describe the excretory organs of your animal_.  What nitrogenous end product did your animal excrete (ammonia, urea, uric acid)?  What was the role of the _kidney_ in nitrogen excretion and water and solute balance?  How did it perform these functions?  Did the animal have other excretory organs (salt glands, chloride cells in gills, etc.)?
 
  
-\[[pdf](4.Osmoregulation.pdf)\] version of this sheet
-\[[resources](design4-resources.qmd)\] A few helpful papers
+\[[pdf](4.Osmoregulation.pdf)\] version of this sheet  
+\[[Helpful resources](design4-resources.qmd)\] - a few helpful papers. Withers 1992 is also very good on this topic.
 
 Withers, P.C. 1992. _Comparative Animal Physiology_, Saunders College Publishing
