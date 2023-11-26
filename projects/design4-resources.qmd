@@ -16,7 +16,7 @@ categories: [design project, design 4, osmoregulation, excretion, feces, urine ]
 
 Copies of these papers are located in the __shared google drive__. > OsmoregulationPapers <https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT>
 
-### Helpful sources  
+### Helpful resources  
 
 #### Mammals
 
@@ -54,5 +54,5 @@ Mammalian resources are pretty easy to find. Come see me early if you need help.
 
 \[[Schoemaker Nagy 1984](https://drive.google.com/file/d/1wSpCxlqPX_XeB98WC4R4rh0S1hxoL9Sw/view?usp=share_link)\] Osmoregulation in the __Galapagos marine iguana__
 
-\[[Back to the Design 4 Assignment](design4.qmd)\]   
+Back to the \[[Design 4 Assignment](design4.qmd)\]   
 \[[Shared google drive](https://drive.google.com/drive/folders/1Jcnx6t1sskNkcT2oJUaCiJAlsp1HUusT)\]

@@ -18,7 +18,7 @@ _Feel free to follow your interests and design your own project, if you wish!_
 
 # Suggestions
 
-Set the initial conditions for the osmoregulation balance sheet.  Was your animal terrestrial or aquatic?  What was the osmolarity of its body fluids?  If your animal was ureo-osmoconforming, designate the proportion of total osmolarity due to urea and the proportion due to other solutes.  If your animal was aquatic, what was the osmolarity of the medium?  If your animal was terrestrial, what were the temperature and relative humidity of the air?  Did your animal need to use evaporation for cooling?  How many kJ/day must have been lost through evaporation (from temperature design)?  How many grams of water must have been evaporated to lose this much heat (heat of evaporation = 2.4 kJ/g water).
+Set the initial conditions for the osmoregulation balance sheet. Was your animal terrestrial or aquatic?  What was the osmolarity of its body fluids?  If your animal was ureo-osmoconforming, designate the proportion of total osmolarity due to urea and the proportion due to other solutes.  If your animal was aquatic, what was the osmolarity of the medium?  If your animal was terrestrial, what were the temperature and relative humidity of the air?  Did your animal need to use evaporation for cooling?  How many kJ/day must have been lost through evaporation (from temperature design)?  How many grams of water must have been evaporated to lose this much heat (heat of evaporation = 2.4 kJ/g water).
 
 Make up a _qualitative_ (no numbers yet) _water balance sheet_ for your animal.  List all of the ways that the animal gains and loses water (water in and water out), and explain them in words. 
 
@@ -30,5 +30,6 @@ _Describe the excretory organs of your animal_.  What nitrogenous end product di
 
  
 \[[pdf](4.Osmoregulation.pdf)\] version of this sheet
+\[[resources](design4-resources.qmd)\] A few helpful papers
 
 Withers, P.C. 1992. _Comparative Animal Physiology_, Saunders College Publishing
