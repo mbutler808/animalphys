@@ -22,6 +22,10 @@ Copies of these papers are located in the __shared google drive__. > Osmoregulat
 
 Mammalian resources are pretty easy to find. Come see me early if you need help. 
 
+\[[Noel et al 2022](https://peercommunityjournal.org/articles/10.24072/pcjournal.76/)\] The origin of the allometric scaling of lung ventilation in mammals. _Modeling including BMR, FMR (DMR), and MMR._
+
+\[[Young et al 1992](https://journals.biologists.com/jeb/article/164/1/283/6105/Some-Properties-of-the-Mammalian-Locomotory-and)\] Some properties of the mammalian locomotory and respiratory systems in relation to body mass. _Coupling of locomotion and respiration at the trot-gallop transition._
+
 #### Fishes
 
 

@@ -11,10 +11,10 @@ format:
   html: default 
   pdf: default
   docx: default
-categories: [design project, design 4, osmoregulation, excretion, metabolism, protein, DMR, urine ]
+categories: [design project, design 4, osmoregulation, excretion, metabolism, protein, DMR, urine]
 ---
 
-___Last one!___ _Feel free to follow your interests and design your own project, if you wish!_ 
+___Last one!___ _Feel free to use this to design a project on osmoregulation and excretion or follow your interests and design your own project, if you wish!_ If you want to design your own, please run it by me so I can advise on on whether you have enough.
 
 # Suggestions
 

@@ -67,7 +67,7 @@ Osmoregulation Podcast
 {{< video https://youtu.be/1vQxLFoPCmM >}}
 
 ## Wednesday
-- Bird and Reptile Excretion! We will have a fascinating discussion on reptile and bird excretion \[[notes](../../discussions/11c.Avian_Reptilian_Osmoregulation_Notes.pdf)\]
+- Bird and Reptile Excretion! We will have a fascinating discussion on reptile and bird excretion \[[notes](../../powerpoints/11c.Avian_Reptilian_Osmoregulation_Notes.pdf)\]
 
 ## Friday
 - Begin Final Presentations
